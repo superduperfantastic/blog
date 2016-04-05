@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <ul class="post-list">
+    {% for post in paginator.posts %}
+            <li>
+            <div class="top-info"><div class="post-category">{% for category in post.categories %}<a href="/category/{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}</div>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+          <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} -  <a href="{{ post.url}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span></div>
+        <p>{{ post.excerpt }}</p>
+        <div class="continue"><a href="{{ post.url | prepend: site.baseurl }}">Continue Reading</a></div>
+        </li>   
+    {% endfor %}
+  </ul>
+    <!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path }}" class="previous">Previous</a></li>
+  {% endif %}
+    <li>{{ paginator.page }}</li>
+  {% if paginator.next_page %}
+        <li>{{ paginator.total_pages }}</li>
+<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+</div>
