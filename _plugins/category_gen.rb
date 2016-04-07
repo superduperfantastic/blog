@@ -3,7 +3,7 @@ module Jekyll
     def initialize(site, base, dir, category)
       @site = site
       @base = base
-      @dir = dir.gsub(' ','-') #removes the spaces and replaces them with dashes
+        @dir = dir.gsub(' ','-').downcase #removes the spaces and replaces them with dashes
       @name = 'index.html'
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
