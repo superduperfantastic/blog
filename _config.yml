@@ -22,3 +22,6 @@ gems: [jekyll-paginate]
 # Output
 permalink: /:year/:month/:day/:title/
 paginate: 5
+
+# We don't want Rakefile to be published
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
