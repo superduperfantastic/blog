@@ -11,7 +11,7 @@ layout: default
         <div class="catthumb" style="background-image:url({{ post.thumbnail }})"></div></a>{% endif %}
     <span class="post-meta">{{ post.date | date: "%a, %B %-d, %Y" }}<br>
         <a href="{{ post.url}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a><br>
-        Filed: {% for category in post.categories %}<a href="/category/{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}
+        Filed: {% for category in post.categories %}<a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}
     </span>
     </div>
     </li>
