@@ -20,7 +20,7 @@ markdown: kramdown
 gems: [jekyll-paginate]
 
 # Output
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title/
 paginate: 5
 
 # We don't want Rakefile to be published
