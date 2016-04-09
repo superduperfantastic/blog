@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-
 <h2 class="category">{{ page.title }}</h2>
+{% for catdata in site.data.categories %}
+            {% if catdata.cat_name == page.category %}
+        <div> {{ catdata.cat_description }}</div>
+        {% endif %}
+        {% endfor %}
 <ul class="posts">
 {% for post in site.categories[page.category] %}
 <li>

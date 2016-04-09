@@ -6,8 +6,14 @@ layout: default
   {% for post in site.posts %}
   {% for tag in post.tags %}
   {% if tag == page.tag %}
+    {% for tagdata in site.data.tags %}
+            {% if tagdata.tag_name == tag %}
+        <div> {{ tagdata.tag_description }}</div>
+        {% endif %}
+        {% endfor %}
   <li>
     <div><h3 class="category"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        
         {% if post.thumbnail %}<a href="{{ post.url | prepend: site.baseurl }}">
         <div class="catthumb" style="background-image:url({{ post.thumbnail }})"></div></a>{% endif %}
     <span class="post-meta">{{ post.date | date: "%a, %B %-d, %Y" }}<br>

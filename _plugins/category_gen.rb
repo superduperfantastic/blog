@@ -8,7 +8,7 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
       self.data['category'] = category
-      category_title_prefix = site.config['category_title_prefix'] || 'Posts in Category :'
+      category_title_prefix = site.config['category_title_prefix'] || 'Posts in Category : '
       category_title_suffix = site.config['category_title_suffix'] || ''
       self.data['title'] = "#{category_title_prefix}#{category}#{category_title_suffix}"
     end
