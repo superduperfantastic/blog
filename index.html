@@ -6,25 +6,26 @@ layout: default
 
     <ul class="post-list">
     {% for post in paginator.posts %}
-            <li>
+        <li>
             <div class="top-info"><div class="post-category">{% for category in post.categories %}<a href="{{"/category/" | prepend: site.baseurl }}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}</div>
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-          <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} -  <a href="{{ post.url | prepend: site.baseurl}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span></div>
-        <p>{{ post.excerpt }}</p>
-        <div class="continue"><a href="{{ post.url | prepend: site.baseurl }}">Continue Reading</a></div>
-        </li>   
+            <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} -  <a href="{{ post.url | prepend: site.baseurl}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span></div>
+    {{ post.excerpt }}
+        <div class="readmore">
+            <a href="{{ post.url | prepend: site.baseurl }}">Read More</a></div>
+        </li>  
+        <div class="separator">* * * * * *</div>
     {% endfor %}
   </ul>
     <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">Previous</a></li>
+    <li class="previouspage"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><< Previous</a></li>
   {% endif %}
-    <li>{{ paginator.page }}</li>
+    
   {% if paginator.next_page %}
-        <li>{{ paginator.total_pages | prepend: site.baseurl}}</li>
-<a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="next">Next</a>
+    <li class="nextpage"><a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="next">Next >></a></li>
   {% endif %}
 </div>
 </div>

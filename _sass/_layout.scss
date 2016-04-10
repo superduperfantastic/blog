@@ -149,10 +149,11 @@ nav#menu.scrolled {
 /**
  * Posts
  */
-.post-header, .post-list > li {
+.post-header, .post, .post-list > li {
     margin-bottom: $spacing-unit;
     padding-top: $spacing-unit;
 }
+
 
 .post-title {
     font-size: 32px;
@@ -168,20 +169,19 @@ nav#menu.scrolled {
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
+        font-family: "Lora", serif;
+        font-weight: 300;
+        text-transform: uppercase;
+        text-align:center;
+        padding-top: $spacing-unit/2;
         }
-    }
 
     h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
+        text-align:center;
+        font-family: "Lora", serif;
+        font-weight: 300;
+        text-transform: uppercase;
         }
-    }
 
     h4 {
         font-size: 20px;
@@ -197,7 +197,7 @@ nav#menu.scrolled {
     text-align:center;
     display:block;
     letter-spacing: 2px;
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: $spacing-unit/3;
 }
 .post-category a, .post-meta a {
     color: $hover-color;
@@ -230,15 +230,35 @@ nav#menu.scrolled {
     font-size: 14px;
     padding: $spacing-unit / 3;
 }
-.pagination {
-    border: 1px solid $hover-color;
-}
 .pagination li {
     display:inline-block;
-    vertical-align: top;
-    width: 100px;
+    border: 1px solid $hover-color;
     padding: 5px;
-    border-right: 1px solid $hover-color;
+    text-align:center;
+    text-transform: uppercase;
+    margin-bottom: $spacing-unit;
+}
+.pagination li:last-child {
+    border-left: 0.5px solid $brand-color;
+}
+.pagination li:hover {
+    border: 1px solid $brand-color;
+}
+.pagination a {
+    text-decoration:none;
+    color: $hover-color;
+}
+.pagination a:hover {
+    color: $brand-color;
+}
+.previouspage, .nextpage {
+    width: $spacing-unit * 5;
+}
+.nextpost, .nextpage {
+    float:right;
+}
+.nextpost, .previouspost {
+    width: 50%;
 }
 
 .posts li {
@@ -255,6 +275,7 @@ nav#menu.scrolled {
 
 .posts li img {
     padding-bottom: $spacing-unit/3;
+    
 }
 .catthumb {
     width: $spacing-unit * 5;
@@ -262,10 +283,25 @@ nav#menu.scrolled {
     background-position: center center;
     margin: 0 auto;
 }
-.continue {
+.readmore {
     border: 1px solid $hover-color;
-    padding: $spacing-unit / 3;
-    width: $spacing-unit * 6;
+    width: $spacing-unit * 5;
+    padding: $spacing-unit / 6;
     text-align:center;
+    text-transform: uppercase;
     margin: 0 auto;
+}
+.readmore:hover {
+    border: 1px solid $brand-color;
+}
+.center {
+text-align:center;
+}
+.separator {
+    text-align:center;
+    letter-spacing: 2.75em;
+    color: $brand-color;
+}
+.separator:last-child {
+    display:none;
 }

@@ -2,7 +2,6 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
 <header class="top-info">
     <p class="post-category">{% for category in page.categories %}<a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}</p>
     <h2 class="post-link">{{ page.title }}</h2>
@@ -13,6 +12,16 @@ layout: default
 {{ content }}
      <p class="post-tags">Tags: {% for tag in page.tags %}<a href="{{ "/tag/" | prepend:site.baseurl}}{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %} / {% endunless %} 
     {% endfor %}</p>
+</div>
+    <!-- Pagination links -->
+<div class="pagination">
+  {% if page.previous.url %}
+    <li class="previouspost"><a href="{{ page.previous.url | prepend: site.baseurl }}"> << {{page.previous.title}}</a></li>
+  {% endif %}
+    
+  {% if page.next.url %}
+    <li class="nextpost"><a href="{{ page.next.url | prepend: site.baseurl}}">{{page.next.title}} >></a></li>
+  {% endif %}
 </div>
 <div class="related-posts">
 {% assign hasSimilar = '' %}
