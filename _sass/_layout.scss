@@ -2,12 +2,10 @@
  * Site header
  */
 .site-logo {
-    border-top: 0px solid $grey-color-dark;
-    border-bottom: 0px solid $grey-color-light;
     width: 100%;
     height: 275px;
     text-align:center;
-    padding: $spacing-unit;
+    padding-top: $spacing-unit;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -27,7 +25,7 @@ nav#menu {
 }
 nav#menu li {
     display:inline-block;
-    margin-right: 30px;
+    margin-right: $spacing-unit;
     height: 50px;
     .menu-icon {
         display: none;
@@ -120,7 +118,7 @@ nav#menu.scrolled {
 .page-content {
     padding: $spacing-unit;
     display: inline-block;
-    width: 75%;
+    width: 77%;
     border-right: $hover-color 1px solid;
 }
 
@@ -208,7 +206,7 @@ nav#menu.scrolled {
 }
 /***Sidebar*/
 .sidebar 
-    { width: 25%;
+    { width: 23%;
     float: right;
     padding-left: $spacing-unit;
     padding-top: $spacing-unit;
@@ -230,25 +228,25 @@ nav#menu.scrolled {
     font-size: 14px;
     padding: $spacing-unit / 3;
 }
-.pagination li {
+.pagination li, .postnav li {
     display:inline-block;
     border: 1px solid $hover-color;
     padding: 5px;
     text-align:center;
     text-transform: uppercase;
+    margin-top: $spacing-unit;
+}
+.postnav li {
     margin-bottom: $spacing-unit;
 }
-.pagination li:last-child {
-    border-left: 0.5px solid $brand-color;
-}
-.pagination li:hover {
+.pagination li:hover, .postnav li:hover {
     border: 1px solid $brand-color;
 }
-.pagination a {
+.pagination a, .postnav a {
     text-decoration:none;
     color: $hover-color;
 }
-.pagination a:hover {
+.pagination a:hover, .postnav a:hover {
     color: $brand-color;
 }
 .previouspage, .nextpage {
@@ -258,7 +256,7 @@ nav#menu.scrolled {
     float:right;
 }
 .nextpost, .previouspost {
-    width: 50%;
+    width: 40%;
 }
 
 .posts li {
@@ -283,25 +281,33 @@ nav#menu.scrolled {
     background-position: center center;
     margin: 0 auto;
 }
-.readmore {
-    border: 1px solid $hover-color;
-    width: $spacing-unit * 5;
-    padding: $spacing-unit / 6;
-    text-align:center;
-    text-transform: uppercase;
-    margin: 0 auto;
-}
-.readmore:hover {
-    border: 1px solid $brand-color;
-}
+
 .center {
 text-align:center;
 }
 .separator {
-    text-align:center;
-    letter-spacing: 2.75em;
-    color: $brand-color;
+    background-color: $hover-color;
+    height: 1px;
+    width: 100%;
+    z-index: -9;
+    position: relative;
+    margin-bottom: $spacing-unit;
 }
-.separator:last-child {
-    display:none;
+.readmore {
+    border: 2px solid $hover-color;
+    background-color:#FFFFFF;
+    width: $spacing-unit * 5;
+    padding: $spacing-unit / 5;
+    text-align:center;
+    color: $hover-color;
+    font-size: 0.75em;
+    text-transform: uppercase;
+    margin: 0 auto;
+    float:right;
+    position: relative;
+    z-index: 9;
+}
+.readmore:hover {
+    color: $brand-color;
+    font-weight: bold;
 }
