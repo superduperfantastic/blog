@@ -16,6 +16,7 @@ tags:
 - Fresca The Pup
 - Eastern Sierras
 - Bodie
+- dog-friendly
 comments: true
 ---
 *This post is sponsored by PetSmart&reg; & Wellness&reg; Natural Pet Food and the BlogPaws Professional Pet Blogger Network. I am being compensated for helping spread the word about Wellness TruFood&reg;, but [Super Duper Fantastic] only shares information we feel is relevant to our readers. Wellness Natural Pet Food is not responsible for the content of this article.*
