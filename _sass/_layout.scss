@@ -46,7 +46,7 @@ nav#menu.scrolled {
  */
 .site-footer {
     border-top: 1px solid $hover-color;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit;
     clear:both;
 }
 
@@ -272,8 +272,7 @@ nav#menu.scrolled {
 }
 
 .posts li img {
-    padding-bottom: $spacing-unit/3;
-    
+    padding-bottom: $spacing-unit/3;    
 }
 .catthumb {
     width: $spacing-unit * 5;
@@ -289,25 +288,28 @@ text-align:center;
     background-color: $hover-color;
     height: 1px;
     width: 100%;
+    margin-top: -41px;
     z-index: -9;
     position: relative;
     margin-bottom: $spacing-unit;
 }
 .readmore {
-    border: 2px solid $hover-color;
     background-color:#FFFFFF;
-    width: $spacing-unit * 5;
-    padding: $spacing-unit / 5;
+    padding: 0 $spacing-unit;
     text-align:center;
     color: $hover-color;
     font-size: 0.75em;
     text-transform: uppercase;
-    margin: 0 auto;
-    float:right;
+    margin-left: -87px;
+    left: 50%;
     position: relative;
     z-index: 9;
 }
 .readmore:hover {
     color: $brand-color;
     font-weight: bold;
+}
+.relatedPost {
+    display: inline-block;
+    padding: $spacing-unit /1.5;
 }
