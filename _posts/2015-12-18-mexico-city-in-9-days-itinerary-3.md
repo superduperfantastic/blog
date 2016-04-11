@@ -75,9 +75,9 @@ We remembered a tip from Mojdeh about asking to see the rooftop. Definite pro ti
 For dinner, we decided to venture over to Little Koreatown in Mexico City. We recalled seeing some Korean restaurants during some of our Uber rides around the city. We ate dinner at [Ma Po Gal Bi](https://www.facebook.com/pages/Mapo-Gal-Bi/172045342930531?rf=436111446446597){:target="_blank"}, gorging ourselves on delicious Korean food and drinking way too much soju.
 
 >### Mexico City - Real Talk ###
->- If you are riding <a href="https://www.ecobici.df.gob.mx/en" target="_blank">Ecobicis</a>, use the app to find parking because people use these bikes to commute and some racks are more full than others. 
->-Eat at <a href="http://catamundi.com/#_=_" target="_blank">Catamundi</a> or pick something up for later. The market inside looks amazing!
->- Go to <a href="http://mercadoroma.com/" target="_blank">Mercado Roma</a>, even for a snack or a juice. It's a beautiful spot.
->- MUJAM came recommended by <a href="http://travelmexicocity.com.mx/" target="_blank">Journeys Beyond the Surface</a>, again for graffiti art. The toys, graffiti art, and meeting the owner were the highlight of our trip. Go see it if you have a few hours to spare. Ask to see the rooftop!
->- <a href="http://mna.inah.gob.mx/index.html" target="_blank">Museo Nacional de Antropologia</a> is the most visited museum in Mexico and recommended by most of our friends who have been to Mexico City. The tours we did earlier in our trip were incredibly helpful in giving a context to what we were seeing in the exhibits.
+>- If you are riding [Ecobicis](www.ecobici.df.gob.mx/en){:target="_blank}, use the app to find parking because people use these bikes to commute and some racks are more full than others. 
+>-Eat at [Catamundi](http://catamundi.com){:target="_blank"} or pick something up for later. The market inside looks amazing!
+>- Go to [Mercado Roma](http://mercadoroma.com/){:target="_blank"}, even for a snack or a juice. It's a beautiful spot.
+>- MUJAM came recommended by [Journeys Beyond the Surface](http://travelmexicocity.com.mx/){:target="_blank"}, again for graffiti art. The toys, graffiti art, and meeting the owner were the highlight of our trip. Go see it if you have a few hours to spare. Ask to see the rooftop!
+>- [Museo Nacional de Antropologia](http://mna.inah.gob.mx/index.html){:target="_blank"} is the most visited museum in Mexico and recommended by most of our friends who have been to Mexico City. The tours we did earlier in our trip were incredibly helpful in giving a context to what we were seeing in the exhibits.
 >- More time can be dedicated to the museums in Centro Historico. It's on our list for the next time!
