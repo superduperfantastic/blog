@@ -50,11 +50,11 @@ Dogs are welcome at Bodie State Historic Park as long as they are on leash and t
 <p>Fresca enjoyed the sights and smells and didn't seem turned off by the ghosts. A few wild animals did catch her nose a few times, and she was tempted to run after what was rustling in the shrubs. Thankfully, she was mostly well-behaved and cooperated with us on our photo shoots. 
 
 {:.center}
-![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-2-1024x683.jpg)\\
+![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-2-1024x683.jpg)  
 *Chilling in front of the museum*
 
 {:.center}
-![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-3-1024x683.jpg)\\
+![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-3-1024x683.jpg)  
 
 **#TruLoveIs** maintaining your pup's routines, even when on the road. We are incredibly blessed that Fresca is flexible in terms of being able to travel with us. She adjusts and adapts to new environments because we take the time to familiarize her with new surroundings. We also try to bring some comforts of home along, like a favorite blanket, toy, and of course, her favorite - food and snacks! 
 

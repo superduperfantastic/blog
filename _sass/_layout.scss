@@ -228,35 +228,36 @@ nav#menu.scrolled {
     font-size: 14px;
     padding: $spacing-unit / 3;
 }
-.pagination li, .postnav li {
+.pagination, .postnav {
     display:inline-block;
-    border: 1px solid $hover-color;
-    padding: 5px;
-    text-align:center;
     text-transform: uppercase;
     margin-top: $spacing-unit;
+    text-align:center;
+    width: 100%;
 }
 .postnav li {
     margin-bottom: $spacing-unit;
 }
-.pagination li:hover, .postnav li:hover {
+.pagination a:hover, .postnav li:hover {
     border: 1px solid $brand-color;
 }
 .pagination a, .postnav a {
     text-decoration:none;
     color: $hover-color;
+    padding: 5px;
+    border: 1px solid $hover-color;
 }
 .pagination a:hover, .postnav a:hover {
     color: $brand-color;
 }
 .previouspage, .nextpage {
-    width: $spacing-unit * 5;
+    width: $spacing-unit * 6;
 }
 .nextpost, .nextpage {
     float:right;
 }
-.nextpost, .previouspost {
-    width: 40%;
+.previouspost, .previouspage {
+    float:left;
 }
 
 .posts li {

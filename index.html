@@ -23,11 +23,11 @@ layout: default
     <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <li class="previouspage"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&laquo; Previous</a></li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previouspage">&laquo; Previous</a>
   {% endif %}
     
   {% if paginator.next_page %}
-    <li class="nextpage"><a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="next">Next &raquo;</a></li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="nextpage">Next &raquo;</a>
   {% endif %}
 </div>
 </div>
