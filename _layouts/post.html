@@ -41,15 +41,15 @@ layout: default
 {% endif %}
     </div>
  <!-- Navigation links -->
-<ul class="postnav">
+<div class="postnav">
   {% if page.previous.url %}
-    <li class="previouspost"><a href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a></li>
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="previouspost">&laquo; {{page.previous.title}}</a>
   {% endif %}
     
   {% if page.next.url %}
-    <li class="nextpost"><a href="{{ page.next.url | prepend: site.baseurl}}">{{page.next.title}} &raquo;</a></li>
+    <a href="{{ page.next.url | prepend: site.baseurl}}" class="nextpost">{{page.next.title}} &raquo;</a>
   {% endif %}
-</ul>
+</div>
 <!-- Disqus Comments -->
 <div class="page-comments">
 {% if page.comments %}
