@@ -44,7 +44,7 @@ Before heading to dinner at [Pujol](http://www.pujol.com.mx/){:target="_blank"},
 ![Mexico City - Pujol](https://c2.staticflickr.com/2/1525/24132390672_c3f7220af0_c.jpg)\\
 *Our fancy meal at Pujol*
 
-Since we had said "Yes" to your Airbnb's host's invitation to see Lo Fang at [Luciferina](https://www.facebook.com/tabernalucerna34/){:target="_blank"} after dinner, we put our full and happy bellies in an Uber to the venue. The show was more expensive than many things we'd paid for in Mexico City, so that was a bit of a surprise. The show was on a rooftop, so we spent the evening dodging cigarette smoke. After the show, we grabbed tacos with our Airbnb hosts at [El Farolito in Polanco](http://tacoselfarolito.com.mx){:target="_blank"}.
+Since we had said "Yes" to your Airbnb's host's invitation to see Lo Fang at [Luciferina](https://www.facebook.com/tabernalucerna34/){:target="_blank"} after dinner, we put our full and happy bellies in an Uber to the venue. The show was more expensive than many things we'd paid for in Mexico City, so that was a bit of a surprise. The show was on a rooftop, so we spent the evening dodging cigarette smoke. After the show, we grabbed tacos with our Airbnb hosts at [El Farolito in Polanco](http://www.taqueriaselfarolito.com.mx/){:target="_blank"}.
 
 ### Day 7 in Mexico City - Xochimilco / Museo Dolores Olmedo / UNAM & MUAC ###
 
