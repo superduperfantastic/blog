@@ -13,7 +13,7 @@ tags:
 - New Mexico
 comments: true
 ---
-On a wet and chilly morning, Ryan and I made a visit to [Wildlife West Nature Park](http://wildlifewest.org/ "Wildlife West Nature Park"), located in Edgewood, New Mexico, about 50 miles east of Albuquerque. We happened to be staying with a friend nearby, so it was our first stop of the day.
+On a wet and chilly morning, Ryan and I made a visit to [Wildlife West Nature Park](http://wildlifewest.org/ "Wildlife West Nature Park"){:target="_blank"}, located in Edgewood, New Mexico, about 50 miles east of Albuquerque. We happened to be staying with a friend nearby, so it was our first stop of the day.
 
 {:.center}
 ![Wildlife West Nature Park](https://farm4.staticflickr.com/3948/15426990479_42fb3584e4_c.jpg)
@@ -64,4 +64,4 @@ Given that it was a weekday morning, we were one of a few groups of people in th
 >87 North Frontage Road  
 >Edgewood, NM  
 >505.281.7655  
->More info: [wildlifewest.org](http://wildlifewest.org/)
+>More info: [wildlifewest.org](http://wildlifewest.org/){:target="_blank"}
