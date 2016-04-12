@@ -14,26 +14,26 @@ tags:
 - Alcatraz
 comments: true
 ---
-About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island")!
+About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island"){:target="_blank"}!
 
 {:.center}
 ![Overnight on Alcatraz](https://farm4.staticflickr.com/3947/15134459184_3d88bcc6e1_c.jpg)
 
 I was intrigued and of course, very interested when I first learned about the overnight opportunity. Fewer than 600 people get to stay overnight at the landmark federal penitentiary each year, and only nonprofits can apply. There are about 18 overnights on an annual basis with 200 to 400 nonprofit groups vying for a spot. Selected groups work on a community service project on Alcatraz and are rewarded with a tour and sleepover. 
 
-Luckily for me, not only did Friends of the Golden Gate (FOGG), the young professionals branch of the [Golden Gate Conservancy](http://www.parksconservancy.org/ "Golden Gate Conservancy") of which I am a member of, win the lottery for an overnight, but I won a spot for me and a guest! It is so worth it because the fee you pay gets you on Alcatraz, a ranger guide for the duration of your stay, and access to parts of Alcatraz you wouldn't otherwise get to see.
+Luckily for me, not only did Friends of the Golden Gate (FOGG), the young professionals branch of the [Golden Gate Conservancy](http://www.parksconservancy.org/ "Golden Gate Conservancy"){:target="_blank"} of which I am a member of, win the lottery for an overnight, but I won a spot for me and a guest! It is so worth it because the fee you pay gets you on Alcatraz, a ranger guide for the duration of your stay, and access to parts of Alcatraz you wouldn't otherwise get to see.
 
 The day of, we nearly missed our ferry to Alcatraz. Thankfully, I rechecked the email about ten minutes before the official meeting time, and we hightailed it to the pier. Our group of about 30 or so landed on Alcatraz at about 4:30. While we were initially greeted by a raindrops, the cloud did eventually lift. We didn't encounter more than a rainbow the rest of the evening. Definitely lucked out on the weather.
 
 {:.center}
 ![Overnight on Alcatraz](https://farm8.staticflickr.com/7534/15568788110_8f7ffa0b60_c.jpg)
 
-Our park ranger and expert in all things Alcatraz, Wendy, led us up the hill to watch some videos about Alcatraz and [@Large: Ai Wei Wei on Alcatraz](http://www.for-site.org/project/ai-weiwei-alcatraz/). After getting the general overview in the videos, Wendy showed us to Block D in the Cellhouse where we would be spending the night. Block D is the only one suitable as accommodations because the lead-based paint and asbestos have been treated.
+Our park ranger and expert in all things Alcatraz, Wendy, led us up the hill to watch some videos about Alcatraz and [@Large: Ai Wei Wei on Alcatraz](http://www.for-site.org/project/ai-weiwei-alcatraz/){:target="_blank"}. After getting the general overview in the videos, Wendy showed us to Block D in the Cellhouse where we would be spending the night. Block D is the only one suitable as accommodations because the lead-based paint and asbestos have been treated.
 
 {:.center}
 ![Overnight on Alcatraz](https://farm8.staticflickr.com/7537/15133654844_1ae853c630_n.jpg){:width="49%"} ![Overnight on Alcatraz](https://farm8.staticflickr.com/7485/15133655954_f0b2cd4e47.jpg){:width="49%"}
 
-Ryan and I picked out our cell of choice (#32), left our belongings on the cots and followed Wendy out of the main building for a tour of the grounds. In addition to the best sunset views, she showed us the ruins of a warden's house, the prisoner gardens overlooking the beach where](http://www.for-site.org/project/ai-weiwei-alcatraz/) [Doc Barker](http://en.wikipedia.org/wiki/Arthur_Barker "Doc Barker") was shot and killed trying to break free, and the walled-in recreational yard.
+Ryan and I picked out our cell of choice (#32), left our belongings on the cots and followed Wendy out of the main building for a tour of the grounds. In addition to the best sunset views, she showed us the ruins of a warden's house, the prisoner gardens overlooking the beach where](http://www.for-site.org/project/ai-weiwei-alcatraz/) [Doc Barker](http://en.wikipedia.org/wiki/Arthur_Barker "Doc Barker"){:target="_blank"} was shot and killed trying to break free, and the walled-in recreational yard.
 
 {:.center}
 ![Overnight on Alcatraz](https://farm4.staticflickr.com/3954/15568456067_072c6d2378_c.jpg)  
@@ -74,7 +74,7 @@ While it would have been nice to see the pieces in the light of day, there's def
 
 We meandered around the buildings, through tunnels, and even made a stop at the morgue. We were learning about Alcatraz from the time it was a fortress to the time it was occupied by Native Americans.
 
-![Overnight on Alcatraz](https://farm6.staticflickr.com/5602/15730695646_38841ff0b2_n.jpg)It was nearly midnight when Wendy checked to see if the group was ready for bed or if we wanted more. She'd had coffee during dinnertime, so she was ready to dish out more Alcatraz knowledge. Her usual tour groups consisted of scouts, so I think she was ready for that level of energy. Even though I was pretty tired from all that walking, I knew we had to forge on. This was an opportunity that wouldn't come along easily again.
+It was nearly midnight when Wendy checked to see if the group was ready for bed or if we wanted more. She'd had coffee during dinnertime, so she was ready to dish out more Alcatraz knowledge. Her usual tour groups consisted of scouts, so I think she was ready for that level of energy. Even though I was pretty tired from all that walking, I knew we had to forge on. This was an opportunity that wouldn't come along easily again.
 
 Another hour or so was spent outside in the gardens originally planted by the wives of officers and inside in the kitchen and up in the gun galleries. Eventually, our aching bodies were telling us that it was time for lights out. After brushing our teeth, Ryan and I headed into cell #32 for the night. I slept on the cot, while he took the floor beside me. The green foam pads (both on the cot and on the floor) were surprisingly comfortable, but the sounds of sea lions, snoring, and footsteps kept bringing me in and out of consciousness.
 
