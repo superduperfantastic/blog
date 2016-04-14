@@ -233,6 +233,7 @@ nav#menu.scrolled {
     text-transform: uppercase;
     margin-top: $spacing-unit;
     text-align:center;
+    font-size: 0.8em;
     width: 100%;
 }
 .postnav li {
@@ -246,6 +247,7 @@ nav#menu.scrolled {
     color: $hover-color;
     padding: 5px;
     border: 1px solid $hover-color;
+    margin-bottom: $spacing-unit;
 }
 .pagination a:hover, .postnav a:hover {
     color: $brand-color;
@@ -258,6 +260,9 @@ nav#menu.scrolled {
 }
 .previouspost, .previouspage {
     float:left;
+}
+.nextpost, .previouspost {
+    width: 50%;
 }
 
 .posts li {

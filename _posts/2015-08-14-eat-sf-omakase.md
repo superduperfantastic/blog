@@ -6,6 +6,8 @@ title: 'Eat SF : Omakase'
 wordpress_id: 23749
 wordpress_url: http://superduperfantastic.com/?p=23749
 disqus_id: 23749 http://superduperfantastic.com/?p=23749
+thumb: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
+image: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_c.jpg
 date: '2015-08-14 16:12:26 -0700'
 categories:
 - Restaurants
@@ -16,11 +18,12 @@ tags:
 - sf-restaurant
 comments: true
 ---
-_Omakase_ is a Japanese phrase that means "I'll leave it to you." Essentially, you're ordering the chef's choice when using this term at a Japanese restaurant. We were recently invited to dine at [Omakase](http://omakasesf.com/), a traditional Edomae-style sushi bar in San Francisco's SOMA neighborhood, where rather than selecting items from a menu, guests have three pricing options to choose from. The team of chefs led by Chef Jackson Yu serve a series of items based on what guests choose to spend.
-
+_Omakase_ is a Japanese phrase that means "I'll leave it to you." Essentially, you're ordering the chef's choice when using this term at a Japanese restaurant. We were recently invited to dine at [Omakase](http://omakasesf.com/){:target="_blank"}, a traditional Edomae-style sushi bar in San Francisco's SOMA neighborhood, where rather than selecting items from a menu, guests have three pricing options to choose from. The team of chefs led by Chef Jackson Yu serve a series of items based on what guests choose to spend.
+<!--more-->
 Much of the fish served is flown in several times a week from Tokyo's Tsukiji Fish Market, so you're getting ingredients you would find in a restaurant in Japan!
 
-![](https://farm1.staticflickr.com/512/18950457923_c3edf83aee_n.jpg) ![](https://farm1.staticflickr.com/299/19385002699_f5fbee385f.jpg)
+{:.center}
+![](https://farm1.staticflickr.com/512/18950457923_c3edf83aee.jpg){:width="30%"} ![](https://farm1.staticflickr.com/299/19385002699_f5fbee385f.jpg){:width="68%"}
 
 With a total of 14 seats, no matter if one chooses the early or later seating, the dining experience is intimate and special. We certainly felt like special guests when we arrived.
 
@@ -35,9 +38,9 @@ _Nishida Kikuizumi Ginjo Sake from Aomori prefecture_
 
 {:.center}
 ![Omakase - sake](https://farm1.staticflickr.com/375/18950590643_55be591883_c.jpg)  
-_Akitabare Suirakuten Daiginjo Sake from Akita prefecture - enjoyed out of tin [Mt Fuji](http://www.shopnousaku.com/shop/item_detail?category_id=420382&item_id=1072873) sake cups_
+_Akitabare Suirakuten Daiginjo Sake from Akita prefecture - enjoyed out of tin [Mt Fuji](http://www.shopnousaku.com/shop/item_detail?category_id=420382&item_id=1072873){:target="_blank"} sake cups_
 
-The dining experience reminded me of the movie [Jiro Dreams of Sushi](http://www.magpictures.com/jirodreamsofsushi/), where piece after piece of fish is presented for consumption. It was less intense, of course. I didn't keep track of the timing of our meal, but it was a much more relaxed pace.
+The dining experience reminded me of the movie [Jiro Dreams of Sushi](http://www.magpictures.com/jirodreamsofsushi/){:target="_blank"}, where piece after piece of fish is presented for consumption. It was less intense, of course. I didn't keep track of the timing of our meal, but it was a much more relaxed pace.
 
 {:.center}
 ![Omakase - Lobster Snow Crab Salad](https://farm4.staticflickr.com/3756/19571365465_4fdaea069a_c.jpg)   
