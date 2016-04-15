@@ -8,14 +8,15 @@ wordpress_url: http://superduperfantastic.com/?p=23613
 disqus_id: 23613 http://superduperfantastic.com/?p=23613
 date: '2015-06-12 00:22:54 -0700'
 categories:
-- Around California
-- The Animals
+- Travel
+- California
 tags:
 - dog-friendly
 - Carmel Valley
 - Carmel
 comments: true
 ---
+{:.center}
 ![Holman Ranch](https://farm8.staticflickr.com/7767/17529724053_eb4968af23_c.jpg)
 
 Several months ago, we were invited to stay at Holman Ranch, a 400-acre event property and winery in Carmel Valley. We took that as an opportunity to stay in Carmel Valley for the first time and to take Fresca on her first overnight trip with us as the property is dog-friendly. Prior to this visit, we'd only heard about Carmel Valley from winery folk and occasionally during our dinners with Ryan's mom. She and her significant spend quite a bit of time relaxing and wine tasting in the area, so they've got a few wineries to recommend and a few tales to tell.
@@ -24,23 +25,29 @@ Upon arrival, we were checked in at the Holman Ranch tasting room in Carmel Vall
 
 After settling into our room, we toured the property, checked out the vineyards and the wine cave, as well as the Spanish-style hacienda on-site.
 
+{:.center}
 ![Holman Ranch](https://farm8.staticflickr.com/7783/17964033399_58f66098da_c.jpg)  
 _Estate-grown grape varieties across approximately 21 acres of vineyards include: Chardonnay, Sauvignon Blanc, Pinot Gris and Pinot Noir._
 
+{:.center}
 ![Holman Ranch](https://farm9.staticflickr.com/8855/17529612063_9f89110299_c.jpg)  
 _Fresca in the cave, where the processing, aging, bottling and labeling takes place._
 
+{:.center}
 ![Holman Ranch](https://farm1.staticflickr.com/370/18693074582_1da6cd5594_c.jpg)  
 _The meticulously manicured lawn with a view overlooking the Santa Lucia Mountains._
 
 As an event space, Holman Ranch aims to offer unlimited possibilities to its guests. Packages start at $1,000, and one event is allowed at a time, so the property is all yours to enjoy during the rental period. Outside caterers and vendors are welcome, so it's a fantastic way to personalize an event if you've got your own vendors in mind.
 
-![Holman Ranch](https://farm8.staticflickr.com/7790/18146696362_489ae015ea_z.jpg) ![Holman Ranch](https://farm9.staticflickr.com/8772/17963988439_1fce1a3fc1_z.jpg)  
+{:.center}
+![Holman Ranch](https://farm8.staticflickr.com/7790/18146696362_489ae015ea_z.jpg){:width="49%"} ![Holman Ranch](https://farm9.staticflickr.com/8772/17963988439_1fce1a3fc1_z.jpg){:width="49%"}  
 _Fresca enjoyed the decor, taking a moment to strike a pose with a statue friend._
 
-![Holman Ranch](https://farm8.staticflickr.com/7770/17527695184_884431651c_z.jpg) ![Holman Ranch](https://farm9.staticflickr.com/8875/18123814316_8f0320bb51_z.jpg)
+{:.center}
+![Holman Ranch](https://farm8.staticflickr.com/7770/17527695184_884431651c_z.jpg){:width="49%"} ![Holman Ranch](https://farm9.staticflickr.com/8875/18123814316_8f0320bb51_z.jpg){:width="49%"}
 
-![Holman Ranch](https://farm1.staticflickr.com/283/18700177161_9254d2b18d.jpg) ![Holman Ranch](https://farm1.staticflickr.com/399/18077226663_f5966280fb.jpg)  
+{:.center}
+![Holman Ranch](https://farm1.staticflickr.com/283/18700177161_9254d2b18d.jpg){:width="49%"} ![Holman Ranch](https://farm1.staticflickr.com/399/18077226663_f5966280fb.jpg){:width="49%"}  
 _Inside the Hacienda: courtyard and chapel._
 
 In the evening, we joined Nick Elliott and Hunter Lowder, the husband-wife team overseeing the operations of Holman Ranch, for dinner at their restaurant in town, Wills Fargo. The group got a chance to chat with them about all things Holman Ranch and Carmel Valley.
@@ -51,9 +58,11 @@ The stay was particularly memorable for Fresca because this was the first time s
 
 While we are not currently in the market for a large event space, it was still neat to get a sneak peek of Holman Ranch in Carmel Valley and see what the possibilities could be! It was a lovely little dog-friendly getaway. After we "checked out" [aka just left our key in the room when we were ready to go] in the morning, we headed over to the beach since _someone_ loves going to the beach.
 
-![](https://farm8.staticflickr.com/7749/18150298345_b842057e52.jpg) ![](https://farm8.staticflickr.com/7763/17962628800_d6089cf276.jpg)  
+{:.center}
+![](https://farm8.staticflickr.com/7749/18150298345_b842057e52.jpg){:width="49%"} ![](https://farm8.staticflickr.com/7763/17962628800_d6089cf276.jpg){:width="49%"}  
 _Fresca enjoying her time at the beach._
 
+{:.center}
 ![](https://farm8.staticflickr.com/7797/17964078499_fc3d9c73a6_c.jpg)  
 _With my new friend, Tucker_
 

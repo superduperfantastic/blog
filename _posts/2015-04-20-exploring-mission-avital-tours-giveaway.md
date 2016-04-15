@@ -6,7 +6,7 @@ title: 'Exploring the Mission with Avital Tours'
 wordpress_id: 23469
 wordpress_url: http://superduperfantastic.com/?p=23469
 disqus_id: 23469 http://superduperfantastic.com/?p=23469
-thumb: https://farm8.staticflickr.com/7714/16552166894_79b125041c_q.jpg
+thumbnail: https://farm8.staticflickr.com/7714/16552166894_79b125041c_q.jpg
 image: https://farm8.staticflickr.com/7714/16552166894_79b125041c_c.jpg
 date: '2015-04-20 07:15:47 -0700'
 categories:

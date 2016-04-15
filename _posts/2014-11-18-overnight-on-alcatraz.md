@@ -8,7 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=22344
 disqus_id: 22344 http://superduperfantastic.com/?p=22344
 date: '2014-11-18 08:03:27 -0800'
 categories:
-- Life in San Francisco
+- Life in SF
 tags:
 - national parks
 - Alcatraz

@@ -10,7 +10,6 @@ thumbnail: https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_q.jpg
 image: https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_c.jpg
 excerpt: <p>Days 6 and 7 of our Mexico City adventures - we spend time in Bosque de Chapultepec, Xochimilco, and UNAM/MUAC. We also enjoyed a fancy dinner at Pujol, named one of The World's 50 Best Restaurants.</p>
 date: '2016-02-16 00:08:32 -0800'
-date_gmt: '2016-02-16 08:08:32 -0800'
 categories:
 - Travel
 - Mexico

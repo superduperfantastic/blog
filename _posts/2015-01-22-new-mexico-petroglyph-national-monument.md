@@ -6,7 +6,7 @@ title: 'See New Mexico : Petroglyph National Monument'
 wordpress_id: 22931
 wordpress_url: http://superduperfantastic.com/?p=22931
 disqus_id: 22931 http://superduperfantastic.com/?p=22931
-thumb: https://farm4.staticflickr.com/3933/14985493274_159437e80c_q.jpg
+thumbnail: https://farm4.staticflickr.com/3933/14985493274_159437e80c_q.jpg
 image: https://farm4.staticflickr.com/3933/14985493274_159437e80c_b.jpg
 date: '2015-01-22 07:56:41 -0800'
 categories:
