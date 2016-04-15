@@ -6,12 +6,14 @@ title: 'See New Mexico : Bandelier National Monument'
 wordpress_id: 22933
 wordpress_url: http://superduperfantastic.com/?p=22933
 disqus_id: 22933 http://superduperfantastic.com/?p=22933
+thumb: https://farm4.staticflickr.com/3932/14985576654_0266f21d09_q.jpg
+image: https://farm4.staticflickr.com/3932/14985576654_0266f21d09_c.jpg
 date: '2015-02-19 07:30:34 -0800'
 categories:
 - Travel
+- New Mexico
 tags:
 - national parks
-- New Mexico
 comments: true
 ---
 {:.center}

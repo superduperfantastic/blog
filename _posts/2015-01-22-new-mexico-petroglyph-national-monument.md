@@ -6,12 +6,14 @@ title: 'See New Mexico : Petroglyph National Monument'
 wordpress_id: 22931
 wordpress_url: http://superduperfantastic.com/?p=22931
 disqus_id: 22931 http://superduperfantastic.com/?p=22931
+thumb: https://farm4.staticflickr.com/3933/14985493274_159437e80c_q.jpg
+image: https://farm4.staticflickr.com/3933/14985493274_159437e80c_b.jpg
 date: '2015-01-22 07:56:41 -0800'
 categories:
 - Travel
+- New Mexico
 tags:
 - national parks
-- New Mexico
 comments: true
 ---
 With thirteen national parks under its belt, New Mexico has some of most beautiful and unique sights in the country. Since we're the National Parks Passport stamp collecting types, we had our work cut out ahead of us. We knew we weren't going to hit them all, but we would try to see as much as we could. The first national park we visited was [Petroglyph National Monument](http://www.nps.gov/petr/index.htm "Petroglyph National Monument"){:target="_blank"}, conveniently located on the west side of Albuquerque.
@@ -34,10 +36,6 @@ _Piedras Marcadas Canyon - not particularly scenic, but plenty of petroglyphs sp
 
 {:.center}
 ![](https://farm4.staticflickr.com/3944/14986112413_a5db12a8d1_b.jpg)
-
-{:.center}
-![](https://farm4.staticflickr.com/3953/15582586576_bc837511ee_b.jpg)  
-_Hands!_
 
 {:.center}
 ![](https://farm4.staticflickr.com/3950/14986095013_9ef6ea2182_b.jpg)  
