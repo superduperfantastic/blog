@@ -7,17 +7,17 @@ wordpress_id: 23394
 wordpress_url: http://superduperfantastic.com/?p=23394
 disqus_id: 23394 http://superduperfantastic.com/?p=23394
 date: '2015-04-06 17:15:57 -0700'
-date_gmt: '2015-04-07 00:15:57 -0700'
 categories:
 - Travel
-tags:
 - Denmark
+tags:
+- Copenhagen
 - Copenhagen Card
 comments: true
 ---
 We arrived in Copenhagen on a Friday afternoon. It wasn't until the following Monday that we found ourselves along the water. It's a considerably long time given the city's locale _on the water_. It would be like visiting San Francisco without ever seeing the bay or ocean! Once we hit the water, we were no strangers to it the rest of the trip.
 
-Based on our research of things to do in Copenhagen, we found that Mondays require a bit more planning as a tourist. Plenty of sights are taking the day off, so it's a good time to schedule a canal tour with [Canal Tours Copenhagen](http://www.stromma.dk/en/copenhagen/sightseeing/sightseeing-by-boat/the-grand-tour/ "Canal Tours Copenhagen"). They run daily and frequently enough.
+Based on our research of things to do in Copenhagen, we found that Mondays require a bit more planning as a tourist. Plenty of sights are taking the day off, so it's a good time to schedule a canal tour with [Canal Tours Copenhagen](http://www.stromma.dk/en/copenhagen/sightseeing/sightseeing-by-boat/the-grand-tour/ "Canal Tours Copenhagen"){:target="_blank"}. They run daily and frequently enough.
 
 ![Canal Tours Copenhagen](https://farm8.staticflickr.com/7385/9736313575_0a43c81393_c.jpg)  
 _Danish Parliament at Christiansborg Palace from the canal_
@@ -53,6 +53,6 @@ The tour lasts approximately an hour long, and we were back at our starting poin
 
 ![Canal Tours Copenhagen](https://farm8.staticflickr.com/7354/9736438853_b0ce4359be_c.jpg)
 
-Canal Tours Copenhagen is one of 72 museums and attractions included on the [Copenhagen Card](http://www.copenhagencard.com/?currency=dkk "Copenhagen Card"). With 24-, 48-, 72-, and 120-hour cards to choose from, the Copenhagen Card also covers all transport by train, bus, harbor bus and metro in the entire Copenhagen region, including from/to the airport.
+Canal Tours Copenhagen is one of 72 museums and attractions included on the [Copenhagen Card](http://www.copenhagencard.com/?currency=dkk "Copenhagen Card"){:target="_blank"}{:target="_blank"}. With 24-, 48-, 72-, and 120-hour cards to choose from, the Copenhagen Card also covers all transport by train, bus, harbor bus and metro in the entire Copenhagen region, including from/to the airport.
 
-We were provided Copenhagen Cards by the lovely folks at [Visit Copenhagen](http://www.visitcopenhagen.com/copenhagen-tourist "Visit Copenhagen") to help us explore all that Copenhagen has to offer. All opinions expressed are my own!
+We were provided Copenhagen Cards by the lovely folks at [Visit Copenhagen](http://www.visitcopenhagen.com/copenhagen-tourist "Visit Copenhagen"){:target="_blank"}{:target="_blank"} to help us explore all that Copenhagen has to offer. All opinions expressed are my own!

@@ -10,9 +10,8 @@ thumb: https://farm8.staticflickr.com/7714/16552166894_79b125041c_q.jpg
 image: https://farm8.staticflickr.com/7714/16552166894_79b125041c_c.jpg
 date: '2015-04-20 07:15:47 -0700'
 categories:
-- Giveaway
-- Hungry Suki
 - Life in SF
+- Hungry Suki
 tags:
 - The Mission
 - food tour
