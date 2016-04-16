@@ -7,7 +7,7 @@ wordpress_id: 24020
 wordpress_url: http://superduperfantastic.com/?p=24020
 disqus_id: 24020 http://superduperfantastic.com/?p=24020
 thumbnail: https://c2.staticflickr.com/6/5802/23430232582_a413969592_q.jpg
-image: https://c2.staticflickr.com/6/5802/23430232582_a413969592_c.jpg
+image: https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_c.jpg
 excerpt: <p>Arrival in Mexico City and our official first full day in Mexico City.  We enjoy our first meals and spend some time learning about Mexico City through its food with a tour with Eat Mexico.</p>
 date: '2015-12-10 10:23:16 -0800'
 categories:

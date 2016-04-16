@@ -130,6 +130,12 @@ nav#menu.scrolled {
     margin-left: 0;
     list-style: none;
 }
+
+.top-info, .excerpt {
+    display: block;
+    padding: $spacing-unit / 3;
+    background: RGBA(255,255,255,0.65)
+}
 .top-info, .category {
     text-align:center;
 }
@@ -203,6 +209,15 @@ nav#menu.scrolled {
 }
 .post-category a:hover, .post-meta a:hover {
     color: $brand-color;
+}
+.post-tags a {
+    font-size: 0.75em;
+    color: $brand-color;
+    text-decoration: none;
+    transition: color 0.35s ease-in-out;
+}
+.post-tags a:hover {
+    color: $hover-color;
 }
 /***Sidebar*/
 .sidebar 
@@ -303,13 +318,13 @@ text-align:center;
 }
 .readmore {
     background-color:#FFFFFF;
-    padding: 0 $spacing-unit;
+    padding: 0 $spacing-unit / 2;
     text-align:center;
     color: $hover-color;
     font-size: 0.75em;
     text-transform: uppercase;
-    margin-left: -87px;
-    left: 50%;
+    margin-left: -82px;
+    left: 75%;
     position: relative;
     z-index: 9;
 }
