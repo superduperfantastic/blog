@@ -16,10 +16,10 @@ tags:
 - national parks
 comments: true
 ---
+After spending our morning hours at [Petroglyph National Monument](http://superduperfantastic.com/new-mexico-petroglyph-national-monument/22931/ "See New Mexico : Petroglyph National Monument"){:target="_blank"} checking out ancient graffiti, we made the 110-mile drive up to Bandelier National Monument to view ancient cliff dwellings of the Ancestral Pueblo people. It took about two hours, so by the time we got up there, we had a limited amount of time to explore.<!--more-->
+
 {:.center}
 ![Bandelier National Monument](https://farm4.staticflickr.com/3956/15420193588_21e4225e8a_c.jpg)
-
-After spending our morning hours at [Petroglyph National Monument](http://superduperfantastic.com/new-mexico-petroglyph-national-monument/22931/ "See New Mexico : Petroglyph National Monument"){:target="_blank"} checking out ancient graffiti, we made the 110-mile drive up to Bandelier National Monument to view ancient cliff dwellings of the Ancestral Pueblo people. It took about two hours, so by the time we got up there, we had a limited amount of time to explore.
 
 {:.center}
 ![Bandelier National Monument](https://farm4.staticflickr.com/3934/15607148462_2c262c91b8_c.jpg)

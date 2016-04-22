@@ -14,7 +14,7 @@ tags:
 - Alcatraz
 comments: true
 ---
-About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island"){:target="_blank"}!
+About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island"){:target="_blank"}!<!--more-->
 
 {:.center}
 ![Overnight on Alcatraz](https://farm4.staticflickr.com/3947/15134459184_3d88bcc6e1_c.jpg)

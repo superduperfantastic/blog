@@ -6,13 +6,14 @@ layout: default
 
     <ul class="post-list">
     {% for post in paginator.posts %}
-        <li style="background: url("{{ post.image }}") no-repeat center center; background-size:100%">
-          <div class="top-info">
+        <li>
+          <div class="top-info" style="background-image: url({{post.image}}); background-position: center center; background-size:100%;">
             <div class="post-category">{% for category in post.categories %}<a href="{{"/category/" | prepend: site.baseurl }}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}
             </div>
             <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-                <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} -  <a href="{{ post.url | prepend: site.baseurl}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span>
+                <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
+                <span class="post-meta"><a href="{{ post.url | prepend: site.baseurl}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span>
           </div><!--
           separator--><div class="excerpt">
               {{ post.excerpt }}
