@@ -130,22 +130,17 @@ nav#menu.scrolled {
     margin-left: 0;
     list-style: none;
 }
-.post-list li {
-    width: 75%;
-    margin: 0 auto;
-}
-.post-category, .post-link, .post-meta {
+.post-category, .post-link, .post-meta, .post-tags {
     display: block;
     background: RGBA(255,255,255,0.65)
 }
 .top-info {
     height: 375px;
+    width: 75%;
     padding-top: $spacing-unit * 2;
-    margin-bottom: $spacing-unit / 2;
+    margin: 0 auto;
 }
-.page-top-info {
-    text-align:center;
-}
+
 .post-category {
     padding-top: $spacing-unit / 2;
 }
@@ -155,17 +150,19 @@ nav#menu.scrolled {
 .post-list a {
     text-decoration: none;
 }
-.post-list h2 {
+.post-list h2, .post h2 {
     margin-bottom: 0px;
 }
-.post-link, .post-title, .page-title, .category {
+.post-link, .post-title, .page-title, .category, .post-tags {
     display: block;
     font-family: "Lora", serif;
     font-weight: 300;
     line-height: normal;
     text-transform: uppercase;
 }
-
+.excerpt {
+    padding-top: $spacing-unit / 2;
+}
 /**
  * Posts
  */
@@ -219,7 +216,7 @@ nav#menu.scrolled {
     letter-spacing: 3px;
 }
 .post-meta:last-child {
-    padding-bottom: $spacing-unit;
+    padding-bottom: $spacing-unit / 2;
 }
 .post-category a, .post-meta a {
     color: $brand-color;
