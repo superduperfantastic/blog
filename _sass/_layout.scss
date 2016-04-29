@@ -132,17 +132,19 @@ nav#menu.scrolled {
 }
 .post-category, .post-link, .post-meta, .post-tags {
     display: block;
-    background: RGBA(255,255,255,0.65)
 }
-.top-info {
+.excerpt {
     width: 75%;
-    padding-top: $spacing-unit * 2;
+    height: 375px;
+    padding-top: $spacing-unit;
     margin: 0 auto;
 }
-
-.post-category {
-    padding-top: $spacing-unit / 2;
+.excerpt-text {
+    padding: $spacing-unit;
+    margin: 0 auto;
+    background: RGBA(255,255,255,0.65);
 }
+
 .top-info, .category {
     text-align:center;
 }
@@ -159,9 +161,7 @@ nav#menu.scrolled {
     line-height: normal;
     text-transform: uppercase;
 }
-.excerpt {
-    padding-top: $spacing-unit / 2;
-}
+
 /**
  * Posts
  */
@@ -169,12 +169,14 @@ nav#menu.scrolled {
     margin-bottom: $spacing-unit;
     padding-top: $spacing-unit;
 }
-.post-header {
+.post-header, .post-header-index {
     border-top: 1px solid $hover-color;
-    border-bottom: 1px solid $hover-color;
     text-align:center;
-    padding-bottom: $spacing-unit;
+    padding: $spacing-unit/2 0;
     margin-bottom: $spacing-unit;
+}
+.post-header {
+    border-bottom: 1px solid $hover-color;
 }
 
 .post-title {
@@ -221,7 +223,7 @@ nav#menu.scrolled {
     letter-spacing: 3px;
 }
 .post-tags {
-    padding-top: $spacing-unit/2;
+    padding-top: $spacing-unit/3;
     float:right;
 }
 .post-meta:last-child {
