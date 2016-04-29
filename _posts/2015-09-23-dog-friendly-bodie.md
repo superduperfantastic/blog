@@ -13,7 +13,6 @@ categories:
 - Travel
 - California
 tags:
-- Fresca The Pup
 - Eastern Sierras
 - Bodie
 - dog-friendly
@@ -29,15 +28,15 @@ With over 100 years of combined experience in making natural pet food, Wellness&
 
 **#TruLoveIs** feeding your dog the very best food, so they can stay vibrant and happy on their adventures with you. TruFood recipes contain grain free fibers, such as chickpeas, flax seed, and lentils, pumpkin, ginger, turmeric, and live yogurt cultures to help support a healthy digestive system. Powerful superfoods such as beets, blueberries, and cranberries also help maintain a healthy weight and support the immune system. Follow Petsmart on <a href="https://twitter.com/petsmart" rel="nofollow" target="_blank">Twitter</a> to learn more about the benefits of feeding natural, living nutrition, and <a href="http://www.petsmart.com/featured-shops/trufood/cat-36-catid-800997" target="_blank" rel="nofollow">Wellness TruFood</a>.
 
-**#TruLoveIs** planning trips where we can be dog-inclusive! Not only do we get to spend more time with our pup, we also save money on doggie daycare. However, it's more for the first reason than the second because many hotels charge an additional fee for pets, so money isn't really the issue at that point. </p>
+**#TruLoveIs** planning trips where we can be dog-inclusive! Not only do we get to spend more time with our pup, we also save money on doggie daycare. However, it's more for the first reason than the second because many hotels charge an additional fee for pets, so money isn't really the issue at that point. 
 
-While reading up on <a href="http://superduperfantastic.com/tag/bodie" target="_blank">Bodie State Historic Park</a> earlier in the year, we saw that leashed dogs are welcome so we included our pup in our trip planning! </p>
+While reading up on <a href="http://superduperfantastic.com/tag/bodie" target="_blank">Bodie State Historic Park</a> earlier in the year, we saw that leashed dogs are welcome so we included our pup in our trip planning!
 
 {:.center}
 [Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-1024x683.jpg)\\
 *Fresca enjoying the views near the campground*
 
-We picked out <a href="http://paradiseshoresrvpark.com/" target="_blank" rel="nofollow">Paradise Shores</a>, a dog-friendly campground (doggie shower and play area included!) in nearby Bridgeport. They love dogs and don't charge extra for them! </p>
+We picked out <a href="http://paradiseshoresrvpark.com/" target="_blank" rel="nofollow">Paradise Shores</a>, a dog-friendly campground (doggie shower and play area included!) in nearby Bridgeport. They love dogs and don't charge extra for them!
 
 The elevation must have gotten to Fresca because when we were trying to set up our tent in super windy conditions, she just sat there patiently waiting rather than getting all up in our business. The elevation only bothered me on our second day as we were on our way home.
   
@@ -46,8 +45,9 @@ Once we were all set up and finished with traipsing through <a href="http://supe
 {:.center}
 ![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-21-1024x683.jpg)
 
-Dogs are welcome at Bodie State Historic Park as long as they are on leash and their owners pick up after them. There are a few buildings that they are not allowed to enter, such as the museum and the stamp mill, but that's fewer than a handful. It makes sense since there are artifacts on display and interiors in "arrested decay" being preserved. </p>
-<p>Fresca enjoyed the sights and smells and didn't seem turned off by the ghosts. A few wild animals did catch her nose a few times, and she was tempted to run after what was rustling in the shrubs. Thankfully, she was mostly well-behaved and cooperated with us on our photo shoots. 
+Dogs are welcome at Bodie State Historic Park as long as they are on leash and their owners pick up after them. There are a few buildings that they are not allowed to enter, such as the museum and the stamp mill, but that's fewer than a handful. It makes sense since there are artifacts on display and interiors in "arrested decay" being preserved.
+
+Fresca enjoyed the sights and smells and didn't seem turned off by the ghosts. A few wild animals did catch her nose a few times, and she was tempted to run after what was rustling in the shrubs. Thankfully, she was mostly well-behaved and cooperated with us on our photo shoots. 
 
 {:.center}
 ![Dog-friendly Bodie](http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2-2-1024x683.jpg)  

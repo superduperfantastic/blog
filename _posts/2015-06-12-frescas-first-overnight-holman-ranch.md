@@ -6,6 +6,8 @@ title: Fresca's First Overnight - Holman Ranch in Carmel Valley
 wordpress_id: 23613
 wordpress_url: http://superduperfantastic.com/?p=23613
 disqus_id: 23613 http://superduperfantastic.com/?p=23613
+thumb: https://farm8.staticflickr.com/7767/17529724053_eb4968af23_q.jpg
+image: https://farm8.staticflickr.com/7767/17529724053_eb4968af23_c.jpg
 date: '2015-06-12 00:22:54 -0700'
 categories:
 - Travel
