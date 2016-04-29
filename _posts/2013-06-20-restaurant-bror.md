@@ -21,7 +21,7 @@ comments: true
 {:.center}
 ![Copenhagen](http://farm6.staticflickr.com/5341/9089514415_bbb32fcfd5_c.jpg)
 
-Like every other FIRST time coming up from below ground after a metro ride, we were turned around at Norreport Station on the Friday of our arrival. We were on our way to our first meal in Copenhagen blocks away on Skt. Peders Stræde. Little did we know, by the end of two weeks, we would become quite familiar with the area. As the launch point from where we would take the metro, bus, and train, we quickly picked up on the ins and outs of this particular station.
+Like every other FIRST time coming up from below ground after a metro ride, we were turned around at Norreport Station on the Friday of our arrival. We were on our way to our first meal in Copenhagen blocks away on Skt. Peders StrÃ¦de. Little did we know, by the end of two weeks, we would become quite familiar with the area. As the launch point from where we would take the metro, bus, and train, we quickly picked up on the ins and outs of this particular station.
 
 While waiting for our evening reservation at [Restaurant BROR](http://restaurantbror.dk/){:target="_blank"} (aka "brother"), Ryan and I wandered a bit around the area, just taking it all in. Even exhausted from our lengthy entertainment-free flight, we were fascinated by everything.
 
