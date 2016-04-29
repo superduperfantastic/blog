@@ -135,22 +135,19 @@ nav#menu.scrolled {
 }
 .excerpt {
     width: 75%;
-    height: 375px;
-    padding-top: $spacing-unit;
+    height: $spacing-unit * 12;
+    padding-top: $spacing-unit * 5;
     margin: 0 auto;
 }
 .excerpt-text {
-    padding: $spacing-unit;
-    margin: 0 auto;
-    background: RGBA(255,255,255,0.65);
+    padding: $spacing-unit / 2 $spacing-unit/2 0 $spacing-unit/2;
+    background: RGBA(215,215,215,0.85);
 }
 
 .top-info, .category {
     text-align:center;
 }
-.post-list a {
-    text-decoration: none;
-}
+
 .post-list h2, .post h2 {
     margin-bottom: 0px;
 }
@@ -170,13 +167,11 @@ nav#menu.scrolled {
     padding-top: $spacing-unit;
 }
 .post-header, .post-header-index {
-    border-top: 1px solid $hover-color;
     text-align:center;
     padding: $spacing-unit/2 0;
-    margin-bottom: $spacing-unit;
 }
 .post-header {
-    border-bottom: 1px solid $hover-color;
+    margin-bottom: $spacing-unit;
 }
 
 .post-title {
@@ -222,20 +217,9 @@ nav#menu.scrolled {
     display:block;
     letter-spacing: 3px;
 }
-.post-tags {
-    padding-top: $spacing-unit/3;
-    float:right;
-}
+
 .post-meta:last-child {
     padding-bottom: $spacing-unit / 2;
-}
-.post-category a, .post-meta a {
-    color: $brand-color;
-    text-decoration: none;
-}
-.post-list a:hover {
-    text-decoration:underline;
-    color: $brand-color;
 }
 
 /***Sidebar*/
@@ -337,12 +321,11 @@ text-align:center;
 }
 .readmore {
     background-color:#FFFFFF;
-    padding: 0 $spacing-unit / 2;
+    padding: $spacing-unit/2;
     text-align:center;
     color: $hover-color;
     font-size: 0.75em;
     text-transform: uppercase;
-    margin-left: -82px;
     left: 75%;
     position: relative;
     z-index: 9;

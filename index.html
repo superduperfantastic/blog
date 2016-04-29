@@ -10,16 +10,15 @@ layout: default
           <div class="post-header-index">
             <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-                <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time> ~ <a href="#disqus_thread" data-disqus-identifier="{{ page.disqus_id }}">comments</a></span>
-    <div class="post-category">{% for category in post.categories %}<a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}</div>
+                <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time> ~ <a href="#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span>
+    <div class="post-category"><i class="fa fa-folder-open" aria-hidden="true"></i> {% for category in post.categories %}<a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}</div>
           </div><!--
           separator--><div class="excerpt"  style="background-image: url({{post.image}}); background-position: center center; background-size:100%;">
-              <div class="excerpt-text">{{ post.excerpt }}</div>
+              <div class="excerpt-text">{{ post.excerpt }}
+                <span><a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Continue Reading</a></span>
+              </div>
             </div>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Continue Reading</a>
         </li>  
-        <div class="separator"></div>
-            
     {% endfor %}
   </ul>
     <!-- Pagination links -->

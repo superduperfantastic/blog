@@ -20,9 +20,9 @@ tags:
 comments: true
 ---
 *This post is sponsored by PetSmart&reg; & Wellness&reg; Natural Pet Food and the BlogPaws Professional Pet Blogger Network. I am being compensated for helping spread the word about Wellness TruFood&reg;, but [Super Duper Fantastic] only shares information we feel is relevant to our readers. Wellness Natural Pet Food is not responsible for the content of this article.*
-
+<!--more-->
 {:.center}
-![TruFood](http://superduperfantastic.com/wp-content/uploads/2015/09/TruFood.jpg)<!--more-->
+![TruFood](http://superduperfantastic.com/wp-content/uploads/2015/09/TruFood.jpg)
 
 With over 100 years of combined experience in making natural pet food, Wellness&reg; is committed to nutritional innovation and product quality. Slow-baked in small batches and with 70% more raw protein than typical dry dog food, Wellness TruFood&reg; is a blend of whole-prey protein, grain-free fiber, antioxidant-rich superfoods, probiotics, and kibble. <a href="http://www.petsmart.com/featured-shops/trufood/cat-36-catid-800997" target="_blank" rel="nofollow">Wellness TruFood</a> is available in select Petsmart&reg; locations across the country. 
 <p style="text-align:right;"><img src="http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-1-copy-1024x683.jpg" alt="Dog-Friendly Bodie" /><br /><img src="http://superduperfantastic.com/wp-content/uploads/2015/09/Petsmart-Wellness-Logos-300x64.jpg" alt="Petsmart-Wellness-Logos" width="300" height="64" /></p>
