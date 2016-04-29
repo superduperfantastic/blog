@@ -135,7 +135,6 @@ nav#menu.scrolled {
     background: RGBA(255,255,255,0.65)
 }
 .top-info {
-    height: 375px;
     width: 75%;
     padding-top: $spacing-unit * 2;
     margin: 0 auto;
@@ -153,7 +152,7 @@ nav#menu.scrolled {
 .post-list h2, .post h2 {
     margin-bottom: 0px;
 }
-.post-link, .post-title, .page-title, .category, .post-tags {
+.post-link, .post-title, .page-title, .category {
     display: block;
     font-family: "Lora", serif;
     font-weight: 300;
@@ -166,11 +165,17 @@ nav#menu.scrolled {
 /**
  * Posts
  */
-.post-header, .post, .post-list > li {
+.post, .post-list > li {
     margin-bottom: $spacing-unit;
     padding-top: $spacing-unit;
 }
-
+.post-header {
+    border-top: 1px solid $hover-color;
+    border-bottom: 1px solid $hover-color;
+    text-align:center;
+    padding-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit;
+}
 
 .post-title {
     font-size: 32px;
@@ -215,6 +220,10 @@ nav#menu.scrolled {
     display:block;
     letter-spacing: 3px;
 }
+.post-tags {
+    padding-top: $spacing-unit/2;
+    float:right;
+}
 .post-meta:last-child {
     padding-bottom: $spacing-unit / 2;
 }
@@ -226,15 +235,7 @@ nav#menu.scrolled {
     text-decoration:underline;
     color: $brand-color;
 }
-.post-tags a {
-    font-size: 0.95em;
-    color: $brand-color;
-    text-decoration: none;
-    transition: text-decoration 0.35s ease-in-out;
-}
-.post-tags a:hover, .page-top-info a:hover {
-    color: $hover-color;
-}
+
 /***Sidebar*/
 .sidebar 
     { width: 23%;
@@ -298,7 +299,7 @@ nav#menu.scrolled {
 
 .posts li {
     padding-top: $spacing-unit/3;
-    width: 49%;
+    width: 32%;
     display: inline-block;
     height: $spacing-unit * 10;
     vertical-align:top;
