@@ -8,7 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=23605
 disqus_id: 23605 http://superduperfantastic.com/?p=23605
 thumbnail: https://farm4.staticflickr.com/3944/15613779925_62874ff532_q.jpg
 image: https://farm4.staticflickr.com/3944/15613779925_62874ff532_c.jpg
-excerpt: Hanging out the incredibly cool American International Rattlesnake Museum, partially to escape the heat of Albuquerque, New Mexico, but also to learn about the amazing rattlesnake.
+excerpt: Hanging out at the incredibly cool American International Rattlesnake Museum, partially to escape the heat of Albuquerque, New Mexico, but also to learn about the amazing rattlesnake.
 date: '2015-06-17 16:56:38 -0700'
 categories:
 - Travel
