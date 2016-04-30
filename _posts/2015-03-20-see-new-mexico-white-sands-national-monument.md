@@ -6,7 +6,8 @@ title: 'See New Mexico : White Sands National Monument and a Full Moon Hike'
 wordpress_id: 23041
 wordpress_url: http://superduperfantastic.com/?p=23041
 disqus_id: 23041 http://superduperfantastic.com/?p=23041
-date: '2015-03-20 08:20:50 -0700'categories:
+date: '2015-03-20 08:20:50 -0700'
+categories:
 - Travel
 tags:
 - national parks
