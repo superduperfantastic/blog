@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Eat Copenhagen : Restaurant BROR
+title: 'Eat Copenhagen : Restaurant BROR'
 wordpress_id: 20619
 wordpress_url: http://superduperfantastic.com/?p=20619
 disqus_id: 20619 http://superduperfantastic.com/?p=20619

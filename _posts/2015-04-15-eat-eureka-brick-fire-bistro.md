@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Eat Eureka : Brick & Fire Bistro
+title: 'Eat Eureka : Brick & Fire Bistro'
 wordpress_id: 23431
 wordpress_url: http://superduperfantastic.com/?p=23431
 disqus_id: 23431 http://superduperfantastic.com/?p=23431

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: See New Mexico : White Sands National Monument and a Full Moon Hike
+title: 'See New Mexico : White Sands National Monument and a Full Moon Hike'
 wordpress_id: 23041
 wordpress_url: http://superduperfantastic.com/?p=23041
 disqus_id: 23041 http://superduperfantastic.com/?p=23041
