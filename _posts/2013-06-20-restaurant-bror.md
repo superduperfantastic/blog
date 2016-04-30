@@ -6,15 +6,15 @@ title: 'Eat Copenhagen : Restaurant BROR'
 wordpress_id: 20619
 wordpress_url: http://superduperfantastic.com/?p=20619
 disqus_id: 20619 http://superduperfantastic.com/?p=20619
-excerpt: Our first meal in Copenhagen! Restaurant BROR, the venture of two former sous chefs of Noma, focuses on simple/good food made with seasonal ingredients from the Northern European region.
+excerpt: <p>Our first meal in Copenhagen! Restaurant BROR, the venture of two former sous chefs of Noma, focuses on simple/good food made with seasonal ingredients from the Northern European region.</p>
 image: http://farm8.staticflickr.com/7443/9083764378_5c85442062_c.jpg
 thumbnail: http://farm8.staticflickr.com/7443/9083764378_5c85442062_q.jpg
 date: '2013-06-20 08:30:59 -0700'
 categories:
 - Travel
-- Restaurants
-tags:
 - Denmark
+tags:
+- Copenhagen
 - copenhagen-restaurant
 comments: true
 ---

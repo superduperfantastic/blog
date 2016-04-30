@@ -8,7 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=23822
 disqus_id: 23822 http://superduperfantastic.com/?p=23822
 image: https://farm1.staticflickr.com/644/20916314250_6a975d20ae_c.jpg
 thumbnail: https://farm1.staticflickr.com/644/20916314250_6a975d20ae_q.jpg
-excerpt: <p>[Bodie State Historic Park](http://www.parks.ca.gov/?page_id=509){:target="_blank"} has been on my list of places to visit for quite some time. While the state historic park is open in the winter, the high elevation and unpredictable weather makes it a less than desirable place to visit during that time. So like most visitors, we made a trip during a warmer month (low 50s, high 40s at night).</p>
+excerpt: <p><a href="http://www.parks.ca.gov/?page_id=509" target="_blank">Bodie State Historic Park</a> has been on my list of places to visit for quite some time. While the state historic park is open in the winter, the high elevation and unpredictable weather makes it a less than desirable place to visit during that time. So like most visitors, we made a trip during a warmer month (low 50s, high 40s at night).</p>
 date: '2015-09-03 08:18:47 -0700'
 categories:
 - Travel

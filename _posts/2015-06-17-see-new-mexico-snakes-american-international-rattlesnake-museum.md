@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Snakes! American International Rattlesnake Museum
+title: 'Snakes! American International Rattlesnake Museum'
 wordpress_id: 23605
 wordpress_url: http://superduperfantastic.com/?p=23605
 disqus_id: 23605 http://superduperfantastic.com/?p=23605
@@ -12,8 +12,9 @@ excerpt: <p>Hanging out at the incredibly cool American International Rattlesnak
 date: '2015-06-17 16:56:38 -0700'
 categories:
 - Travel
-tags:
 - New Mexico
+tags:
+- museum
 - snakes
 comments: true
 ---

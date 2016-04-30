@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'See New Mexico : Petroglyph National Monument'
+title: 'Petroglyph National Monument'
 wordpress_id: 22931
 wordpress_url: http://superduperfantastic.com/?p=22931
 disqus_id: 22931 http://superduperfantastic.com/?p=22931

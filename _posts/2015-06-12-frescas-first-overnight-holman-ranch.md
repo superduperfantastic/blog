@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Fresca's First Overnight - Holman Ranch in Carmel Valley
+title: Dog-friendly Holman Ranch in Carmel Valley
 wordpress_id: 23613
 wordpress_url: http://superduperfantastic.com/?p=23613
 disqus_id: 23613 http://superduperfantastic.com/?p=23613
-thumb: https://farm8.staticflickr.com/7767/17529724053_eb4968af23_q.jpg
+thumbnail: https://farm8.staticflickr.com/7767/17529724053_eb4968af23_q.jpg
 image: https://farm8.staticflickr.com/7767/17529724053_eb4968af23_c.jpg
 excerpt: <p>Several months ago, we were invited to stay at Holman Ranch, a 400-acre event property and winery in Carmel Valley. We took that as an opportunity to stay in Carmel Valley for the first time and to take Fresca on her first overnight trip with us as the property is dog-friendly.</p>
 date: '2015-06-12 00:22:54 -0700'

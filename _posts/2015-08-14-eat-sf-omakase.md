@@ -18,8 +18,8 @@ tags:
 - sf-restaurant
 comments: true
 ---
-_Omakase_ is a Japanese phrase that means "I'll leave it to you." Essentially, you're ordering the chef's choice when using this term at a Japanese restaurant. We were recently invited to dine at [Omakase](http://omakasesf.com/){:target="_blank"}, a traditional Edomae-style sushi bar in San Francisco's SOMA neighborhood, where rather than selecting items from a menu, guests have three pricing options to choose from. The team of chefs led by Chef Jackson Yu serve a series of items based on what guests choose to spend.
-<!--more-->
+_Omakase_ is a Japanese phrase that means "I'll leave it to you." Essentially, you're ordering the chef's choice when using this term at a Japanese restaurant. We were recently invited to dine at [Omakase](http://omakasesf.com/){:target="_blank"}, a traditional Edomae-style sushi bar in San Francisco's SOMA neighborhood, where rather than selecting items from a menu, guests have three pricing options to choose from.<!--more--> The team of chefs led by Chef Jackson Yu serve a series of items based on what guests choose to spend.
+
 Much of the fish served is flown in several times a week from Tokyo's Tsukiji Fish Market, so you're getting ingredients you would find in a restaurant in Japan!
 
 {:.center}

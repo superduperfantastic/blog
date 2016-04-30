@@ -2,16 +2,19 @@
 layout: post
 status: publish
 published: true
-title: 'See New Mexico : White Sands National Monument and a Full Moon Hike'
+title: 'White Sands National Monument - a Full Moon Hike'
 wordpress_id: 23041
 wordpress_url: http://superduperfantastic.com/?p=23041
 disqus_id: 23041 http://superduperfantastic.com/?p=23041
+thumbnail: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_q.jpg
+image: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_c.jpg
+excerpt: <p>White Sands National Monument - a few hours in the surreal surroundings of sand dunes in Alamogordo, New Mexico, and a full moon hike!</p>
 date: '2015-03-20 08:20:50 -0700'
 categories:
 - Travel
+- New Mexico
 tags:
 - national parks
-- New Mexico
 comments: true
 ---
 I first heard about [White Sands National Monument](http://www.nps.gov/whsa/index.htm "White Sands National Monument"){:target="_blank} in [Abby's post](http://www.ageektragedy.net/road-trip-part-one/ "A Geek Tragedy: Road Trip, Part One"){:target="_blank} about her road trip to the West Coast. Seeing the photos of such a surreal spot put it at the top of my list of national parks to check out. I knew that we would have to visit if we were ever in New Mexico.
@@ -38,7 +41,7 @@ We played in the dunes for a bit. Considering it was late afternoon, it was stil
 ![White Sands National Monument](https://farm4.staticflickr.com/3953/15584868186_8feaa5401c_c.jpg)  
 
 {:.center}
-![White Sands National Monument](https://farm4.staticflickr.com/3939/15421914869_9a524fae71_m.jpg){:width="33%"} ![White Sands National Monument](https://farm4.staticflickr.com/3944/15608547995_7c060e708f_m.jpg)){:width="33%"} ![White Sands National Monument](https://farm8.staticflickr.com/7640/16872567282_ea26ea6ddc_m.jpg)){:width="33%"}  
+![White Sands National Monument](https://farm4.staticflickr.com/3939/15421914869_9a524fae71_m.jpg){:width="33%"} ![White Sands National Monument](https://farm4.staticflickr.com/3944/15608547995_7c060e708f_m.jpg){:width="33%"} ![White Sands National Monument](https://farm8.staticflickr.com/7640/16872567282_ea26ea6ddc_m.jpg){:width="33%"}  
 
 {:.center}
 ![White Sands National Monument](https://farm4.staticflickr.com/3954/15609376962_e5b71aeb69_c.jpg)
@@ -56,7 +59,7 @@ White Sands was already on our list, so the full moon hike was definitely the ic
 ![White Sands National Monument](https://farm6.staticflickr.com/5599/14988441343_6f2471e37d_c.jpg)  
 
 {:.center}
-![White Sands National Monument](https://farm8.staticflickr.com/7611/16247910123_4a5822e109.jpg){:width="49%"} ![White Sands National Monument](https://farm4.staticflickr.com/3936/15609407872_703aebf742.jpg){:width="49%"}  
+![White Sands National Monument](https://farm8.staticflickr.com/7611/16247910123_4a5822e109.jpg){:width="43%"} ![White Sands National Monument](https://farm4.staticflickr.com/3936/15609407872_703aebf742.jpg){:width="49%"}  
 
 {:.center}
 ![White Sands National Monument](https://farm6.staticflickr.com/5616/15609412312_289ab6381f_c.jpg)

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'See New Mexico : Bandelier National Monument'
+title: 'Bandelier National Monument - Ancient Cliff Dwellings'
 wordpress_id: 22933
 wordpress_url: http://superduperfantastic.com/?p=22933
 disqus_id: 22933 http://superduperfantastic.com/?p=22933

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'See New Mexico : Wildlife West Nature Park'
+title: 'Wildlife West Nature Park'
 wordpress_id: 22867
 wordpress_url: http://superduperfantastic.com/?p=22867
 disqus_id: 22867 http://superduperfantastic.com/?p=22867

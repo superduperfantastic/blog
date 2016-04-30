@@ -6,6 +6,8 @@ title: Overnight on Alcatraz
 wordpress_id: 22344
 wordpress_url: http://superduperfantastic.com/?p=22344
 disqus_id: 22344 http://superduperfantastic.com/?p=22344
+thumbnail: https://farm8.staticflickr.com/7569/15569130347_89bb17384c_p.jpg
+image: https://farm8.staticflickr.com/7569/15569130347_89bb17384c_c.jpg
 date: '2014-11-18 08:03:27 -0800'
 categories:
 - Life in SF
@@ -31,7 +33,7 @@ The day of, we nearly missed our ferry to Alcatraz. Thankfully, I rechecked the 
 Our park ranger and expert in all things Alcatraz, Wendy, led us up the hill to watch some videos about Alcatraz and [@Large: Ai Wei Wei on Alcatraz](http://www.for-site.org/project/ai-weiwei-alcatraz/){:target="_blank"}. After getting the general overview in the videos, Wendy showed us to Block D in the Cellhouse where we would be spending the night. Block D is the only one suitable as accommodations because the lead-based paint and asbestos have been treated.
 
 {:.center}
-![Overnight on Alcatraz](https://farm8.staticflickr.com/7537/15133654844_1ae853c630_n.jpg){:width="49%"} ![Overnight on Alcatraz](https://farm8.staticflickr.com/7485/15133655954_f0b2cd4e47.jpg){:width="49%"}
+![Overnight on Alcatraz](https://farm8.staticflickr.com/7537/15133654844_1ae853c630_n.jpg){:width="30%"} ![Overnight on Alcatraz](https://farm8.staticflickr.com/7485/15133655954_f0b2cd4e47.jpg){:width="67%"}
 
 Ryan and I picked out our cell of choice (#32), left our belongings on the cots and followed Wendy out of the main building for a tour of the grounds. In addition to the best sunset views, she showed us the ruins of a warden's house, the prisoner gardens overlooking the beach where](http://www.for-site.org/project/ai-weiwei-alcatraz/) [Doc Barker](http://en.wikipedia.org/wiki/Arthur_Barker "Doc Barker"){:target="_blank"} was shot and killed trying to break free, and the walled-in recreational yard.
 
@@ -46,14 +48,14 @@ _In the Recreation Yard_
 After spending some time outside, the group went back inside for the cellhouse audio tour. It's improved quite a bit since the last time I was on Alcatraz in 2006; it was super confusing back then, and I remember getting a little lost. Before heading down to the dock for dinnertime, we had some time to check out parts of the Ai Wei Wei exhibit, including _Stay Tuned_ in Block A, _Blossom_ and _Illumination_ in the Hospital and _Yours Truly_ in the Dining Hall.
 
 {:.center}
-![Alcatraz Overnight](https://farm4.staticflickr.com/3948/15568514477_7d2b6c0c28.jpg){:width="49%"} ![Overnight on Alcatraz](https://farm8.staticflickr.com/7566/15568510737_7b48576112.jpg){:width="49%"}  
+![Alcatraz Overnight](https://farm4.staticflickr.com/3948/15568514477_7d2b6c0c28.jpg){:width="67%"} ![Overnight on Alcatraz](https://farm8.staticflickr.com/7566/15568510737_7b48576112.jpg){:width="30%"}  
 _Blossom_
 
 After dinner and once all the regular park visitors had all gone home, Wendy took us on an after-dark tour. We visited the parts of Ai Weiwei’s exhibition in the New Industries Building, including _Trace_, _With Wind_ and _Refraction_.
 
 {:.center}
 ![Overnight on Alcatraz](https://farm8.staticflickr.com/7569/15569130347_89bb17384c_c.jpg)  
-_With Wind</em></p>_
+_With Wind_
 
 {:.center}
 ![Overnight on Alcatraz](https://farm4.staticflickr.com/3939/15752415851_eafe486198_c.jpg)  

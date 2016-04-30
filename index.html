@@ -24,11 +24,11 @@ layout: default
     <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previouspage">&laquo; Previous</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previouspage">&laquo; Newer</a>
   {% endif %}
-    
+  
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="nextpage">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="nextpage">Older &raquo;</a>
   {% endif %}
 </div>
 </div>
