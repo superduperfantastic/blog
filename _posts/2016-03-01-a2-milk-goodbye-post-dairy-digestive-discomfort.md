@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Hello a2 Milk - Goodbye Post-Dairy Digestive Discomfort!
-excerpt: Talking about a2 Milk&reg; as part of an Influencer Activation for Influence Central. 
+excerpt: Sponsored Post: As part of an Influencer Activation for Influence Central, we're talking about a2 Milk&reg;, which is a great alternative for those who are A1 protein-sensitive. 
 wordpress_id: 24294
 wordpress_url: http://superduperfantastic.com/?p=24294
 disqus_id: 24294 http://superduperfantastic.com/?p=24294
