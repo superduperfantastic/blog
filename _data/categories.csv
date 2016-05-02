@@ -1,4 +1,13 @@
-cat_name,cat_description
-Travel, All the Travel Stuff
-Mexico, Information about Mexico
-Bali, I went to Bali
+cat_name,cat_description,cat_sname
+Bali, I went to Bali,
+California,,
+California Eats,,Eats
+Creativity Strikes,,
+Denmark,,
+Denmark Eats,,Eats
+Getting Personal,,
+Mexico, Information about Mexico,
+New Mexico,,
+Partners,,
+San Francisco,,
+San Francisco Eats,,Eats

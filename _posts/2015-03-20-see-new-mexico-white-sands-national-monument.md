@@ -11,7 +11,6 @@ image: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_c.jpg
 excerpt: <p>White Sands National Monument - a few hours in the surreal surroundings of sand dunes in Alamogordo, New Mexico, and a full moon hike!</p>
 date: '2015-03-20 08:20:50 -0700'
 categories:
-- Travel
 - New Mexico
 tags:
 - national parks

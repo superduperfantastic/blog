@@ -11,10 +11,8 @@ thumbnail: https://c2.staticflickr.com/6/5808/23348897852_c5f12d319c_q.jpg
 image: https://c2.staticflickr.com/6/5624/23667520692_3d56848f81_c.jpg
 date: '2015-12-16 23:50:03 -0800'
 categories:
-- Travel
 - Mexico
 tags:
-- Mexico
 - Mexico City
 comments: true
 ---

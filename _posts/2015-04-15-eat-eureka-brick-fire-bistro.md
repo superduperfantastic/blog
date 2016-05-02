@@ -7,9 +7,12 @@ wordpress_id: 23431
 wordpress_url: http://superduperfantastic.com/?p=23431
 disqus_id: 23431 http://superduperfantastic.com/?p=23431
 date: '2015-04-15 17:02:07 -0700'
+image: https://farm9.staticflickr.com/8441/7818384920_2113554332_c.jpg
+thumbnail: https://farm9.staticflickr.com/8441/7818384920_2113554332_q.jpg
+excerpt: <p>Stopping in Eureka, Brick & Fire Bistro was the perfect spot for a bite to eat - a blend of local harvest and Mediterranean tradition.</p>
 categories:
-- Around California
-- Restaurants
+- California
+- California Eats
 tags:
 - Eureka
 - eureka-restaurant

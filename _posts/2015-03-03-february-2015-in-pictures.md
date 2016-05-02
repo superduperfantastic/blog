@@ -6,9 +6,10 @@ title: February 2015 in Pictures
 wordpress_id: 23249
 wordpress_url: http://superduperfantastic.com/?p=23249
 disqus_id: 23249 http://superduperfantastic.com/?p=23249
+excerpt: <p>Daily photo project (#365infocus) in February 2015 - Plenty of Fresca photos, taking the #BetterLetteringCourse, and Valentine's/Galentine's shenanigans.</p>
 date: '2015-03-03 07:12:38 -0800'
 categories:
-- Creativity Strikes!
+- Creativity Strikes
 tags:
 - 365inFocus
 comments: true

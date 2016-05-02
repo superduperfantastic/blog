@@ -10,7 +10,8 @@ thumbnail: https://farm6.staticflickr.com/5514/18259331264_93a3b6f8f5_n.jpg
 image: https://farm6.staticflickr.com/5514/18259331264_93a3b6f8f5_c.jpg
 date: '2015-09-17 13:43:36 -0700'
 date_gmt: '2015-09-17 20:43:36 -0700'
-categories: Travel California
+categories: 
+- California
 tags:
 - Carmel
 - Carmel-by-the-Sea

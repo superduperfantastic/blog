@@ -16,9 +16,23 @@ layout: default
         
         {% if post.thumbnail %}<a href="{{ post.url | prepend: site.baseurl }}">
         <div class="catthumb" style="background-image:url({{ post.thumbnail }})"></div></a>{% endif %}
-    <span class="post-meta">{{ post.date | date: "%a, %B %-d, %Y" }}<br>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}<br>
         <a href="{{ post.url}}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a><br>
-        Filed: {% for category in post.categories %}<a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">{{ category }}</a>{% unless forloop.last %} > {% endunless %} {% endfor %}
+        <i class="fa fa-folder-open" aria-hidden="true"></i> 
+        {% for category in post.categories %}
+                {% for catdata in site.data.categories %}
+                  {% if catdata.cat_name == category %}
+                    <a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">
+                      {% if catdata.cat_sname %}
+                        {{ catdata.cat_sname }}
+                      {% else %}
+                        {{ category }} 
+                      {% endif %}
+                    </a>
+                  {% endif %}
+                {% endfor %} 
+                {% unless forloop.last %} > {% endunless %}
+              {% endfor %}
     </span>
     </div>
     </li>

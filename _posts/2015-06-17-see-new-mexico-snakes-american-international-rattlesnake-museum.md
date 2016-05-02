@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Snakes! American International Rattlesnake Museum'
+title: 'See New Mexico : Snakes! American International Rattlesnake Museum'
 wordpress_id: 23605
 wordpress_url: http://superduperfantastic.com/?p=23605
 disqus_id: 23605 http://superduperfantastic.com/?p=23605
@@ -11,9 +11,9 @@ image: https://farm4.staticflickr.com/3944/15613779925_62874ff532_c.jpg
 excerpt: <p>Hanging out at the incredibly cool American International Rattlesnake Museum, partially to escape the heat of Albuquerque, New Mexico, but also to learn about the amazing rattlesnake.</p>
 date: '2015-06-17 16:56:38 -0700'
 categories:
-- Travel
 - New Mexico
 tags:
+- Albuquerque
 - museum
 - snakes
 comments: true

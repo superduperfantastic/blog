@@ -6,16 +6,17 @@ title: 'Eat SF : Omakase'
 wordpress_id: 23749
 wordpress_url: http://superduperfantastic.com/?p=23749
 disqus_id: 23749 http://superduperfantastic.com/?p=23749
-thumb: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
+thumbnail: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
 image: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_c.jpg
 date: '2015-08-14 16:12:26 -0700'
-categories:
-- Restaurants
+categories: 
+- San Francisco
+- San Francisco Eats
 tags:
 - sushi
 - Japanese
 - SOMA
-- sf-restaurant
+- SF Restaurant
 comments: true
 ---
 _Omakase_ is a Japanese phrase that means "I'll leave it to you." Essentially, you're ordering the chef's choice when using this term at a Japanese restaurant. We were recently invited to dine at [Omakase](http://omakasesf.com/){:target="_blank"}, a traditional Edomae-style sushi bar in San Francisco's SOMA neighborhood, where rather than selecting items from a menu, guests have three pricing options to choose from.<!--more--> The team of chefs led by Chef Jackson Yu serve a series of items based on what guests choose to spend.

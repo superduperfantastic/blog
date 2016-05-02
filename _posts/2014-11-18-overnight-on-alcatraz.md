@@ -2,18 +2,17 @@
 layout: post
 status: publish
 published: true
-title: Overnight on Alcatraz
+title: That Time We Stayed Overnight on Alcatraz
 wordpress_id: 22344
 wordpress_url: http://superduperfantastic.com/?p=22344
 disqus_id: 22344 http://superduperfantastic.com/?p=22344
-thumbnail: https://farm8.staticflickr.com/7569/15569130347_89bb17384c_p.jpg
+thumbnail: https://farm8.staticflickr.com/7569/15569130347_89bb17384c_q.jpg
 image: https://farm8.staticflickr.com/7569/15569130347_89bb17384c_c.jpg
 date: '2014-11-18 08:03:27 -0800'
 categories:
-- Life in SF
+- San Francisco
 tags:
 - national parks
-- Alcatraz
 comments: true
 ---
 About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island"){:target="_blank"}!<!--more-->

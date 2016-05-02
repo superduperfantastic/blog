@@ -284,15 +284,14 @@ nav#menu.scrolled {
 }
 
 .posts li {
-    padding-top: $spacing-unit/3;
-    width: 47%;
+    padding-top: $spacing-unit/2;
+    width: 45%;
     display: inline-block;
-    height: $spacing-unit * 10;
-    vertical-align:top;
+    height: $spacing-unit * 11;
 }
 
 .posts .category {
-    min-height: 2.5em;
+    min-height: 3.75em;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -309,6 +308,14 @@ nav#menu.scrolled {
 
 .center {
 text-align:center;
+}
+.right {
+    float: right;
+    padding-left: $spacing-unit/2;
+}
+.left {
+    float: left;
+    padding-right: $spacing-unit/2;
 }
 .separator {
     background-color: $hover-color;

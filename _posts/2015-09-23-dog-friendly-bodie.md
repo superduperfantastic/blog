@@ -10,11 +10,11 @@ thumbnail: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2
 image: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-21-1024x683.jpg
 date: '2015-09-23 07:18:14 -0700'
 categories: 
-- Travel
 - California
 tags:
 - Eastern Sierras
 - Bodie
+- Mono County
 - dog-friendly
 comments: true
 ---

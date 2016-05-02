@@ -11,10 +11,8 @@ image: https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_c.jpg
 excerpt: <p>Arrival in Mexico City and our official first full day in Mexico City.  We enjoy our first meals and spend some time learning about Mexico City through its food with a tour with Eat Mexico.</p>
 date: '2015-12-10 10:23:16 -0800'
 categories:
-- Travel
 - Mexico
 tags:
-- Mexico
 - Mexico City
 comments: true
 ---

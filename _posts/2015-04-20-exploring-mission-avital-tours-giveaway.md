@@ -2,16 +2,17 @@
 layout: post
 status: publish
 published: true
-title: 'Exploring the Mission with Avital Tours'
+title: 'Eat SF : Exploring the Mission with Avital Tours'
 wordpress_id: 23469
 wordpress_url: http://superduperfantastic.com/?p=23469
 disqus_id: 23469 http://superduperfantastic.com/?p=23469
 thumbnail: https://farm8.staticflickr.com/7714/16552166894_79b125041c_q.jpg
 image: https://farm8.staticflickr.com/7714/16552166894_79b125041c_c.jpg
+excerpt: <p>Mission District food tour - checking out four spots (Mission Cheese, Hog & Rocks, Tacolicious, BiRite) and getting the inside scoop with Avital Tours.</p>
 date: '2015-04-20 07:15:47 -0700'
 categories:
-- Life in SF
-- Hungry Suki
+- San Francisco
+- San Francisco Eats
 tags:
 - The Mission
 - food tour

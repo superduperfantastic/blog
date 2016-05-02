@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Wildlife West Nature Park'
+title: 'Visiting Rescue Animals of the Southwest at Wildlife West Nature Park'
 wordpress_id: 22867
 wordpress_url: http://superduperfantastic.com/?p=22867
 disqus_id: 22867 http://superduperfantastic.com/?p=22867
@@ -10,9 +10,9 @@ image: https://farm4.staticflickr.com/3945/15610995951_c56986fff4_c.jpg
 thumbnail: https://farm4.staticflickr.com/3945/15610995951_c56986fff4_q.jpg
 date: '2015-01-15 23:29:18 -0800'
 categories:
-- Travel
 - New Mexico
 tags:
+- Edgewood
 - zoo
 comments: true
 ---
