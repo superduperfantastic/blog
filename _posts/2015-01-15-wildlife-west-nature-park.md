@@ -10,6 +10,7 @@ image: https://farm4.staticflickr.com/3945/15610995951_c56986fff4_c.jpg
 thumbnail: https://farm4.staticflickr.com/3945/15610995951_c56986fff4_q.jpg
 date: '2015-01-15 23:29:18 -0800'
 categories:
+- Travel
 - New Mexico
 tags:
 - Edgewood

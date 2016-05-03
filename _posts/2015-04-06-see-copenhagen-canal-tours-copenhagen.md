@@ -11,6 +11,7 @@ image: https://farm8.staticflickr.com/7354/9736438853_b0ce4359be_c.jpg
 thumbnail: https://farm8.staticflickr.com/7354/9736438853_b0ce4359be_q.jpg
 excerpt: <p>Taking a tour on the water with Canal Tours Copenhagen - one of many attractions you'll find on the Copenhagen Card.</p>
 categories:
+- Travel
 - Denmark
 tags:
 - Copenhagen

@@ -11,6 +11,7 @@ image: https://farm9.staticflickr.com/8441/7818384920_2113554332_c.jpg
 thumbnail: https://farm9.staticflickr.com/8441/7818384920_2113554332_q.jpg
 excerpt: <p>Stopping in Eureka, Brick & Fire Bistro was the perfect spot for a bite to eat - a blend of local harvest and Mediterranean tradition.</p>
 categories:
+- Travel
 - California
 - California Eats
 tags:

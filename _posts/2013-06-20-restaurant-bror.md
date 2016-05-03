@@ -11,6 +11,7 @@ image: http://farm8.staticflickr.com/7443/9083764378_5c85442062_c.jpg
 thumbnail: http://farm8.staticflickr.com/7443/9083764378_5c85442062_q.jpg
 date: '2013-06-20 08:30:59 -0700'
 categories:
+- Travel
 - Denmark
 - Denmark Eats
 tags:

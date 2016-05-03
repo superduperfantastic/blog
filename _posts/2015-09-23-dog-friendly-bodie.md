@@ -9,7 +9,8 @@ disqus_id: 23819 http://superduperfantastic.com/?p=23819
 thumbnail: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-21-1024x683.jpg
 image: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-21-1024x683.jpg
 date: '2015-09-23 07:18:14 -0700'
-categories: 
+categories:
+- Travel 
 - California
 tags:
 - Eastern Sierras

@@ -5,7 +5,7 @@
 
     <title>{% if page.title %}{{ site.title }} {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
     <link rel="stylesheet" id="sb_instagram_icons-css" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?1&amp;ver=8f7a77a44adebfedbdf2daa5dbc09fef" type="text/css" media="all">
     <link rel="stylesheet" id="ci-google-font-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic%7CLato%3A400%2C400italic%2C700%2C700italic&amp;ver=8f7a77a44adebfedbdf2daa5dbc09fef" type="text/css" media="all">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

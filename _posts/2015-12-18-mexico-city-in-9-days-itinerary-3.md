@@ -12,6 +12,7 @@ excerpt: <p>Days 4 and 5 of our Mexico City adventures - we spend time exploring
 date: '2015-12-18 14:09:58 -0800'
 date_gmt: '2015-12-18 22:09:58 -0800'
 categories:
+- Travel
 - Mexico
 tags:
 - Mexico City

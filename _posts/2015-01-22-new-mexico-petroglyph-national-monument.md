@@ -10,6 +10,7 @@ thumbnail: https://farm4.staticflickr.com/3933/14985493274_159437e80c_q.jpg
 image: https://farm4.staticflickr.com/3933/14985493274_159437e80c_b.jpg
 date: '2015-01-22 07:56:41 -0800'
 categories:
+- Travel
 - New Mexico
 tags:
 - national parks

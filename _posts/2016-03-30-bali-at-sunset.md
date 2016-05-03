@@ -10,6 +10,7 @@ thumbnail: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_q.jpg
 image: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_c.jpg
 date: '2016-03-30 9:09:58 -0800'
 categories:
+- Travel
 - Bali
 tags:
 - Institute of Code
