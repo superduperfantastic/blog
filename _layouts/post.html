@@ -6,7 +6,7 @@ layout: default
     <h2><a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2> 
     <span class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> ~ <a href="#disqus_thread" data-disqus-identifier="{{ page.disqus_id }}">comments</a></span>
     <div class="post-category"><i class="fa fa-folder-open" aria-hidden="true"></i> 
-    {% for category in post.categories %}
+    {% for category in page.categories %}
                 {% for catdata in site.data.categories %}
                   {% if catdata.cat_name == category %}
                     <a href="{{ "/category/" | prepend: site.baseurl}}{{category | slugify }}">

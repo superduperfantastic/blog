@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Visiting Rescue Animals of the Southwest at Wildlife West Nature Park'
+title: 'Wildlife West Nature Park - Rescue Animals of the Southwest'
 wordpress_id: 22867
 wordpress_url: http://superduperfantastic.com/?p=22867
 disqus_id: 22867 http://superduperfantastic.com/?p=22867

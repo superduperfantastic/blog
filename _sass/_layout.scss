@@ -1,6 +1,4 @@
-/**
- * Site header
- */
+/*** Site header */
 .site-logo {
     width: 100%;
     height: 250px;
@@ -41,9 +39,7 @@ nav#menu.scrolled {
 }
 
 
-/**
- * Site footer
- */
+/*** Site footer */
 .site-footer {
     border-top: 1px solid $hover-color;
     padding: $spacing-unit;
@@ -134,7 +130,7 @@ nav#menu.scrolled {
     display: block;
 }
 .excerpt {
-    width: 75%;
+    width: 80%;
     height: $spacing-unit * 12;
     padding-top: $spacing-unit * 5;
     margin: 0 auto;
@@ -285,13 +281,12 @@ nav#menu.scrolled {
 
 .posts li {
     padding-top: $spacing-unit/2;
-    width: 45%;
+    width: 49%;
     display: inline-block;
-    height: $spacing-unit * 11;
+    height: $spacing-unit * 9;
 }
 
 .posts .category {
-    min-height: 3.75em;
     padding-left: 10px;
     padding-right: 10px;
 }

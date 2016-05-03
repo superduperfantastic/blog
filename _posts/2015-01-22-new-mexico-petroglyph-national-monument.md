@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Petroglyph National Monument'
+title: 'Petroglyph National Monument - Symbols and Tales of the Past'
 wordpress_id: 22931
 wordpress_url: http://superduperfantastic.com/?p=22931
 disqus_id: 22931 http://superduperfantastic.com/?p=22931

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'See New Mexico : Snakes! American International Rattlesnake Museum'
+title: 'Snakes! American International Rattlesnake Museum'
 wordpress_id: 23605
 wordpress_url: http://superduperfantastic.com/?p=23605
 disqus_id: 23605 http://superduperfantastic.com/?p=23605

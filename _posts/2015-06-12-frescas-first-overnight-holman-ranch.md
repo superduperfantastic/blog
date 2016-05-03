@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Fresca's First Overnight : Dog-friendly Holman Ranch in Carmel Valley"
+title: "Dog-friendly Holman Ranch - Fresca's First Overnight"
 wordpress_id: 23613
 wordpress_url: http://superduperfantastic.com/?p=23613
 disqus_id: 23613 http://superduperfantastic.com/?p=23613
