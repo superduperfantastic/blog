@@ -7,11 +7,10 @@ wordpress_id: 23041
 wordpress_url: http://superduperfantastic.com/?p=23041
 disqus_id: 23041 http://superduperfantastic.com/?p=23041
 thumbnail: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_q.jpg
-image: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_c.jpg
+image: https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_b.jpg
 excerpt: <p>White Sands National Monument - a few hours in the surreal surroundings of sand dunes in Alamogordo, New Mexico, and a full moon hike!</p>
 date: '2015-03-20 08:20:50 -0700'
 categories:
-- Travel
 - New Mexico
 tags:
 - national parks
@@ -22,7 +21,7 @@ I first heard about [White Sands National Monument](http://www.nps.gov/whsa/inde
 You know where this is going, right? After all, we were in New Mexico in October.
 
 {:.center}
-![](https://farm6.staticflickr.com/5609/15608590115_057135c05a_c.jpg)  
+![](https://farm6.staticflickr.com/5609/15608590115_057135c05a_b.jpg)  
 _White Sands National Monument at twilight_
 
 With Alamogordo and [White Sands National Monument](http://www.nps.gov/whsa/index.htm "White Sands National Monument"){:target="_blank} a little under 200 miles away from where we were staying, we decided to make a day trip of it. It would be a lot of driving, but we knew we didn't want to get to the dunes until late afternoon (when it wouldn't be as hot). We started off in the AM, making stops along the way and found ourselves at White Sands around 4:30 in the afternoon.
@@ -30,21 +29,21 @@ With Alamogordo and [White Sands National Monument](http://www.nps.gov/whsa/inde
 It felt like we had arrived on another planet.
 
 {:.center}
-![White Sands National Monument](https://farm8.staticflickr.com/7591/16680267148_18ac83ba8e_c.jpg)  
+![White Sands National Monument](https://farm8.staticflickr.com/7591/16680267148_18ac83ba8e_b.jpg)  
 
 {:.center}
-![White Sands National Monument](https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_c.jpg)
+![White Sands National Monument](https://farm9.staticflickr.com/8625/16681749359_949f40ae1e_b.jpg)
 
 We played in the dunes for a bit. Considering it was late afternoon, it was still quite hot out. It probably didn't help that the heat was reflecting off the sand.
 
 {:.center}
-![White Sands National Monument](https://farm4.staticflickr.com/3953/15584868186_8feaa5401c_c.jpg)  
+![White Sands National Monument](https://farm4.staticflickr.com/3953/15584868186_8feaa5401c_b.jpg)  
 
 {:.center}
 ![White Sands National Monument](https://farm4.staticflickr.com/3939/15421914869_9a524fae71_m.jpg){:width="33%"} ![White Sands National Monument](https://farm4.staticflickr.com/3944/15608547995_7c060e708f_m.jpg){:width="33%"} ![White Sands National Monument](https://farm8.staticflickr.com/7640/16872567282_ea26ea6ddc_m.jpg){:width="33%"}  
 
 {:.center}
-![White Sands National Monument](https://farm4.staticflickr.com/3954/15609376962_e5b71aeb69_c.jpg)
+![White Sands National Monument](https://farm4.staticflickr.com/3954/15609376962_e5b71aeb69_b.jpg)
 
 At 6:30, we joined a ranger-led full moon hike.
 
@@ -53,21 +52,21 @@ Seven times a year between the months of May and October, [White Sands National 
 White Sands was already on our list, so the full moon hike was definitely the icing on top!
 
 {:.center}
-![White Sands National Monument](https://farm6.staticflickr.com/5616/15421931429_71be92af76_c.jpg)  
+![White Sands National Monument](https://farm6.staticflickr.com/5616/15421931429_71be92af76_b.jpg)  
 
 {:.center}
-![White Sands National Monument](https://farm6.staticflickr.com/5599/14988441343_6f2471e37d_c.jpg)  
+![White Sands National Monument](https://farm6.staticflickr.com/5599/14988441343_6f2471e37d_b.jpg)  
 
 {:.center}
 ![White Sands National Monument](https://farm8.staticflickr.com/7611/16247910123_4a5822e109.jpg){:width="43%"} ![White Sands National Monument](https://farm4.staticflickr.com/3936/15609407872_703aebf742.jpg){:width="49%"}  
 
 {:.center}
-![White Sands National Monument](https://farm6.staticflickr.com/5616/15609412312_289ab6381f_c.jpg)
+![White Sands National Monument](https://farm6.staticflickr.com/5616/15609412312_289ab6381f_b.jpg)
 
 As the sun set and the moon rose, we relied heavily on our eyes adjusting to the darkness and using the moonlight to guide us. The temperatures dropped just a little bit, so we were glad to have an extra layer with us. Our ranger led us around the dunes, all the while explaining what plants and animals survive in this somewhat harsh environment. Most of our photo taking took place during twilight, but I did get this shot after dark.
 
 {:.center}
-![Full Moon Hike at White Sands National Monument](https://farm6.staticflickr.com/5611/15584922576_43492b9956_c.jpg)
+![Full Moon Hike at White Sands National Monument](https://farm6.staticflickr.com/5611/15584922576_43492b9956_b.jpg)
 
 The website makes the hike seem more strenuous than it is. It's always better to be a bit more cautious anyway. If a full moon hike isn't your thing, there are a few other options. As always, any trip to a national park is so worthwhile. More information on other tour options: [here](http://www.nps.gov/whsa/planyourvisit/feesandreservations.htm){:target="_blank}!
 

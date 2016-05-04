@@ -7,7 +7,7 @@ wordpress_id: 23469
 wordpress_url: http://superduperfantastic.com/?p=23469
 disqus_id: 23469 http://superduperfantastic.com/?p=23469
 thumbnail: https://farm8.staticflickr.com/7714/16552166894_79b125041c_q.jpg
-image: https://farm8.staticflickr.com/7714/16552166894_79b125041c_c.jpg
+image: https://farm8.staticflickr.com/7714/16552166894_79b125041c_b.jpg
 excerpt: <p>Mission District food tour - checking out four spots (Mission Cheese, Hog & Rocks, Tacolicious, BiRite) and getting the inside scoop with Avital Tours.</p>
 date: '2015-04-20 07:15:47 -0700'
 categories:
@@ -23,20 +23,20 @@ _Disclosure: I was invited to check out the Mission District Food Tour with Avit
 One of the things I enjoy doing the most in San Francisco is stepping into the shoes of a visitor. Maintaining a fresh perspective of the city I grew up in is what keeps the relationship strong between us.
 
 {:.center}
-![Avital Tours - Mission District](https://farm8.staticflickr.com/7597/17173985601_7d1d863866_c.jpg)
+![Avital Tours - Mission District](https://farm8.staticflickr.com/7597/17173985601_7d1d863866_b.jpg)
 
 Very recently, I was approached by [Avital Tours](http://avitaltours.com/ "Avital Tours"){:target="_blank"} to check out one of their food tours, specifically the one in the Mission. They take pride in not being _a typical tour company_ - they consider themselves "a culinary experience company who provides a behind-the-scenes snapshot of a famous San Francisco neighborhood by telling its story through its people and great food (and drink, of course!)."
 
 The Mission edition of Avital Tours meets at the Women's Building and hits up four restaurants in three hours. That gives you two spots for appetizers and drinks, one for your entree, and a final stop for your dessert. Tours run Tuesday, Saturday (mid-day and afternoon), and Sunday, so plenty of options to choose from.
 
 {:.center}
-![Avital Tours - Mission District](https://farm8.staticflickr.com/7714/16552166894_79b125041c_c.jpg)  
+![Avital Tours - Mission District](https://farm8.staticflickr.com/7714/16552166894_79b125041c_b.jpg)  
 _Our tour guide, Corinne_
 
 We joined in for a tour on a Tuesday evening after work. Corinne, our guide, met us at the Women's Building, gave us a quick intro and then led us down the street and around the corner to our first restaurant on the Mission District tour: Mission Cheese.
 
 {:.center}
-![Avital Tours - Mission Cheese](https://farm9.staticflickr.com/8776/17172943262_db2e0a9c23_c.jpg)
+![Avital Tours - Mission Cheese](https://farm9.staticflickr.com/8776/17172943262_db2e0a9c23_b.jpg)
 
 I don't think I could have hidden my excitement for our stop at [Mission Cheese](http://missioncheese.net/ "Mission Cheese"){:target="_blank"}. I'd been wanting to go for so long and just never got around to it. I was glad my first experience was with Avital Tours!
 
@@ -55,11 +55,11 @@ _A Blood Orange Collins to go with our plate of Washington Miagi oyster, Greci &
 In addition to the food stops, we made a few mural stops as well. Corinne gave us some background information, as well as fun facts. It kept the walk from restaurant to restaurant entertaining.
 
 {:.center}
-![](https://farm9.staticflickr.com/8777/16987085920_d01207bf1b_c.jpg)  
+![](https://farm9.staticflickr.com/8777/16987085920_d01207bf1b_b.jpg)  
 _Giants mural outside of Hog and Rocks_
 
 {:.center}
-![](https://farm9.staticflickr.com/8742/17174015951_c386120b91_c.jpg)
+![](https://farm9.staticflickr.com/8742/17174015951_c386120b91_b.jpg)
 
 Our entree stop was [Tacolicious](http://tacolicious.com/ "Tacolicious"){:target="_blank"}, which up until that point in time, I'd had no desire to check out. It was probably the cheesy name. Silly to have a barrier to entry like that, but I'd have to say that because of the tour, I definitely wouldn't mind swinging by again.
 
@@ -70,7 +70,7 @@ _Tacos - Shot-and-a-Beer Braised Chicken [left] and Pacific Cod [right]_
 Before hitting up our final stop for dessert, we took a little shopping/sampling break at [Bi-Rite Market](http://www.biritemarket.com/ "Bi-Rite Market"){:target="_blank"}. While I'm familiar with parts of the market's story, it was nice to get a more detailed version.
 
 {:.center}
-![](https://farm9.staticflickr.com/8773/16987103000_169e76d4c4_c.jpg)
+![](https://farm9.staticflickr.com/8773/16987103000_169e76d4c4_b.jpg)
 
 And as one might have guessed where this was all leading - the salted caramel ice cream at Bi-Rite Creamery across the street!
 

@@ -7,7 +7,7 @@ wordpress_id: 23749
 wordpress_url: http://superduperfantastic.com/?p=23749
 disqus_id: 23749 http://superduperfantastic.com/?p=23749
 thumbnail: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
-image: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_c.jpg
+image: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_b.jpg
 date: '2015-08-14 16:12:26 -0700'
 categories: 
 - San Francisco
@@ -31,32 +31,32 @@ With a total of 14 seats, no matter if one chooses the early or later seating, t
 Our belongings were tucked away under our seats in baskets that were likely custom produced by Japanese artisans for the restaurant. Most of their dishware and pottery is, at least. The quality of the wood, ceramic and porcelain is apparent, and if you want to hear the story behind each piece, your server will be more than happy to explain. The quality of the ingredients and tabletop accessories make the dining experience at Omakase like no other in the Bay Area.
 
 {:.center}
-![Omakase - Sake](https://farm1.staticflickr.com/496/19384832739_11b045c3f3_c.jpg)  
+![Omakase - Sake](https://farm1.staticflickr.com/496/19384832739_11b045c3f3_b.jpg)  
 _Nishida Kikuizumi Ginjo Sake from Aomori prefecture_
 
 {:.center}
-![Omakase - sake](https://farm1.staticflickr.com/451/19575838611_1a28553ca6_c.jpg) 
+![Omakase - sake](https://farm1.staticflickr.com/451/19575838611_1a28553ca6_b.jpg) 
 
 {:.center}
-![Omakase - sake](https://farm1.staticflickr.com/375/18950590643_55be591883_c.jpg)  
+![Omakase - sake](https://farm1.staticflickr.com/375/18950590643_55be591883_b.jpg)  
 _Akitabare Suirakuten Daiginjo Sake from Akita prefecture - enjoyed out of tin [Mt Fuji](http://www.shopnousaku.com/shop/item_detail?category_id=420382&item_id=1072873){:target="_blank"} sake cups_
 
 The dining experience reminded me of the movie [Jiro Dreams of Sushi](http://www.magpictures.com/jirodreamsofsushi/){:target="_blank"}, where piece after piece of fish is presented for consumption. It was less intense, of course. I didn't keep track of the timing of our meal, but it was a much more relaxed pace.
 
 {:.center}
-![Omakase - Lobster Snow Crab Salad](https://farm4.staticflickr.com/3756/19571365465_4fdaea069a_c.jpg)   
+![Omakase - Lobster Snow Crab Salad](https://farm4.staticflickr.com/3756/19571365465_4fdaea069a_b.jpg)   
 _Lobster Snow Crab Salad (left) and Ball Sushi with Fresh Ginger (right)_
 
 {:.center}
-![Omakase - Uni Fish Cake over Kombu](https://farm1.staticflickr.com/351/19571370955_257ba7ec07_c.jpg)  
+![Omakase - Uni Fish Cake over Kombu](https://farm1.staticflickr.com/351/19571370955_257ba7ec07_b.jpg)  
 _Uni Fish Cake over Kombu (edible kelp)_
 
 {:.center}
-![Omakase - Sashimi](https://farm1.staticflickr.com/319/19384849599_a63ced4815_c.jpg)  
+![Omakase - Sashimi](https://farm1.staticflickr.com/319/19384849599_a63ced4815_b.jpg)  
 _Live Octopus, Ocean Trout with 24k gold flakes, Trout Belly, Bluefin Tuna, Black Sea Bream_
 
 {:.center}
-![Omakase - Sashimi](https://farm1.staticflickr.com/262/19383440398_05515b76af_c.jpg)  
+![Omakase - Sashimi](https://farm1.staticflickr.com/262/19383440398_05515b76af_b.jpg)  
 _Close-up of the Sashimi_
 
 After the sashimi course of the meal came the nigiri. We were encouraged to use our hands and to enjoy them as the chef prepared them without adding soy sauce of our own. I didn't mention my aversion towards wasabi, but the small amounts used didn't bother me too much._
@@ -70,7 +70,7 @@ _Shima Aji (Striped Jack) and Blue Fin Tuna_
 _Isaki (Grunt Fish) and Torched Butterfish_
 
 {:.center}
-![Omakase - Sashimi](https://farm4.staticflickr.com/3706/18950511313_04443192cd_c.jpg)  
+![Omakase - Sashimi](https://farm4.staticflickr.com/3706/18950511313_04443192cd_b.jpg)  
 _Chef Jackson torching it up_
 
 {:.center}

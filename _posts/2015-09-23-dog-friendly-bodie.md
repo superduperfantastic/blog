@@ -10,7 +10,6 @@ thumbnail: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-2
 image: http://superduperfantastic.com/wp-content/uploads/2015/09/Bodie-Dog-21-1024x683.jpg
 date: '2015-09-23 07:18:14 -0700'
 categories:
-- Travel 
 - California
 tags:
 - Eastern Sierras
@@ -60,7 +59,7 @@ Fresca enjoyed the sights and smells and didn't seem turned off by the ghosts. A
 **#TruLoveIs** maintaining your pup's routines, even when on the road. We are incredibly blessed that Fresca is flexible in terms of being able to travel with us. She adjusts and adapts to new environments because we take the time to familiarize her with new surroundings. We also try to bring some comforts of home along, like a favorite blanket, toy, and of course, her favorite - food and snacks! 
 
 {:.center}
-![Dog-friendly Bodie](https://c1.staticflickr.com/1/699/21036298164_3789ac7d06_c.jpg)
+![Dog-friendly Bodie](https://c1.staticflickr.com/1/699/21036298164_3789ac7d06_b.jpg)
 
 Can't wait for our next adventure together!
 

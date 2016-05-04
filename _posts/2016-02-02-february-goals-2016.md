@@ -6,7 +6,7 @@ title: February Goals {2016}
 wordpress_id: 24251
 wordpress_url: http://superduperfantastic.com/?p=24251
 disqus_id: 24251 http://superduperfantastic.com/?p=24251
-image: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_c.jpg
+image: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_b.jpg
 thumbnail: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_q.jpg
 excerpt: <p>While I succeeded at meeting most of my January goals, there was still one I needed to work on. Find out what worked and what didn't. Also, February goals!</p>
 date: '2016-02-02 16:22:02 -0800'
@@ -22,7 +22,7 @@ Before discussing my February goals, here's how I did in January:
 When I had most of my Javascript modules of [FreeCodeCamp](http://www.freecodecamp.com/){:target="_blank"} to complete, it wasn't difficult to work on this daily. Towards the end of the month, I switched to prepping for Bali by reviewing HTML/CSS. Unfortunately, it wasn't consistent, and I slacked a bit towards the end of the month.
 
 {:.center}
-[![Instagram](https://c2.staticflickr.com/2/1713/24414664469_625abecf31_c.jpg)](http://instagram.com/slightlydelightful/){:target="_blank"}
+[![Instagram](https://c2.staticflickr.com/2/1713/24414664469_625abecf31_b.jpg)](http://instagram.com/slightlydelightful/){:target="_blank"}
 
 **Draw daily. {SUCCESS}**  
 For 31 days, I participated in Lisa Congdon's [31 Things to Draw daily challenge](https://www.creativebug.com/classseries/single/daily-drawing-challenge){:target="_blank"} on Creative Bug. Check out the results on [Instagram](http://instagram.com/slightlydelightful/){:target="_blank"}!
@@ -37,7 +37,7 @@ Some days I would be in bed even before 11. Other days, I'd run into the room at
 This was actually not difficult at all and an easy way to save money. Even though I am not setting it as an official goal for February _and_ there's a bottomless brunch on the horizon, I'm going to try to keep this to a minimum and work through some of the beer and wine we have at home.
 
 {:.center}
-![](https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_c.jpg)  
+![](https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_b.jpg)  
 _Looking up, then down during a revisit to [Armstrong Redwoods State Natural Reserve](http://superduperfantastic.com/big-red/3512/){:target="_blank"} in January_
 
 ### February Goals

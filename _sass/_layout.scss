@@ -130,9 +130,8 @@ nav#menu.scrolled {
     display: block;
 }
 .excerpt {
-    width: 80%;
-    height: $spacing-unit * 12;
-    padding-top: $spacing-unit * 5;
+    height: $spacing-unit * 14;
+    padding-top: $spacing-unit * 9;
     margin: 0 auto;
 }
 .excerpt-text {
@@ -164,7 +163,6 @@ nav#menu.scrolled {
 }
 .post-header, .post-header-index {
     text-align:center;
-    padding: $spacing-unit/2 0;
 }
 .post-header {
     margin-bottom: $spacing-unit;

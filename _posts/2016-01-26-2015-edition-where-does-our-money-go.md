@@ -2,13 +2,13 @@
 layout: post
 status: publish
 published: true
-title: '2015 Edition: Where Does Our Money Go?'
+title: '2015 Edition: Where Our Money Goes'
 excerpt: <p>With the obsession I have over checking my spending and accounts, it's a
   surprise I don't talk about money more often. Where does our money go? </p>
 wordpress_id: 24227
 wordpress_url: http://superduperfantastic.com/?p=24227
 disqus_id: 24227 http://superduperfantastic.com/?p=24227
-image: https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_c.jpg
+image: https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_b.jpg
 thumbnail: https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_q.jpg
 date: '2016-01-26 16:20:45 -0800'
 categories:

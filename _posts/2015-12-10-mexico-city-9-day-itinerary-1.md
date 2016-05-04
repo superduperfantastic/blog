@@ -7,11 +7,10 @@ wordpress_id: 24020
 wordpress_url: http://superduperfantastic.com/?p=24020
 disqus_id: 24020 http://superduperfantastic.com/?p=24020
 thumbnail: https://c2.staticflickr.com/6/5802/23430232582_a413969592_q.jpg
-image: https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_c.jpg
+image: https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_b.jpg
 excerpt: <p>Arrival in Mexico City and our official first full day in Mexico City.  We enjoy our first meals and spend some time learning about Mexico City through its food with a tour with Eat Mexico.</p>
 date: '2015-12-10 10:23:16 -0800'
 categories:
-- Travel
 - Mexico
 tags:
 - Mexico City
@@ -27,7 +26,7 @@ Mexico City was amazing. So much good food, sights to see, things to do. I don't
 We arrived at the airport and took an Uber to your Airbnb where we quickly dropped our bags off in our room and were whisked away by our hosts for a quick bite to eat. Delicious Marlin tacos at [El Pescadito Condesa DF](https://www.facebook.com/ElPescaditoCondesaDf){:target="_blank"} were our first meal in Mexico City! Pro tip: Instead of standing in the long line to be seated inside at a table, order at the register for take out and pick up your food next door and enjoy on the bench right outside.
 
 {:.center}
-![Mexico City - El Pescadito Condesa](https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_c.jpg)
+![Mexico City - El Pescadito Condesa](https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_b.jpg)
 
 The rest of the afternoon, we tried finding a working ATM and acquiring SIM cards for our phones. Unfortunately, we were met with no success.
 
@@ -36,7 +35,7 @@ In the evening, our hosts helped us with acquiring SIM cards, but we couldn't qu
 With our working phones, we made reservations for a fancy restaurant that we happened to walk by in Polanco. It was recommended to us by the community manager of Yelp Mexico City. We showed up to [Biko](http://www.biko.com.mx/){:target="_blank"} in our street clothes, and while we felt awkward for the first five minutes, we soon ordered the tasting menu and shared a wine pairing.
 
 {:.center}
-![Mexico City - Biko](https://c1.staticflickr.com/1/577/23030067343_406d36fc5f_c.jpg)
+![Mexico City - Biko](https://c1.staticflickr.com/1/577/23030067343_406d36fc5f_b.jpg)
 
 It was a really big meal.
 

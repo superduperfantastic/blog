@@ -7,10 +7,10 @@ wordpress_id: 21319
 wordpress_url: http://superduperfantastic.com/?p=21319
 disqus_id: 21319 http://superduperfantastic.com/?p=21319
 date: '2013-10-16 23:36:41 -0700'
-image: http://farm8.staticflickr.com/7288/9737131395_8a0e09ce42_c.jpg
+image: http://farm8.staticflickr.com/7288/9737131395_8a0e09ce42_b.jpg
 thumbnail: http://farm8.staticflickr.com/7288/9737131395_8a0e09ce42_q.jpg
+excerpt: <p>If you ever catch yourself as a tourist in Copenhagen on a Monday, you'll likely find that many of the sights you want to visit are closed. Luckily, Monday is when Den Bla Planet has extended hours (10am to 9pm), so you'll have something to do until at least nine in the evening.</p>
 categories:
-- Travel
 - Denmark
 tags:
 - Copenhagen
@@ -30,31 +30,31 @@ Here are some of my favorite shots from our trip to Den Bla Planet:
 
 From the [COLEOIDEA](http://www.denblaaplanet.dk/en/experiences/overview/ "Den Bla Planet Overview / Map") section of the aquarium!
 
-![Den Bla Planet - Octopus](http://farm8.staticflickr.com/7288/9737131395_8a0e09ce42_c.jpg)
+![Den Bla Planet - Octopus](http://farm8.staticflickr.com/7288/9737131395_8a0e09ce42_b.jpg)
 
 The tank of piranha was incredibly creepy and pretty at the same time. Such sparkly and deceivingly beautiful fish.
 
-![Den Bla Planet - Piranha](http://farm8.staticflickr.com/7349/9737146501_5995af977b_c.jpg)
+![Den Bla Planet - Piranha](http://farm8.staticflickr.com/7349/9737146501_5995af977b_b.jpg)
 
 As you walked by, the piranhas seemed to follow you - slowly turning towards you with smiles and beady eyes on their creepy little faces. I'm sure if they could jump out of the tank to take a bite from us, they would have!
 
 This guy looks like he came right out of a video game.
 
-![Den Bla Planet - Turtle](http://farm8.staticflickr.com/7334/9737157021_16605be627_c.jpg)
+![Den Bla Planet - Turtle](http://farm8.staticflickr.com/7334/9737157021_16605be627_b.jpg)
 
 *cough* Mario Bros *cough*
 
-![Den Bla Planet - Coral](http://farm8.staticflickr.com/7376/9737166263_72748b1076_c.jpg)
+![Den Bla Planet - Coral](http://farm8.staticflickr.com/7376/9737166263_72748b1076_b.jpg)
 
 A visit to Den Bla Planet isn't complete without a shark attack photo!
 
-![Den Bla Planet - Shark Photo](http://farm8.staticflickr.com/7317/9737129263_6e8092ee36_c.jpg)
+![Den Bla Planet - Shark Photo](http://farm8.staticflickr.com/7317/9737129263_6e8092ee36_b.jpg)
 
 I do love a good aquarium, and this was definitely one of them. So many great photo ops!
 
 **When was the last time you were at an aquarium? What are your favorite sea/lake/[fill in with body of water] creatures?**
 
-![Den Bla Planet](http://farm8.staticflickr.com/7330/9737211509_fab5a5b834_c.jpg)
+![Den Bla Planet](http://farm8.staticflickr.com/7330/9737211509_fab5a5b834_b.jpg)
 
 Den Bla Planet is one of many museums and attractions (70ish or so) included on the [Copenhagen Card](http://www.copenhagencard.com/?currency=dkk "Copenhagen Card"). With 24-, 48-, 72-, and 120-hour cards to choose from, the Copenhagen Card also covers all transport by train, bus, harbor bus and metro in the entire Copenhagen region, including from/to the airport.
 
