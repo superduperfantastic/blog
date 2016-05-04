@@ -16,7 +16,7 @@ tags:
 - zoo
 comments: true
 ---
-Ryan and I kicked off the new year with a visit to the San Francisco Zoo. The 100 acres in the southwestern corner of the city is home to over 1,000 exotic, endangered and rescued animals representing more than 250 species. I bought a membership last year, thinking we would visit a few times during the year. It expires at the end of the month, and I've only gone once in the year.<!--more-->
+Ryan and I kicked off the new year with a visit to the San Francisco Zoo. The 100 acres in the southwestern corner of the city is home to over 1,000 exotic, endangered and rescued animals representing more than 250 species.<!--more--> I bought a membership last year, thinking we would visit a few times during the year. It expires at the end of the month, and I've only gone once in the year.
 
 {:.center}
 ![San Francisco Zoo - Giraffes](https://c2.staticflickr.com/2/1554/23493946053_b92e7cb4b9_b.jpg)\\
