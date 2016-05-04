@@ -131,7 +131,6 @@ nav#menu.scrolled {
 }
 .excerpt {
     height: $spacing-unit * 14;
-    padding-top: $spacing-unit * 6;
     margin: 0 auto;
 }
 .excerpt-text {
@@ -169,7 +168,6 @@ nav#menu.scrolled {
 }
 
 .post-title {
-    font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -325,6 +323,7 @@ text-align:center;
     text-align:center;
     color: $hover-color;
     font-size: 0.75em;
+    border: 1px solid $hover-color;
     text-transform: uppercase;
     left: 75%;
     position: relative;
@@ -333,6 +332,7 @@ text-align:center;
 .readmore:hover {
     color: $brand-color;
     font-weight: bold;
+    border: 1px solid $brand-color;
 }
 .relatedPost {
     display: inline-block;

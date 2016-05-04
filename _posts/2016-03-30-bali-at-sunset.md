@@ -7,7 +7,7 @@ wordpress_id: 24562
 wordpress_url: http://superduperfantastic.com/?p=24562
 disqus_id: 24562 http://superduperfantastic.com/?p=24562
 thumbnail: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_q.jpg
-image: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_b.jpg
+image: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_c.jpg
 date: '2016-03-30 9:09:58 -0800'
 categories:
 - Bali
