@@ -129,13 +129,20 @@ nav#menu.scrolled {
 .post-category, .post-link, .post-meta, .post-tags {
     display: block;
 }
-.excerpt {
-    height: $spacing-unit * 14;
+.excerpt-image {
+    height: $spacing-unit * 8;
     margin: 0 auto;
+    transition: all 0.5s ease;
+}
+.excerpt-image:hover {
+    transform: scale(0.97);
+}
+.image-box {
+    overflow: hidden;
 }
 .excerpt-text {
     padding: $spacing-unit / 2 $spacing-unit/2 0 $spacing-unit/2;
-    background: RGBA(215,215,215,0.85);
+    background: RGBA(215,215,215,0.25);
 }
 
 .top-info, .category {
@@ -148,7 +155,6 @@ nav#menu.scrolled {
 .post-link, .post-title, .page-title, .category {
     display: block;
     font-family: "Lora", serif;
-    font-weight: 300;
     line-height: normal;
     text-transform: uppercase;
 }
@@ -160,8 +166,15 @@ nav#menu.scrolled {
     margin-bottom: $spacing-unit;
     padding-top: $spacing-unit;
 }
+.post-list > li {
+    display: inline-block;
+    width: 49%;
+    padding: $spacing-unit / 2;
+    vertical-align:top;
+}
 .post-header, .post-header-index {
     text-align:center;
+    padding-top: $spacing-unit /2;
 }
 .post-header {
     margin-bottom: $spacing-unit;
@@ -319,13 +332,13 @@ text-align:center;
 }
 .readmore {
     background-color:#FFFFFF;
-    padding: $spacing-unit/2;
+    padding: $spacing-unit/3;
     text-align:center;
     color: $hover-color;
     font-size: 0.75em;
     border: 1px solid $hover-color;
     text-transform: uppercase;
-    left: 75%;
+    left: 30%;
     position: relative;
     z-index: 9;
 }
