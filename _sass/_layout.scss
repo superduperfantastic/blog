@@ -8,7 +8,7 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 }
-nav#menu {
+.site-nav {
     border-bottom: $hover-color 1px solid;
     border-top: $hover-color 1px solid;
     padding-top: $spacing-unit /2;
@@ -21,15 +21,15 @@ nav#menu {
     text-transform: uppercase;
     transition: border-bottom 0.1s ease-in-out;
 }
-nav#menu li {
+.site-nav .page-link {
     display:inline-block;
     margin-right: $spacing-unit;
-    height: 50px;
+    height: $spacing-unit;
     .menu-icon {
         display: none;
     } 
 }
-nav#menu.scrolled {
+.site-nav.scrolled {
   margin: 0;
   position: fixed;
   top: 0;
@@ -37,7 +37,38 @@ nav#menu.scrolled {
   background-color: white;
   z-index:999;
 }
+.site-nav ul li ul {
+    visibility: hidden;
+    float: left;
+    text-align:left;
+    position: absolute;
+    margin-top: 12px;
+    z-index: 999;
+}
 
+.site-nav ul li:hover > ul,
+.site-nav ul li ul:hover {
+   visibility: visible;
+   background-color: white;
+   border: $hover-color 1px solid;
+}
+
+.site-nav ul li ul li {
+    clear: both;
+    padding: 5px 0 5px 15px;
+    width: 60%;
+}
+
+.site-nav ul li ul li:hover {
+    background: #74b7e4;
+}
+
+.dropdown .sub-menu {
+    display: block;
+    width: auto;
+    padding-right: 20px;
+    height: 30px;
+}
 
 /*** Site footer */
 .site-footer {
@@ -46,6 +77,9 @@ nav#menu.scrolled {
     clear:both;
 }
 
+.page-link a {
+    padding-bottom: $spacing-unit / 2;
+}
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
@@ -289,10 +323,10 @@ nav#menu.scrolled {
 }
 
 .posts li {
-    padding-top: $spacing-unit/2;
+    padding: $spacing-unit/3;
     width: 49%;
     display: inline-block;
-    height: $spacing-unit * 9;
+    height: $spacing-unit * 13;
 }
 
 .posts .category {

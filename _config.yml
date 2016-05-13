@@ -13,7 +13,6 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://superduperfantastic.com" # the base hostname & protocol for your site
 twitter_username: suki
 github_username: superduperfantastic
-excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

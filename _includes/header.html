@@ -4,8 +4,13 @@
                 <ul>
                     <li class="page-link"><a href="{{ site.baseurl }}/"><i class="fa fa-home fa-lg"></i> Home</a></li>
                     <li class="page-link"><a href="{{ "/about" | prepend:site.baseurl}}"><i class="fa fa-female fa-lg"></i> About</a></li>
-                    <li class="page-link"><a href="{{ "/category/life-in-sf/" | prepend:site.baseurl }}"><i class="fa fa-map-marker fa-lg"></i> Local</a></li>
-                    <li class="page-link"><a href=""><i class="fa fa-plane fa-lg"></i> Travel</a></li>
+                    <li class="page-link"><a href="{{ "/category/san-francisco/" | prepend:site.baseurl }}"><i class="fa fa-map-marker fa-lg"></i> Local</a></li>
+                    <li class="page-link"><a href=""><i class="fa fa-plane fa-lg"></i> Travel</a>
+                        <ul class="dropdown">
+                            <li class="menu-item sub-menu">Bali</li>
+                            <li class="menu-item sub-menu">Mexico City</li>
+                        </ul>
+                    </li>
                     <li class="page-link"><a href=""><i class="fa fa-envelope fa-lg"></i> Contact</a></li>
                     <li class="page-link"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss fa-lg"></i> RSS</a></li>
                 </ul>  

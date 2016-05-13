@@ -5,8 +5,10 @@ published: true
 title: 'Weekend Hike : Lake Lagunitas (aka Fresca''s First Hike)'
 wordpress_id: 22114
 wordpress_url: http://superduperfantastic.com/?p=22114
+disqus_id: 22114 http://superduperfantastic.com/?p=22114
 date: '2014-10-01 10:58:57 -0700'
-date_gmt: '2014-10-01 17:58:57 -0700'
+image: https://farm4.staticflickr.com/3912/15262027741_5e9570d624_b.jpg
+thumbnail: https://farm4.staticflickr.com/3912/15262027741_5e9570d624_q.jpg
 categories:
 - California
 tags:
@@ -30,7 +32,7 @@ With the drought, the water level was a bit low, and it looked like the lake had
 
 ![](https://farm4.staticflickr.com/3922/15078374059_b17c32bc44_n.jpg){:.left} Fresca seems to be pretty good on leash, which is why I jumped at the chance to take her on a hike. Sasha was never so great on leash, and that limited the number of places we could take her since she preferred being off-leash.
 
-While the leash isn't a problem for Fresca, she has a tendency to stick her snout to the floor looking for goodies to chew on. We call this "vacuum mode." Unfortunately, her definition of "goodies" also includes dirt, bark and grass.
+While the leash isn't a problem for Fresca, she has a tendency to stick her snout to the floor looking for goodies to chew on. We call this "vacuum mode." Unfortunately, her definition of "goodies" also includes dirt, bark and grass. One day she will be disciplined enough not to keep her nose to the ground. For now, we deal!
 
 {:.center}
 ![Lake Lagunitas](https://farm4.staticflickr.com/3912/15262027741_5e9570d624_b.jpg)

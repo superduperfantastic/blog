@@ -18,7 +18,7 @@ comments: true
 About half way into our New Mexico trip in early October, I began checking my email obsessively. I'd entered a lottery around mid-September, and "winners" would be announced that day. The prize? A chance to stay overnight on [Alcatraz](http://www.nps.gov/alca/index.htm "Alcatraz Island"){:target="_blank"}!<!--more-->
 
 {:.center}
-![Overnight on Alcatraz](https://farm4.staticflickr.com/3947/15134459184_3d88bcc6e1_b.jpg)
+![Overnight on Alcatraz](https://c2.staticflickr.com/4/3947/15134459184_d59173fd09_o.jpg)
 
 I was intrigued and of course, very interested when I first learned about the overnight opportunity. Fewer than 600 people get to stay overnight at the landmark federal penitentiary each year, and only nonprofits can apply. There are about 18 overnights on an annual basis with 200 to 400 nonprofit groups vying for a spot. Selected groups work on a community service project on Alcatraz and are rewarded with a tour and sleepover. 
 
