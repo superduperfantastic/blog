@@ -6,6 +6,8 @@ title: January 2015 in Pictures
 wordpress_id: 23017
 wordpress_url: http://superduperfantastic.com/?p=23017
 disqus_id: 23017 http://superduperfantastic.com/?p=23017
+image: https://c2.staticflickr.com/8/7474/16344395341_f97e717b93_b.jpg
+thumbnail: https://c2.staticflickr.com/8/7474/16344395341_f97e717b93_q.jpg
 excerpt: <p>Daily photo project (#365infocus) in January 2015 - Getting outdoors, hiking, growing office plants, buying furniture, and cooking more at home!</p>
 date: '2015-02-03 08:17:13 -0800'
 categories:
