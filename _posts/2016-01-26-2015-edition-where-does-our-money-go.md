@@ -12,6 +12,7 @@ image: https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_b.jpg
 thumbnail: https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_q.jpg
 date: '2016-01-26 16:20:45 -0800'
 categories:
+- Life
 - Money Matters
 tags:
 - Goals

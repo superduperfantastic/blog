@@ -28,7 +28,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 #Archives Configuration
 jekyll-archives:
-    enabled: all
+    enabled: [year]
     layout: archive
     permalinks:
         year: '/:year/'

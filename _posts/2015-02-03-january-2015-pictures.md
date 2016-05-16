@@ -11,6 +11,7 @@ thumbnail: https://c2.staticflickr.com/8/7474/16344395341_f97e717b93_q.jpg
 excerpt: <p>Daily photo project (#365infocus) in January 2015 - Getting outdoors, hiking, growing office plants, buying furniture, and cooking more at home!</p>
 date: '2015-02-03 08:17:13 -0800'
 categories:
+- Life
 - Creativity Strikes
 tags:
 - 365inFocus

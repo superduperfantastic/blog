@@ -8,6 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=22931
 disqus_id: 22931 http://superduperfantastic.com/?p=22931
 thumbnail: https://farm4.staticflickr.com/3933/14985493274_159437e80c_q.jpg
 image: https://farm4.staticflickr.com/3933/14985493274_159437e80c_b.jpg
+excerpt: <p>Petroglyph National Monument - one of the largest petroglyph sites in North America, featuring carvings by Native Americans and Spanish settlers.</p>
 date: '2015-01-22 07:56:41 -0800'
 categories:
 - New Mexico
@@ -15,7 +16,7 @@ tags:
 - national parks
 comments: true
 ---
-With thirteen national parks under its belt, New Mexico has some of most beautiful and unique sights in the country. Since we're the National Parks Passport stamp collecting types, we had our work cut out ahead of us. We knew we weren't going to hit them all, but we would try to see as much as we could. The first national park we visited was [Petroglyph National Monument](http://www.nps.gov/petr/index.htm "Petroglyph National Monument"){:target="_blank"}, conveniently located on the west side of Albuquerque.<!--more-->
+With thirteen national parks under its belt, New Mexico has some of most beautiful and unique sights in the country. Since we're the National Parks Passport stamp collecting types, we had our work cut out ahead of us. We knew we weren't going to hit them all, but we would try to see as much as we could. The first national park we visited was [Petroglyph National Monument](http://www.nps.gov/petr/index.htm "Petroglyph National Monument"){:target="_blank"}, conveniently located on the west side of Albuquerque.
 
 {:.center}
 ![](https://farm6.staticflickr.com/5601/15420637180_d62304f517_b.jpg)

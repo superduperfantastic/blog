@@ -7,6 +7,9 @@ wordpress_id: 17101
 wordpress_url: http://superduperfantastic.com/?p=17101
 disqus_id: 17101 http://superduperfantastic.com/?p=17101
 date: '2012-07-27 06:41:41 -0700'
+image: http://farm9.staticflickr.com/8284/7570260678_6c264997a1_b.jpg
+thumbnail: http://farm9.staticflickr.com/8284/7570260678_6c264997a1_q.jpg
+excerpt: <p>Brunching it up in Portland over WDS weekend. Mother's Bistro has a line, even at 8am!</p>
 categories:
 - Oregon
 - Oregon Eats

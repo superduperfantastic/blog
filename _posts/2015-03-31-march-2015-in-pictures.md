@@ -11,6 +11,7 @@ thumbnail: https://c2.staticflickr.com/8/7797/17964078499_fc3d9c73a6_q.jpg
 excerpt: <p>Daily photo project (#365infocus) in March 2015 - Plenty of Fresca and Sergio photos, lightning in SF, our short trip to Carmel, and a whole lot of sashimi.</p>
 date: '2015-03-31 12:00:48 -0700'
 categories:
+- Life
 - Creativity Strikes
 tags:
 - 365inFocus

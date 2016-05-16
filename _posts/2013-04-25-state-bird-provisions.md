@@ -9,6 +9,7 @@ disqus_id: 20434 http://superduperfantastic.com/?p=20434
 date: '2013-04-25 00:50:19 -0700'
 image: http://farm8.staticflickr.com/7043/8688446928_8095984a5b_c.jpg
 thumbnail: http://farm8.staticflickr.com/7043/8688446928_8095984a5b_q.jpg
+excerpt: <p>Dining at State Bird Provisions in San Francisco's Western Addition neighborhood. Named by Bon Appetit as 2012 Best New Restaurant in America.</p>
 categories:
 - San Francisco
 - San Francisco Eats
