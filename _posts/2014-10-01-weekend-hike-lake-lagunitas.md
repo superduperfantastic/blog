@@ -18,7 +18,7 @@ tags:
 - Weekend Sherpa
 comments: true
 ---
-One of the highlights of living in San Francisco is its proximity to "ALL THE THINGS." Want to go on a short hike? You can hop right to it, and that's exactly what we did several weekends ago. We went about an hour outside of San Francisco to Lake Lagunitas in Marin.
+One of the highlights of living in San Francisco is its proximity to "ALL THE THINGS." Want to go on a short hike? You can hop right to it, and that's exactly what we did several weekends ago. We went about an hour outside of San Francisco to Lake Lagunitas in Marin.<!--more-->
 
 {:.center}
 ![Lake Lagunitas](https://farm6.staticflickr.com/5582/15264751432_5776abbf41_b.jpg)

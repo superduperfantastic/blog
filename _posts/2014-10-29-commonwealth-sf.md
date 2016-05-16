@@ -9,6 +9,7 @@ disqus_id: 22244 http://superduperfantastic.com/?p=22244
 date: '2014-10-29 17:40:52 -0700'
 image: https://farm6.staticflickr.com/5604/15462612037_d6db0dc7e7_c.jpg
 thumbnail: https://farm6.staticflickr.com/5604/15462612037_d6db0dc7e7_q.jpg
+excerpt: <p>Dinner at Commonwealth in San Francisco's Mission District - bringing a party of five meant ordering every item on the menu, dessert included!</p>
 categories:
 - San Francisco
 - San Francisco Eats

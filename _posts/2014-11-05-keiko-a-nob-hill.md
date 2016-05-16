@@ -9,6 +9,7 @@ disqus_id: 22269 http://superduperfantastic.com/?p=22269
 date: '2014-11-05 22:34:48 -0800'
 image: https://farm8.staticflickr.com/7550/15044551963_e9f7ec387e_c.jpg
 thumbnail: https://farm8.staticflickr.com/7550/15044551963_e9f7ec387e_q.jpg
+excerpt: <p>For my birthday, Ryan surprised me with dinner at KEIKO à Nob Hill in San Francisco's Nob Hill. The tasting menu is a seafood lover's dream come true, but the wagyu beef is top notch!</p>
 categories:
 - San Francisco
 - San Francisco Eats

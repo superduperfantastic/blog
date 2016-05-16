@@ -13,10 +13,11 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://superduperfantastic.com" # the base hostname & protocol for your site
 twitter_username: suki
 github_username: superduperfantastic
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-archives]
 
 # Output
 permalink: /:title/
@@ -24,3 +25,11 @@ paginate: 8
 
 # We don't want Rakefile to be published
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+#Archives Configuration
+jekyll-archives:
+    enabled: all
+    layout: archive
+    permalinks:
+        year: '/:year/'
+        

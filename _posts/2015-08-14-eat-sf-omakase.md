@@ -8,6 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=23749
 disqus_id: 23749 http://superduperfantastic.com/?p=23749
 thumbnail: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
 image: https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_b.jpg
+excerpt: <p>Omakase SF - a traditional Edo-mae sushi bar experience in San Francisco's SOMA neighborhood with fresh fish flown in from Japan several times a week.</p>
 date: '2015-08-14 16:12:26 -0700'
 categories: 
 - San Francisco

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Visiting the San Francisco Zoo'
+title: 'First Outing of 2016 : Visiting the San Francisco Zoo'
 wordpress_id: 24181
 wordpress_url: http://superduperfantastic.com/?p=24181
 disqus_id: 24181 http://superduperfantastic.com/?p=24181
