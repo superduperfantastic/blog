@@ -17,6 +17,7 @@ tags:
 - Portland
 - brunch
 - portland-restaurant
+- restaurant
 comments: true
 ---
 {:.center}

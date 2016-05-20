@@ -19,6 +19,7 @@ tags:
 - sf-restaurant
 - Michelin
 - Nob Hill
+- restaurant
 - French
 comments: true
 ---

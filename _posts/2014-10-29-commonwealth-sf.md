@@ -17,6 +17,7 @@ tags:
 - The Mission
 - sf-restaurant
 - Michelin
+- restaurant
 comments: true
 ---
 This year, I maximized celebrating my birthday by taking advantage of the entire month. With the expenses of a sick pup and then a new pup the last several months, we hadn't gone out for a fancy meal in awhile. Using my birthday month as an excuse, we went to not just one, but two, in the week following my birthday. The sister, her boyfriend, and our cousin joined us at [Commonwealth](http://www.commonwealthsf.com/ "Commonwealth SF"){:target="_blank} in The Mission. A friend had started her externship there after finishing cooking school, so I wanted to show support and swing by.

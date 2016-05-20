@@ -14,9 +14,9 @@ categories:
 - Oregon Eats
 tags:
 - brunch
-- Oregon
 - Ashland
 - ashland-restaurant
+- restaurant
 comments: true
 ---
 Before our six-hour drive back to San Francisco after a weekend of beer, cheese, and wine, Ryan and I fueled up with brunch in Ashland at [Morning Glory Restaurant](http://www.morninggloryrestaurant.com/ "Morning Glory Restaurant"){:target="_blank"}.<!--more--> It came highly recommended not only on [Yelp](http://www.yelp.com/biz/morning-glory-ashland "Morning Glory - Ashland"){:target="_blank"}, but also by one of our good friends from the area.

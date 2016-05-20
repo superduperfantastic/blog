@@ -14,7 +14,9 @@ categories:
 - Oregon
 - Oregon Eats
 tags:
+- Portland
 - portland-restaurant
+- restaurant
 comments: true
 ---
 On our most recent trip to Portland, we paid a visit to [Le Pigeon](http://lepigeon.com/){:target="_blank"}. We'd heard about it from friends who enjoy food as much as we do, so I was quite pleased that we were able to score seats without reservations. Foie gras for every course of our meal was not the original plan. When we saw the menu, however, we could not resist. California had just recently banned foie gras, so we took advantage of being in Oregon's borders.

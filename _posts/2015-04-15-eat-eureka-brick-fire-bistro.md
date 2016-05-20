@@ -16,6 +16,7 @@ categories:
 tags:
 - Eureka
 - eureka-restaurant
+- restaurant
 comments: true
 ---
 On our way back to the Bay Area from a long weekend in Portland and after bumbling through the redwoods of northern Northern California, we stopped in Eureka for dinner. It would have to last us until we reached our final destination aka home, so we did a quick search for food on the handy dandy device we call a mobile phone and pulled up to [Brick & Fire Bistro](http://www.brickandfirebistro.com/ "Brick & Fire Bistro"){:target="_blank"}.

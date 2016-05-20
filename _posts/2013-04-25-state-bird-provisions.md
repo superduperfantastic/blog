@@ -16,6 +16,8 @@ categories:
 tags:
 - Western Addition
 - Michelin
+- restaurant
+- sf-restaurant
 comments: true
 ---
 As much as we'd love to, Ryan and I are hardly the type to jump on the latest restaurant opening. We enjoy food and dining experiences when we can, but in a city like San Francisco where eateries are popping up left and right, we can't possibly keep up. Our wallets can't either! Husband-wife team Stuart Brioza and Nicole Krasinski's [State Bird Provisions](http://statebirdsf.com/ "State Bird Provisions"){:target="_blank"} was named best new restaurant in America by Bon Appetit in 2012\. We only _now_ paid a visit. We managed to snag a reservation that wasn't 9:00 in the evening. Woo!

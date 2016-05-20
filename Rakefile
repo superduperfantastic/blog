@@ -17,6 +17,7 @@
 
     desc "Generate and publish blog to gh-pages"
     task :publish => [:generate] do
+      fail "You forgot to commit master!!" if /nothing to commit/ !~ `git status`
       Dir.mktmpdir do |tmp|
         system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"

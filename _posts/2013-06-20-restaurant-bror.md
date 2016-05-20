@@ -16,6 +16,7 @@ categories:
 tags:
 - Copenhagen
 - Copenhagen Restaurant
+- restaurant
 comments: true
 ---
 {:.center}
