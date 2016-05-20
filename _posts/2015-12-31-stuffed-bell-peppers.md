@@ -6,9 +6,9 @@ title: End-of-Year Stuffed Bell Peppers
 wordpress_id: 24142
 wordpress_url: http://superduperfantastic.com/?p=24142
 disqus_id: 24142 http://superduperfantastic.com/?p=24142
-image:
-thumbnail:
-excerpt: 
+image: https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_c.jpg
+thumbnail: https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_q.jpg
+excerpt: <p>Enjoying stuffed bell peppers after spending the holidays with family, paired with Cultivar Wine's 2013 Oak Knoll Cabernet Franc.</p>
 date: '2015-12-31 01:44:04 -0800'
 categories:
 - Cooking
@@ -18,10 +18,12 @@ tags:
 - Cultivar
 comments: true
 ---
-Time to take a break from [Mexico City recaps](http://superduperfantastic.com/tag/mexico-city/){:target="_blank"} for a few days of Christmas festivities, an end-of-year post and a glass of [2013 Cultivar Oak Knoll Cabernet Franc](http://www.cultivarwine.com/product/2013-Oak-Knoll-Cabaernet-Franc?pageID=25B82F39-ECAF-7F18-3D08-2B2C2BD3A915&sortBy=DisplayOrder&maxRows=16&){:target="_blank"}.
+Time to take a break from [Mexico City recaps](http://superduperfantastic.com/tag/mexico-city/){:target="_blank"} for a few days of Christmas festivities, an end-of-year post and a glass of [2013 Cultivar Oak Knoll Cabernet Franc](http://www.cultivarwine.com/product/2013-Oak-Knoll-Cabaernet-Franc?pageID=25B82F39-ECAF-7F18-3D08-2B2C2BD3A915&sortBy=DisplayOrder&maxRows=16&){:target="_blank"}. Ryan and I celebrated Christmas by opening our gifts to each other on Christmas Eve, spending Christmas day at his mom's house, and finishing off the weekend at his dad's house.
 
-![Christmas](https://c2.staticflickr.com/6/5813/23670693949_b52812b8e0_n.jpg){:.left} Ryan and I celebrated Christmas by opening our gifts to each other on Christmas Eve, spending Christmas day at his mom's house, and finishing off the weekend at his dad's house. We left our own place a mess, so we spent Monday organizing. Tuesday was the first time in our household where we had a cleaning person come in. We decided that the cost would be worth having the weight of the chore lifted from our shoulders. If they can handle the parts I tend to avoid, like the stove and the shower, then it'll be worth it.
+{:.center}
+![Christmas](https://c2.staticflickr.com/6/5813/23670693949_b52812b8e0_b.jpg)
 
+We left our own place a mess, so we spent Monday organizing. Tuesday was the first time in our household where we had a cleaning person come in. We decided that the cost would be worth having the weight of the chore lifted from our shoulders. If they can handle the parts I tend to avoid, like the stove and the shower, then it'll be worth it.
 And yes, we were cleaning before the cleaners.
 
 After a successful day of organizing before cleaning day, we rewarded ourselves with a homemade meal - stuffed bell peppers. Watching Buzzfeed Tasty's video on [Taco-Stuffed Peppers](https://www.facebook.com/buzzfeedtasty/videos/1694744790778163/){:target="_blank"} over the holiday weekend sparked a stuffed bell peppers craving. Although we didn't quite follow the recipe from the video, the stuffed bell peppers turned out deliciously. The side salad, not so much.
