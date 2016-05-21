@@ -6,6 +6,9 @@ title: My Five Favorite Ways to Relieve Stress
 wordpress_id: 23265
 wordpress_url: http://superduperfantastic.com/?p=23265
 disqus_id: 23265 http://superduperfantastic.com/?p=23265
+image: https://farm9.staticflickr.com/8636/16575056429_5c4c2b5545_b.jpg
+thumbnail: https://farm9.staticflickr.com/8636/16575056429_5c4c2b5545_q.jpg
+excerpt: <p>Relieve stress - my five favorite ways include massage, sleep, gratitude, exercise, animals -sponsored by RESCUE - Clever Girls Collective partnership.</p>
 date: '2015-03-11 00:31:44 -0700'
 categories:
 - Partners

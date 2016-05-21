@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Eat Portland : Le Pigeon - Foie All the Courses!'
+title: 'Le Pigeon - Californians Ordering Foie for All the Courses!'
 wordpress_id: 17104
 wordpress_url: http://superduperfantastic.com/?p=17104
 disqus_id: 17104 http://superduperfantastic.com/?p=17104

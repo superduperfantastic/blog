@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Eat Portland : Mother''s Bistro - Call Your Mother!'
+title: "Mother's Bistro in Downtown Portland - Call Your Mother!"
 wordpress_id: 17101
 wordpress_url: http://superduperfantastic.com/?p=17101
 disqus_id: 17101 http://superduperfantastic.com/?p=17101

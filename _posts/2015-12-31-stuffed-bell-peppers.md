@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: End-of-Year Stuffed Bell Peppers
+title: End-of-Year Stuffed Bell Peppers and a Glass of Cultivar Wine
 wordpress_id: 24142
 wordpress_url: http://superduperfantastic.com/?p=24142
 disqus_id: 24142 http://superduperfantastic.com/?p=24142

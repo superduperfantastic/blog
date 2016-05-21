@@ -6,7 +6,7 @@ title: 'Meals in Costa Rica #1'
 wordpress_id: 13684
 wordpress_url: http://superduperfantastic.com/?p=13684
 disqus_id: 13684 http://superduperfantastic.com/?p=13684
-excerpt: The meals we enjoyed in Costa Rica in our first few days.
+excerpt: <p>An updated and more elaborate post of the meals in Costa Rica that we enjoyed during the first few days of our trip in Liberia and Santa Elena / Monteverde.</p>
 image: http://farm8.staticflickr.com/7180/6904529991_79aa9e3d91_c.jpg
 thumbnail: http://farm8.staticflickr.com/7180/6904529991_79aa9e3d91_q.jpg
 date: '2016-01-29 22:20:02 -0800'

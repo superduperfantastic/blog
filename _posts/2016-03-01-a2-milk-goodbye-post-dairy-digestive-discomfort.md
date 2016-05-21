@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Hello a2 Milk - Goodbye Post-Dairy Digestive Discomfort!
-excerpt: <p>Sponsored Post - As part of an Influencer Activation for Influence Central, we're talking about a2 Milk, which is a great alternative for those who are A1 protein-sensitive.</p>
+excerpt: <p><em>{sponsored post}</em> The a2 Milk Ambassador Program and an introduction to a2 milk, fresh farm milk free of the A1 protein. It possibly reduces Post-Dairy Digestive Discomfort.</p>
 wordpress_id: 24294
 wordpress_url: http://superduperfantastic.com/?p=24294
 disqus_id: 24294 http://superduperfantastic.com/?p=24294

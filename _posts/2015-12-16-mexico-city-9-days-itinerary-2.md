@@ -6,7 +6,7 @@ title: Mexico City in 9 Days (Part II)
 wordpress_id: 24038
 wordpress_url: http://superduperfantastic.com/?p=24038
 disqus_id: 24038 http://superduperfantastic.com/?p=24038
-excerpt: <p>Days 2 and 3 of our Mexico City adventures - we spend a day touring Teotihuacan and Basilica de Nuestra Señora de Guadalupe with Journeys Beyond the Surface. The next day, we wander around Coyoacan, making stops at Casa Azul, Mercado de Coyoacan and Museo Nacional de Culturas Populares. In the evening, we're in the audience at a Lucha Libre match!</p>
+excerpt: <p>Recap/itinerary of day 2 and 3 of 9 days in Mexico City - Teotihuacan, Basilica of Guadalupe, Museo Frida Kahlo, Coyoacan and Turi*Luchas (Lucha Libre).</p>
 thumbnail: https://c2.staticflickr.com/6/5808/23348897852_c5f12d319c_q.jpg
 image: https://c2.staticflickr.com/6/5624/23667520692_3d56848f81_b.jpg
 date: '2015-12-16 23:50:03 -0800'

@@ -8,6 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=24562
 disqus_id: 24562 http://superduperfantastic.com/?p=24562
 thumbnail: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_q.jpg
 image: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_c.jpg
+excerpt: <p>Reliving ten days of the Institute of Code experience from February 2016. Memories and thoughts from five photos of Bali at sunset.</p>
 date: '2016-03-30 9:09:58 -0800'
 categories:
 - Bali
@@ -15,7 +16,7 @@ tags:
 - Institute of Code
 comments: true
 ---
-With the abrupt return to real life and busy season, I haven't quite processed all that I learned while in Bali. In between work and life things (and a little bit of travel too), I'm reliving some of the memories through what I've captured on my phone. In particular, the beauty of Bali at sunset. It's pretty unforgettable.<!--more-->
+With the abrupt return to real life and busy season, I haven't quite processed all that I learned while in Bali. In between work and life things (and a little bit of travel too), I'm reliving some of the memories through what I've captured on my phone. In particular, the beauty of Bali at sunset. It's pretty unforgettable.
 
 {:.center}
 ![Bali at Sunset](https://c2.staticflickr.com/2/1543/25180770930_c613415e2f_b.jpg)
