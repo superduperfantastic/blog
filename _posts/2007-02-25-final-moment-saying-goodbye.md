@@ -6,6 +6,9 @@ title: Final moment - saying goodbye.
 wordpress_id: 7
 wordpress_url: http://superduperfantastic.net/2007/02/25/final-moment/
 disqus_id: 7 http://superduperfantastic.net/2007/02/25/final-moment/
+image: http://farm2.static.flickr.com/1286/1179714209_9e3b0b7fb0_z.jpg
+thumbnail: http://farm2.static.flickr.com/1286/1179714209_9e3b0b7fb0_q.jpg
+excerpt: <p>On saying goodbye to my grandfather.</p>
 date: '2007-02-25 13:02:45 -0800'
 categories:
 - Getting Personal
