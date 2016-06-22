@@ -9,8 +9,8 @@
 title: '[Super Duper Fantastic]'
 email: suki@superduperfantastic.com
 description: A lifestyle/personal blog exploring food, travel and unique experiences and adventures in San Francisco and around the world. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://superduperfantastic.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.slightlydelightful.com" # the base hostname & protocol for your site
 twitter_username: suki
 github_username: superduperfantastic
 excerpt_separator: <!--more-->
@@ -32,4 +32,11 @@ jekyll-archives:
     layout: archive
     permalinks:
         year: '/:year/'
+        
+# Category Pagination
+categories:
+    pagination: 5
+    generate_all: true
+    directory: category
+    layout: category_index.html
         

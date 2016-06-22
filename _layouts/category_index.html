@@ -36,4 +36,18 @@ layout: default
           </div>
         </li>
 {% endfor %}
+    {% if page.nextUrl %}
+    <a class="page-next" href="{{ page.nextUrl | prepend: site.baseurl }}">next</a>
+    {% endif %}
+</ul>
+<ul>
+{% for page in pages %}
+{% if page.title %}
+{% if page.number == nil or page.number == 1 %}
+<li>
+<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+</li>
+{% endif %}
+{% endif %}
+{% endfor %}
 </ul>
