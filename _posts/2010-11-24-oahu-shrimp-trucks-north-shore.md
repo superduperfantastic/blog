@@ -8,7 +8,7 @@ wordpress_id: 5354
 wordpress_url: http://superduperfantastic.net/?p=5354
 date: '2010-11-24 15:27:00 -0800'
 excerpt: <p>Hitting the amazing shrimp trucks of Northern Oahu! We stop in at Giovanni's and Romy's.</p>
-image: http://farm5.static.flickr.com/4149/5130694904_694a5a57b9_C.jpg
+image: http://farm5.static.flickr.com/4149/5130694904_694a5a57b9_c.jpg
 thumbnail: http://farm5.static.flickr.com/4149/5130694904_694a5a57b9_q.jpg
 categories:
 - Hawaii
