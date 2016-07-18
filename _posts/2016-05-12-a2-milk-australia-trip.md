@@ -6,8 +6,8 @@ title: Try a2 Milk ® and Win a Trip to Australia!
 wordpress_id: 24606
 wordpress_url: http://superduperfantastic.com/?p=24606
 disqus_id: 24606 http://superduperfantastic.com/?p=24606
-thumbnail: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_q.jpg
-image: https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_c.jpg
+thumbnail: https://c2.staticflickr.com/8/7656/27163730351_60e464502b_q.jpg
+image: https://c2.staticflickr.com/8/7656/27163730351_60e464502b_c.jpg
 excerpt: <p>a2 Milk Ambassador Program - a2 milk, fresh farm milk free of the A1 protein. Win a trip to Australia or try a2 milk for free.</p>
 date: 2016-05-12
 categories:
