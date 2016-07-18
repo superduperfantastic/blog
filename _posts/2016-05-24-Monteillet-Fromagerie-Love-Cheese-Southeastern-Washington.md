@@ -38,8 +38,8 @@ During our visit, Monteillet Fromagerie was working on opening Baa Baa Cheese Ta
 
 >### Visit Baa Baa Cheese Tasting Bar
 >
->East 13 Main Street, 
->Walla Walla (inside the new Whoopem Up Cafe) 
+>East 13 Main Street,   
+>Walla Walla (inside the new Whoopem Up Cafe)  
 >More info: [website](http://www.monteilletcheese.com/baa-baa-cheese-tasting-bar/){:target="_blank"}
 
 {:.center}
