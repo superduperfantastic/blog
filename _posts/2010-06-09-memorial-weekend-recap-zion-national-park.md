@@ -7,8 +7,8 @@ disqus_id: 3286 http://superduperfantastic.net/?p=3286
 wordpress_id: 3286
 wordpress_url: http://superduperfantastic.net/?p=3286
 date: '2010-06-09 22:57:54 -0700'
-image:
-thumbnail:
+image: http://farm2.static.flickr.com/1291/4665701402_7c542b01cf_c.jpg
+thumbnail: http://farm2.static.flickr.com/1291/4665701402_7c542b01cf_q.jpg
 excerpt: 
 categories:
 - Utah
@@ -40,11 +40,15 @@ We boarded the free shuttle that takes you through the park and took it to the v
 
 ![](http://farm5.static.flickr.com/4064/4665123327_3f301bc85a.jpg "Dennis"){:.left} You wouldn't normally find me taking a random photograph of the shuttle driver, but the reason for this photo is that he is _**the** voice_ behind the recording playing on all of the Zion National Park shuttles!
 
-We originally hopped onto a different bus, and the driver played the recording which gave all the nifty facts about the various sites at each stop. Well, somewhere in our shuttle shuffling, we ended up on Dennis' bus. When he began speaking [they don't play the recording on the way back], it all just clicked. His voice was SO familiar! He was _**the** voice_!
+We originally hopped onto a different bus, and the driver played the recording which gave all the nifty facts about the various sites at each stop. 
+
+Well, somewhere in our shuttle shuffling, we ended up on Dennis' bus. When he began speaking [they don't play the recording on the way back], it all just clicked. His voice was SO familiar! He was _**the** voice_!
 
 It was great though because he threw in a ton of other random tidbits that I'm certain the other drivers would have just skipped over!
 
-This photo was most definitely not posed. I was trying to sneak a photo of his name tag and the back of his head, but he turned around just at that moment. Lucky shot, I suppose! Thanks, Dennis, for such an informative ride through Zion National Park!
+This photo was most definitely not posed. I was trying to sneak a photo of his name tag and the back of his head, but he turned around just at that moment. Lucky shot, I suppose! 
+
+Thanks, Dennis, for such an informative ride through Zion National Park!
 
 This particular flower is a part of the various hanging gardens that grow along the canyon walls. I hadn't seen it before this trip, but then of course soon after I take this photo, I notice this flower in other places as well. It's almost like looking up something or overhearing about a person or place, and then you see it/hear about it EVERYWHERE.
 
