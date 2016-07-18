@@ -13,7 +13,7 @@ date: '2016-03-01 18:35:58 -0800'
 categories:
 - Partners
 tags:
-- A2Milk
+- A2 Milk
 comments: true
 ---
 _This post was sponsored by a2 Milk ® as part of an Influencer Activation for Influence Central. I received complimentary products to facilitate my review._
