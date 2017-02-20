@@ -3,7 +3,9 @@ layout: post
 status: publish
 published: true
 title: '2016 Edition: Where Our Money Goes'
-disqus_id: 24758 http://superduperfantastic.com/2016-edition-money/24758
+wordpress_id: 24758
+wordpress_url: http://superduperfantastic.com/?p=24758
+disqus_id: 24758 http://superduperfantastic.com/?p=24758
 thumbnail: https://c1.staticflickr.com/1/510/31304678513_00c082ce56_q.jpg
 image: https://c1.staticflickr.com/1/510/31304678513_00c082ce56.jpg
 excerpt: <p>Examining where our money goes - taking a look at 2016 spending and comparing to 2015.</p>
