@@ -15,7 +15,7 @@ categories:
 - Denmark Eats
 tags:
 - Copenhagen
-- Copenhagen Restaurant
+- Copenhagen restaurant
 - restaurant
 comments: true
 ---
@@ -53,7 +53,7 @@ I was on a roll with the photo taking, so yes, I even grabbed a shot of the brea
 ### Restaurant BROR - Kitchen's Choice
 
 {:.center}
-![Restaurant BROR](http://farm3.staticflickr.com/2837/9081548279_b6d5a1faeb_b.jpg)
+![Restaurant BROR](https://c1.staticflickr.com/3/2837/9081548279_c6d5a1faeb_b.jpg)
 
 First course - _Pike, grilled cucumbers, pine_ - from this trip, I learned that in addition to being allergic to various tree pollens, I might also be allergic to consumption of trees in their various forms. I had several meals with pine. Minor allergy, so I got a little itchy, but I _had_ to try it.
 
