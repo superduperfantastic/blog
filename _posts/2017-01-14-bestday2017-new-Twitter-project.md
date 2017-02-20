@@ -6,9 +6,9 @@ title: '#bestday2017 - My 2017 Twitter Project'
 wordpress_id: 24769
 wordpress_url: http://superduperfantastic.com/?p=24769
 disqus_id: 24769 http://superduperfantastic.com/?p=24769
-thumbnail: https://c1.staticflickr.com/1/510/31304678513_00c082ce56_q.jpg
-image: https://c1.staticflickr.com/1/510/31304678513_00c082ce56.jpg
-excerpt: <p>With so much negativity out there on Twitter these days, I decided to focus on the positive. I've started a new project with the hashtag #bestday2017.</p>
+thumbnail: https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_q.jpg
+image: https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_b.jpg
+excerpt: <p>With so much negativity out there on Twitter these days, I decided to focus on the positive. I've started a new project with the hashtag &#35;bestday2017.</p>
 date: 2017-01-14
 categories:
 - Around the Web
