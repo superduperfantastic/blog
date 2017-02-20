@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '#bestday2017'
+title: '#bestday2017 - My 2017 Twitter Project'
 wordpress_id: 24769
 wordpress_url: http://superduperfantastic.com/?p=24769
 disqus_id: 24769 http://superduperfantastic.com/?p=24769
