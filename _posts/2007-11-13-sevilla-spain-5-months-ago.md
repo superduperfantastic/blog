@@ -6,7 +6,9 @@ title: Sevilla, Spain - 5 months ago...
 disqus_id: 68 http://superduperfantastic.net/archives/2007/11/13/sevilla-spain-5-months-ago/
 wordpress_id: 68
 wordpress_url: http://superduperfantastic.net/archives/2007/11/13/sevilla-spain-5-months-ago/
+image: http://farm2.static.flickr.com/1023/607787137_89ee678b5a.jpg
 date: '2007-11-13 13:50:43 -0800'
+excerpt: <p>My fondest memories of Spain are from the time spent in the Andalucia region, and it all started in its capital - Sevilla. </p>
 categories:
 - Spain
 tags:

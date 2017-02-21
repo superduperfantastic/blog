@@ -7,6 +7,7 @@ disqus_id: 3221 http://superduperfantastic.net/?p=3221
 wordpress_id: 3221
 wordpress_url: http://superduperfantastic.net/?p=3221
 date: '2010-06-03 00:01:34 -0700'
+excerpt: <p>When you don't research your route ahead of time, it can take quite a bit of time longer. Turns out our shortcut through Yosemite was not going to happen.</p>
 categories:
 - Utah
 tags:

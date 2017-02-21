@@ -9,6 +9,7 @@ wordpress_url: http://superduperfantastic.net/archives/2007/08/17/mountain-monas
 date: '2007-08-17 22:34:57 -0700'
 image: http://farm2.static.flickr.com/1155/583632771_b2d0b0da13_b.jpg
 thumbnail: http://farm2.static.flickr.com/1155/583632771_b2d0b0da13_q.jpg
+excerpt: <p>Visiting the mountain monastery in Montserrat, Spain.</p>
 categories:
 - Spain
 tags:

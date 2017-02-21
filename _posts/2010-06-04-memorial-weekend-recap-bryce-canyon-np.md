@@ -9,7 +9,7 @@ wordpress_url: http://superduperfantastic.net/?p=3236
 date: '2010-06-04 08:35:45 -0700'
 image: http://farm5.static.flickr.com/4015/4665660994_081d652058_c.jpg
 thumbnail: http://farm5.static.flickr.com/4015/4665660994_081d652058_q.jpg
-excerpt: 
+excerpt: <p>No photos can really do such a majestic/magnificent place justice, but I'll try. Some photos from our short jaunt to Bryce Canyon National Park. </p>
 categories:
 - Utah
 tags:
