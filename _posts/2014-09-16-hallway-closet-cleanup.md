@@ -8,6 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=21956
 disqus_id: 21956 http://superduperfantastic.com/?p=21956
 date: 2014-09-16
 image: https://farm4.staticflickr.com/3906/15064839008_8b5ed08b59.jpg
+excerpt:
 categories:
 - Homeowners Journal
 tags:

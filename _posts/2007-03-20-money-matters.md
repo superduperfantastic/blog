@@ -7,6 +7,7 @@ wordpress_id: 19
 wordpress_url: http://superduperfantastic.net/archives/2007/03/20/money-matters/
 disqus_id: 19 http://superduperfantastic.net/archives/2007/03/20/money-matters/
 date: '2007-03-20 07:00:35 -0700'
+excerpt: <p>Discussing how 2007 will be a major spending year for me.</p>
 categories:
 - Money Matters
 tags:

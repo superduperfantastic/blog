@@ -7,6 +7,7 @@ wordpress_id: 9
 wordpress_url: http://superduperfantastic.net/archives/2007/02/26/metal-mouth/
 disqus_id: 9 http://superduperfantastic.net/archives/2007/02/26/metal-mouth/
 date: '2007-02-27 23:35:26 -0800'
+excerpt: <p>On considering jaw surgery and braces as an adult.</p>
 categories:
 - Metal Mouth
 tags:

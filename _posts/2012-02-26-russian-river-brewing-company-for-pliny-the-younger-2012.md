@@ -9,6 +9,7 @@ wordpress_url: http://superduperfantastic.com/?p=13546
 date: '2012-02-26 17:30:00 -0800'
 image: http://farm8.staticflickr.com/7192/6904271397_0da9429f86_c.jpg
 thumbnail: http://farm8.staticflickr.com/7192/6904271397_0da9429f86_q.jpg
+excerpt: Who in their right mind waits five hours in line for beer?! Guilty as charged!
 categories:
 - California
 - Thirsty

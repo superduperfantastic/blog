@@ -3,10 +3,7 @@ layout: post
 status: publish
 published: true
 title: Costa Rica - Tips and Tricks!
-excerpt: <p>Where I talk about how small Costa Rica is, but that there is way more to
-  do than one can fit in a week. There's also wildlife and toilets in Costa Rica.
-  I also include tips on how to save with transportation and activities. Did I mention
-  the gorgeous photos?</p>
+excerpt: <p>Where I talk about how small Costa Rica is, but that there is way more to do than one can fit in a week. There's also wildlife and toilets in Costa Rica. I also include tips on how to save with transportation and activities. Did I mention the gorgeous photos?</p>
 wordpress_id: 13605
 wordpress_url: http://superduperfantastic.com/?p=13605
 disqus_id: 13605 http://superduperfantastic.com/?p=13605

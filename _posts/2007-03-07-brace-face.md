@@ -7,6 +7,7 @@ wordpress_id: 12
 wordpress_url: http://superduperfantastic.net/archives/2007/03/07/brace-face/
 disqus_id: 12 http://superduperfantastic.net/archives/2007/03/07/brace-face/
 date: '2007-03-07 22:26:05 -0800'
+excerpt: <p>It's crazy how one can feel so alone for so long, thinking that they're the only one dealing with x, y, and z. Turns out there are many out there with jaw surgery experience.</p>
 categories:
 - Metal Mouth
 tags:
