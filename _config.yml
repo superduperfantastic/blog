@@ -12,7 +12,7 @@ description: A lifestyle/personal blog exploring food, travel and unique experie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.slightlydelightful.com" # the base hostname & protocol for your site
 twitter_username: suki
-github_username: superduperfantastic
+# github_username: superduperfantastic
 excerpt_separator: <!--more-->
 
 # Build settings
