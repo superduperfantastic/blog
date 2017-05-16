@@ -9,7 +9,7 @@ wordpress_url: http://superduperfantastic.net/?p=3286
 date: '2010-06-09 22:57:54 -0700'
 image: http://farm2.static.flickr.com/1291/4665701402_7c542b01cf_c.jpg
 thumbnail: http://farm2.static.flickr.com/1291/4665701402_7c542b01cf_q.jpg
-excerpt: 
+excerpt: <p>Zion National Park is a different type of beautiful, a different sort of majestic...</p>
 categories:
 - Utah
 tags:

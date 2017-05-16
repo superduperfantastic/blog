@@ -9,7 +9,7 @@ wordpress_url: http://superduperfantastic.net/?p=3247
 date: '2010-06-06 08:27:08 -0700'
 image: http://farm5.static.flickr.com/4023/4665040827_4eb40b6bb6_c.jpg
 thumbnail: http://farm5.static.flickr.com/4023/4665040827_4eb40b6bb6_q.jpg
-excerpt:
+excerpt: <p>Our drive along Scenic Highway 12!</P>
 categories:
 - Utah
 tags:

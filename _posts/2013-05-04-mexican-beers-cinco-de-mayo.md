@@ -9,7 +9,7 @@ disqus_id: 20541 http://superduperfantastic.com/?p=20541
 date: '2013-05-04 23:13:13 -0700'
 image: http://farm8.staticflickr.com/7298/8733570553_203a31ba11_b.jpg
 thumbnail: http://farm8.staticflickr.com/7298/8733570553_203a31ba11_q.jpg
-excerpt: <p>"Celebrating Cinco de Mayo with Mexican beers for this week's Saturday Swig. Sampling includes Bohemia, Indio, Tecate and Tecate Light."</p>
+excerpt: <p>Celebrating Cinco de Mayo with Mexican beers for this week's Saturday Swig. Sampling includes Bohemia, Indio, Tecate and Tecate Light.</p>
 categories:
 - Thirsty
 tags:

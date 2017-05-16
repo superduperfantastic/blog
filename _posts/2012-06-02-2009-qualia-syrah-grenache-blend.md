@@ -9,6 +9,7 @@ disqus_id: 15777 http://superduperfantastic.com/?p=15777
 date: '2012-06-02 22:49:14 -0700'
 image: http://farm8.staticflickr.com/7245/7322087876_028f033df5_b.jpg
 thumbnail: http://farm8.staticflickr.com/7245/7322087876_028f033df5_q.jpg
+excerpt: <p>Cheers to the beginnings of a new blog series called Saturday Swig! I'm kicking off the series with the <strong>2009 Syrah Grenache Blend</strong> from Qualia Wines.</p>
 categories:
 - Thirsty
 tags:

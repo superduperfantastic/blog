@@ -7,6 +7,9 @@ disqus_id: 7716 http://superduperfantastic.net/?p=7716
 wordpress_id: 7716
 wordpress_url: http://superduperfantastic.net/?p=7716
 date: '2011-03-10 22:29:44 -0800'
+image: http://farm6.static.flickr.com/5215/5511131149_7fe40e1336.jpg
+thumbnail: 
+excerpt: <p>The adventure that followed a Shamrock Shake tweet & craving...</p>
 categories:
 - Money Matters
 - Thirsty Suki

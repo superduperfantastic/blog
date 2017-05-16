@@ -9,6 +9,7 @@ wordpress_url: http://superduperfantastic.net/?p=5461
 date: '2010-11-19 07:05:14 -0800'
 image: http://farm5.static.flickr.com/4068/5142340610_edfa46d697_c.jpg
 thumbnail: http://farm5.static.flickr.com/4068/5142340610_edfa46d697_q.jpg
+excerpt: <p>Our visit to Oahu was not complete without a stop at the Dole plantation for Dole Whips!</p>
 categories:
 - Hawaii
 tags:

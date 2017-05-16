@@ -9,7 +9,7 @@ disqus_id: 19596 http://superduperfantastic.com/?p=19596
 image: http://farm9.staticflickr.com/8188/8360738380_2d88c050be_b.jpg
 thumbnail: http://farm9.staticflickr.com/8188/8360738380_2d88c050be_q.jpg
 date: '2013-01-05 23:15:01 -0800'
-excerpt: <p>New Year's Eve edition of Saturday Swig - A festive way to celebrate New Year's. Wild Hibiscus in Syrup in our champagne glasses to ring in the new year!/p>
+excerpt: <p>New Year's Eve edition of Saturday Swig - A festive way to celebrate New Year's. Wild Hibiscus in Syrup in our champagne glasses to ring in the new year!</p>
 categories:
 - Thirsty
 tags:

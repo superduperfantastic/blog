@@ -9,6 +9,7 @@ disqus_id: 16040 http://superduperfantastic.com/?p=16040
 date: '2012-07-07 08:17:19 -0700'
 image: http://farm8.staticflickr.com/7090/7171516623_b0b8ccbe7d_b.jpg
 thumbnail: http://farm8.staticflickr.com/7090/7171516623_b0b8ccbe7d_q.jpg
+excerpt: <p>This week's beverage of choice is the <strong>2011 Qualia Sauvignon Blanc</strong> from the urban winery I wrote about in my very first Saturday Swig - Qualia Wines.</p>
 categories:
 - Thirsty
 tags:
