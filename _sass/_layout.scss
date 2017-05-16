@@ -385,3 +385,10 @@ text-align:center;
     display: inline-block;
     padding: $spacing-unit /1.5;
 }
+.form {
+    display: inline-block;
+    padding: $spacing-unit /1.5;
+}
+.form li {
+    border: 1px solid $hover-color;
+}
