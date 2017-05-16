@@ -1,4 +1,4 @@
-<!--Fixed Menu-->
+//Fixed Menu
 
 var menu = $('nav#menu');
 
