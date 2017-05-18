@@ -33,7 +33,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 3;
@@ -110,11 +110,11 @@ a {
  * Blockquotes
  */
 blockquote {
-    padding: $spacing-unit / 2 $spacing-unit * 3;
+    padding: $spacing-unit / 6 $spacing-unit * 2;
 }
 blockquote li {
     list-style-type: square;
-    padding-bottom: $spacing-unit / 2;
+    padding-bottom: $spacing-unit / 5;
 }
 
 
