@@ -45,4 +45,6 @@ The new year is here, and it has us asking, "Where does our money go?" Also, it'
 
 **Entertainment** We went from 5% to 3%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
 
-**Gifts/Donations** - We went from 3% to 2%. Since we opted to spend more in other categories, I was a little pickier on where I was making my charitable donations. I have a feeling this will go up in 2017 as I'll likely want to maximize on my employer's matching policy. And that's our pie chart for 2016\. Looks like we did a pretty good job this past year, and I'm hoping we continue that trend throughout 2017. _Have you tracked your spending for the year? Are there areas of spending that you would like to change for the upcoming year?_
+**Gifts/Donations** - We went from 3% to 2%. Since we opted to spend more in other categories, I was a little pickier on where I was making my charitable donations. I have a feeling this will go up in 2017 as I'll likely want to maximize on my employer's matching policy. And that's our pie chart for 2016\. Looks like we did a pretty good job this past year, and I'm hoping we continue that trend throughout 2017. 
+
+_Have you tracked your spending for the year? Are there areas of spending that you would like to change for the upcoming year?_
