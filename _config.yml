@@ -10,7 +10,7 @@ title: '[Super Duper Fantastic]'
 email: suki@superduperfantastic.com
 description: A lifestyle/personal blog exploring food, travel and unique experiences and adventures in San Francisco and around the world. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.slightlydelightful.com" # the base hostname & protocol for your site
+url: "http://www.superduperfantastic.com" # the base hostname & protocol for your site
 twitter_username: suki
 # github_username: superduperfantastic
 excerpt_separator: <!--more-->
