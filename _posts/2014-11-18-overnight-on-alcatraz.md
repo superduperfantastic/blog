@@ -1,4 +1,5 @@
 ---
+redirect_from: '/overnight-on-alcatraz/22344/'
 layout: post
 status: publish
 published: true
