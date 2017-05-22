@@ -1,5 +1,4 @@
 <footer class="site-footer">
-    <h2 class="footer-heading">{{ site.title }}</h2>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -10,22 +9,39 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+          {% if site.facebook_username %}
+          <li>
+            <i class="fa fa-facebook fa-lg"></i> <a href="http://facebook.com/{{ site.facebook_username }}/" target="_blank">{{ site.facebook_username }}</a>
+          </li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          {% if site.instagram_username %}
           <li>
-            <i class="fa fa-instagram fa-lg"></i> <a href="http://instagram.com/superduperfantastic/" target="_blank">superduperfantastic</a>
+            <i class="fa fa-instagram fa-lg"></i> <a href="http://instagram.com/{{ site.instagram_username }}/" target="_blank">{{ site.instagram_username }}</a>
           </li>
+          {% endif %}
+          {% if site.pinterest_username %}
           <li>
-            <i class="fa fa-rss fa-lg"></i> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
+            <i class="fa fa-pinterest fa-lg"></i> <a href="http://pinterest.com/{{ site.pinterest_username }}/" target="_blank">{{ site.pinterest_username }}</a>
+          </li>
+          {% endif %}
+          {% if site.bloglovin_username %}
+          <li>
+            <i class="fa fa-heart fa-lg"></i> <a href="https://www.bloglovin.com/blogs/{{ site.bloglovin_username }}" target="_blank">Bloglovin'</a>
+          </li>
+          {% endif %}
+          <li>
+            <i class="fa fa-rss fa-lg"></i> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+          </li>
         </ul>
       </div>
 
