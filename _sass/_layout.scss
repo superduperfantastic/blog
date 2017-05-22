@@ -25,9 +25,16 @@
     display:inline-block;
     margin-right: $spacing-unit;
     height: $spacing-unit;
+    font-size: 14px;
     .menu-icon {
         display: none;
-    } 
+    }
+}
+@include media-query($on-palm) {
+    .site-nav .page-link {
+        margin-right: $spacing-unit / 2;
+        font-size: 11px;
+    }
 }
 .site-nav.scrolled {
   margin: 0;
@@ -62,7 +69,14 @@
 .site-nav ul li ul li:hover {
     background: #74b7e4;
 }
-
+@include media-query($on-palm) {
+    .site-nav {
+        height: auto;
+    }
+    .site-nav ul {
+        margin-bottom: 0;
+    }
+ }
 .dropdown .sub-menu {
     display: block;
     width: auto;
@@ -152,6 +166,14 @@
     border-right: $hover-color 1px solid;
 }
 
+@include media-query($on-palm) {
+    .page-content {
+        padding: 0;
+        width: 100%;
+        border-right: 0;
+    }
+ }
+
 .page-heading {
     font-size: 20px;
 }
@@ -209,6 +231,12 @@
     padding: $spacing-unit / 2;
     vertical-align:top;
 }
+ @include media-query($on-palm) {
+    .post-list > li {
+        width: 100%;
+        padding: 0;
+    }
+ }
 .post-header, .post-header-index {
     text-align:center;
 }
@@ -263,12 +291,17 @@
 }
 
 /***Sidebar*/
-.sidebar 
-    { width: 23%;
+.sidebar {
+    width: 23%;
     float: right;
     padding-left: $spacing-unit;
     padding-top: $spacing-unit;
 }
+@include media-query($on-palm) {
+    .sidebar {
+        display: none;
+    }
+ }
 .widget-title:first-child {
     margin-top: $spacing-unit / 3;
 }
@@ -336,7 +369,7 @@
 }
 
 .posts li img {
-    padding-bottom: $spacing-unit/3;    
+    padding-bottom: $spacing-unit/3;
 }
 .catthumb {
     width: $spacing-unit * 5;
@@ -393,3 +426,14 @@ text-align:center;
 .form li {
     border: 1px solid $hover-color;
 }
+
+/* Travel Maps */
+.jvectormap {
+    display: block;
+}
+
+@include media-query($on-palm) {
+    .jvectormap {
+        display: none;
+    }
+ }
