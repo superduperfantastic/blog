@@ -43,3 +43,6 @@ categories:
     generate_all: true
     directory: category
     layout: category_index.html
+
+# Analytics
+google_analytics_id: UA-1159470-5
