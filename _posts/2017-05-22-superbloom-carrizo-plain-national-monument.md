@@ -16,7 +16,7 @@ tags:
 - national parks
 comments: true
 ---
-It was after 9pm. Ryan and I had opted to stay in for the night, as we do on many Saturday evenings. Seated side by side at our desks browsing the internet and doing what we do on our computers, our weekend was approaching its midpoint. 
+It was after 11pm. Ryan and I had opted to stay in for the night, as we do on many Saturday evenings. Seated side by side at our desks browsing the internet and doing what we do on our computers, our weekend was approaching its midpoint. We were about to head to bed. 
 
 >Ryan: Hey, have you heard about this Superbloom phenomenon?
 >
