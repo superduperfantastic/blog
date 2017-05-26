@@ -20,7 +20,9 @@ Mexico City was amazing. So much good food, sights to see, things to do. I don't
 
 ### Arrival in Mexico City - Our First Meals ###
 
-We arrived at the airport and took an Uber to your Airbnb where we quickly dropped our bags off in our room and were whisked away by our hosts for a quick bite to eat. Delicious Marlin tacos at [El Pescadito Condesa DF](https://www.facebook.com/ElPescaditoCondesaDf){:target="_blank"} were our first meal in Mexico City! Pro tip: Instead of standing in the long line to be seated inside at a table, order at the register for take out and pick up your food next door and enjoy on the bench right outside.
+We arrived at the airport and took an Uber to your Airbnb where we quickly dropped our bags off in our room and were whisked away by our hosts for a quick bite to eat. Delicious Marlin tacos at [El Pescadito Condesa DF](https://www.facebook.com/ElPescaditoCondesaDf){:target="_blank"} were our first meal in Mexico City! 
+
+Pro tip: Instead of standing in the long line to be seated inside at a table, order at the register for take out and pick up your food next door and enjoy on the bench right outside.
 
 {:.center}
 ![Mexico City - El Pescadito Condesa](https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_b.jpg)
@@ -38,27 +40,25 @@ It was a really big meal.
 
 ### Day ONE in Mexico City - Eat Mexico / Mercado Jamaica / Birthday BBQ ###
 
-For our first real day in Mexico City. Time to take advantage of all it has to offer! Ride Ecobicis to the [Eat Mexico](http://eatmexico.com/){:target="_blank"} tour you signed up for (Comidas & Calaveritas at Mercado Jamaica). Show up late because you didn't realize how long it would take to get there. Good thing you got SIM cards the night before, so you can text your guide on your way to the meeting point.
+For our first real day in Mexico City, we tried our best to take advantage of all it had to offer! We rode Ecobicis to the [Eat Mexico](http://eatmexico.com/){:target="_blank"} tour (Comidas & Calaveritas at Mercado Jamaica). Unfortunately for us, we showed up a little late because we didn't realize how long it would take to get there. It was a good thing we picked up SIM cards the night before, so we could get in touch with our guide on our way to the meeting point.
 
-Your tour starts, and once you arrive at Mercado Jamaica, your face stuffing begins. Tlacoyos with huitlacoche (aka corn fungus), tamales, champurrado/atole, quesadillas with squash blossoms, huaraches... All the while, you learn about preparations for Dia de los Muertos. The flowers, altars, paper cut-outs and more.
+The tour started with a juice, and once we arrived at Mercado Jamaica, face stuffing begins. Tlacoyos with huitlacoche (aka corn fungus), tamales, champurrado/atole, quesadillas with squash blossoms, huaraches... All the while, we learned about preparations for Dia de los Muertos. The flowers, altars, paper cut-outs and more.
 
 {:.center}
-![Mexico City - Mercado Jamaica](https://c2.staticflickr.com/6/5802/23430232582_a413969592.jpg) ![Mexico City - Mercado Jamaica](https://c2.staticflickr.com/6/5658/23374950341_8875294f8f.jpg)
+![Mexico City - Mercado Jamaica](https://c2.staticflickr.com/6/5802/23430232582_a413969592_b.jpg){:width="49%"} ![Mexico City - Mercado Jamaica](https://c2.staticflickr.com/6/5658/23374950341_8875294f8f_b.jpg){:width="49%"}
 
-Have so much food and fun, and hop on the subway back to your Airbnb once it's all over and done!
+So much food and fun on this tour! Afterward, we hopped on the subway back to our Airbnb.
 
-<u>AFTERNOON:</u> Hang out with your Airbnb hosts and their friends because they're having a birthday BBQ! Eat delicious foods, drink beer, and chit chat with the locals. Take a blurry selfie. It'll be the only photo you have with one of your amazing Airbnb hosts!
+<u>AFTERNOON:</u> We hung out with our Airbnb hosts and their friends because they were having a birthday BBQ! It was a chance to mingle, eat delicious foods, drink beer, and chit chat with the locals. And also take a blurry selfie. This is the only photo of us with one of our amazing Airbnb hosts!
 
 {:.center}
 ![Birthday BBQ](https://c2.staticflickr.com/6/5647/23631292646_e13dc1eb96.jpg)
 
-![Mexico City - Panteon Civil de Dolores](https://c2.staticflickr.com/6/5715/23170407199_50d1049a1f_n.jpg)<u>EVENING:</u> Take a break from the party to check out some Dia de los Muertos festivities! Grab an Uber for [Panteón Civil de Dolores](https://en.wikipedia.org/wiki/Pante%C3%B3n_de_Dolores), the largest cemetery in Mexico.
+![Mexico City - Panteon Civil de Dolores](https://c2.staticflickr.com/6/5715/23170407199_50d1049a1f_n.jpg){:.right}<u>EVENING:</u> A few hours in, and it was time to take a break from the party to check out some Dia de los Muertos festivities! We grabbed an Uber for [Panteón Civil de Dolores](https://en.wikipedia.org/wiki/Pante%C3%B3n_de_Dolores), the largest cemetery in Mexico.
 
-After telling your Uber that you're absolutely sure you want to be dropped off there, you wander the perimeter of the cemetery. There's nobody in sight, and it's super dark out. You come to the conclusion that it is CLOSED. You got here too late. Festivities ended by 9pm! Time to head back to the Airbnb. Luckily, the party is still bumping!
+After telling our Uber that we were absolutely sure we wanted to be dropped off at the perimeter of the cemetery, we admitted that we were wrong. There's nobody in sight, and it was super dark out. Turns out the cemetary was CLOSED. We had gotten there too late, and festivities had ended by 9pm! 
 
-Now to figure out the ATM situation. Finally give in and call your bank via Skype because there's no way every single ATM in Mexico City does not work with your card. Verify your identity and that you've walked up to over a handful ATMs, trying to withdraw varying amounts in order to test your card. Once cleared, test the card at an ATM because you need cash to pay your tour guide the next day. It FINALLY works! *phew*
-
-Buy beer for the party, using cash because their card reader is broken.
+Our ATM situation was still a situation. We finally gave in and called our bank via Skype because there's no way every single ATM in Mexico City would not work with my card. Thankfully after verifying my identification and making several more trips to the ATM, the card finally works, which means we'll have cash to pay our guide in the morning! *phew*
 
 >### Mexico City - REAL TALK ###
 >- Use Uber to get around. If you have access to an [Ecobici](https://www.ecobici.df.gob.mx/en){:target="_blank"}, the bikes are great for quick trips.
