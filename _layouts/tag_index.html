@@ -12,12 +12,12 @@ layout: default
         {% endif %}
         {% endfor %}
   <li>
-          <a href="{{ post.url | prepend: site.baseurl}}" class="image-box"><div class="excerpt-image"  style="background-image: url({{post.image}}); background-position: center center; background-size:100%;"></div></a>
+          <a href="{{ post.url | prepend: site.baseurl}}" class="image-box"><div class="excerpt-image" style="background-image: url({% if post.image %}{{ post.image }}{% else %}{{ "/assets/sdfplaceholder.png" | prepend: site.url }}{% endif %});"></div></a>
           <div class="excerpt-text post-header-index">
             <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
-            <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time><br> 
-              <i class="fa fa-folder-open" aria-hidden="true"></i> 
+            <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time><br>
+              <i class="fa fa-folder-open" aria-hidden="true"></i>
               {% for category in post.categories %}
                 {% for catdata in site.data.categories %}
                   {% if catdata.cat_name == category %}
@@ -25,16 +25,16 @@ layout: default
                       {% if catdata.cat_sname %}
                         {{ catdata.cat_sname }}
                       {% else %}
-                        {{ category }} 
+                        {{ category }}
                       {% endif %}
                     </a>
                   {% endif %}
-                {% endfor %} 
+                {% endfor %}
                 {% unless forloop.last %} > {% endunless %}
               {% endfor %}
               <br>
               <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{ post.disqus_id }}">comments</a></span>
-          
+
           </div>
         </li>
   {% endif %}

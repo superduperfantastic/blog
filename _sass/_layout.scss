@@ -189,6 +189,8 @@
     height: $spacing-unit * 8;
     margin: 0 auto;
     transition: all 0.5s ease;
+    background-position: 50% 50%;
+    background-size: cover;
 }
 .excerpt-image:hover {
     transform: scale(0.97);
@@ -357,11 +359,18 @@
 }
 
 .posts li {
-    padding: $spacing-unit/3;
+    padding: $spacing-unit / 3;
     width: 49%;
     display: inline-block;
     height: $spacing-unit * 13;
 }
+
+@include media-query($on-palm) {
+    .posts li {
+        width: 100%;
+        padding: 0;
+    }
+ }
 
 .posts .category {
     padding-left: 10px;
