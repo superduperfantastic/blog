@@ -53,6 +53,14 @@
     z-index: 999;
 }
 
+@include media-query($on-palm) {
+    .site-nav ul li ul {
+        float: none;
+        left: 15%;
+        right: 15%
+    }
+ }
+
 .site-nav ul li:hover > ul,
 .site-nav ul li ul:hover {
    visibility: visible;
