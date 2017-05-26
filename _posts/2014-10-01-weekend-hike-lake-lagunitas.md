@@ -1,4 +1,5 @@
 ---
+redirect_from: '/weekend-hike-lake-lagunitas/22114/'
 layout: post
 status: publish
 published: true

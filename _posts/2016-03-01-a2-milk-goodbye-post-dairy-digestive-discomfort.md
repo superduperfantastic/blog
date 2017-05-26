@@ -1,4 +1,5 @@
 ---
+redirect_from: '/a2-milk-goodbye-post-dairy-digestive-discomfort/24294/'
 layout: post
 status: publish
 published: true

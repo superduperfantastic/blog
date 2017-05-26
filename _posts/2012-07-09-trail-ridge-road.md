@@ -1,4 +1,5 @@
 ---
+redirect_from: '/trail-ridge-road/16795/'
 layout: post
 status: publish
 published: true

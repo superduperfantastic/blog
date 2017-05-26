@@ -1,4 +1,5 @@
 ---
+redirect_from: '/see-bodie-california-ghost-town-at-night/23822/'
 layout: post
 status: publish
 published: true

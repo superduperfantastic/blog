@@ -1,4 +1,5 @@
 ---
+redirect_from: '/see-new-mexico-snakes-american-international-rattlesnake-museum/23605/'
 layout: post
 status: publish
 published: true
