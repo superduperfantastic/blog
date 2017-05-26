@@ -1,4 +1,5 @@
 ---
+redirect_from: '/bestday2017-new-twitter-project/24769/'
 layout: post
 status: publish
 published: true
