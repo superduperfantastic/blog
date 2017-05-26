@@ -18,9 +18,6 @@ comments: true
 ---
 Mexico City was amazing. So much good food, sights to see, things to do. I don't usually post itineraries or recaps in detail, but I need to get back in the blogging game. It may also be useful for those of you considering a trip to Mexico City. It's a pretty quick flight from the states and a relatively inexpensive trip to enjoy.
 
-{:.center}
-![Mexico in 9 Days](http://superduperfantastic.com/wp-content/uploads/2015/12/Mexico-in-9-Days.png)
-
 ### Arrival in Mexico City - Our First Meals ###
 
 We arrived at the airport and took an Uber to your Airbnb where we quickly dropped our bags off in our room and were whisked away by our hosts for a quick bite to eat. Delicious Marlin tacos at [El Pescadito Condesa DF](https://www.facebook.com/ElPescaditoCondesaDf){:target="_blank"} were our first meal in Mexico City! Pro tip: Instead of standing in the long line to be seated inside at a table, order at the register for take out and pick up your food next door and enjoy on the bench right outside.
