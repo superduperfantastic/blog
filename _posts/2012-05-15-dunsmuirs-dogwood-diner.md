@@ -1,4 +1,5 @@
 ---
+redirect_from: '/dunsmuirs-dogwood-diner/15419/'
 layout: post
 status: publish
 published: true
