@@ -10,6 +10,7 @@ disqus_id: 23819 http://superduperfantastic.com/?p=23819
 thumbnail: https://c1.staticflickr.com/5/4248/34512306730_3f15dd6e3a_q.jpg
 image: https://c1.staticflickr.com/5/4248/34512306730_3f15dd6e3a_b.jpg
 date: '2015-09-23 07:18:14 -0700'
+excerpt: <p>Bodie State Historic Park welcomes leashed dogs, so Fresca got to soak in the sights of the area. Made for quite a photoshoot!</p>
 categories:
 - California
 tags:
