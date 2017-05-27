@@ -1,4 +1,5 @@
 ---
+redirect_from: '/memorial-weekend-recap-las-vegas/3309/'
 layout: post
 status: publish
 published: true

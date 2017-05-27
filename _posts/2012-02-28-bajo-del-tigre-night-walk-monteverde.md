@@ -1,4 +1,5 @@
 ---
+redirect_from: '/bajo-del-tigre-night-walk-monteverde/13639/'
 layout: post
 status: publish
 published: true

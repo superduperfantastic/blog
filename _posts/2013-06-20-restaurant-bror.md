@@ -1,4 +1,5 @@
 ---
+redirect_from: '/restaurant-bror/20619/'
 layout: post
 status: publish
 published: true

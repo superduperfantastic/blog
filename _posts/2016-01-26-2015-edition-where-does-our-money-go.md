@@ -1,4 +1,5 @@
 ---
+redirect_from: '/2015-edition-where-does-our-money-go/24227/'
 layout: post
 status: publish
 published: true

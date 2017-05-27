@@ -1,4 +1,5 @@
 ---
+redirect_from: '/3-ways-make-international-balloon-fiesta-experience/24694/'
 layout: post
 status: publish
 published: true
