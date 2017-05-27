@@ -1,4 +1,5 @@
 ---
+redirect_from: '/commonwealth-sf/22244/'
 layout: post
 status: publish
 published: true
