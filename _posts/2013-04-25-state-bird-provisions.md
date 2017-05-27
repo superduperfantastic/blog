@@ -1,4 +1,5 @@
 ---
+redirect_from: '/state-bird-provisions/20434/'
 layout: post
 status: publish
 published: true

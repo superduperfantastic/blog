@@ -40,7 +40,7 @@ There were intermittent rain showers, so we stopped in at [Al Andar](http://www.
 Based on our Airbnb host's recommendations, we decided to have sushi for dinner at [Tori Tori](http://toritori.com.mx/){:target="_blank"} - Temistocles #61 in Polanco. The restaurant is uniquely designed and decorated, so it was neat to check it out. The food was delicious once we figured out how to order at the sushi counter. We were seated at the counter but were never handed a menu. When we finally got the sushi chef's attention, he handed us a giant wooden board with the menu printed on it. So weird! At least the food was good!
 
 {:.center}
-![Mexico City - Tori Tori](https://c1.staticflickr.com/1/739/23724247352_69613eeba1_b.jpg)\\
+![Mexico City - Tori Tori](https://c1.staticflickr.com/1/739/23724247352_69613eeba1_b.jpg)
 *Tori Tori*
 
 On the way back to the Airbnb, we stopped in at Helados Santa Clara for dessert. Thankfully that was a pretty straightforward ordering process, since the rest of the day had been full of confusing dining in Mexico City.
@@ -61,19 +61,19 @@ After our quick break at Mercado Roma, we walked over to [Museo del Juguete Anti
 We went up the dark stairway and rang the doorbell. It's unassuming at first, but then we ended up spending the next few hours among old toys and wonderful graffiti art spread across many floors. We were lucky enough to meet the man/collector behind it all, Roberto Shimizu and learn about how and why he started collecting. We took so many photos here!
 
 {:.center}
-![Mexico City - MUJAM](https://c1.staticflickr.com/1/678/23207376123_7e22a604f1_b.jpg)\\
+![Mexico City - MUJAM](https://c1.staticflickr.com/1/678/23207376123_7e22a604f1_b.jpg)
 *Museo del Juguete Antiguo Mexico aka MUJAM*
 
 We remembered a tip from Mojdeh about asking to see the rooftop. Definite pro tip there! The rooftop is *covered*, and by the time we got up there, it was about sunset, so the views were also fantastic.
 
 {:.center}
-![Mexico City - MUJAM](https://c2.staticflickr.com/6/5806/23466253429_1345bd6fe0_b.jpg)\\
+![Mexico City - MUJAM](https://c2.staticflickr.com/6/5806/23466253429_1345bd6fe0_b.jpg)
 *Rooftop of Museo del Juguete Antiguo Mexico aka MUJAM*
 
 For dinner, we decided to venture over to Little Koreatown in Mexico City. We recalled seeing some Korean restaurants during some of our Uber rides around the city. We ate dinner at [Ma Po Gal Bi](https://www.facebook.com/pages/Mapo-Gal-Bi/172045342930531?rf=436111446446597){:target="_blank"}, gorging ourselves on delicious Korean food and drinking way too much soju.
 
 >### Mexico City - Real Talk ###
->- If you are riding [Ecobicis](www.ecobici.df.gob.mx/en){:target="_blank}, use the app to find parking because people use these bikes to commute and some racks are more full than others. 
+>- If you are riding [Ecobicis](http://www.ecobici.df.gob.mx/en){:target="_blank}, use the app to find parking because people use these bikes to commute and some racks are more full than others. 
 >-Eat at [Catamundi](http://catamundi.com){:target="_blank"} or pick something up for later. The market inside looks amazing!
 >- Go to [Mercado Roma](http://mercadoroma.com/){:target="_blank"}, even for a snack or a juice. It's a beautiful spot.
 >- MUJAM came recommended by [Journeys Beyond the Surface](http://travelmexicocity.com.mx/){:target="_blank"}, again for graffiti art. The toys, graffiti art, and meeting the owner were the highlight of our trip. Go see it if you have a few hours to spare. Ask to see the rooftop!

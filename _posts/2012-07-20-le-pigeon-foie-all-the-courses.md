@@ -1,4 +1,5 @@
 ---
+redirect_from: '/le-pigeon-foie-all-the-courses/17104/'
 layout: post
 status: publish
 published: true
