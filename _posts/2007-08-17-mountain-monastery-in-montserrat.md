@@ -1,4 +1,5 @@
 ---
+redirect_from: '/mountain-monastery-in-montserrat/76/'
 layout: post
 status: publish
 published: true

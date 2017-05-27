@@ -1,4 +1,5 @@
 ---
+redirect_from: '/oahu-shrimp-trucks-north-shore/5354/'
 layout: post
 status: publish
 published: true

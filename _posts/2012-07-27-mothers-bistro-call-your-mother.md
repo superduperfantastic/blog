@@ -1,4 +1,5 @@
 ---
+redirect_from: '/mothers-bistro-call-your-mother/17101/'
 layout: post
 status: publish
 published: true
