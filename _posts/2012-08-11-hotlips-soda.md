@@ -1,4 +1,5 @@
 ---
+redirect_from: '/saturday-swig-8-hotlips-soda/17447/'
 layout: post
 status: publish
 published: true

@@ -1,4 +1,5 @@
 ---
+redirect_from: '/mexico-city-9-day-itinerary-4/24117/'
 layout: post
 status: publish
 published: true

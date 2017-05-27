@@ -1,4 +1,5 @@
 ---
+redirect_from: '/mediterranean-coffee-nepenthe-big-sur/18796/'
 layout: post
 status: publish
 published: true
