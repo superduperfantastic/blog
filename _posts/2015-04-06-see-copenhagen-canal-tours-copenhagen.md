@@ -1,4 +1,5 @@
 ---
+redirect_from: '/see-copenhagen-canal-tours-copenhagen/23394/'
 layout: post
 status: publish
 published: true

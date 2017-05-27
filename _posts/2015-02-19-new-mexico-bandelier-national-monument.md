@@ -1,4 +1,5 @@
 ---
+redirect_from: '/new-mexico-bandelier-national-monument/22933/'
 layout: post
 status: publish
 published: true

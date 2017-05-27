@@ -1,4 +1,5 @@
 ---
+redirect_from: '/bali-at-sunset/24562/'
 layout: post
 status: publish
 published: true

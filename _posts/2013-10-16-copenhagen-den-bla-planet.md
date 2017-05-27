@@ -1,4 +1,5 @@
 ---
+redirect_from: '/see-copenhagen-den-bla-planet/21319/'
 layout: post
 status: publish
 published: true
