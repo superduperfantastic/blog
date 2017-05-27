@@ -8,6 +8,7 @@ wordpress_id: 2419
 wordpress_url: http://superduperfantastic.net/?p=2419
 disqus_id: 2419 http://superduperfantastic.net/?p=2419
 date: '2010-04-09 12:57:39 -0700'
+excerpt: <p>End result - a comparison of my new and old face!</p>
 categories:
 - Metal Mouth
 tags:
