@@ -1,4 +1,5 @@
 ---
+redirect_from: '/oahu-2010-sunday-morning-shenanigans/5437/'
 layout: post
 status: publish
 published: true

@@ -1,4 +1,5 @@
 ---
+redirect_from: '/brunch-ashland-morning-glory/13868/'
 layout: post
 status: publish
 published: true

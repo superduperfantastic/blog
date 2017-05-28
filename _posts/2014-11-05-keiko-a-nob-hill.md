@@ -1,4 +1,5 @@
 ---
+redirect_from: '/keiko-a-nob-hill/22269/'
 layout: post
 status: publish
 published: true
