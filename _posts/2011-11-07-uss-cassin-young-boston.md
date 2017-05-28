@@ -8,7 +8,7 @@ disqus_id: 12528 http://superduperfantastic.com/?p=12528
 wordpress_id: 12528
 wordpress_url: http://superduperfantastic.com/?p=12528
 date: '2011-11-07 23:31:29 -0800'
-excerpt: <p>An unexpected highlight of our Boston trip was the tour of [USS Cassin Young](https://www.nps.gov/bost/learn/historyculture/usscassinyoung.htm){:target="_blank"} on the Monday that we were supposed to take a Megabus up to Burlington, Vermont...</p>
+excerpt: <p>An unexpected highlight of our Boston trip was the tour of USS Cassin Young on the Monday that we were supposed to take a Megabus up to Burlington, Vermont...</p>
 image: http://farm7.static.flickr.com/6214/6212201027_58f619532a_c.jpg
 thumbnail: http://farm7.static.flickr.com/6214/6212201027_58f619532a_q.jpg
 categories:
@@ -20,7 +20,7 @@ tags:
 comments: true
 ---
 {:.center}
-![USS Cassin Young](http://farm7.static.flickr.com/6214/6212201027_58f619532a_c.jpg)
+![USS Cassin Young](http://farm7.static.flickr.com/6214/6212201027_58f619532a_b.jpg)
 
 An unexpected highlight of our Boston trip was the tour of [USS Cassin Young](https://www.nps.gov/bost/learn/historyculture/usscassinyoung.htm){:target="_blank"} on the Monday that we were supposed to take a Megabus up to Burlington, Vermont. After waiting over an hour or so for a bus that never came, we made alternate plans. The morning took us down to [Adams National Historic Park](http://www.nps.gov/bost/historyculture/usscassinyoung.htm){:target="_blank"} in Quincy, and in the afternoon, we explored the Charlestown Naval Yard where both USS Constitution and USS Cassin Young live.
 
@@ -37,7 +37,7 @@ We started the tour on deck with the history of the ship and its use in the war 
 ![USS Cassin Young](http://farm7.static.flickr.com/6099/6229383310_731dd84bd5.jpg){:width="49%"} ![USS Cassin Young](http://farm7.static.flickr.com/6104/6229384416_8e444105ff.jpg){:width="49%"}
 
 {:.center}
-![USS Cassin Young](http://farm7.static.flickr.com/6176/6229384562_89da64306a_c.jpg)
+![USS Cassin Young](http://farm7.static.flickr.com/6176/6229384562_89da64306a_b.jpg)
 
 We went from the seamen's quarters to those of the officers'. From three people stacked on top of each other in a room of 10+ to rooms of two to single person rooms - what a big difference!
 
@@ -52,4 +52,4 @@ During the tour, the guide would point at or mention something that looked inter
 The 45 minutes went by quickly, and it was the best **zero** dollars we spent in Boston. Can you believe it? Free! It's definitely one of the many reasons I support the [National Park Service](http://www.nps.gov/index.htm){:target="_blank"}
 
 {:.center}
-![USS Cassin Young](http://farm7.static.flickr.com/6092/6228868767_6923377ee4_c.jpg)
+![USS Cassin Young](http://farm7.static.flickr.com/6092/6228868767_6923377ee4_b.jpg)
