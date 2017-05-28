@@ -1,4 +1,5 @@
 ---
+redirect_from: '/sf-zoo/24181/'
 layout: post
 status: publish
 published: true
