@@ -9,7 +9,7 @@ wordpress_url: http://superduperfantastic.com/?p=24769
 disqus_id: 24769 http://superduperfantastic.com/?p=24769
 thumbnail: https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_q.jpg
 image: https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_b.jpg
-excerpt: <p>With so much negativity out there on Twitter these days, I decided to focus on the positive. I've started a new project with the hashtag &#35;bestday2017.</p>
+excerpt: <p>With so much negativity out there on Twitter these days, I decided to focus on the positive. I've started a new project with the hashtag &#35;bestday2017. Feel free to join in!</p>
 date: 2017-01-14
 categories:
 - Around the Web
