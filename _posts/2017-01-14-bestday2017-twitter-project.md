@@ -1,5 +1,6 @@
 ---
 redirect_from: '/bestday2017-new-Twitter-project/24769/'
+redirect_from: '/bestday2017-new-twitter-project/24769/'
 layout: post
 status: publish
 published: true
