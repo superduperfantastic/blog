@@ -5,11 +5,14 @@ status: publish
 published: true
 title: Peppermint Bark Chocolate Cookies!
 disqus_id: 6249 http://superduperfantastic.net/?p=6249 
+image: http://farm6.static.flickr.com/5209/5280279041_edccd8b52b_b.jpg
+thumbnail: http://farm6.static.flickr.com/5209/5280279041_edccd8b52b_q.jpg
+excerpt: <p>When you've got a whole lot of peppermint bark, baking peppermint bark chocolate cookies is not a bad idea!</p>
 wordpress_id: 6249
 wordpress_url: http://superduperfantastic.net/?p=6249
 date: '2010-12-21 10:16:44 -0800'
 categories:
-- cooking
+- Cooking
 tags:
 - baking
 - cookies
