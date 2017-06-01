@@ -1,4 +1,5 @@
 ---
+redirect_from: '/eat-eureka-brick-fire-bistro/23431/'
 layout: post
 status: publish
 published: true

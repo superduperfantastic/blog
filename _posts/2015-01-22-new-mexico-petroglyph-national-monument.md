@@ -1,4 +1,5 @@
 ---
+redirect_from: '/new-mexico-petroglyph-national-monument/22931/'
 layout: post
 status: publish
 published: true

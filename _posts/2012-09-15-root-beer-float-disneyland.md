@@ -1,4 +1,5 @@
 ---
+redirect_from: '/saturday-swig-root-beer-float-disneyland/18149/'
 layout: post
 status: publish
 published: true

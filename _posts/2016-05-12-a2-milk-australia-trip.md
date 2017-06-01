@@ -1,4 +1,5 @@
 ---
+redirect_from: '/try-a2-milk-win-trip-australia/24606/'
 layout: post
 status: publish
 published: true
