@@ -9,7 +9,7 @@ wordpress_id: 24294
 wordpress_url: http://superduperfantastic.com/?p=24294
 disqus_id: 24294 http://superduperfantastic.com/?p=24294
 thumbnail: https://c2.staticflickr.com/2/1572/24873883514_830ea69c85_q.jpg
-image: https://c2.staticflickr.com/2/1572/24873883514_830ea69c85_b.jpg
+image: https://c2.staticflickr.com/2/1572/24873883514_830ea69c85.jpg
 date: '2016-03-01 18:35:58 -0800'
 categories:
 - Partners

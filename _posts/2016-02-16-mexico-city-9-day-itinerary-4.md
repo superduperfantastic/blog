@@ -8,7 +8,7 @@ wordpress_id: 24117
 wordpress_url: http://superduperfantastic.com/?p=24117
 disqus_id: 24117 http://superduperfantastic.com/?p=24117
 thumbnail: https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_q.jpg
-image: https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_b.jpg
+image: https://c2.staticflickr.com/2/1720/24765543260_65a72ee769.jpg
 excerpt: <p>Days 6 and 7 of our Mexico City adventures - Bosque de Chapultepec, fancy dinner at Pujol (one of The World's 50 Best Restaurants), Museo Dolores Olmedo, Xochimilco, and UNAM/MUAC.</p>
 date: '2016-02-16 00:08:32 -0800'
 categories:

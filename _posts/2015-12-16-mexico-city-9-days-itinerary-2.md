@@ -8,7 +8,7 @@ wordpress_url: http://superduperfantastic.com/?p=24038
 disqus_id: 24038 http://superduperfantastic.com/?p=24038
 excerpt: <p>Recap/itinerary of day 2 and 3 of 9 days in Mexico City - Teotihuacan, Basilica of Guadalupe, Museo Frida Kahlo, Coyoacan and Turi*Luchas (Lucha Libre).</p>
 thumbnail: https://c2.staticflickr.com/6/5808/23348897852_c5f12d319c_q.jpg
-image: https://c2.staticflickr.com/6/5624/23667520692_3d56848f81_b.jpg
+image: https://c2.staticflickr.com/6/5624/23667520692_3d56848f81.jpg
 date: '2015-12-16 23:50:03 -0800'
 categories:
 - Mexico

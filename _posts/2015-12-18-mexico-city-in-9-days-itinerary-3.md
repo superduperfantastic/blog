@@ -7,7 +7,7 @@ wordpress_id: 24078
 wordpress_url: http://superduperfantastic.com/?p=24078
 disqus_id: 24078 http://superduperfantastic.com/?p=24078
 thumbnail: https://c2.staticflickr.com/6/5625/23806382116_a770f22a37_q.jpg
-image: https://c2.staticflickr.com/6/5625/23806382116_a770f22a37_b.jpg
+image: https://c2.staticflickr.com/6/5625/23806382116_a770f22a37.jpg
 excerpt: <p>Days 4 and 5 of our Mexico City adventures - we spend time exploring Centro Historico with a guide from <a href="http://travelmexicocity.com.mx/" target="_blank">Journeys Beyond the Surface</a> and then checking out Museo Nacional de Antropologia and MUJAM.</p>
 date: '2015-12-18 14:09:58 -0800'
 date_gmt: '2015-12-18 22:09:58 -0800'

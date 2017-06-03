@@ -6,7 +6,7 @@ title: February Goals {2016}
 wordpress_id: 24251
 wordpress_url: http://superduperfantastic.com/?p=24251
 disqus_id: 24251 http://superduperfantastic.com/?p=24251
-image: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_b.jpg
+image: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc.jpg
 thumbnail: https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_q.jpg
 excerpt: <p>While I succeeded at meeting most of my January goals, there was still one I needed to work on. Find out what worked and what didn't. Also, February goals!</p>
 date: '2016-02-02 16:22:02 -0800'

@@ -6,7 +6,7 @@ title: End-of-Year Stuffed Bell Peppers and a Glass of Cultivar Wine
 wordpress_id: 24142
 wordpress_url: http://superduperfantastic.com/?p=24142
 disqus_id: 24142 http://superduperfantastic.com/?p=24142
-image: https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_c.jpg
+image: https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d.jpg
 thumbnail: https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_q.jpg
 excerpt: <p>Enjoying stuffed bell peppers after spending the holidays with family, paired with Cultivar Wine's 2013 Oak Knoll Cabernet Franc.</p>
 date: '2015-12-31 01:44:04 -0800'
