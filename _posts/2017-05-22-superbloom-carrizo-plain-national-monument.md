@@ -4,8 +4,8 @@ status: publish
 published: true
 title: 'Chasing the Superbloom - Carrizo Plain National Monument'
 disqus_id: 2017-carrizo
-thumbnail: https://c1.staticflickr.com/5/4223/34674654762_6f2b992bcc_q.jpg
-image: https://c1.staticflickr.com/5/4223/34674654762_6f2b992bcc.jpg
+thumbnail: '/assets/posts/carrizo-plain-national-monument-thumb.jpg'
+image: '/assets/posts/carrizo-plain-national-monument-img.jpg'
 excerpt: <p>Desert Superblooms have been <em>a thing</em> the past few years, and we decided to check it out with our very own eyes in early April. A very quick trip to Carrizo Plain National Monument!</p>
 date: 2017-05-22
 categories:
@@ -31,7 +31,7 @@ And that's how it began.
 After some quick research, we decided our destination would be [Carrizo Plain National Monument](https://www.blm.gov/nlcs_web/sites/ca/st/en/prog/nlcs/Carrizo_Plain_NM.html){:target="_blank"}. As it is 260+ miles away from San Francisco, it would take more than 4.5 hours each way. Our plan was to wake up early on Sunday morning, make the drive, and be among wildflowers for a few hours before grabbing dinner and heading back home. 
 
 {:.center}
-![](https://c1.staticflickr.com/5/4160/34674654162_f9d4bd0951_b.jpg "Carrizo Plain National Monument sign") 
+![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-01.jpg) 
 
 Carrizo Plain National Monument was declared a National Monument in 2001 and is maintained by the Bureau of Land Management (BLM). As the facilities are not as developed as those found in most national parks and with the influx of Superbloom-chasing visitors, there was a long line at the visitor center. After a short wait, I signed the guest book and snagged some useful info on where to spend the rest of our limited time (ie. not on private land). 
 
