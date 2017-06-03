@@ -1,6 +1,7 @@
 ---
-redirect_from: '/sea-forager-first-foraging-expedition/13436/'
-redirect_from: '/our-first-foraging-expedition/13436/'
+redirect_from: 
+- '/sea-forager-first-foraging-expedition/13436/'
+- '/our-first-foraging-expedition/13436/'
 layout: post
 status: publish
 published: true

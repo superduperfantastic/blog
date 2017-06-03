@@ -1,5 +1,6 @@
 ---
-
+redirect_from:
+- '/dog-friendly-bodie/23819/'
 layout: post
 status: publish
 published: true

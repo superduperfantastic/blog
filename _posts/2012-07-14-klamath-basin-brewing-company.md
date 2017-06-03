@@ -1,4 +1,6 @@
 ---
+redirect_from: 
+- '/klamath-basin-brewing-company/15630/'
 layout: post
 status: publish
 published: true

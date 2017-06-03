@@ -1,6 +1,7 @@
 ---
-redirect_from: '/oahu-2010-pineapples-dole-plantation/5461/'
-redirect_from: '/oahu-2010-pineapples/5461/'
+redirect_from: 
+- '/oahu-2010-pineapples-dole-plantation/5461/'
+- '/oahu-2010-pineapples/5461/'
 layout: post
 status: publish
 published: true

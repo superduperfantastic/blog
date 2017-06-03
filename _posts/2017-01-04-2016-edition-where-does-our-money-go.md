@@ -1,4 +1,6 @@
 ---
+redirect_from:
+- '/2016-edition-money/24758/'
 layout: post
 status: publish
 published: true

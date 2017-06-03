@@ -1,5 +1,7 @@
 ---
-redirect_from: '/mountain-monastery-in-montserrat/76/'
+redirect_from: 
+- '/mountain-monastery-in-montserrat/76/'
+- '/2007/08/mountain-monastery/'
 layout: post
 status: publish
 published: true
