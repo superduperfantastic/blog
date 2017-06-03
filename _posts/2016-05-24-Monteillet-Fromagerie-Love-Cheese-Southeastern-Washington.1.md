@@ -8,7 +8,7 @@ wordpress_id: 24632
 wordpress_url: http://superduperfantastic.com/?p=24632
 disqus_id: 24632 http://superduperfantastic.com/?p=24632
 thumbnail: https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45_q.jpg
-image: https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45_c.jpg
+image: https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45.jpg
 excerpt: <p>Monteillet Fromagerie - visiting and learning about the first artisan farmstead cheesemaker in Walla Walla Valley.</p>
 date: 2016-05-24
 categories:

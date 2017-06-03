@@ -8,7 +8,7 @@ wordpress_id: 24694
 wordpress_url: http://superduperfantastic.com/?p=24694
 disqus_id: 24694 http://superduperfantastic.com/?p=24694
 thumbnail: https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20_q.jpg
-image: https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20_c.jpg
+image: https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20.jpg
 excerpt: <p>How to make the most of the International Balloon Fiesta experience.</p>
 date: 2016-07-26
 categories:

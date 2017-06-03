@@ -5,7 +5,7 @@ published: true
 title: 'Chasing the Superbloom - Carrizo Plain National Monument'
 disqus_id: 2017-carrizo
 thumbnail: https://c1.staticflickr.com/5/4223/34674654762_6f2b992bcc_q.jpg
-image: https://c1.staticflickr.com/5/4223/34674654762_6f2b992bcc_b.jpg
+image: https://c1.staticflickr.com/5/4223/34674654762_6f2b992bcc.jpg
 excerpt: <p>Desert Superblooms have been <em>a thing</em> the past few years, and we decided to check it out with our very own eyes in early April. A very quick trip to Carrizo Plain National Monument!</p>
 date: 2017-05-22
 categories:
