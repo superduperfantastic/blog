@@ -21,23 +21,20 @@ I lived in Southern California for a handful of years. In that time, I never onc
 There seemed to be plenty of tickets available, so I booked us for I brought along my most recent obsession - the [Moment Superfish lens](https://www.shopmoment.com/shop/new-superfish-lens){:target="_blank"}. In one word, it's amazing. I love the perspective it gives in the photos. There is a bit of distortion, but it's an interesting effect to the eye, rather than an annoyance. At least to me. :)
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-01.jpg "Getty Villa - Inner Peristyle")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-01.jpg "Getty Villa - Inner Peristyle"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-02.jpg "Getty Villa - Inner Peristyle"){:width="49%"}
 
-Ryan and I generally approach museums in a few different ways. We either check out the exhibits ourselves in a fairly quick pace, or we find a guided tour. Luckily for us, the Getty Villa has an extensive touring schedule. There are architecture tours, garden tours, general tours and exhibit-specific tours. 
-
-{:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-02.jpg "Getty Villa - Inner Peristyle")
+Ryan and I generally approach museums in two ways. We either check out the exhibits ourselves in a fairly quick pace, or we find a guided tour. Luckily for us, the Getty Villa has an extensive tour schedule. There are architecture tours, garden tours, general tours and exhibit-specific tours. 
 
 Since we weren't really in a hurry to be anywhere else, we took a few different tours. Our first tour covered some of the mosaics of the latest exhibit. Our second was a tour of the garden.
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - fountain in East Garden"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - fountain in East Garden"){:width="49%"}
 
-After the garden tour, we checked in to see if we might be squeezed into Tea by the Sea, a once-a-month tea service at the Getty Villa. Even though we hadn't made advanced reservations, they were able to seat us, so we enjoyed tea for two. 
+After the garden tour, we checked in to see if we might be squeezed into Tea by the Sea, a Thursday and Saturday afternoon tea service at the Getty Villa. Even though we hadn't made advanced reservations, they were able to seat us, so we enjoyed our tea for two. It ended up being outside of the main dining area, so it was almost like VIP service. 
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
-It ended up being outside of the main dining area, so it was almost like VIP service. Their house lavender/pine tea was delicious, and we left the tea service more stuffed than we expected to be.
+Their house lavender/pine tea was delicious, and we left the tea service more stuffed than we expected to be. There was an additional garden tour included with the tea, so we stuck around a little longer.
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-05.jpg "Getty Villa - floor tiles")
@@ -45,7 +42,7 @@ It ended up being outside of the main dining area, so it was almost like VIP ser
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-06.jpg "Getty Villa - walkway ceiling"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - walkway ceiling"){:width="49%"}
 
-The Outer Peristyle was still under renovation during our visit, so I know we'll have to revisit for the full effect. For $15 parking, it's a lovely way to spend several hours of the day. 
+By the time we were finished, it was already the mid-afternoon. The Outer Peristyle was still under renovation during our visit, so I know we'll have to revisit. For $15 parking, it's a lovely way to spend several hours of the day. 
 
 >### Visit the Getty Villa
 >
