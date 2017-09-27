@@ -25,7 +25,7 @@ There seemed to be plenty of tickets available, so I booked us for I brought alo
 
 Ryan and I generally approach museums in two ways. We either check out the exhibits ourselves in a fairly quick pace, or we find a guided tour. Luckily for us, the Getty Villa has an extensive tour schedule. There are architecture tours, garden tours, general tours and exhibit-specific tours. 
 
-Since we weren't really in a hurry to be anywhere else, we took a few different tours. Our first tour covered some of the mosaics of the latest exhibit. Our second was a tour of the garden.
+Since we weren't really in a hurry to be anywhere else, we took a few different tours. Our first tour covered some of the mosaics of the latest exhibit. We were two of three on the tour, so it was almost a personal tour. Our second was a bit larger. It was a tour of the garden, and this time, we were handed audio devices, so the guide could speak to the entire group without yelling at us.
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - fountain in East Garden"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - fountain in East Garden"){:width="49%"}
