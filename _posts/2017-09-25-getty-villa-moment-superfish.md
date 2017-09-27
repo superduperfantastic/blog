@@ -16,21 +16,31 @@ tags:
 - Moment
 comments: true
 ---
-I lived in Southern California for a handful of years. In that time, I never once visited the Getty Villa. Anytime I would drive through Pacific Palisades and Malibu, I'd see the signs, but I never really looked it up to plan a visit. 
+I lived in Southern California for a handful of years. In that time, I never once visited the Getty Villa. Anytime I would drive through Malibu, I'd see the sign for the villa, but I didn't really know what it was. I also never looked it up to plan a visit. The visit a few weekends ago was somewhat unexpected as my original thought for the day was to possibly check out the Getty Museum in Brentwood. While I was looking up the Getty's parking info, I came across the Getty Villa ticketing. 
 
-Of course, I brought along my most recent obsession - the [Moment Superfish lens](https://www.shopmoment.com/shop/new-superfish-lens){:target="_blank"}. In one word, it's amazing. 
+There seemed to be plenty of tickets available, so I booked us for I brought along my most recent obsession - the [Moment Superfish lens](https://www.shopmoment.com/shop/new-superfish-lens){:target="_blank"}. In one word, it's amazing. I love the perspective it gives in the photos. There is a bit of distortion, but it's an interesting effect to the eye, rather than an annoyance. At least to me. :)
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-01.jpg "Getty Villa - Inner Peristyle")
 
+Ryan and I generally approach museums in a few different ways. We either check out the exhibits ourselves in a fairly quick pace, or we find a guided tour. Luckily for us, the Getty Villa has an extensive touring schedule. There are architecture tours, garden tours, general tours and exhibit-specific tours. 
+
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-02.jpg "Getty Villa - Inner Peristyle")
 
-{:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - fountain in East Garden")
+Since we weren't really in a hurry to be anywhere else, we took a few different tours. Our first tour covered some of the mosaics of the latest exhibit. Our second was a tour of the garden.
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - fountain in East Garden")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - fountain in East Garden"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - fountain in East Garden"){:width="49%"}
+
+After the garden tour, we checked in to see if we might be squeezed into Tea by the Sea, a once-a-month tea service at the Getty Villa. Even though we hadn't made advanced reservations, they were able to seat us, so we enjoyed tea for two. 
+
+Their house lavender/pine tea was delicious, and we left the tea service stuffed.
+
+{:.center}
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
+
+The Outer Peristyle was still under renovation during our visit, so I know we'll have to revisit for the full effect. 
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-05.jpg "Getty Villa - floor tiles")
@@ -40,11 +50,6 @@ Of course, I brought along my most recent obsession - the [Moment Superfish lens
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - walkway ceiling")
-
-{:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
-
-
 
 >### Visit the Getty Villa
 >
