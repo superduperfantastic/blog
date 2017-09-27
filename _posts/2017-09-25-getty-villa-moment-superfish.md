@@ -6,7 +6,7 @@ title: 'Getty Villa Through the Moment Superfish Lens'
 disqus_id: 2017-gettyvilla
 thumbnail: '/assets/posts/getty-villa-moment-superfish-thumb.jpg'
 image: '/assets/posts/getty-villa-moment-superfish-img.jpg'
-excerpt: <p>On a recent trip to Los Angeles, Ryan and I unexpectedly spent most of a day exploring the Getty Villa. I took my Moment Superfish lens along for the ride.</p>
+excerpt: <p>Ryan and I unexpectedly spent most of a day exploring the Getty Villa on a recent weekend trip to LA. I took my Moment Superfish lens along for the ride.</p>
 date: 2017-09-25
 categories:
 - California
