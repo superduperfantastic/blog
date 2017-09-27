@@ -21,28 +21,28 @@ I lived in Southern California for a handful of years. In that time, I never onc
 Of course, I brought along my most recent obsession - the [Moment Superfish lens](https://www.shopmoment.com/shop/new-superfish-lens){:target="_blank"}. In one word, it's amazing. 
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-01.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-01.jpg "Getty Villa - Inner Peristyle")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-02.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-02.jpg "Getty Villa - Inner Peristyle")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-03.jpg "Getty Villa - fountain in East Garden")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-04.jpg "Getty Villa - fountain in East Garden")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-05.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-05.jpg "Getty Villa - floor tiles")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-06.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-06.jpg "Getty Villa - walkway ceiling")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - walkway ceiling")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - ")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
 
 
 
