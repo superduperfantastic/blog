@@ -35,21 +35,17 @@ Since we weren't really in a hurry to be anywhere else, we took a few different 
 
 After the garden tour, we checked in to see if we might be squeezed into Tea by the Sea, a once-a-month tea service at the Getty Villa. Even though we hadn't made advanced reservations, they were able to seat us, so we enjoyed tea for two. 
 
-Their house lavender/pine tea was delicious, and we left the tea service stuffed.
-
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
-
-The Outer Peristyle was still under renovation during our visit, so I know we'll have to revisit for the full effect. 
+It ended up being outside of the main dining area, so it was almost like VIP service. Their house lavender/pine tea was delicious, and we left the tea service more stuffed than we expected to be.
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-05.jpg "Getty Villa - floor tiles")
 
 {:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-06.jpg "Getty Villa - walkway ceiling")
+![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-06.jpg "Getty Villa - walkway ceiling"){:width="49%"} ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - walkway ceiling"){:width="49%"}
 
-{:.center}
-![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-07.jpg "Getty Villa - walkway ceiling")
+The Outer Peristyle was still under renovation during our visit, so I know we'll have to revisit for the full effect. For $15 parking, it's a lovely way to spend several hours of the day. 
 
 >### Visit the Getty Villa
 >
