@@ -34,6 +34,7 @@ After the garden tour, we checked in to see if we might be squeezed into Tea by 
 
 {:.center}
 ![Getty Villa]({{site.url}}/assets/posts/getty-villa-moment-superfish-08.jpg "Getty Villa - Tea by the Sea")
+
 Their house lavender/pine tea was delicious, and we left the tea service more stuffed than we expected to be. There was an additional garden tour included with the tea, so we stuck around a little longer.
 
 {:.center}
