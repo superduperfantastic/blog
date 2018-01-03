@@ -16,31 +16,33 @@ tags:
 - Spending
 comments: true
 ---
-The new year is here, and it has us asking, "Where does our money go?" Also, it's time to hop back on the blogging wagon and what better way than to start with a post about this past year's spending.
+The new year is here, and it's time to review our prior year spending. 
 
 {:.center}
 ![2017 Spending](https://c1.staticflickr.com/5/4729/38757289534_a8129019f2.jpg)
 
-**Home/Bills** - Similar to last year, this is our largest area of spending. It includes mortgage, taxes, insurance, all house-related expenses, and bills. 42% this year compared to 35% last year means that we did a good job of not spending so much in other areas. For 2017, the goal is to continue to pay more in this category.
+**Home/Bills** - This is our largest area of spending. It includes mortgage, taxes, insurance, all house-related expenses, and bills. We're back at our percentage from two years ago - 35%. It's down from last year's 42%. For 2018, the goal is to continue to pay more in this category.
 
-**Food/Booze** - We went from 17% to 15%! This is one of the categories that is a really high $ amount, but percentage-wise, it's not really so much. We're working on eating home-cooked meals more and spending less outside when we can. For lunch, I've signed up for a service called MealPal. It's similar to a ClassPass for lunch. For a set $ amount, I can select a certain number of lunches from nearby restaurants in a month. The plan I'm currently on averages $7/lunch, which is relatively inexpensive when one considers how much lunches can cost in the area. 
+**Education** - We finally finished paying off student loans. That's why this category jumped to 14% from last year's 9%. 
 
-**Shopping** - We went from 9% to 7%. This category includes clothing rental and all my random spending. Good to know that it went down this past year. Sometimes it's hard not using shopping as therapy, but I'm working on not getting to trigger happy when it comes to buying what's in my online shopping cart. 
+**Auto-Related** - Here's another area that saw a significant increase - from 8% to 14%. We bought a new car in 2017 and continued commuting together. Our parking spot costs a little less per month than last year, but because we're comparing a full year to less than half a year, there's a big jump.
 
-**Education** - We went from 8% to 9%. These are those unavoidable student loans that we are working on getting paid off. The goal was to increase the percentage in this category because it meant we're paying off more of the loans. Looks like that worked! With a strict spending plan, it's possible we'll knock these out this year. Fingers crossed! 
+**Food/Booze** - We went from 15% to 11%, so this category is continuing a downward trend. This is one of the categories that is a really high $ amount, but percentage-wise, it's not really so much in the grand scheme of things. We're still eating home-cooked meals and trying to spend less outside when we can. For lunch, I'm still using MealPal for the days I'm not bringing my own food. 
 
-**Travel** - We went from 7% to 9%. I think we were able to shift some of our spending from other categories to this one. It's likely to go up in 2017 though since we no longer have Southwest Companion Pass status. However, we're always on the lookout for good travel deals, so who knows where we'll land in this category?
+**Shopping** - We went from 7% to 8%. This category includes clothing rental and all my random spending. This is also an area that I'm expecting to go down in 2018. 
 
-![Where Does Our Money Go](https://c2.staticflickr.com/2/1443/26114394283_2011f73c99_b.jpg)
+**Travel** - We went from 9% to 5%. We have Southwest Companion Pass status again, so we're saving on flights again. Even with the decrease in percentage, it's not as if we've given up travel by any means. We took two international trips in 2017 - Cuba and Hong Kong - and filled in the gaps with a bunch of shorter domestic trips. We saw a whole lot of Montana this year, and next year, it'll be a lot of Disney trips.
 
-**Auto-related** - We went from 3% to 8%. The significant increase in this area is due to my new job. Since I now work a block away from Ryan, we commute together. We pay monthly for a parking spot, which is probably the main increase in this category. Fuel actually costs less than before since we drive a shorter distance, but parking in San Francisco is not cheap. However, we managed to secure a spot inside a residential building that was a better deal than all the other spots out there. Fingers crossed that they don't raise the rent on us once the lease is up. 
-
-**Pets** - We went from 6% to 3%. The largest chunk of the costs in this category is pet insurance and doggie daycare expenses. Doggie daycare expenses dropped quite a bit since Fresca now commutes with us to work daily.
+**Pets** - Fresca/Sergio expenses stayed at 3% for the year. This category consists of pet insurance,doggie daycare expenses, food, litter, and Barkboxes. Doggie daycare expenses dropped quite a bit since Fresca now commutes with us to work daily.
 
 ![Where Does Out Money Go](https://c2.staticflickr.com/2/1539/26415128520_385f6122d1_b.jpg)
 
-**Entertainment** We went from 5% to 3%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
+**Entertainment** We went from 3% to 4%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
 
-**Gifts/Donations** - We went from 3% to 2%. Since we opted to spend more in other categories, I was a little pickier on where I was making my charitable donations. I have a feeling this will go up in 2017 as I'll likely want to maximize on my employer's matching policy. And that's our pie chart for 2016\. Looks like we did a pretty good job this past year, and I'm hoping we continue that trend throughout 2017. 
+**Donations** - We went from 2% to 3%. Giving back comes in the form of volunteering and donations. I've not only increased my hours, but I've also increased my dollars of support. 
+
+**Fitness** - This one is new this year because at the end of the year we decided to find a personal trainer. 2% of our spending went to fitness, and in 2018, it will likely be a higher percentage. We're prioritizing our health and wellbeing, so we can spend less on those areas later in life.
+
+And that's our pie chart for 2017! 
 
 _Have you tracked your spending for the year? Are there areas of spending that you would like to change for the upcoming year?_
