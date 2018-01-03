@@ -33,7 +33,7 @@ The new year is here, and it's time to review our prior year spending.
 
 **Food/Booze** - We went from 15% to 11%, so this category is continuing a downward trend. This is one of the categories that is a really high $ amount, but percentage-wise, it's not really so much in the grand scheme of things. We're still eating home-cooked meals and trying to spend less outside when we can. For lunch, I'm still using MealPal for the days I'm not bringing my own food. 
 
-**Shopping** - We went from 7% to 8%. This category includes clothing rental and all my random spending. This is also an area that I'm expecting to go down in 2018. 
+**Shopping** - We went from 7% to 8%. This category includes clothing rental and all my random spending. This is also an area that I'm expecting to go down in 2018 as I'm trying to be more intentional on purchases made. 
 
 **Travel** - We went from 9% to 5%. We have Southwest Companion Pass status again, so we're saving on flights again. Even with the decrease in percentage, it's not as if we've given up travel by any means. We took two international trips in 2017 - Cuba and Hong Kong - and filled in the gaps with a bunch of shorter domestic trips. We saw a whole lot of Montana this year, and next year, it'll be a lot of Disney trips.
 
@@ -47,6 +47,6 @@ The new year is here, and it's time to review our prior year spending.
 
 **Fitness** - This one is new this year because at the end of the year we decided to find a personal trainer. 2% of our spending went to fitness, and in 2018, it will likely be a higher percentage. We're prioritizing our health and wellbeing, so we can spend less on those areas later in life.
 
-And that's our pie chart for 2017! 
+And that's our pie chart for 2017! There were big jumps in a few areas, but the general trend remains the same. While I excluded savings from this chart, it is definitely an area I'm focused on for 2018 whether it is with pre- or post-tax dollars.
 
 _Have you tracked your spending for the year? Are there areas of spending that you would like to change for the upcoming year?_
