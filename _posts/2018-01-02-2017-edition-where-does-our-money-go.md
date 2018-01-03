@@ -41,7 +41,10 @@ The new year is here, and it's time to review our prior year spending.
 
 **Entertainment** We went from 3% to 4%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
 
-**Donations** - We went from 2% to 3%. Giving back comes in the form of volunteering and donations. I've not only increased my hours, but I've also increased my dollars of support. 
+**Giving** - We went from 2% to 3%. Giving back comes in the form of volunteering and donations. I've not only increased my hours, but I've also increased my dollars of support. 
+
+{:.center}
+![Giving Back](https://c1.staticflickr.com/5/4687/38757907234_440b58377d_c.jpg)
 
 **Fitness** - This one is new this year because at the end of the year we decided to find a personal trainer. 2% of our spending went to fitness, and in 2018, it will likely be a higher percentage. We're prioritizing our health and wellbeing, so we can spend less on those areas later in life.
 
