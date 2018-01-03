@@ -19,7 +19,7 @@ comments: true
 The new year is here, and it has us asking, "Where does our money go?" Also, it's time to hop back on the blogging wagon and what better way than to start with a post about this past year's spending.
 
 {:.center}
-![2017 Spending](https://c1.staticflickr.com/5/4729/38757289534_a8129019f2_c.jpg)
+![2017 Spending](https://c1.staticflickr.com/5/4729/38757289534_a8129019f2.jpg)
 
 **Home/Bills** - Similar to last year, this is our largest area of spending. It includes mortgage, taxes, insurance, all house-related expenses, and bills. 42% this year compared to 35% last year means that we did a good job of not spending so much in other areas. For 2017, the goal is to continue to pay more in this category.
 
