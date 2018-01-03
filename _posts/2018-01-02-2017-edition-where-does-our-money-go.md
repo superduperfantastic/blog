@@ -28,8 +28,8 @@ The new year is here, and it's time to review our prior year spending.
 **Auto-Related** - Here's another area that saw a significant increase - from 8% to 14%. We bought a new car in 2017 and continued commuting together. Our parking spot costs a little less per month than last year, but because we're comparing a full year to less than half a year, there's a big jump.
 
 {:.center}
-!(https://c1.staticflickr.com/5/4687/24599384537_d579998e0a_c.jpg){:width="49%"}
-!(https://c1.staticflickr.com/5/4638/27688829979_8bc782738a_c.jpg){:width="49%"}
+![New Car](https://c1.staticflickr.com/5/4687/24599384537_d579998e0a_c.jpg){:width="49%"}
+![Fresca](https://c1.staticflickr.com/5/4638/27688829979_8bc782738a_c.jpg){:width="49%"}
 
 **Food/Booze** - We went from 15% to 11%, so this category is continuing a downward trend. This is one of the categories that is a really high $ amount, but percentage-wise, it's not really so much in the grand scheme of things. We're still eating home-cooked meals and trying to spend less outside when we can. For lunch, I'm still using MealPal for the days I'm not bringing my own food. 
 
