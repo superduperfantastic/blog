@@ -39,8 +39,6 @@ The new year is here, and it's time to review our prior year spending.
 
 **Pets** - Fresca/Sergio expenses stayed at 3% for the year. This category consists of pet insurance,doggie daycare expenses, food, litter, and Barkboxes. Doggie daycare expenses dropped quite a bit since Fresca now commutes with us to work daily.
 
-![Where Does Out Money Go](https://c2.staticflickr.com/2/1539/26415128520_385f6122d1_b.jpg)
-
 **Entertainment** We went from 3% to 4%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
 
 **Donations** - We went from 2% to 3%. Giving back comes in the form of volunteering and donations. I've not only increased my hours, but I've also increased my dollars of support. 
