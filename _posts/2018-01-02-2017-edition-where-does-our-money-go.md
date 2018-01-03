@@ -1,17 +1,13 @@
 ---
-redirect_from:
-- '/2016-edition-money/24758/'
 layout: post
 status: publish
 published: true
-title: '2016 Edition: Where Our Money Goes'
-wordpress_id: 24758
-wordpress_url: http://superduperfantastic.com/?p=24758
-disqus_id: 24758 http://superduperfantastic.com/?p=24758
-thumbnail: https://c1.staticflickr.com/1/510/31304678513_00c082ce56_q.jpg
-image: https://c1.staticflickr.com/1/510/31304678513_00c082ce56.jpg
-excerpt: <p>Examining where our money goes - taking a look at 2016 spending and comparing to 2015.</p>
-date: 2017-01-04
+title: '2017 Edition: Where Our Money Goes'
+disqus_id: 2017-spending
+thumbnail: 
+image: '/assets/posts/2017-spending.jpg'
+excerpt: <p>Examining where our money goes - taking a look at 2017 spending and comparing to 2016.</p>
+date: 2018-01-02
 categories:
 - Life
 - Money Matters
@@ -23,11 +19,9 @@ comments: true
 The new year is here, and it has us asking, "Where does our money go?" Also, it's time to hop back on the blogging wagon and what better way than to start with a post about this past year's spending.
 
 {:.center}
-![where does our money go](https://c1.staticflickr.com/1/510/31304678513_00c082ce56.jpg)
+![Where Our Money Goes]({{site.url}}/assets/posts/2017-spending.jpg "Where Our Money Goes")
 
 **Home/Bills** - Similar to last year, this is our largest area of spending. It includes mortgage, taxes, insurance, all house-related expenses, and bills. 42% this year compared to 35% last year means that we did a good job of not spending so much in other areas. For 2017, the goal is to continue to pay more in this category.
-
-![Where does our money go](https://c1.staticflickr.com/1/746/23161416140_8645e09f90_b.jpg)
 
 **Food/Booze** - We went from 17% to 15%! This is one of the categories that is a really high $ amount, but percentage-wise, it's not really so much. We're working on eating home-cooked meals more and spending less outside when we can. For lunch, I've signed up for a service called MealPal. It's similar to a ClassPass for lunch. For a set $ amount, I can select a certain number of lunches from nearby restaurants in a month. The plan I'm currently on averages $7/lunch, which is relatively inexpensive when one considers how much lunches can cost in the area. 
 
