@@ -21,7 +21,7 @@ The new year is here, and it's time to review our prior year spending. New year 
 {:.center}
 ![2017 Spending](https://c1.staticflickr.com/5/4729/38757289534_a8129019f2.jpg)
 
-**Home/Bills** - The largest part of spending our spending includes mortgage, taxes, insurance, all house-related expenses, and bills. We're back at our percentage from two years ago - 35%. It's down from last year's 42%. This surprised me since we have had quite a few larger house projects this past year. For 2018, the goal is to continue to pay more in this category as we're making a bigger dent in the mortgage and also making other improvements. 
+**Home/Bills** - The largest part of our spending includes mortgage, taxes, insurance, all house-related expenses, and bills. We're back at our percentage from two years ago - 35%. It's down from last year's 42%. This surprised me since we have had quite a few larger house projects this past year. For 2018, the goal is to continue to pay more in this category as we're making a bigger dent in the mortgage and also making other improvements. 
 
 **Education** - We finally finished paying off student loans. YAY! That's why this category jumped to 14% from last year's 9%. No student loans = pay more on the house and save more FINALLLY!
 
