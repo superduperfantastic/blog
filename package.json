@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This is the \"bones\" file, which generates the \"meat\" to be seen by everyone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superduperfantastic/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superduperfantastic/blog/issues"
+  },
+  "homepage": "https://github.com/superduperfantastic/blog#readme",
+  "dependencies": {
+    "simple-jekyll-search": "^1.6.3"
+  }
+}
