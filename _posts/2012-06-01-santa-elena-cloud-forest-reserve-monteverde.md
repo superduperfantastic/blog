@@ -39,11 +39,11 @@ There was a snake in a tree by the parking lot that one of the people working at
 
 An abandoned hummingbird nest. There are 57 species of hummingbirds in Costa Rica. We saw them during our trip, but they were much too quick for my fingers.
 
-![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7050/6908059021_dbc1a94a50.jpg) ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7065/6908079029_16ec97b0ac.jpg)
+![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7050/6908059021_dbc1a94a50.jpg){:width="49%"} ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7065/6908079029_16ec97b0ac.jpg){:width="49%"}
 
 Bugs.
 
-![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7191/6908081311_ec882cc283.jpg) ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7177/6908084209_e4a09aed3c.jpg)
+![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7191/6908081311_ec882cc283.jpg){:width="49%"} ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7177/6908084209_e4a09aed3c.jpg){:width="49%"}
 
 Black Guan - a bird that is larger than a grouse and smaller than a turkey. There were a few rustling in the trees above us, but we mostly saw tail feathers.
 
@@ -51,7 +51,7 @@ On to the flora!
 
 ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7054/6908076201_bf69b18308_b.jpg)
 
-![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7177/6908088031_0f6ea69651.jpg) ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7068/6908092651_e93c97dbef.jpg)
+![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7177/6908088031_0f6ea69651.jpg){:width="49%"} ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7068/6908092651_e93c97dbef.jpg){:width="49%"}
 
 ![Santa Elena Cloud Forest Reserve - Monteverde](http://farm8.staticflickr.com/7056/6908089973_1ea351b238_b.jpg)
 
