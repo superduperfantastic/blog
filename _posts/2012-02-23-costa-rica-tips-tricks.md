@@ -7,8 +7,8 @@ excerpt: <p>Where I talk about how small Costa Rica is, but that there is way mo
 wordpress_id: 13605
 wordpress_url: http://superduperfantastic.com/?p=13605
 disqus_id: 13605 http://superduperfantastic.com/?p=13605
-image: http://farm8.staticflickr.com/7057/6913215629_c7f3376a03_c.jpg
-thumbnail: http://farm8.staticflickr.com/7057/6913215629_c7f3376a03_q.jpg
+image: https://farm8.staticflickr.com/7057/6913215629_c7f3376a03_c.jpg
+thumbnail: https://farm8.staticflickr.com/7057/6913215629_c7f3376a03_q.jpg
 date: '2012-02-23 16:09:45 -0800'
 categories:
 - Costa Rica
@@ -31,7 +31,7 @@ The animals were in hiding during our visit. Can't really blame any of the tours
 Except this guy...
 
 {:.center}
-![](http://farm8.staticflickr.com/7069/6913020227_489a3ef02c_b.jpg)
+![](https://farm8.staticflickr.com/7069/6913020227_489a3ef02c_b.jpg)
 
 ### Don't Clog the Toilets!
 
@@ -52,14 +52,14 @@ Most of our plans were booked in advance because one week is much too short to w
 The ridiculously gorgeous views throughout the trip are so memorable. Here is the one while we're on the boat from Monteverde to Arenal. While we were in Arenal/La Fortuna area, there were quite a few moments that the top of the volcano were in plain sight. From one side, you can see that it's still smoking at the top. From what I hear, it's usually clouded over.
 
 {:.center}
-![](http://farm8.staticflickr.com/7195/6908412653_6fbc152e02_b.jpg)
+![](https://farm8.staticflickr.com/7195/6908412653_6fbc152e02_b.jpg)
 
 ### Try Something Different
 
 Even though I normally wouldn't have booked this, our host talked us into doing the sunset sailing cruise. Worth it. It was a great way to spend our last full day in Costa Rica.
 
 {:.center}
-![](http://farm8.staticflickr.com/7184/6913176137_f5df90b674_b.jpg)
+![](https://farm8.staticflickr.com/7184/6913176137_f5df90b674_b.jpg)
 
 {:.center}
-![](http://farm8.staticflickr.com/7057/6913215629_c7f3376a03_b.jpg)
+![](https://farm8.staticflickr.com/7057/6913215629_c7f3376a03_b.jpg)

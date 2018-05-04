@@ -14,11 +14,11 @@ tags:
 - Beer
 - Saturday Swig
 comments: true
-image: http://farm9.staticflickr.com/8435/7812936380_f7483a96b9_b.jpg
-thumbnail: http://farm9.staticflickr.com/8435/7812936380_f7483a96b9_q.jpg
+image: https://farm9.staticflickr.com/8435/7812936380_f7483a96b9_b.jpg
+thumbnail: https://farm9.staticflickr.com/8435/7812936380_f7483a96b9_q.jpg
 excerpt: <p>Saturday Swig - Hanging out with Cassie and Kevin of Ever in Transit. We enjoy ice cream floats using homemade ice cream and stout that Kevin brewed!</p>
 ---
-![Saturday Swig - Ever in Transit](http://farm9.staticflickr.com/8435/7812936380_f7483a96b9_n.jpg){:.left} ![Saturday Swig - Ever in Transit](http://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"} isn't one that you can find in stores! Ryan and I visited Cassie and Kevin of [Ever in Transit](http://everintransit.com/ "Ever in Transit"){:target="_blank"} today! We met the duo at TBEX in Colorado and really clicked. If you check out [their site](http://everintransit.com/ "Ever in Transit"){:target="_blank"}, you'll know why. They love so many of the same things we do - food, travel, drink. Not to mention, they also have cat and dog companions!
+![Saturday Swig - Ever in Transit](https://farm9.staticflickr.com/8435/7812936380_f7483a96b9_n.jpg){:.left} ![Saturday Swig - Ever in Transit](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"} isn't one that you can find in stores! Ryan and I visited Cassie and Kevin of [Ever in Transit](http://everintransit.com/ "Ever in Transit"){:target="_blank"} today! We met the duo at TBEX in Colorado and really clicked. If you check out [their site](http://everintransit.com/ "Ever in Transit"){:target="_blank"}, you'll know why. They love so many of the same things we do - food, travel, drink. Not to mention, they also have cat and dog companions!
 
 So this weekend, we finally followed through on our declaration of "We should hang out some time!" After a delicious lunch in the warm South Bay sun, we enjoyed vanilla ice cream floats using a stout that Kevin had brewed.
 

@@ -7,8 +7,8 @@ wordpress_id: 19820
 wordpress_url: http://superduperfantastic.com/?p=19820
 disqus_id: 19820 http://superduperfantastic.com/?p=19820
 excerpt: <p>Saturday Swig with Perfect Puree's Thyme & Citrus and Strawberry and Skyy Blood Orange vodka ~ Bloody Herbal Sunrise aka an alcoholic strawberry lemonade.</p>
-image: http://farm9.staticflickr.com/8377/8440772760_213ea2a34d_b.jpg
-thumbnail: http://farm9.staticflickr.com/8377/8440772760_213ea2a34d_q.jpg
+image: https://farm9.staticflickr.com/8377/8440772760_213ea2a34d_b.jpg
+thumbnail: https://farm9.staticflickr.com/8377/8440772760_213ea2a34d_q.jpg
 date: '2013-02-02 22:49:34 -0800'
 categories:
 - Thirsty
@@ -18,13 +18,13 @@ tags:
 comments: true
 ---
 {:.center}
-![Saturday Swig](http://farm9.staticflickr.com/8377/8440772760_213ea2a34d_b.jpg)
+![Saturday Swig](https://farm9.staticflickr.com/8377/8440772760_213ea2a34d_b.jpg)
 
-![Saturday Swig](http://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Now that it seems pretty obvious to me that I have given up my [Wine and Love](http://superduperfantastic.com/tag/wine-and-love-2/ "Wine and Love"){:target="_blank"} posts, I will be more diligent about the other regular feature on this site - [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"}. This week, I am featuring an adapted version of a recipe from [The Perfect Purée of Napa Valley](http://www.perfectpuree.com/index.php/Products/thyme-a-citrus.html?recipeId=4666 "Perfect Puree"){:target="_blank"} website - the Herbal Sunrise.
+![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Now that it seems pretty obvious to me that I have given up my [Wine and Love](http://superduperfantastic.com/tag/wine-and-love-2/ "Wine and Love"){:target="_blank"} posts, I will be more diligent about the other regular feature on this site - [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"}. This week, I am featuring an adapted version of a recipe from [The Perfect Purée of Napa Valley](http://www.perfectpuree.com/index.php/Products/thyme-a-citrus.html?recipeId=4666 "Perfect Puree"){:target="_blank"} website - the Herbal Sunrise.
 
 Instead of using Tito's Handmade Vodka per the recipe, I used SKYY Infusions Blood Orange vodka and added "Bloody" to the name. It tastes better than the name sounds, resembling a strawberry lemonade that kicks your socks right off! These days, I need something like this Bloody Herbal Sunrise to kick me in the face in the most tasty way.
 
-![Bloody Herbal Sunrise](http://farm9.staticflickr.com/8324/8440772970_00e6e2f40a_n.jpg){:.right} 
+![Bloody Herbal Sunrise](https://farm9.staticflickr.com/8324/8440772970_00e6e2f40a_n.jpg){:.right} 
 
 ><h3>Bloody Herbal Sunrise (Strawberry "Lemonade")</h3>
 >

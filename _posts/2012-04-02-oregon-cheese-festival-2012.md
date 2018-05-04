@@ -24,7 +24,7 @@ Here's how we ended up making the trek up to Central Point, Oregon for the Orego
 The cheese festival is a one-day event in a tent set up next to Rogue Creamery. This year's event took place a few Saturdays ago on St. Patrick's Day. Included in the admission price of $15 was a marketplace for sampling cheese and other goodies. For $5 more, we received a glass for tastings of beer/wine. I really enjoyed the farmer's market format, which allowed for direct interaction at each of the tables. Even with the crowds, it never got so bad that I didn't feel like I couldn't chat with the vendors.
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7176/6882145980_4e75a8b0d1_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7176/6882145980_4e75a8b0d1_c.jpg)
 
 _Left to right: Cheeses of [Rogue Creamery](http://www.roguecreamery.com/ "Rogue Creamery"){:target="_blank"}, [Klamath Basin Brewing](http://kbbrewing.com/ "Klamath Basin Brewing"){:target="_blank"}, [Oakshire Brewing](http://oakbrew.com/ "Oakshire Brewing"){:target="_blank"}, Cheeses of La Mariposa Creamery, Oak Leaf Creamery_
 
@@ -33,34 +33,34 @@ Aside from the array of delicious cheeses we tasted and the libations that paire
 **Elementary Cheesemaking**
 
 {:.center}
-![Oregon Cheese Festival](http://farm7.staticflickr.com/6053/7002240945_b0746af81e_c.jpg)
+![Oregon Cheese Festival](https://farm7.staticflickr.com/6053/7002240945_b0746af81e_c.jpg)
 
 _David Gremmels, President/Cheesemaker of Rogue Creamery, helping Margo with her demonstration._
 
 In Margo True's class, we learned how **SIMPLE** making cheeses can be. You really just have to get a dairy thermometer and get started! We learned how to make Fresh Chive Cheese, Ricotta, and Fromage Blanc. It was really neat watching the cheesemaking right before our very eyes.
 
 {:.center}
-![Oregon Cheese Festival](http://farm7.staticflickr.com/6225/6856122988_cc384956bd.jpg){:width="49%"} ![Oregon Cheese Festival](http://farm8.staticflickr.com/7215/6856134150_abed523a7a.jpg){:width="49%"}
+![Oregon Cheese Festival](https://farm7.staticflickr.com/6225/6856122988_cc384956bd.jpg){:width="49%"} ![Oregon Cheese Festival](https://farm8.staticflickr.com/7215/6856134150_abed523a7a.jpg){:width="49%"}
 
 Here are the cheeses that we had a chance to taste at the end of the class. Ryan was so inspired by the class that he's already planning out his first batch of cheese. I'll be sure to document how that goes!
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7232/6856142198_2b7285dc7f_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7232/6856142198_2b7285dc7f_c.jpg)
 
 **Tasty Beers & Fabulous Cheeses**
 
 The second class was the first of its kind at the Oregon Cheese Festival! The beer and cheese pairing/tasting was led by Ginger Johnson of [Women Enjoying Beer](http://womenenjoyingbeer.com/ "Women Enjoying Beer"){:target="_blank"}, a business dedicated to beer education, especially among females. She is freakin' amazing and incredibly animated. Exhibit A.
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7067/7002263625_8199f26409_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7067/7002263625_8199f26409_c.jpg)
 
 Beer enthusiasm - that's what it's about. The class focused on pair four different cheeses with local Oregon brews.
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7234/6856152448_9994486edd_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7234/6856152448_9994486edd_c.jpg)
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7278/6856155458_b92e557dd3.jpg){:width="49%"} ![Oregon Cheese Festival](http://farm8.staticflickr.com/7045/7002268255_e04c86e756.jpg){:width="49%"}
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7278/6856155458_b92e557dd3.jpg){:width="49%"} ![Oregon Cheese Festival](https://farm8.staticflickr.com/7045/7002268255_e04c86e756.jpg){:width="49%"}
 
 > **The Line-up**
 > 
@@ -72,27 +72,27 @@ Beer enthusiasm - that's what it's about. The class focused on pair four differe
 There was definitely interest in the topic, so Oregon Cheese Festival, feel free to offer such a class again!
 
 {:.center}
-![Oregon Cheese Festival](http://farm7.staticflickr.com/6048/6856153780_d715b83e7b_c.jpg)
+![Oregon Cheese Festival](https://farm7.staticflickr.com/6048/6856153780_d715b83e7b_c.jpg)
 
 Back on the marketplace floor, here were some of my favorite _non-cheese_ vendors:
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7137/7002279405_03d3a0a0e1_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7137/7002279405_03d3a0a0e1_c.jpg)
 
 It was exciting to see [Gary West Smoked Meats](http://www.garywest.com/) at the show. They are local to the Southern Oregon [not too far away from the cheese festival], and their elk strips won a [Good Food Award](http://www.goodfoodawards.org/) this year!
 
 {:.center}
-![Oregon Cheese Festival](http://farm7.staticflickr.com/6039/7002283105_46c236f9d4_c.jpg)
+![Oregon Cheese Festival](https://farm7.staticflickr.com/6039/7002283105_46c236f9d4_c.jpg)
 
 Jamie Rear of [Zella Foods](http://www.zellafoods.com/ "Zella Foods") chatted it up with us on hazelnuts and her life growing up on a hazelnut orchard. No going out to movies with friends when there's work to be done in the orchard! If she would let me, I'd love to visit and check out the harvest that she'd described.
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7123/7002260921_038bcea448_c.jpg)
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7123/7002260921_038bcea448_c.jpg)
 
 Louis Jeandin of [Mushrooms All Year](http://www.mushroomsallyear.com/) was on hand to chat about his gorgeous display of local mushrooms. We also sampled some truffle butter!
 
 {:.center}
-![Oregon Cheese Festival](http://farm8.staticflickr.com/7269/7002260225_6bfbff4dcf.jpg){:width="49%"} ![Oregon Cheese Festival](http://farm8.staticflickr.com/7180/7002259233_e4c88f3a1b.jpg){:width="49%"}
+![Oregon Cheese Festival](https://farm8.staticflickr.com/7269/7002260225_6bfbff4dcf.jpg){:width="49%"} ![Oregon Cheese Festival](https://farm8.staticflickr.com/7180/7002259233_e4c88f3a1b.jpg){:width="49%"}
 
 Unfortunately, I wasn't diligent about taking photos of **EVERYTHING**. Some of the great stuff I missed, but must recommend: Hot Lips Soda via [Oregon Artisan Foods](http://www.oregonartisanfoods.com/){:target="_blank"} and [Wandering Aengus Ciderworks](http://www.wanderingaengus.com/ "Wandering Aengus Ciderworks"){:target="_blank"}. Since [Boston Local Food Festival](http://superduperfantastic.com/going-local-boston-local-food-fest-2011/12240/ "Going Local – Boston Local Food Fest 2011"){:target="_blank"}, I've been pining for a dry cider to match the ones at [Farnum Hill Ciders](http://www.povertylaneorchards.com/farnum-hill-ciders/){:target="_blank"}. I think I've found it!
 

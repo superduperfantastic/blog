@@ -25,7 +25,7 @@ The surgeon widened the upper jaw and cut out a piece of the lower jaw and moved
 I have waited long enough to put the side-by-side comparison of the side view on the internet, so here it is:
 
 {:.center}
-![Before](http://farm4.static.flickr.com/3613/3382081929_fc5c84d2e2_m_d.jpg){:width="49%"} ![After](http://farm6.static.flickr.com/5027/5806202220_c6b3687bf4_m_d.jpg){:width="49%"}
+![Before](https://farm4.static.flickr.com/3613/3382081929_fc5c84d2e2_m_d.jpg){:width="49%"} ![After](https://farm6.static.flickr.com/5027/5806202220_c6b3687bf4_m_d.jpg){:width="49%"}
 
 Please excuse the extremely frazzled look due to lack of sleep. I schedule my orthodontist appointments for the morning, so I don't have to take off too much time from work.
 
