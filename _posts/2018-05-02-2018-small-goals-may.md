@@ -29,7 +29,7 @@ Starting goal tracking almost halfway through the year - why not, right? I'm doi
 >**3. Read 3 books.**  
 >It doesn't seem like much, but considering I don't read regularly anymore, I'm going to start small. Three at a time. The ones in my current queue are: [Decluttering at the Speed of Life](https://www.amazon.com/gp/product/0718080602/ref=as_li_tl?ie=UTF8&tag=tinnaho-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0718080602&linkId=ef98866064bad6273068fedcf973a006){:target="_blank"}, [All the Way to Italy](https://www.amazon.com/gp/product/8833460584/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8833460584&linkCode=as2&tag=tinnaho-20&linkId=a2fd83d8ede065d7e7ef1a6d33d1a7a7){:target="_blank"}, [Sign My Name to Freedom: A Memoir of a Pioneering Life](https://www.amazon.com/gp/product/1401954219/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401954219&linkCode=as2&tag=tinnaho-20&linkId=36a699f9e777240b5bfc296bf51ce4a2){:target="_blank"}. I have a few others on my Kindle, but I'll only get to them if I'm diligent enough to get through these three first.
 >
->**4. Start daily handlettering.**\
+>**4. Daily handlettering.**
 >Recently I downloaded the [Brush Lettering Practice Guide](http://www.brushletterpracticeguide.com?rfsn=1281552.32323c){:target="_blank"} (referral link), so I'm planning on getting it printed and worked on this month.
 >
 >**5. Estate planning - setting up a will or trust**  
