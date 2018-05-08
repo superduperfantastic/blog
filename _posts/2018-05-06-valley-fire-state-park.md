@@ -29,7 +29,7 @@ Covering approximately 35,000 acres, we barely scratched the surface with our sh
 
 **Valley of Fire State Park - The Fire Wave**  
 
-We like easy picturesque hikes, and this was definitely one of them. The ~1.2 miles in and out are marked by intermittent arrows, first across sand and then across the rocks. It was pretty user-friendly for these infrequent hikers.
+We enjoy easy picturesque hikes, and this was definitely one of them. The ~1.2 miles in and out are marked by intermittent arrows, first across sand and then across the rocks. It was pretty user-friendly for these infrequent hikers.
 
 {:.center}
 ![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/5/4247/34798273126_93d91d2d13.jpg "Valley of Fire State Park - Fire Wave"){:width="49%"} ![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/1/829/40114657800_a7aa3d142b.jpg "Valley of Fire State Park - Fire Wave"){:width="49%"}
@@ -56,7 +56,7 @@ It was warm during our visit last April. Even going such short distances with sh
 {:.center}
 ![Valley of Fire State Park](https://c1.staticflickr.com/1/829/41922179911_0d053718cc_b.jpg "Valley of Fire State Park")   
 
-If I'm in Vegas with a rental car handy, I'd definitely try to make the trip out to Valley of Fire again. We're not usually the overnight backcountry camping types, but we could revisit these short hikes, do a longer hike or two, or maybe pick a different time of day to visit. The views in the early morning and early evening would probably yield the best display of colors!
+If I'm in Vegas with a rental car handy, I'd definitely try to make the trip out to Valley of Fire again. We're not _usually_ the overnight backcountry camping types, but we could revisit these short hikes, do a longer hike or two, or maybe pick a different time of day to visit. The views in the early morning and early evening would probably yield the best display of colors!
 
 >### Visit Valley of Fire State Park
 >
