@@ -7,7 +7,7 @@ disqus_id: valley-fire
 date: '2018-05-05'
 image: https://c1.staticflickr.com/1/872/41922176921_b097af144a_c.jpg
 thumbnail: https://c1.staticflickr.com/1/872/41922176921_b097af144a_q.jpg
-excerpt: <p>Last April, we attended a friend's wedding in Vegas. In between the festivities, we wandered off to Valley of Fire State Park, specifically to see the Fire Wave and hike the White Domes Loop. Definitely worth the time!</p>
+excerpt: <p>Last April, we attended a friend's wedding in Vegas. In between the festivities, we wandered off to Valley of Fire State Park and found the Fire Wave and White Domes Loop.</p>
 categories:
 - Nevada
 tags:
