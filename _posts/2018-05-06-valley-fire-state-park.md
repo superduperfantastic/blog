@@ -5,26 +5,61 @@ published: true
 title: 'Valley of Fire State Park'
 disqus_id: valley-fire
 date: '2018-05-05'
-image: https://farm5.static.flickr.com/4039/4660072867_622ebced70_c.jpg
-thumbnail: https://farm5.static.flickr.com/4039/4660072867_622ebced70_q.jpg
-excerpt: <p>A quick stop in Vegas during our Memorial Day weekend road trip to southern Utah.</p>
+image: https://c1.staticflickr.com/1/872/41922176921_b097af144a_c.jpg
+thumbnail: https://c1.staticflickr.com/1/872/41922176921_b097af144a_q.jpg
+excerpt: <p>Last April, we attended a friend's wedding in Vegas. In between the festivities, we wandered off to Valley of Fire State Park, specifically to see the Fire Wave and hike the White Domes Loop. Definitely worth the time!</p>
 categories:
 - Nevada
 tags:
-- state park
-- red rocks
+- Valley of Fire State Park
 comments: true
 ---
-![](https://farm5.static.flickr.com/4039/4660072867_622ebced70_m.jpg "Bellagio Buffet")On the long trek back from Utah, we stopped in Las Vegas for the night. We took advantage of the [Bloggers In Sin City](http://www.bloggersinsincity.com/) discount code and got a room for about $30, which was significantly less than our "only okay" lodging in Hatch.
+Who else has this problem? Too many photos to process, so it takes awhile to even get to them. Don't even get me started on videos. At this rate, I'll be going through those in five more years. During this photo organization process, I came across these photos from our trip last April to [Valley of Fire State Park](http://parks.nv.gov/parks/valley-of-fire){:target="_blank"}. It was really a trip to Vegas for a friend's wedding, but this was definitely a highlight.
 
-We hadn't eaten much for breakfast or stopped for lunch on the way, so we were ready to wreak havoc on a buffet. I sent out a [Tweet](http://twitter.com/suki) re: which one to take Ryan to and ended up at Wynn. He'd never been to Vegas [Believe it or not - he's in his mid-20s and had only driven past Vegas on a family trip when he was younger], and that's just one of the things you do there - indulge! Of course, we ate our $$ worth and then some. After the third round of dessert, I was ready to admit defeat at the buffet and start the rest of our night.
+{:.center}
+![Valley of Fire State Park](https://c1.staticflickr.com/1/958/41877822502_37907bc321_b.jpg "Valley of Fire State Park")  
 
-The rest of the evening, we wandered along the Strip to see the sights, stopping whenever something of interest caught our eye. Along the way, we picked up a yard of mango+rum. Yum! But upon continuing our stroll, the Eiffel Tower of pina colada caught Ryan's eye, and then we were on a mission to get one. It wasn't easy though. We were tipped off inside the Paris Hotel, and as we proceeded towards the little sales window, the man at the window looked over and declared, "We're closed," and shut the window. We stood there in disbelief.
+[Valley of Fire State Park](http://parks.nv.gov/parks/valley-of-fire){:target="_blank"} is the oldest of Nevada's state parks. From Vegas, we drove the hour out through what seemed like middle-of-nowhere, got to the entrance and then it more or less sprung on us! It was pretty spectacular, even. 
 
-Crushed, we decided to try our luck at some penny slots. I put in $5 and ended up with $13. *happy dance*
+{:.center}
+![Valley of Fire State Park](https://c1.staticflickr.com/1/966/28051082348_c32172439b.jpg "Valley of Fire State Park"){:width="49%"} ![Valley of Fire State Park](https://c1.staticflickr.com/1/967/40114659870_b020456cdd.jpg "Valley of Fire State Park"){:width="49%"}
+_Desert Flora_  
 
-![](https://farm5.static.flickr.com/4014/4665754224_86daa4064a_m.jpg "Eiffel Tower")We continued our stroll along the Strip and when we were tired of walking, we decided to head back towards the hotel. In doing so, we passed by Paris Hotel one last time. And then it caught my eye - a stand outside with the Eiffel Towers of pina colada! Even though we were tired and ready to call it a night, we couldn't let this opportunity pass us up, so we bought one of those too. I used up the penny slot winnings, and Ryan was beaming from ear to ear. He finally had the Eiffel Tower in his hands.
+Covering approximately 35,000 acres, we barely scratched the surface with our short visit. We, of course, swung by the visitor center to figure out which hikes we could fit in our limited amount of time in the area. There were a few spots we could drive by, and then the rest of our time would be dedicated to hiking to the Fire Wave and then the White Domes Loop. Both were under 1.5 miles long, so perfect for this quick jaunt of ours!
 
-After getting through less than half of it [we barely made a dent, as evident in the photo], we were too full to drink anymore, and it was time to call it a night. Those drinks are sweet!
+**Valley of Fire State Park - The Fire Wave**  
 
-Our drive back to San Francisco the next day would take ten hours, so we had to rest up.
+We like easy picturesque hikes, and this was definitely one of them. The ~1.2 miles in and out are marked by intermittent arrows, first across sand and then across the rocks. It was pretty user-friendly for these infrequent hikers.
+
+{:.center}
+![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/5/4247/34798273126_93d91d2d13.jpg "Valley of Fire State Park - Fire Wave"){:width="49%"} ![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/1/829/40114657800_a7aa3d142b.jpg "Valley of Fire State Park - Fire Wave"){:width="49%"}
+_On my way to the Fire Wave and another photographer's setup_  
+
+{:.center}
+![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/1/872/41922176921_b097af144a_b.jpg "Valley of Fire State Park - Fire Wave")
+_The Fire Wave in all its glory - the angle did matter_
+
+{:.center}
+![Valley of Fire State Park - Fire Wave](https://c1.staticflickr.com/1/945/40159713220_2158437064_z.jpg "Valley of Fire State Park"){:width="49%"} ![Valley of Fire State Park](https://c1.staticflickr.com/1/826/40159708870_e1acc9431b_z.jpg "Valley of Fire State Park"){:width="49%"}  
+_Other random shots by the Fire Wave_  
+
+**Valley of Fire State Park - White Domes Loop**  
+
+When it comes to hiking, we also really love loops. White Domes is not only a loop, but it's an easy 1.2 mile trail with a lot to see. In that distance, we descended into the sand, ventured past an old movie set, hiked through a slot canyon, saw a natural arch and multicolored sandstone on the way back.
+
+{:.center}
+![Valley of Fire State Park - White Domes Loop](https://c1.staticflickr.com/1/981/41204099574_13f06a0fcc.jpg "Valley of Fire State Park - White Domes Loop"){:width="49%"} ![Valley of Fire State Park - White Domes Loop](https://c1.staticflickr.com/1/909/40114661760_0498555649.jpg "Valley of Fire State Park - White Domes Loop"){:width="49%"}
+_Shots along the White Domes Loop_
+
+It was warm during our visit last April. Even going such short distances with shade and a water bottle, we were quickly reminded that we could definitely have used more water on the trip. It's the desert, and you don't want to mess around. We took breaks when we needed them  - one of them was in the hole pictured above on the right. I was immediately drawn to climbing up into it because it was a purplish tint on the inside.
+
+{:.center}
+![Valley of Fire State Park](https://c1.staticflickr.com/1/829/41922179911_0d053718cc_b.jpg "Valley of Fire State Park")   
+
+If I'm in Vegas with a rental car handy, I'd definitely try to make the trip out to Valley of Fire again. We're not usually the overnight backcountry camping types, but we could revisit these short hikes, do a longer hike or two, or maybe pick a different time of day to visit. The views in the early morning and early evening would probably yield the best display of colors!
+
+>### Visit Valley of Fire State Park
+>
+>It's open daily (7 days a week, 365 days a year) from sunrise to sunset. Entrance fee is $10. Best times of year to visit: spring, fall, and winter.
+>
+>Info and directions: [website](http://parks.nv.gov/parks/valley-of-fire){:target="_blank"}
