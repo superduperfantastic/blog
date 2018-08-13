@@ -70,7 +70,7 @@ After the hike, we also had a chance to meet some of the other rescued animals o
 
 {:.center}
 ![Predators of the Heart - With a Wolf Pup](https://c2.staticflickr.com/2/1816/43956271082_c5b06fbfd5_b.jpg)  
-*Wolf pup!*
+*Wolf pup! Somebody got peed on by one of them. LOL.*
 
 Overall, we loved the experience. It was the best surprise, and I'd recommend this experience in a heartbeat! 
 
