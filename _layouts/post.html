@@ -5,7 +5,8 @@ layout: default
     <div class="post-header">
         <h2><a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
         <span class="post-meta">
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> by {% if page.author %}{{ page.author }}{% else %}tinna{% endif %}
+            Post by {% if page.author %}{{ page.author }}{% else %}tinna{% endif %}<br>
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
             ~ <i class="fa fa-folder-open" aria-hidden="true"></i>
             {% for category in page.categories %}
                 {% for catdata in site.data.categories %}
@@ -36,25 +37,25 @@ layout: default
         {% assign postHasSimilar = false %}
         {% for tag in post.tags %}
         {% for thisTag in page.tags %}
-        {% if postHasSimilar == false and hasSimilar.size < 6 and post !=page and tag==thisTag %} {% if hasSimilar.size==0
-            %} <h3>You Might Also Like: </h3>
-            <ul>
-                {% endif %}
-                <li class="relatedPost">
-                    {% if post.thumbnail %}<a href="{{ post.url | prepend:site.baseurl }}">
-                        <div class="catthumb" style="background-image:url({{ post.thumbnail }})"></div>
-                    </a>{% endif %}
-                    <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-                </li>
-                {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
-                {% assign postHasSimilar = true %}
-                {% endif %}
-                {% endfor %}
-                {% endfor %}
-                {% endfor %}
-                {% if hasSimilar.size > 0 %}
-            </ul>
+        {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %} {% if hasSimilar.size == 0 %}
+        <h3>You Might Also Like: </h3>
+        <ul>
             {% endif %}
+            <li class="relatedPost">
+                {% if post.thumbnail %}<a href="{{ post.url | prepend:site.baseurl }}">
+                    <div class="catthumb" style="background-image:url({{ post.thumbnail }})"></div>
+                </a>{% endif %}
+                <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
+            {% assign postHasSimilar = true %}
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+            {% endfor %}
+            {% if hasSimilar.size > 0 %}
+        </ul>
+        {% endif %}
     </div>
     <!-- Navigation links -->
     <div class="postnav">
