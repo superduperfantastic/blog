@@ -1,7 +1,7 @@
 ---
-layout: draft
-status: publish
-published: true
+layout: post
+status: draft   
+published: false
 author: ryan
 title: How to Drive Around Iceland in an Electric Vehicle
 disqus_id: how-to-drive-around-iceland-in-ev

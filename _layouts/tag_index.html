@@ -17,7 +17,7 @@ layout: default
             <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
             <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time><br>
-              <i class="fa fa-heart" aria-hidden="true"></i> {% if post.author %}{{ post.author }}{% else %}tinna{% endif %}<br>
+              <i class="fa fa-edit" aria-hidden="true"></i> by {% if post.author %}{{ post.author }}{% else %}tinna{% endif %}<br>
               <i class="fa fa-folder-open" aria-hidden="true"></i>
               {% for category in post.categories %}
                 {% for catdata in site.data.categories %}
