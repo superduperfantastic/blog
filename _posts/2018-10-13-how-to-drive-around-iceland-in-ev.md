@@ -8,7 +8,7 @@ disqus_id: how-to-drive-around-iceland-in-ev
 excerpt: <p>We drove the Ring Road around Iceland in an electric vehicle in a week. How did it go? This is what we learned...</p>
 image: '/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/finally-charging.jpg'
 thumbnail:
-date: 2018-10-12
+date: 2018-10-13
 categories:
 - Iceland
 tags: 
