@@ -5,9 +5,9 @@ layout: default
     <div class="post-header">
         <h2><a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
         <span class="post-meta">
-            Post by {% if page.author %}{{ page.author }}{% else %}tinna{% endif %}<br>
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-            ~ <i class="fa fa-folder-open" aria-hidden="true"></i>
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+                ~ <i class="fa fa-edit" aria-hidden="true"></i> by {% if page.author %}{{ page.author }}{% else %}tinna{% endif %}<br>
+            <i class="fa fa-folder-open" aria-hidden="true"></i>
             {% for category in page.categories %}
                 {% for catdata in site.data.categories %}
                     {% if catdata.cat_name == category %}

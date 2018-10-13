@@ -1,14 +1,14 @@
 ---
 layout: post
-status: draft   
-published: false
+status: published   
+published: true
 author: ryan
 title: How to Drive Around Iceland in an Electric Vehicle
 disqus_id: how-to-drive-around-iceland-in-ev
 excerpt: <p>We drove the Ring Road around Iceland in an electric vehicle in a week. How did it go? This is what we learned...</p>
 image: '/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/finally-charging.jpg'
 thumbnail:
-date: 2018-10-10
+date: 2018-10-12
 categories:
 - Iceland
 tags: 
@@ -22,7 +22,7 @@ comments: true
 >
 >"OK, let's do it!"
 
-And just like that we decided to drive around Iceland in an electric car. It seemed like a sensible choice at that time. Gas is expensive there, and Iceland has recently [built an extensive EV charging network](https://cleantechnica.com/2018/05/16/iceland-saturates-its-1300-kilometer-route-1-with-network-of-20-abb-dc-fast-chargers/){:target="_blank"}. Besides, we thought _Why would a rental car company provide EV rentals if they didn't think the infrastructure would support it? We'll be fine._
+That's how it always starts. This time, that conversation led to our decision to drive around Iceland in an electric car. It seemed like a sensible choice at that time. Gas is expensive there, and Iceland has recently [built an extensive EV charging network](https://cleantechnica.com/2018/05/16/iceland-saturates-its-1300-kilometer-route-1-with-network-of-20-abb-dc-fast-chargers/){:target="_blank"}. Besides, we thought _Why would a rental car company provide EV rentals if they didn't think the infrastructure would support it? We'll be fine._
 
 As we'd find out later, the devil is always in the details. This guide might help you if you're considering the same. It would have helped us!
 
@@ -33,12 +33,12 @@ As we'd find out later, the devil is always in the details. This guide might hel
 
 We planned on taking the Route 1 Highway aka the Ring Road - no surprise here as this is the main highway ringing the country and passes by many sites along the way. You can also see how many charging stations dot the route in the app:
 
+{:.center}
+![ON Power Map of Iceland](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/on-power-map.png)  
+
 ## The Tools
 
 The main energy provider in Iceland is [ON Power](http://www.onpower.is/){:target="_blank"}, and the one who owns the majority of EV charging stations around the country. They also have a halfway decent app.
-
-{:.center}
-![ON Power Map of Iceland](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/on-power-map.png)  
 
 As we found out mid-trip, there's another provider, [Isorka](https://isorka.is/?lang=en){:target="_blank"} with a decent number of stations in the larger cities. They also have an app and mobile website, which takes payments pretty easily.
 
@@ -54,7 +54,7 @@ The rental car company we used, [Geysir](https://www.geysir.is/){:target="_blank
 
 ## Gotcha #1 - Your EV might not have as much range as you think
 
-You probably know this if you already own an EV, but we don't, and we were surprised early on that our range drained faster than actual kilometers driven. Of course how you drive (lead foot?) and things like hills and traffic greatly affect your range. In the case of traffic, the lack of traffic meant that we weren't able to regenerate energy from using the brakes very often. On the second day we had to scrub our planned route along the Golden Circle because it might have pushed our EV range too much for comfort.
+You probably know this if you already own an EV, but we don't, and we were surprised early on that our range drained faster than actual kilometers driven. Of course how you drive (lead foot?) and things like hills and traffic greatly affect your range. In the case of traffic, the lack of traffic meant that we weren't able to regenerate energy from using the brakes very often. On the second day, we had to scrub our planned route along the Golden Circle because it might have pushed our EV range too much for comfort.
 
 ## Gotcha #2 - Charging Stations that don't work
 
@@ -72,9 +72,7 @@ In another case, the station was undergoing some kind of maintenance, but it was
 
 At the next station, it was also out of action but waiting for maintenance. _No problem_ we thought, because they still had an AC plug right next to it which should still be working. 
 
-You see where this is going. The AC plug didn't work either. 
-
-We coasted into this town with about 20km to spare, neither plugs worked, and we had an appointment for a glacier tour later that day. We. Were. Stuck. 
+You see where this is going - the AC plug didn't work either. We coasted into this town with about 20km to spare, neither plugs worked, and we had an appointment for a glacier tour later that day. We. Were. Stuck. 
 
 Frantic phone calls and internet searches ensued. During the course of these few hours, we:
 
@@ -128,3 +126,7 @@ It was a sometimes harrowing experience, but knowing what we know now, we'd tota
 >
 >- Get a longer-range EV that would allow for some longer detours or consider a hybrid.
 >
+
+We are definitely hoping that they continue to build out the charging stations around Iceland. With a more modern electric vehicle and given the size of Iceland, driving electric all around the country is feasible _and_ even enjoyable!
+
+>### Would you rent an electric car?
