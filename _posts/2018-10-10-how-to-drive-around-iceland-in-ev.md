@@ -2,6 +2,7 @@
 layout: draft
 status: publish
 published: true
+author: ryan
 title: How to Drive Around Iceland in an Electric Vehicle
 disqus_id: how-to-drive-around-iceland-in-ev
 excerpt: <p>We drove the Ring Road around Iceland in an electric vehicle in a week. How did it go? This is what we learned...</p>
