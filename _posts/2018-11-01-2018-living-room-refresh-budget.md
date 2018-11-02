@@ -10,9 +10,10 @@ thumbnail: https://c2.staticflickr.com/2/1962/45675865751_f6a14eb000_q.jpg
 date: 2018-11-01
 categories:
 - Homeowners Journal
-- Money Matters
 tags: 
-- Spending
+- organization
+- cleaning house
+- dog-friendly
 comments: true
 ---
 
