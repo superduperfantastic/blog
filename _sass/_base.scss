@@ -104,6 +104,18 @@ a {
     }
 }
 
+.post-content a {
+    color: $brand-color;
+    text-decoration: underline;
+    font-weight:bold;
+    transition: color 0.18s ease, background-color 0.18s ease;
+
+    &:hover {
+        color: $hover-color;
+        text-decoration: underline;
+    }
+}
+
 
 
 /**
