@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Small Goals - November {2018}
+title: Small Goals in November {2018}
 disqus_id: 2018-11-goals
 image: https://c1.staticflickr.com/5/4822/44991148654_9788def360.jpg
 thumbnail: https://c1.staticflickr.com/5/4822/44991148654_9788def360_q.jpg

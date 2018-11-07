@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Predators of the Heart - a Birthday Surprise
+title: Predators of the Heart, a Birthday Surprise
 disqus_id: predators-of-the-heart
 excerpt: <p>To celebrate Ryan's birthday, I planned a surprise involving a 24-hour trip to hang out with wolves. Needless to say, it surpassed our expectations. Definitely check out Predators of the Heart - such a great organization!</p>
 image: https://c2.staticflickr.com/2/1800/43956269472_56f13fb883.jpg

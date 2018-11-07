@@ -3,7 +3,7 @@ layout: post
 status: published   
 published: true
 author: tinna
-title: One Week in Iceland - Our Budget
+title: One Week in Iceland (Our Budget)
 disqus_id: week-iceland-budget
 excerpt: <p>We spent one week in Iceland and here is how we combined a little bit of splurging with a little bit of frugality - Airbnb, a few fancy meals, some instant noodles, and a cheap flight.</p>
 image: https://c1.staticflickr.com/5/4862/43873582160_66a6628eaf.jpg

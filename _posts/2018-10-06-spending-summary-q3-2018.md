@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Spending Summary - Q3 {2018}
+title: Q3 Spending Summary {2018}
 disqus_id: spending-summary-Q3-2018
 excerpt: <p>It's October! Time to take a look back at spending in the third quarter of the year. Our biggest areas of change from Q2? Savings!</p>
 image: https://c2.staticflickr.com/2/1947/45092797582_190755dcb0.jpg
