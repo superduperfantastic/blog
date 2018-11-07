@@ -15,7 +15,7 @@ tags:
 - Spending
 comments: true
 ---
-Save more, spend less. That was the theme for the third quarter. With the [Q1]({{site.url}}/2018-spending-summary-q1-2018/){:target="_blank"} and [Q2]({{site.url}}/2018-spending-summary-q2-2018/){:target="_blank"} spending summaries posted, I could see where I wanted to shift my spending in Q3. Having that information handy helped shape where we put our dollars between July and September:
+Save more, spend less. That was the theme for the third quarter. With the [Q1]({{site.url}}/spending-summary-q1-2018/){:target="_blank"} and [Q2]({{site.url}}/spending-summary-q2-2018/){:target="_blank"} spending summaries posted, I could see where I wanted to shift my spending in Q3. Having that information handy helped shape where we put our dollars between July and September:
 
 {:.center}
 ![Q3-2018 Spending](https://c2.staticflickr.com/2/1947/45092797582_190755dcb0_z.jpg)

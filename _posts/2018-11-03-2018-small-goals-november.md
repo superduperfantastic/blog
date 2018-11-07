@@ -32,7 +32,7 @@ _Autumn leaves and the sky at twilight in Geyserville_
 
 **3. Reorganize the wardrobe - get rid of clothing.**  
 
-> Getting rid of the excess in our home is an ongoing project. Next on my list is clothing. I'd really like to do a wardrobe overhaul, maybe even a capsule for work clothes. We're making piles of donation items and bringing them to the Goodwill periodically. We have a Goodwill run scheduled for today since we gathered a bunch of things during our [living room refresh](/2018-living-room-refresh-budget){:target="_blank"}. 
+> Getting rid of the excess in our home is an ongoing project. Next on my list is clothing. I'd really like to do a wardrobe overhaul, maybe even a capsule for work clothes. We're making piles of donation items and bringing them to the Goodwill periodically. We have a Goodwill run scheduled for today since we gathered a bunch of things during our [living room refresh](/living-room-refresh-budget){:target="_blank"}. 
 
 >This goal might move into December and January, but I'm already thinking about which items I don't fit or like to wear anymore.
 
