@@ -8,7 +8,7 @@ disqus_id: how-we-met-fresca
 image: /assets/posts/2018-11-07/fresca_destroyed.jpg
 thumbnail: /assets/posts/2018-11-07/fresca_destroyed_thumb.jpg
 excerpt: <p></p>
-date: 2018-11-06
+date: 2018-11-07
 categories:
 - Life
 tags:
