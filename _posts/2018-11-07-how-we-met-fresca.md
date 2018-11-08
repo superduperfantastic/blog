@@ -7,7 +7,7 @@ title: How We Met Fresca
 disqus_id: how-we-met-fresca
 image: /assets/posts/2018-11-07/fresca_destroyed.jpg
 thumbnail: /assets/posts/2018-11-07/fresca_destroyed_thumb.jpg
-excerpt: <p></p>
+excerpt: <p>Common questions about Fresca - her name, breed, and how I was scared Tinna would make me give her back during the first week.</p>
 date: 2018-11-07
 categories:
 - Life
