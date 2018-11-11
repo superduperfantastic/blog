@@ -4,8 +4,8 @@ status: publish
 published: true
 title: 'Chasing the Superbloom - Carrizo Plain National Monument'
 disqus_id: 2017-carrizo
-thumbnail: '/assets/posts/carrizo-plain-national-monument-thumb.jpg'
-image: '/assets/posts/carrizo-plain-national-monument-img.jpg'
+thumbnail: /assets/posts/2017-05-22/carrizo-plain-national-monument-thumb.jpg
+image: /assets/posts/2017-05-22/carrizo-plain-national-monument-img.jpg
 excerpt: <p>Desert Superblooms have been <em>a thing</em> the past few years, and we decided to check it out with our very own eyes in early April. A very quick trip to Carrizo Plain National Monument!</p>
 date: 2017-05-22
 categories:
@@ -31,22 +31,22 @@ And that's how it began.
 After some quick research, we decided our destination would be [Carrizo Plain National Monument](https://www.blm.gov/nlcs_web/sites/ca/st/en/prog/nlcs/Carrizo_Plain_NM.html){:target="_blank"}. As it is 260+ miles away from San Francisco, it would take more than 4.5 hours each way. Our plan was to wake up early on Sunday morning, make the drive, and be among wildflowers for a few hours before grabbing dinner and heading back home. 
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-01.jpg "Carrizo Plain National Monument - Ryan and Fresca") 
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-01.jpg "Carrizo Plain National Monument - Ryan and Fresca") 
 
 Carrizo Plain National Monument was declared a National Monument in 2001 and is maintained by the Bureau of Land Management (BLM). As the facilities are not as developed as those found in most national parks and with the influx of Superbloom-chasing visitors, there was a long line at the visitor center. After a short wait, I signed the guest book and snagged some useful info on where to spend the rest of our limited time (ie. not on private land). 
 
 Dogs are allowed on leash or caged at all developed sites and under owner control in other areas, so the pup got to hang out with us all day. 
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-02.jpg "Carrizo Plain National Monument - Superbloom")
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-02.jpg "Carrizo Plain National Monument - Superbloom")
 
 I think Fresca might have minor allergies because she was a bit sneezy. I know my reaction to large quantities of pollen, so I'd pre-gamed with my allergy medicine. Otherwise I couldn't have stood among those flowers for so long.
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-03.jpg "Carrizo Plain National Monument - in the wildflowers")  
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-03.jpg "Carrizo Plain National Monument - in the wildflowers")  
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-04.jpg "Carrizo Plain National Monument - the aftermath")  
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-04.jpg "Carrizo Plain National Monument - the aftermath")  
 
 After hanging out in the plains for a bit, we made the drive towards the San Andreas Fault and Temblor Range to the east. We wanted to get a closer look at the blooms in the distance.
 
@@ -55,19 +55,19 @@ The main thoroughfares are clearly marked, so it didn't take too long to figure 
 Worth it! 
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-05.jpg "Carrizo Plain National Monument - Superbloom")
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-05.jpg "Carrizo Plain National Monument - Superbloom")
 
 The flowers were absolutely stunning, and it was pretty neat that certain colors/flowers would grow on specific spots on the mountain. It made for a neat convergence of yellow, purple, and a smattering of orange too.
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-06.jpg "Carrizo Plain National Monument - Superbloom")
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-06.jpg "Carrizo Plain National Monument - Superbloom")
 
 We made the mistake of not eating lunch *before* the few hours in the national monument, so we were pretty famished by the time we made our way to the mountains. Car snacks can only get you so far. We wrapped up our visit by driving through the mountains and into the Central Valley for a quick bite before the long drive back.
 
 All in all, a great 15 hours spent exploring another part of California. It was our first road trip with the new car, and I think we did it properly! Certain roads were marked as 4WD-recommended, so we took full advantage.
 
 {:.center}
-![Carrizo Plain National Monument]({{site.url}}/assets/posts/carrizo-plain-national-monument-07.jpg "Carrizo Plain National Monument - the aftermath")  
+![Carrizo Plain National Monument](/assets/posts/2017-05-22/carrizo-plain-national-monument-07.jpg "Carrizo Plain National Monument - the aftermath")  
 
 Looking forward to our next road trip!
 
