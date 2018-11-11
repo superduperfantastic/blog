@@ -9,6 +9,11 @@ image: /assets/posts/2018-11-10/rainbow_road.png
 thumbnail: /assets/posts/2018-11-10/rainbow_road_thumb.png
 excerpt: <p>The road to learning to finish things - hobbies, projects, and more</p>
 date: 2018-11-10
+categories: 
+- Life
+- Getting Personal
+tags: 
+- Change
 comments: true
 ---
 
