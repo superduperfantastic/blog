@@ -5,8 +5,8 @@ author: Ryan
 published: true
 title: On Finishing Things
 disqus_id: on-finishing-things
-image: /assets/posts/2018-11-10/rainbow_road.png
-thumbnail: /assets/posts/2018-11-10/rainbow_road_thumb.png
+image: /assets/posts/2018-11-10/rainbow_road.jpg
+thumbnail: /assets/posts/2018-11-10/rainbow_road_thumb.jpg
 excerpt: <p>The road to learning to finish things - hobbies, projects, and more</p>
 date: 2018-11-10
 categories: 
