@@ -23,7 +23,7 @@ Every so often, I like to change up our living space. Rather than moving out and
 The biggest (and least expensive) change in the living room is that we took one wall's contents and switched them with the contents of the other wall. We kinda eyeballed the lengths so thankfully everything fits in the space. In doing so, we also had to move our seating to face the television's new home. Rather than being lined up along the window, the couch now sits perpendicular to it. Because our couch came in three pieces and was much too wide to fit in this new direction as all three pieces, it's now two pieces with one piece hanging out in our storage area until further notice. Moving the couch cleared up space for the planters by the window, so that's a plus.
 
 {:.center}
-![Living Room Refresh](/assets/posts/rearranged-room.png) 
+![Living Room Refresh](/assets/posts/2018-11-01/rearranged-room.png) 
 
 Cost: $0
 
@@ -52,7 +52,7 @@ Because the chance that all three plants wouldn't make it was rather high (Hello
 These are the two Ikea plant stands that we brought home, along with a few pots for our new plant family. The one on the left was one I'd seen at the sister's house, so I was definitely copying her great idea.
 
 {:.center}
-![Ikea Planters](/assets/posts/Ikea-Planters.png) 
+![Ikea Planters](/assets/posts/2018-11-01/Ikea-Planters.png) 
 
 Some other "easier" plants were also gifted to us from a friend who saw that I was building up a small plant family. So far, Fernie Sanders is the only one not doing so great, and occasionally our Fittonia will faint from lack of hydration.
 

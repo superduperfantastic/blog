@@ -14,6 +14,7 @@ categories:
 tags:
 - Fresca
 - Pet Insurance
+- affiliate
 comments: true
 --- 
 
@@ -26,7 +27,7 @@ Age was a big one for us when we decided _not_ to buy pet insurance for our cat 
 
 Thankfully, she wasn't a troublesome pup. Similar to Sasha, Fresca doesn't really get into the garbage and other than an occasional act of disobedience, doesn't usually eat anything weird. 
 
-Onto [Embrace Pet Insurance](https://www.embracepetinsurance.com/){:target="_blank"}, and why we're happy with it and have stuck by it these past 4+ years. When we were searching for pet insurance plans four years ago, Embrace Pet Insurance was ranked among the best, so that's how we learned about it. In 2018, they're in the top 3, so we're not the only ones out there who like their plan. 
+Onto [Embrace Pet Insurance](https://shareasale.com/r.cfm?b=88595&u=1920636&m=13451&urllink=&afftrack=){:target="_blank"}, and why we're happy with it and have stuck by it these past 4+ years. When we were searching for pet insurance plans four years ago, Embrace Pet Insurance was ranked among the best, so that's how we learned about it. In 2018, they're in the top 3, so we're not the only ones out there who like their plan. 
 
 Since insurance is all about helping out in case of emergencies, we pay our premium for ease of mind and are happy when we don't have to file any claims. As a bonus, each year that we do not make an accident/illness claim, Embrace will lower the deductible by $50. 
 
@@ -39,6 +40,8 @@ In terms of cost, I recently punched in Fresca's info on some of the other insur
 
 So why has pet insurance been on the top of my mind lately? 
 
-Unfortunately, something's been up with Fresca. One of her lymph nodes was swollen, and she hasn't been able to open her eyes all the way this week. We haven't really figured out what's wrong, but the vet has been able to narrow down to what _isn't_ wrong. Ryan has taken her in a few times, and we have another follow-up appointment next week, so the bills are adding up. She seems to be on the mend, so all is good in this household. But hooray for [pet insurance](https://www.embracepetinsurance.com/){:target="_blank"} - I may be singing a different tune if these accident/illness claims don't get approved, but the wellness ones have always been a breeze, so fingers crossed!
+Unfortunately, something's been up with Fresca. One of her lymph nodes was swollen, and she hasn't been able to open her eyes all the way this week. We haven't really figured out what's wrong, but the vet has been able to narrow down to what _isn't_ wrong. Ryan has taken her in a few times, and we have another follow-up appointment next week, so the bills are adding up. She seems to be on the mend, so all is good in this household. But hooray for [pet insurance](https://shareasale.com/r.cfm?b=595222&u=1920636&m=13451&urllink=&afftrack=){:target="_blank"} - I may be singing a different tune if these accident/illness claims don't get approved, but the wellness ones have always been a breeze, so fingers crossed!
 
 >### Do you have pets, and do you have them insured?  
+
+Curious about pet health insurance? Check out [Embrace Pet Insurance](https://shareasale.com/r.cfm?b=595226&u=1920636&m=13451&urllink=&afftrack=) for a FREE quote and more information.
