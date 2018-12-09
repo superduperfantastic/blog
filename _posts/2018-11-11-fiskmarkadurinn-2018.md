@@ -6,7 +6,7 @@ title: 'Eat Iceland : Fiskmarkadurinn - FISH MRKT'
 disqus_id: fiskmarkadurinn-2018
 image: 
 thumbnail: 
-date: 2018-11-11
+date: 2018-12-11
 categories:
 - Iceland
 - Iceland Eats
