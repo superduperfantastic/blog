@@ -25,7 +25,7 @@ gems: [jekyll-paginate, jekyll-archives, jekyll-redirect-from]
 
 # Output
 permalink: /:title/
-paginate: 12
+paginate: 6
 
 # We don't want Rakefile to be published
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
