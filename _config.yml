@@ -39,7 +39,7 @@ jekyll-archives:
 
 # Category Pagination
 categories:
-    pagination: 5
+    paginate: 8
     generate_all: true
     directory: category
     layout: category_index.html
