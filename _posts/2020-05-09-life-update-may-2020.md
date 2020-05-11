@@ -24,11 +24,11 @@ Our main outside time is when we take the pup out. Usually, it's just Ryan and F
 {:.center}
 ![Quarantine Bears](https://live.staticflickr.com/65535/49877174046_e52302b8d8_z.jpg)
 
-Our other time outside of the house is for the occasional errand. We have been buying a produce box that supports the local farmers market and its farmers. With restaurants all over the bay operating at a much lower capacity (or even not at all), these boxes help bring fresh produce directly to consumers. Once a week, I volunteer to help pack it, and after my shift, I take one home. If you're in or near San Francisco, check out: [CUESA Farmers Market Box](https://cuesa.org/cuesabox){:target="_blank}. 
+Our other time outside of the house is for the occasional errand. We have been buying a produce box that supports the local farmers market and its farmers. With restaurants all over the bay operating at a much lower capacity (or even not at all), these boxes help bring fresh produce directly to consumers. Once a week, I volunteer to help pack it, and after my shift, I take one home. If you're in or near San Francisco, check out: [CUESA Farmers Market Box](https://cuesa.org/cuesabox){:target="_blank"}. 
 
 This weekend was a pretty full weekend in quarantine. 
 
-I did my farmers market shift on Saturday, plotted with the sister about our Mother's Day surprise and hopped on a Zoom with the Bay Area FIRE (financial independent, retire early) community. I don't consider myself a full-fledged member, but I try to aim for that sort of lifestyle. Online shopping sprees, which definitely happened this weekend, don't help towards that at all. Today we ran some errands in the morning, swung by the parents' house to see/surprise my mom from afar, made a [little stop motion video](https://www.instagram.com/p/CABo_Mqhg65/?utm_source=ig_web_button_share_sheet) (SO PROUD OF THIS since it's my first ever!) and then hopped on Zoom with Ryan's mom when we got home. 
+I did my farmers market shift on Saturday, plotted with the sister about our Mother's Day surprise and hopped on a Zoom with the Bay Area FIRE (financial independent, retire early) community. I don't consider myself a full-fledged member, but I try to aim for that sort of lifestyle. Online shopping sprees, which definitely happened this weekend, don't help towards that at all. Today we ran some errands in the morning, swung by the parents' house to see/surprise my mom from afar, made a [little stop motion video](https://www.instagram.com/p/CABo_Mqhg65/?utm_source=ig_web_button_share_sheet){:target="_blank"} (SO PROUD OF THIS since it's my first ever!) and then hopped on Zoom with Ryan's mom when we got home. 
 
 {:.center}
 ![flowers for mom](https://live.staticflickr.com/65535/49881243873_6b75afaa4c_c.jpg){:width="49%"} ![flowers for mom](https://live.staticflickr.com/65535/49882027392_719e02d6f4_z.jpg){:width="49%"} 
@@ -36,4 +36,4 @@ I did my farmers market shift on Saturday, plotted with the sister about our Mot
 
 SUCH a FULL WEEKEND. I am *exhausted*. I've been reading up on Human Design lately, and ending the day exhausted is mostly a good thing. Gotta use up all my Generator energy. The new work week is about to begin, so time to rest up and recharge!
 
->**_How are you during this time?_**
+>**_How are you during this time? What is your new normal like?_**

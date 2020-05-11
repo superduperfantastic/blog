@@ -15,7 +15,7 @@ tags:
 - Spending
 comments: true
 ---
-My blogging tapered off in 2019, but since I'm trying to do more in 2020, I'm back on writing about my spending. This is what 2019 (top in red orange) looked like compared to the year before (bottom in blue). All information is tracked in [YNAB](https://ynab.com/referral/?ref=BWZcB3gkMhf1SYyg&utm_source=customer_referral){:target="_blank} (link is a referral) and then the charts were thrown together in Excel. I think it's pretty interesting the shifts in spending categories because it represents where we spent more time in the year. As always, the disclaimer is that these percentages are based on total expenses and do not include any savings, which for the record, I increased in 2019!
+My blogging tapered off in 2019, but since I'm trying to do more in 2020, I'm back on writing about my spending. This is what 2019 (top in red orange) looked like compared to the year before (bottom in blue). All information is tracked in [YNAB](https://ynab.com/referral/?ref=BWZcB3gkMhf1SYyg&utm_source=customer_referral){:target="_blank"} (link is a referral) and then the charts were thrown together in Excel. I think it's pretty interesting the shifts in spending categories because it represents where we spent more time in the year. As always, the disclaimer is that these percentages are based on total expenses and do not include any savings, which for the record, I increased in 2019!
 
 {:.center}
 ![2019 Spending](https://live.staticflickr.com/65535/49383328862_6be64d543f_z.jpg)
