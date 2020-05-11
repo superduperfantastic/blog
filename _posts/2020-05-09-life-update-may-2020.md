@@ -31,7 +31,7 @@ This weekend was a pretty full weekend in quarantine.
 I did my farmers market shift on Saturday, plotted with the sister about our Mother's Day surprise and hopped on a Zoom with the Bay Area FIRE (financial independent, retire early) community. I don't consider myself a full-fledged member, but I try to aim for that sort of lifestyle. Online shopping sprees, which definitely happened this weekend, don't help towards that at all. Today we ran some errands in the morning, swung by the parents' house to see/surprise my mom from afar, made a [little stop motion video](https://www.instagram.com/p/CABo_Mqhg65/?utm_source=ig_web_button_share_sheet) (SO PROUD OF THIS since it's my first ever!) and then hopped on Zoom with Ryan's mom when we got home. 
 
 {:.center}
-![flowers for mom](https://live.staticflickr.com/65535/49881192413_2d5b352ecb_z.jpg){:width="49%"} ![flowers for mom](https://live.staticflickr.com/65535/49882027392_719e02d6f4_z.jpg){:width="49%"} 
+![flowers for mom](https://live.staticflickr.com/65535/49881243873_6b75afaa4c_c.jpg){:width="49%"} ![flowers for mom](https://live.staticflickr.com/65535/49882027392_719e02d6f4_z.jpg){:width="49%"} 
 *Before and after!*
 
 SUCH a FULL WEEKEND. I am *exhausted*. I've been reading up on Human Design lately, and ending the day exhausted is mostly a good thing. Gotta use up all my Generator energy. The new work week is about to begin, so time to rest up and recharge!
