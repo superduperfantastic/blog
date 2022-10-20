@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.superduperfantastic.com" # the base hostname & protocol for your site
 twitter_username: suki
 instagram_username: superduperfantastic
-facebook_username: superduperfantasticnet
+# facebook_username: superduperfantasticnet
 pinterest_username: suki
 bloglovin_username: super-duper-fantastic-2988376
 # github_username: superduperfantastic
