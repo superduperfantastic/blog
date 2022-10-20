@@ -6,6 +6,8 @@ This is the "bones" file, which generates the "meat" to be seen by everyone.
 
 If you're using Windows, you can run Jekyll using the Linux Subsystem. Instructions here: http://daverupert.com/2016/04/jekyll-on-windows-with-bash/
 
+On Mac you just need git and vscode.
+
 NOTE: The update about a missing watch file is now resolved.
 
 ### Install Ruby
