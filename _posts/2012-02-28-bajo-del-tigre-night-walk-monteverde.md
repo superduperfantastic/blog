@@ -17,9 +17,9 @@ tags:
 - Monteverde
 comments: true
 ---
-With at least four different night hikes in the Monteverde region, it can be difficult to choose the one to go on. They all start around the same time in the evening, and you're doing the same thing - looking for wildlife. We went with [Bajo del Tigre](http://acmcr.org/bajo_tigre_en.htm "Bajo del Tigre - Monteverde, Costa Rica"){:target="_blank"} night hike, which is managed by the [Monteverde Conservation League](http://acmcr.org/home.htm "Monteverde Conservation League"){:target="_blank"}. While it is physically separated, Bajo del Tigre is affiliated with the Children's Eternal Rainforest [Bosque Eterno de los Niños], which was purchased with the help of school children all over the world and is Costa Rica's largest private reserve.
+With at least four different night hikes in the Monteverde region, it can be difficult to choose the one to go on. They all start around the same time in the evening, and you're doing the same thing - looking for wildlife. We went with [Bajo del Tigre](https://acmcr.org/content/stations-and-trails/bajo-del-tigre-reserve/ "Bajo del Tigre - Monteverde, Costa Rica"){:target="_blank"} night hike, which is managed by the [Monteverde Conservation League](https://acmcr.org/content/ "Monteverde Conservation League"){:target="_blank"}. While it is physically separated, Bajo del Tigre is affiliated with the Children's Eternal Rainforest [Bosque Eterno de los Niños], which was purchased with the help of school children all over the world and is Costa Rica's largest private reserve.
 
-The Bajo del Tigre Night Walk was a recommendation from [Pura Vida! eh?](http://www.puravidaeh.ca/ "Pura Vida! eh?"){:target="_blank"}, a travel company that we'd been working with on getting sweet deals on activities throughout Costa Rica.
+The Bajo del Tigre Night Walk was a recommendation from [Pura Vida! eh?](https://www.puravidaeh.ca/ "Pura Vida! eh?"){:target="_blank"}, a travel company that we'd been working with on getting sweet deals on activities throughout Costa Rica.
 
 {:.center}
 ![Bajo del Tigre Night Walk - Monteverde](https://farm8.staticflickr.com/7206/6908276773_efb8802a04_b.jpg)
