@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-archives, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-archives, jekyll-redirect-from]
 
 # Output
 permalink: /:title/
