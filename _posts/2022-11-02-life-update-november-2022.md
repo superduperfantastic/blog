@@ -36,7 +36,7 @@ I dove into the world of watercolors in late 2020, taking online classes to stre
 Since the initial lockdown, we made a bunch of updates to the house since we spend so much time here. One of those was unavoidable though - dry rot of the face of the house. That construction project occupied half a year's worth of time and a whole lot of funds, so we're glad it's over and done with. We're still not finished with everything that has to be done on this house, but it's going to have to wait. 
 
 ### Travel
-We are traveling again! El Salvador, Kenya, and more.
+If you're following me on Instagram, you'll know that we are traveling again! El Salvador in November, Kenya in January, and more. We have a Southwest companion pass that needs to be used throughout this coming year, so definitely open to suggestions on where to take advantage of that.
 
 Stay tuned...
 
