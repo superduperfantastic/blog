@@ -1,30 +1,474 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>[Super Duper Fantastic]</title>
+    <description>A lifestyle/personal blog exploring food, travel and unique experiences and adventures in San Francisco and around the world.</description>
+    <link>https://www.superduperfantastic.com/</link>
+    <atom:link href="https://www.superduperfantastic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Mar 2023 21:50:22 -0700</pubDate>
+    <lastBuildDate>Fri, 24 Mar 2023 21:50:22 -0700</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Life Update - November 2022</title>
+        <description>&lt;p&gt;Hello! It’s been another minute. We are out of quarantine and doing life things again. It seems like the world has moved on, but I do know that Covid is still very real in some places and for some people. The pace at which we are doing things is definitely slower than pre-pandemic times.&lt;/p&gt;
+
+&lt;p&gt;So what’s new?&lt;/p&gt;
+
+&lt;p&gt;Since May 2020, a lot!&lt;/p&gt;
+
+&lt;h3 id=&quot;work&quot;&gt;Work&lt;/h3&gt;
+&lt;p&gt;Ryan and I are still working for the same companies. We have the option to work from home, so that’s what we do with occasional office days. We are thinking about going in more often, just for a change of scenery and occasionally interacting with coworkers (even though most of our teams are elsewhere).&lt;/p&gt;
+
+&lt;p&gt;My weekend gig at the farmer’s market is on hiatus currently, so I signed up to volunteer there again. With the almost-weekly trips to the farmer’s market, we’ve been eating fresh and in season!&lt;/p&gt;
+
+&lt;h3 id=&quot;personal&quot;&gt;Personal&lt;/h3&gt;
+&lt;p&gt;Since November 2020, I’ve had my hair dyed some shade of purple to varying degrees. I love it and will probably keep it up until my hair seems wrecked. So far, it’s lasting a lot longer than my stylist has expected. I go in twice a year, rather than more frequently. It has luckily not faded too fast, so it saves some of those dollars.&lt;/p&gt;
+
+&lt;p&gt;I became an aunt this year, and I am oh-so-obsessed with them. It comes as a surprise since I do not want children of my own, but now that they’re in my life… LOVE LOVE LOVE!&lt;/p&gt;
+
+&lt;h3 id=&quot;creative&quot;&gt;Creative&lt;/h3&gt;
+&lt;p&gt;I dove into the world of watercolors in late 2020, taking online classes to stretch that creative side of the brain. I made some friends over Instagram and spent many dollars on watercolor supplies. In spring of 2021, Ryan and I started taking pottery classes all over San Francisco. Eventually, we settled down and joined a community studio. We are still members of the studio, and we try to go in a few times a week.&lt;/p&gt;
+
+&lt;h3 id=&quot;house-stuff&quot;&gt;House Stuff&lt;/h3&gt;
+&lt;p&gt;Since the initial lockdown, we made a bunch of updates to the house since we spend so much time here. One of those was unavoidable though - dry rot of the face of the house. That construction project occupied half a year’s worth of time and a whole lot of funds, so we’re glad it’s over and done with. We’re still not finished with everything that has to be done on this house, but it’s going to have to wait.&lt;/p&gt;
+
+&lt;h3 id=&quot;travel&quot;&gt;Travel&lt;/h3&gt;
+&lt;p&gt;If you’re following me on Instagram, you’ll know that we are traveling again! El Salvador in November, Kenya in January, and more. We have a Southwest companion pass that needs to be used throughout this coming year, so definitely open to suggestions on where to take advantage of that.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;How are you? What is your new normal like?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 02 Nov 2022 00:00:00 -0700</pubDate>
+        <link>https://www.superduperfantastic.com/life-update-november-2022/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/life-update-november-2022/</guid>
+        
+        <category>update</category>
+        
+        
+        <category>Life</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Life Update - May 2020</title>
+        <description>&lt;p&gt;Hi friends, it’s been a minute! I felt inspired to give a little life update, so at least in the future, if I am the only one reading my blog, I will be reminded of what life was like at this time. Like most other Californians, Ryan and I have been sheltering in place for the past two months. We are both grateful to be employed at this time while many others do not have the same fortunate circumstances. It took about a week or two for us to figure out the ideal setup for our desks. We can still hear each other on calls, but for the most part, the other people on the line cannot.&lt;/p&gt;
+
+&lt;p&gt;We have a bit of a routine now where I yell across the room to let him know what my day looks like, so that we can stop for meals. I am finding myself waking up earlier and working longer hours. Part of it is the new role I’ve taken, but the other part is likely self-imposed. The workload doesn’t seem to have gone down since this whole thing began, so if I don’t do something today, future me will need to get to it.&lt;/p&gt;
+
+&lt;p&gt;I have taken a day off here or there for self-care, so that I don’t get burnt out. Those days have been spent loafing on the couch, rather than anything “productive.”&lt;/p&gt;
+
+&lt;p&gt;Our main outside time is when we take the pup out. Usually, it’s just Ryan and Fresca, but I try to join in here and there. On these walks, I’m usually on the lookout for bears and other characters in the neighborhood windows.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49877174046_e52302b8d8_z.jpg&quot; alt=&quot;Quarantine Bears&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our other time outside of the house is for the occasional errand. We have been buying a produce box that supports the local farmers market and its farmers. With restaurants all over the bay operating at a much lower capacity (or even not at all), these boxes help bring fresh produce directly to consumers. Once a week, I volunteer to help pack it, and after my shift, I take one home. If you’re in or near San Francisco, check out: &lt;a href=&quot;https://cuesa.org/cuesabox&quot; target=&quot;_blank&quot;&gt;CUESA Farmers Market Box&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This weekend was a pretty full weekend in quarantine.&lt;/p&gt;
+
+&lt;p&gt;I did my farmers market shift on Saturday, plotted with the sister about our Mother’s Day surprise and hopped on a Zoom with the Bay Area FIRE (financial independent, retire early) community. I don’t consider myself a full-fledged member, but I try to aim for that sort of lifestyle. Online shopping sprees, which definitely happened this weekend, don’t help towards that at all. Today we ran some errands in the morning, swung by the parents’ house to see/surprise my mom from afar, made a &lt;a href=&quot;https://www.instagram.com/p/CABo_Mqhg65/?utm_source=ig_web_button_share_sheet&quot; target=&quot;_blank&quot;&gt;little stop motion video&lt;/a&gt; (SO PROUD OF THIS since it’s my first ever!) and then hopped on Zoom with Ryan’s mom when we got home.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49881243873_6b75afaa4c_c.jpg&quot; alt=&quot;flowers for mom&quot; width=&quot;49%&quot; /&gt; &lt;img src=&quot;https://live.staticflickr.com/65535/49882027392_719e02d6f4_z.jpg&quot; alt=&quot;flowers for mom&quot; width=&quot;49%&quot; /&gt; 
+&lt;em&gt;Before and after!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;SUCH a FULL WEEKEND. I am &lt;em&gt;exhausted&lt;/em&gt;. I’ve been reading up on Human Design lately, and ending the day exhausted is mostly a good thing. Gotta use up all my Generator energy. The new work week is about to begin, so time to rest up and recharge!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;How are you during this time? What is your new normal like?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 09 May 2020 00:00:00 -0700</pubDate>
+        <link>https://www.superduperfantastic.com/life-update-may-2020/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/life-update-may-2020/</guid>
+        
+        <category>quarantine</category>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Spending Comparison - 2018 vs 2019</title>
+        <description>&lt;p&gt;My blogging tapered off in 2019, but since I’m trying to do more in 2020, I’m back on writing about my spending. This is what 2019 (top in red orange) looked like compared to the year before (bottom in blue). All information is tracked in &lt;a href=&quot;https://ynab.com/referral/?ref=BWZcB3gkMhf1SYyg&amp;amp;utm_source=customer_referral&quot; target=&quot;_blank&quot;&gt;YNAB&lt;/a&gt; (link is a referral) and then the charts were thrown together in Excel. I think it’s pretty interesting the shifts in spending categories because it represents where we spent more time in the year. As always, the disclaimer is that these percentages are based on total expenses and do not include any savings, which for the record, I increased in 2019!&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49383328862_6be64d543f_z.jpg&quot; alt=&quot;2019 Spending&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49383424642_f1948ac339_z.jpg&quot; alt=&quot;Spending Comparison - 2018 vs 2019&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2019, we spent “more” on Home &amp;amp; Utilities, Travel and Charity, while we spent noticeably “less” on Health/Fitness and Adulting/Taxes.&lt;/p&gt;
+
+&lt;h3 id=&quot;2019-increases&quot;&gt;2019 Increases&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Home &amp;amp; Utilities (29% to 31%; 2% increase)&lt;/strong&gt; I didn’t put a lot of effort into paying down the mortgage sooner, so increasing property taxes and insurance pretty much make up the additional spending in this category.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Travel (12% to 23%; 11% increase)&lt;/strong&gt; - Most of this is due to our Disney Vacation Club investment. I suspect it’s a one-time increase in overall percentage since the bulk was paid off in 2019. As I mentioned before, I started counting all expenses while on vacation part of travel, rather than where I used to categorize them in food/bev or doggie daycare. And as always, there was also a bit of prepayment for 2020 trips in 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charity (1% to 5%; 4% increase)&lt;/strong&gt; - I opened a Fidelity Charitable account, so that I could set aside funds for giving. It counts as a charitable donation in 2019, but the funds will sit there until I designate where to grant money. I had been wanting to do this to take advantage of my income now, while giving myself the opportunity to give to organizations that matter to me in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;2019-decreases&quot;&gt;2019 Decreases&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Health/Fitness (15% to 3%; 12% decrease)&lt;/strong&gt; We spent 2018 with a personal trainer. Once we felt comfortable enough to do workouts on our own, the $$ spent dropped significantly. Nowadays, while I admit that we COULD do more physically, when we DO work out, we mostly do things at home (like rowing or online fitness challenges). I also have some workout packages that I bought previously that I’ll probably finish using up in 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adulting/Taxes (8% to 2%; 6% decrease)&lt;/strong&gt; - The big spend in 2019 in this category was mainly tax preparation and guidance. We didn’t have a repeat of 2018, which was mostly estate planning.&lt;/p&gt;
+
+&lt;h3 id=&quot;2020-spending-goals&quot;&gt;2020 Spending Goals&lt;/h3&gt;
+&lt;p&gt;There were a few categories that I was surprised didn’t decrease significantly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Food/Bev (9% to 10%; 1% increase)&lt;/strong&gt; - Even though we consciously ate out less, we made up for it with our grocery spending. Plus I never cut out my fancy sushi budget. YUM!&lt;/p&gt;
+
+&lt;p&gt;In 2020, my hope is to do more cooking at home and to see if there’s a way we can stretch our dollars a bit on groceries. This might actually cost more, but I would like to spend with local farmers (farmers markets, farm boxes, local co-op) rather than the big chains.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shopping (8% to 8%; no change)&lt;/strong&gt; - Even though it felt like I spent less in certain buckets, I basically took the funds and rearranged where they were spent instead.&lt;/p&gt;
+
+&lt;p&gt;I didn’t think I would ever do this, but in 2020, I’m cancelling a few subscriptions (Amazon Prime and Rent the Runway) to see how I do without them. If I find that I miss their convenience, I can always resubscribe. I’m not quite ready to cut my Costco habit, so that’ll stay for now; gotta take this one step at a time!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Any surprises from the past year in regards to your spending? Are you making any changes in 2020?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2020 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/spending-comparison-2019/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/spending-comparison-2019/</guid>
+        
+        <category>Spending</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Money Matters</category>
+        
+      </item>
+    
+      <item>
+        <title>Monthly Recap - December</title>
+        <description>&lt;p&gt;Historically, December has been a jam-packed month for me, and it goes by fairly quickly. I’m usually scrambling to fit in as much as I can in the month before the holidays. This past December, however, things seemed to go at a slower pace. It didn’t feel rushed or as if it had gone by in a flash.&lt;/p&gt;
+
+&lt;h3 id=&quot;holiday-party-season&quot;&gt;Holiday Party Season&lt;/h3&gt;
+
+&lt;p&gt;Ryan’s and my holiday parties were scheduled for the same day around the same time (only staggered by 30 minutes) during the first week of December. Rather than rushing across the city to attend both, we opted for mine at the de Young Museum in Golden Gate Park. There were enough familiar faces in the crowd to make it a fun night. We ate, drank, wandered the galleries, and hung out with my work friends. I feel fortunate to be able to consider them friends because it hasn’t always been the case in the past.&lt;/p&gt;
+
+&lt;h3 id=&quot;last-disney-trip-in-2019&quot;&gt;Last Disney Trip in 2019&lt;/h3&gt;
+
+&lt;p&gt;In the second week of the month, we headed to Orlando for our last trip to Disneyworld for the year. The weather wasn’t ideal (read: thunderstorms) this time around, so it wasn’t quite as packed with activity as our other trips. Highlights from these five days in the parks:&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49313314646_3b04a44830_b.jpg&quot; alt=&quot;Disneyworld&quot; title=&quot;Disneyworld&quot; width=&quot;49%&quot; /&gt; &lt;img src=&quot;https://live.staticflickr.com/65535/49313520652_0bd74a2edf_b.jpg&quot; alt=&quot;Disneyworld - Takumi-Tei&quot; title=&quot;Disneyworld - Takumi-Tei&quot; width=&quot;49%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Mickey’s Very Merry Christmas Party became Mickey’s Very Rainy Christmas Party because Ryan had convinced me to leave the ponchos that we had brought in our room. Had we not purchased extra tickets for this event, we could’ve just chilled in our room rather than hang out in the rain. Once we were at the park, it was too far to go get them, and we were not convinced that we should buy new ones. I made sure to give Ryan a hard time about it the whole night since it limited our movement around the park.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;We rode the new Star Wars ride - TWICE! Since it only opened up the week before, it was quite popular, and you’re only allowed to get on the ride once a day. It was definitely worth waking up early those two mornings to wait in line!&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;We dined at the fancy &lt;a href=&quot;https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/&quot; target=&quot;_blank&quot;&gt;Takumi-Tei&lt;/a&gt; in Epcot. Their tasting menus for the evening were either beef-heavy or a complete opposite - vegan. We decided to order a bunch of items on the menu and create our own seafood-heavy tasting menu. It’s a little spendy, so we only went there once, but it was DELICIOUS. If they would allow it, I would go back just for drinks! Their cocktails are creative and tasty.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;christmas-in-socal&quot;&gt;Christmas in SoCal&lt;/h3&gt;
+
+&lt;p&gt;We spent time with Ryan’s mom’s family in SoCal this year. Instead of flying, we drove down with Fresca in tow. We made a stop along the Central Coast on our way down to visit  friends, zebras and elephant seals. Since I hadn’t officially taken any time off from work, I worked remotely on Monday. We had Christmas Eve dinner with the fam, and the rest of the time leading up to this dinner was spent preparing for said dinner. It was a good time, and most of the differing opinions were kept at bay. To avoid traffic and bad weather, we drove back on Christmas day.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49314509522_5a1dcbd0cc_w.jpg&quot; alt=&quot;December 2019&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;star-wars&quot;&gt;Star Wars&lt;/h3&gt;
+
+&lt;p&gt;Neither Ryan nor I are big Star Wars nerds (despite following the latest movies), but we have been loving &lt;em&gt;The Mandalorian&lt;/em&gt; on Disney+. We ate up all 8 episodes in Season 1 and are looking forward to Season 2, which won’t be out till next fall. We would recommend getting Disney+ for a month and binge-watching if committing to a full year isn’t your thing. You’ll get to see what the “Baby Yoda” hype is about!&lt;/p&gt;
+
+&lt;h3 id=&quot;holiday-council&quot;&gt;Holiday Council&lt;/h3&gt;
+
+&lt;p&gt;This year, I signed up for &lt;a href=&quot;https://stratejoy.com/holiday-council/&quot; target=&quot;_blank&quot;&gt;Holiday Council&lt;/a&gt; to reflect on 2019 and to spend some time planning for 2020. I was following along live for the first two calls, and then I fell behind a bit while we were traveling. I caught up before the month was over, so now I’m all set - armed with a vision board, theme, three big goals and five “ways of being” for 2020.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;theme&quot;&gt;Theme:&lt;/h3&gt;
+  &lt;p&gt;Bloom with Grace&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;3-goals&quot;&gt;3 Goals:&lt;/h3&gt;
+  &lt;blockquote&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Financial Independence - save more $$, moving towards not having to worry about it&lt;/li&gt;
+      &lt;li&gt;Feel Alive - establishing morning/evening rituals&lt;/li&gt;
+      &lt;li&gt;Reduce Impact on the Planet - making the most of life while maintaining a positive relationship with the planet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;ways-of-being&quot;&gt;Ways of Being:&lt;/h3&gt;
+  &lt;p&gt;Resourced, Intentional, Joyful, Discovery, Savor&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49313334577_03d0218d2a_b.jpg&quot; alt=&quot;vision board&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;do-you-spend-time-reflecting-on-the-past-and-planning-for-the-future-what-is-in-store-for-your-2020-what-are-you-most-looking-forward-to&quot;&gt;Do you spend time reflecting on the past and planning for the future? What is in store for your 2020? What are you most looking forward to?&lt;/h3&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/monthly-recap-december-2019/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/monthly-recap-december-2019/</guid>
+        
+        <category>recap</category>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Monthly Recap - November</title>
+        <description>&lt;p&gt;For being only 30 days, November felt like a very long month. Must have been the FIVE weekends! And of course, each one was packed.&lt;/p&gt;
+
+&lt;h3 id=&quot;wedding-weekend&quot;&gt;Wedding Weekend&lt;/h3&gt;
+
+&lt;p&gt;The most memorable part of November 2019 would have to be my sister’s wedding. It was the first weekend of the month, so we really started the month off strong. Earlier in the year, she had asked if I would officiate, and even though I have a MAJOR fear of public speaking, I said yes. I only have one sister - I had to do it! My procrastination kicked in and even though I knew what I had to do for almost the year, it wasn’t until a few weeks before that I had finalized what I would be saying.&lt;/p&gt;
+
+&lt;p&gt;When the big day came, surprisingly, I didn’t mess up too terribly! While getting emotional was inevitable, it didn’t stop me. &lt;em&gt;Thank goodness!&lt;/em&gt; An Alexa mishap at the very beginning also helped break the ice and dam up the barrage of tears that were sure to flow. We made it through the ceremony, and all was good. It was &lt;em&gt;SO&lt;/em&gt; fun, and the whole wedding was &lt;em&gt;SO&lt;/em&gt; them. Their pup Muffin was the flower dog!&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/49167311466_813286f504_b.jpg&quot; alt=&quot;wedding photo booth&quot; /&gt; 
+&lt;em&gt;Photo booth fun!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;friendsgiving-in-central-california&quot;&gt;Friendsgiving in Central California&lt;/h3&gt;
+
+&lt;p&gt;Over the second weekend of the month, Ryan and I drove down to the Central Valley to visit our friends, &lt;a href=&quot;http://www.fakefoodfree.com/&quot; target=&quot;_blank&quot;&gt;Lori&lt;/a&gt; and Dan. They were hosting a Friendsgiving, which was a fun little getaway with good food and good company. We will be seeing them again on the Central Coast in December, so looking forward to that.&lt;/p&gt;
+
+&lt;h3 id=&quot;moonlight-magic&quot;&gt;Moonlight Magic&lt;/h3&gt;
+
+&lt;p&gt;Even before we got to the third weekend of November, Ryan and I had already made a quick trip down to LA for a Moonlight Magic event in Disney California Adventure Park. It’s a free event for Disney Vacation Club members, which we joined last year - more on that another time. We boarded a flight early Thursday morning, worked remotely and then had some Disney fun in the evening. Friday morning, we were back on a flight back to the Bay Area and off to work. We had dinner with friends that Saturday and then most of Sunday was low-key with family time. My parents were about to go on a 15-day cruise, so we took the opportunity before their trip to see them.&lt;/p&gt;
+
+&lt;h3 id=&quot;big-company-that-everyone-seems-to-work-for&quot;&gt;Big Company that everyone seems to work for…&lt;/h3&gt;
+
+&lt;p&gt;The following week was a big conference week at work. I worked a few shifts during the conference and caught up with some friends throughout. One was a classmate from my year abroad in Japan whom I hadn’t seen in over a decade. He just happens to work for the same company but in Japan. Another was a friend who works for a customer. He happens to share my birthday, so we have memories of celebrating together back in the day. A few others were from my prior blogging days who also happen to now work for the same company. It felt really nice to take a break from the office and reconnect with them in a non-work context, even though we were surrounded by work.&lt;/p&gt;
+
+&lt;h3 id=&quot;thanksgiving&quot;&gt;Thanksgiving&lt;/h3&gt;
+
+&lt;p&gt;After that was Thanksgiving week, so work was a little bit frenzied, but also a little bit slow. On Thursday, we swung by for a family gathering mid-day and then hosted a small get-together at home in the evening. The food at both was PHENOMENAL, and I’m not even exaggerating. The rest of the weekend, we volunteered, went to the eye doctor to use our benefits before the end of the year and ate a lot of leftovers.&lt;/p&gt;
+
+&lt;p&gt;Goodness, that was a mouthful, and now it’s December. I’m pretty sure I wrote this after reading everyone else’s November posts, but I’d love to hear your thoughts in the comments anyway.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;any-surprises-over-the-five-weekends-of-november-what-are-you-looking-forward-to-now-that-its-the-last-month-of-the-decade&quot;&gt;Any surprises over the five weekends of November? What are you looking forward to now that it’s the LAST MONTH of the decade?&lt;/h3&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 04 Dec 2019 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/monthly-recap-november-2019/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/monthly-recap-november-2019/</guid>
+        
+        <category>recap</category>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Barriers to Blogging</title>
+        <description>&lt;p&gt;A few days ago, I received a reminder about my website registration. Did I want to renew or let it go? Honestly, I was tempted to let that reminder go by and then &lt;em&gt;poof&lt;/em&gt; - that would be the end of the many years I put into this website. Of course I ran it by Ryan, and he talked some sense (maybe?) into me. For about $15 a year, I could keep this domain.&lt;/p&gt;
+
+&lt;p&gt;And with that twentiesh dollars, the internet is stuck with &lt;strong&gt;Super Duper Fantastic&lt;/strong&gt; for a little longer. Here I am, pondering the reasons I have not posted any updates in awhile. I’ll admit that it is less effort to open up Instagram and post a quick story or grab a photo and write a vague caption for the world to see. With blogging, I’ve complicated my systems enough that the task is daunting.&lt;/p&gt;
+
+&lt;p&gt;Do I have enough content for a succinct post?&lt;/p&gt;
+
+&lt;p&gt;Is there a beginning, middle and end?&lt;/p&gt;
+
+&lt;p&gt;Will free-flowing be sufficient?&lt;/p&gt;
+
+&lt;p&gt;What do I want to write about?&lt;/p&gt;
+
+&lt;p&gt;Do I have a photo or a thumbnail to go with it?&lt;/p&gt;
+
+&lt;p&gt;When will I have the time to create the file, upload it, and make sure it looks the way I want it to?&lt;/p&gt;
+
+&lt;p&gt;Do people even read these anymore?&lt;/p&gt;
+
+&lt;p&gt;Am I writing for me or for someone else?&lt;/p&gt;
+
+&lt;p&gt;All TBD - seriously.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/barriers-to-blogging/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/barriers-to-blogging/</guid>
+        
+        <category>blogging</category>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Bringing Back 101 in 1001</title>
+        <description>&lt;p&gt;From January 2012 to October 2014, I began my first 101 in 1001 list. In 2015, I did something similar with a life audit. Another milestone is looming, and so I’ve decided to revive the 101 in 1001 list / life audit and document my progress. If I were to be more precise about this, I would’ve started mid January, but in the spirit of self-care, I’ll give myself a little more time, I’ve set the deadline of the list for a few months after turning 40, so I have some time to complete the audit and fine tune my list.&lt;/p&gt;
+
+&lt;p&gt;While I don’t have the old list up on the blog anymore, I was able to find a copy of it on my computer. Turns out there were some things I finally achieved WAAYYYY after the fact, and then there were others that I no longer have the desire to complete.&lt;/p&gt;
+
+&lt;p&gt;Over this holiday weekend and likely through the next week or two, I’ll go through the exercise of preparing the list of 101 things to work on in the next 1001 days. Super excited to see what makes the list!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 17 Feb 2019 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/bringing-back-101-in-1001/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/bringing-back-101-in-1001/</guid>
+        
+        <category>101 in 1001</category>
+        
+        
+        <category>Life</category>
+        
+        <category>101 in 1001</category>
+        
+      </item>
+    
+      <item>
+        <title>Spending Comparison - 2017 vs 2018</title>
+        <description>&lt;p&gt;Most of 2018, I tracked my spending, and when it came to the end of the year, it was no different. As always, there’s room for improvement on where my spending landed. Here’s the annual comparison of spending % by category.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2019-02-16/2017vs2018.png&quot; alt=&quot;Spending Comparison - 2017 vs 2018&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At a glance, there were major shifts in where our money was going. We paid off Ryan’s student loans in 2017, which gave us a bit to spread across other categories in 2018. Where did we move those funds? Health/fitness saw the biggest jump, followed by a category I like to call “Adulting,” which covers financial planning, estate planning, taxes and other “adult” decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Health/Fitness (3% to 15%; 12% increase)&lt;/strong&gt; 2018 was our year of health and fitness. For an entire year, we made that our priority, both in time and money. We had a personal trainer whip us into shape 2-3 times a week for an entire year. It was $$$ but worthwhile because in the end, we’re so much stronger than when we started, and we have the know-how to keep ourselves fit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adulting/Taxes (2% to 8%; 6% increase)&lt;/strong&gt; - In May, we met with a financial planner. Later, we met with a lawyer for estate planning. As our lives become more complex, we’re seeking outside help here and there to make sure we are making all considerations. For 2019, we will be going to someone for tax guidance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Travel (6% to 12%; 6% increase)&lt;/strong&gt; - Part of the increase is due to how I changed the way I tracked meals/drinks on trips. I’ve started including them in the travel budget line instead of food/bev. In 2018, we took a LOT of Disneyland trips and also managed to fit in two international trips (just like in 2017).&lt;/p&gt;
+
+&lt;p&gt;Those were the largest increases. What were the major decreases, other than the aforementioned student loan?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Food/Bev (12% to 9%; 3% decrease)&lt;/strong&gt; - I think most of this change is really in how I’ve been tracking consumption during travel. We don’t usually eat out much when we’re at home, but nearly every meal when we are traveling is eaten out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transportation (15% to 9%; 6% decrease)&lt;/strong&gt; - In 2017, we were commuting downtown with the pup and parking in lots near our offices. With Ryan starting a new job in March that did not allow dogs in the office, we took the bus instead.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2019-02-16/2018spend.png&quot; alt=&quot;2018 Spending&quot; width=&quot;60%&quot; /&gt; 
+&lt;em&gt;Here’s the pie for the year!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve excluded savings from the charts above, but overall we’ve spent 7% less (comparing dollar to dollar) and saved 4% more.&lt;/p&gt;
+
+&lt;p&gt;For those of you wondering, I am using You Need A Budget (or YNAB for short) to track everything. If you have been curious on trying it out, here’s my &lt;a href=&quot;https://ynab.com/referral/?ref=BWZcB3gkMhf1SYyg&amp;amp;utm_source=customer_referral&quot;&gt;referral link&lt;/a&gt; for a one month trial.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Are you tracking your spending? Any surprises from the past year? What are your spending goals for this year?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 16 Feb 2019 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/spending-comparison-2018/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/spending-comparison-2018/</guid>
+        
+        <category>Spending</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Money Matters</category>
+        
+      </item>
+    
+      <item>
+        <title>Eat Iceland : Fiskmarkadurinn - FISH MRKT</title>
+        <description>&lt;p&gt;When a coworker heard that we were heading to Iceland, she immediately recommended &lt;a href=&quot;http://www.fiskmarkadurinn.is/&quot; target=&quot;_blank&quot;&gt;Fish MRKT&lt;/a&gt; (fiskmarkadurinn) if we happened to be in Reyjkavik. With the hectic schedule of our roadtrip around the country, the only time that worked for us was our very first night in Iceland. Surprisingly, it was no problem getting a reservation.&lt;/p&gt;
+
+&lt;p&gt;Our flight arrived mid-day, and after we picked up &lt;a href=&quot;/how-to-drive-around-iceland-in-ev&quot; target=&quot;_blank&quot;&gt;our rental car&lt;/a&gt;, we made our way into town. Since it was an overnight flight and we were supposed to have rested on the plane, our main goal for the day was to stay awake. Proof that our bodies aren’t as up for the task of staying awake like our younger selves - we gave in and napped in the car while we waited for it to charge up in the afternoon. Once refreshed, we grabbed some drinks, met an &lt;a href=&quot;http://www.felineminne.com/&quot; target=&quot;_blank&quot;&gt;online friend&lt;/a&gt; at her art show, and then headed to dinner.&lt;/p&gt;
+
+&lt;p&gt;At &lt;a href=&quot;http://www.fiskmarkadurinn.is/&quot; target=&quot;_blank&quot;&gt;Fish MRKT&lt;/a&gt;, we ordered the tasting menu (~$100/pp), which offered quite a variety of dishes for two to try. Had we ordered &lt;em&gt;a la carte&lt;/em&gt;, there definitely would have been some I wouldn’t have thought to order. We were pretty stuffed by the time our last few dishes came out, and there were three desserts too!&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-1.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Seared Arctic Char&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-2.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Robata grilled minke whale&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-3.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Lumpfish roe&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-4.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Rock shrimp tempura&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-5.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Volcano maki and scallop nigiri&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-6.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Rack of plaice&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-7.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Mussels in langostine broth&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-8.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Lamb shank marinated with truffle&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-12-18/fiskmarkadurinn-9.jpg&quot; alt=&quot;fiskmarkadurinn&quot; /&gt;
+&lt;em&gt;Desserts&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Dec 2018 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/fiskmarkadurinn/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/fiskmarkadurinn/</guid>
+        
+        <category>Reyjkavik</category>
+        
+        <category>Reyjkavik restaurant</category>
+        
+        <category>restaurant</category>
+        
+        
+        <category>Iceland</category>
+        
+        <category>Iceland Eats</category>
+        
+      </item>
+    
+      <item>
+        <title>On Finishing Things</title>
+        <description>&lt;p&gt;Seemingly my entire life growing up was a struggle to get good at something. There were always more hobbies than days in a year, and the rush of starting something new always took hold before the last thing could be perfected. Sports, video games, building plastic model kits, creating websites, photography and many other hobbies (anything but schoolwork) came and went without the courtesy to see the last one through.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/posts/2018-11-10/rainbow_road.jpg&quot; alt=&quot;Rainbow Road&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That probably didn’t start changing until my adult life after college. It wasn’t a sudden or complete change, of course, but a gradual conditioning of the mind. The benefit of this was that I was able to focus enough to start a career in 3d art, and again to reinvent myself as a software engineer when the former career wasn’t panning out. I was thinking about this today to pinpoint what changed, and concluded these three things:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Responsibility&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I hardly had any responsibilities as a kid. There were no real consequences to my actions that I cared about, so I didn’t have that drive to complete something. Few have that luxury as an adult, and as the “real world” hit me, I learned about consequences. The consequence of starting and stopping something prematurely meant a waste of time with only some skills learned and little to show for it, especially when you could have used that time to help get yourself off the ground financially.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;2. An Audience&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I first got into software development by making a simple Windows Phone 7 app for tracking SFMTA predictions. Like anyone’s first piece of software, it was a poorly written. However, it was limited in scope, useful, and stable enough to release it to the store. Then the magic moment when you see people downloading it and using it actively. The downloads totaled in the hundreds, and daily active users in the dozens, but it didn’t matter. Someone was using something I created, and that was the spark I needed. I continued to develop better and more complex apps and the audience grew, and I attribute this to learning how to finish something. For this reason, if I’m getting serious about working on something, I always look for people who are interested in my end product. Knowing that you have an audience depending on you, even if it’s just one person, lights that little fire under your butt to keep progressing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Stability&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One thing that I always thought about when learning something is a sense that I’m running out of time. When I was a kid, this might mean the end of summer break, or when I got older, running out of money. Once life stabilized, it gave my brain some space to say &lt;em&gt;that’s an interesting idea, I will get to it later&lt;/em&gt; without that impending sense of urgency. I acknowledge that I’m lucky to have this one, especially with a partner like Tinna taking care of life’s little details so well. I think the lesson here is that in the long term, investing some of your time in stabilizing things can pay off.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;None of this means I’ve completely changed. Several unfinished house projects remind me of that daily. But I do &lt;em&gt;feel&lt;/em&gt; changed, where I can make deliberate choices of what I invest my time into completing, either for profit or satisfaction. Perhaps fame and glory are next!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;do-you-tend-to-finish-things-you-start-how-did-you-do-it&quot;&gt;Do you tend to finish things you start? HOW DID YOU DO IT?!&lt;/h3&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 -0800</pubDate>
+        <link>https://www.superduperfantastic.com/on-finishing-things/</link>
+        <guid isPermaLink="true">https://www.superduperfantastic.com/on-finishing-things/</guid>
+        
+        <category>Change</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Getting Personal</category>
+        
+      </item>
+    
   </channel>
 </rss>
