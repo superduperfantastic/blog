@@ -57,6 +57,14 @@ In the `_posts` folder, create a new file that follows the format `YEAR-MONTH-DA
 
 Markdown Reference: https://daringfireball.net/projects/markdown/basics
 
+### Images
+
+Images are stored in the "assets" -> "posts" and you can organize the images in any way you want to. To show an image in the post, use the markup:
+```
+{:.center}
+![Image Title Here](/assets/posts/somepath/your_image.jpg "Your Alt Text Here") 
+```
+
 ## Deploying to your site
 
 Once you want to publish a new post, first you'll want to commit the changes you've made to this "bones" repository.
