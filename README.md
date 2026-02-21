@@ -39,7 +39,7 @@ $ ruby-switch --set ruby2.4
 
 You'll have to install jekyll as a Ruby gem and the plugins we're using
 ```
-$ gem install jekyll jekyll-paginate jekyll-archives
+$ gem install jekyll jekyll-paginate jekyll-archives jekyll-redirect-from
 ```
 
 ## Running the blog
