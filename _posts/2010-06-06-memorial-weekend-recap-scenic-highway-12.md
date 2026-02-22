@@ -16,7 +16,7 @@ tags:
 - road trip
 comments: true
 ---
-After several hours in [Bryce Canyon National Park](http://superduperfantastic.com/memorial-weekend-recap-bryce-canyon-np/3236/ "Memorial Weekend Recap : Bryce Canyon NP"){:target="_blank"}, we took Highway 12 for about 75 more miles eastward to Boulder, Utah. We passed by quite a few scenic spots along the way, which is probably why they've dubbed this particular highway "Scenic Highway 12" in all of their maps/brochures. There wasn't much in Boulder, except for a rather disappointing hot dog / root beer float experience.
+After several hours in [Bryce Canyon National Park](/memorial-weekend-recap-bryce-canyon-np/ "Memorial Weekend Recap : Bryce Canyon NP"){:target="_blank"}, we took Highway 12 for about 75 more miles eastward to Boulder, Utah. We passed by quite a few scenic spots along the way, which is probably why they've dubbed this particular highway "Scenic Highway 12" in all of their maps/brochures. There wasn't much in Boulder, except for a rather disappointing hot dog / root beer float experience.
 
 Here's the route we ended up taking:
 

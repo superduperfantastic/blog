@@ -54,5 +54,3 @@ This particular flower is a part of the various hanging gardens that grow along 
 
 {:.center}
 ![](/assets/posts/2010-06-09/memorial-weekend-recap-zion-national-park-06.jpg "Flower")
-
-More Zion National Park photos: [here](http://www.flickr.com/photos/suki/sets/72157624193615444/){:target="_blank"}!

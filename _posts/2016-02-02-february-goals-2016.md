@@ -39,7 +39,7 @@ This was actually not difficult at all and an easy way to save money. Even thoug
 
 {:.center}
 ![](/assets/posts/2016-02-02/february-goals-2016-01.jpg)  
-_Looking up, then down during a revisit to [Armstrong Redwoods State Natural Reserve](http://superduperfantastic.com/big-red/3512/){:target="_blank"} in January_
+_Looking up, then down during a revisit to Armstrong Redwoods State Natural Reserve in January_
 
 ### February Goals
 

@@ -17,7 +17,7 @@ tags:
 - Spinsters of San Francisco
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} An evening of dancing it up in the Fairmont's Swig Suite in fancy gowns marked the 83rd Annual Ball for the [Spinsters of San Francisco](http://sfspinsters.com/ "Spinsters of San Francisco"){:target="_blank"} this past weekend. The theme this year - Through the Looking Glass. Annual Ball is the one night in the year where I put on my fancy pants and get my hair and nails done, so that I can hang out where President John F. Kennedy, Prince Charles, Mikhail Gorbachev, Queen Beatrix of the Netherlands and King Hussein of Jordan [just to name a few!] have stayed.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} An evening of dancing it up in the Fairmont's Swig Suite in fancy gowns marked the 83rd Annual Ball for the [Spinsters of San Francisco](http://sfspinsters.com/ "Spinsters of San Francisco"){:target="_blank"} this past weekend. The theme this year - Through the Looking Glass. Annual Ball is the one night in the year where I put on my fancy pants and get my hair and nails done, so that I can hang out where President John F. Kennedy, Prince Charles, Mikhail Gorbachev, Queen Beatrix of the Netherlands and King Hussein of Jordan [just to name a few!] have stayed.
 
 {:.center}
 ![Fairmont SF - Swig Suite](/assets/posts/2012-06-23/drink-me-annual-ball-01.jpg){:width="49%"} ![Fairmont SF - Swig Suite](/assets/posts/2012-06-23/drink-me-annual-ball-02.jpg){:width="49%"}

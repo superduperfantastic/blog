@@ -21,11 +21,11 @@ comments: true
 {:.center}
 ![](/assets/posts/2010-11-24/oahu-shrimp-trucks-north-shore-01.jpg "Oahu - Day Three")
 
-![](/assets/posts/2010-11-24/oahu-shrimp-trucks-north-shore-02.jpg "Chicken"){:.left} After visiting the [Dole Pineapple Plantation](http://superduperfantastic.com/oahu-2010-pineapples/5461/ "Oahu 2010 – Pineapples!"){:target="_blank"} on day three, we hit up the famous shrimp trucks of the North Shore! 
+![](/assets/posts/2010-11-24/oahu-shrimp-trucks-north-shore-02.jpg "Chicken"){:.left} After visiting the [Dole Pineapple Plantation](/oahu-2010-pineapples-dole-plantation/ "Oahu 2010 – Pineapples!"){:target="_blank"} on day three, we hit up the famous shrimp trucks of the North Shore! 
 
 On the way there, we stopped briefly in Haleiwa when we came across the Taro Festival/Farmers' Market. It wasn't large, but it was a great opportunity to check out the local market. There was a guy promoting chicken raising, so of course, I've included a photo of my sister with one.
 
-Ryan and I would love to raise chickens for eggs once our backyard is set up. We learned about it at the [state fair](http://superduperfantastic.com/deep-fried-ambition/3961/ "Deep-fried Ambition"){:target="_blank"}, so it was neat seeing a guy talking about it at the farmers' market.
+Ryan and I would love to raise chickens for eggs once our backyard is set up. We learned about it at the state fair, so it was neat seeing a guy talking about it at the farmers' market.
 
 From the farmers' market, we headed eastward towards Kahuku where the famous shrimp trucks convene. First, we were at [Romy's](http://www.romyskahukuprawns.org/){:target="_blank"}. It was more of a shack, rather than a truck. We stood in line in the sun for about an hour.
 

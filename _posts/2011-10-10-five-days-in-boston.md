@@ -10,7 +10,7 @@ wordpress_url: http://superduperfantastic.com/?p=12088
 date: '2011-10-10 02:59:28 -0700'
 excerpt: A summary of our five days spent in Boston.
 thumbnail: /assets/posts/2011-10-10/five-days-in-boston-thumb.jpg
-image: ttp://farm7.static.flickr.com/6095/6229339088_c33d2903d6_b.jpg
+image: /assets/posts/2011-10-10/five-days-in-boston-02.jpg
 categories:
 - Massachusetts
 tags:

@@ -16,7 +16,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Champagne and sparkles are synonymous with New Year's Eve celebrations. This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is all about our New Year's bubbly! More specifically, what went into our bubbly - Wild Hibiscus in Syrup!
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Champagne and sparkles are synonymous with New Year's Eve celebrations. This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is all about our New Year's bubbly! More specifically, what went into our bubbly - Wild Hibiscus in Syrup!
 
 For the holidays, we were gifted with two jars of [Wild Hibiscus in Syrup](http://www.wildhibiscus.com/index.html "Wild Hibiscus"){:target="_blank"} - one in plain syrup and the other in rose syrup. What a brilliant gift idea, by the way! They are as their name describes - Wild Hibiscus flowers in syrup. All you have to do is put a flower in your glass and add a little syrup for flavoring if you want to. That's it! The flowers are edible, and based on the two that I've had, they're quite tasty.
 

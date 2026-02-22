@@ -94,7 +94,7 @@ Louis Jeandin of [Mushrooms All Year](http://www.mushroomsallyear.com/) was on h
 {:.center}
 ![Oregon Cheese Festival](/assets/posts/2012-04-02/oregon-cheese-festival-2012-13.jpg){:width="49%"} ![Oregon Cheese Festival](/assets/posts/2012-04-02/oregon-cheese-festival-2012-14.jpg){:width="49%"}
 
-Unfortunately, I wasn't diligent about taking photos of **EVERYTHING**. Some of the great stuff I missed, but must recommend: Hot Lips Soda via [Oregon Artisan Foods](http://www.oregonartisanfoods.com/){:target="_blank"} and [Wandering Aengus Ciderworks](http://www.wanderingaengus.com/ "Wandering Aengus Ciderworks"){:target="_blank"}. Since [Boston Local Food Festival](http://superduperfantastic.com/going-local-boston-local-food-fest-2011/12240/ "Going Local – Boston Local Food Fest 2011"){:target="_blank"}, I've been pining for a dry cider to match the ones at [Farnum Hill Ciders](http://www.povertylaneorchards.com/farnum-hill-ciders/){:target="_blank"}. I think I've found it!
+Unfortunately, I wasn't diligent about taking photos of **EVERYTHING**. Some of the great stuff I missed, but must recommend: Hot Lips Soda via [Oregon Artisan Foods](http://www.oregonartisanfoods.com/){:target="_blank"} and [Wandering Aengus Ciderworks](http://www.wanderingaengus.com/ "Wandering Aengus Ciderworks"){:target="_blank"}. Since Boston Local Food Festival, I've been pining for a dry cider to match the ones at [Farnum Hill Ciders](http://www.povertylaneorchards.com/farnum-hill-ciders/){:target="_blank"}. I think I've found it!
 
 With all the local cheese, beer/wine/cider, and other foods, Oregon Cheese Festival was quite the experience. Definitely worth the drive and short weekend trip!
 

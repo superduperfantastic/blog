@@ -19,7 +19,7 @@ tags:
 - Austin
 comments: true
 ---
-![Saturday Swig - Flying Saucer](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is a Sunday Swig!
+![Saturday Swig - Flying Saucer](/assets/posts/saturdayswig.png){:.left} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is a Sunday Swig!
 
 I am in Austin for the weekend, and I'm surviving the heat by taking beer breaks whenever possible. Since [Linda](http://linda.curious-notions.net "Linda @ Curious Notions"){:target="_blank"} is as into food as I am, I know I'm in good hands and won't be going hungry anytime this weekend. So far so good!
 

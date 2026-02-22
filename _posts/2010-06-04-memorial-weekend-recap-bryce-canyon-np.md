@@ -37,5 +37,3 @@ Now imagine the photo above stretched all the way across the screen. Looking dow
 
 {:.center}
 ![](/assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-04.jpg "Hoodoos of Bryce Canyon")
-
-More photos of Bryce Canyon National Park: [here](http://www.flickr.com/photos/suki/sets/72157624193218854/)!

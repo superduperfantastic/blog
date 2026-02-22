@@ -21,7 +21,7 @@ comments: true
 {:.center}
 ![Russian River Brewing Co - Pliny the Younger 2012](/assets/posts/2012-02-26/russian-river-brewing-company-for-pliny-the-younger-2012-01.jpg)
 
-This was the year of insanity at [Russian River Brewing Co.](http://www.russianriverbrewing.com/){:target="_blank"} in downtown Santa Rosa. Who in their right mind waits five hours in line for beer?! Guilty as charged **right here** AND the fine folks pictured above. The wait was long, but we were prepared. Each of us stood in line with reading material, so our hours would not go to complete waste. We arrived about half an hour later than [last year](http://superduperfantastic.com/in-line-for-the-younger-sour-beer/7222/ "In Line for the Younger + Sour Beer!"){:target="_blank"}, and on the first full day of release, and it made all the difference. The line was insane. At least we weren't the only crazies there, and we were occupied throughout the wait!
+This was the year of insanity at [Russian River Brewing Co.](http://www.russianriverbrewing.com/){:target="_blank"} in downtown Santa Rosa. Who in their right mind waits five hours in line for beer?! Guilty as charged **right here** AND the fine folks pictured above. The wait was long, but we were prepared. Each of us stood in line with reading material, so our hours would not go to complete waste. We arrived about half an hour later than last year, and on the first full day of release, and it made all the difference. The line was insane. At least we weren't the only crazies there, and we were occupied throughout the wait!
 
 {:.center}
 ![Russian River Brewing Co - Pliny the Younger 2012](/assets/posts/2012-02-26/russian-river-brewing-company-for-pliny-the-younger-2012-02.jpg)

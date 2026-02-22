@@ -18,7 +18,7 @@ tags:
 - cocktails
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Welcome to another edition of [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") where I talk about the beverages I'm consuming - alcoholic and non!
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Welcome to another edition of [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") where I talk about the beverages I'm consuming - alcoholic and non!
 
 Ryan's been out of town most of this week and finally came home this morning. To celebrate his return and belated birthday, we invited some friends over for a potluck brunch. A potluck is preferred because 1) we [read: Ryan] don't do all the cooking, and 2) my friends sure know how to whip up some great brunch food.
 

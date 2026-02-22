@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Happy St. Patrick's weekend! For this week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"), we hopped on over to [The Ice Cream Bar](http://theicecreambarsf.com/ "The Ice Cream Bar"){:target="_blank"} in San Francisco's Cole Valley neighborhood. For the weekend (March 14 to March 17), they have a special St. Paddy's menu! In addition to a special ice cream flavor (Guinness Brown Bread), the menu includes:
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Happy St. Patrick's weekend! For this week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"), we hopped on over to [The Ice Cream Bar](http://theicecreambarsf.com/ "The Ice Cream Bar"){:target="_blank"} in San Francisco's Cole Valley neighborhood. For the weekend (March 14 to March 17), they have a special St. Paddy's menu! In addition to a special ice cream flavor (Guinness Brown Bread), the menu includes:
 
 ![The Ice Cream Bar](/assets/posts/2013-03-16/st-paddys-ice-cream-bar-01.jpg){:.left} **The Dublin Honey Ice Cream Float :** Guinness stout, caramelized honey ice cream, and Valrhona chocolate syrup, topped with a float of Graham's 10 year old tawny port
 

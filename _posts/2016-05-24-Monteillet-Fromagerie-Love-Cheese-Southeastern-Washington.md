@@ -1,5 +1,8 @@
 ---
-redirect_from: '/monteillet-fromagerie-love-cheese-southeastern-washington/24632/'
+redirect_from:
+- '/monteillet-fromagerie-love-cheese-southeastern-washington/24632/'
+- '/monteillet-fromagerie-love-cheese-southeastern-washington.1/'
+- '/monteillet-fromagerie-love-cheese-southeastern-washington-1/'
 layout: post
 status: publish
 published: true

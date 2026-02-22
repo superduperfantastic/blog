@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} We are up in Portland for the long weekend, but instead of beer, let's talk wine! This week's beverage of choice is the **2011 Qualia Sauvignon Blanc** from the urban winery I wrote about in my very first [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") - [Qualia Wines](https://twitter.com/qualiawines){:target="_blank"}. I had hoped to visit the tasting room in San Francisco by now. However, my calendar has been a mess these days. So much going on and not enough time!
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} We are up in Portland for the long weekend, but instead of beer, let's talk wine! This week's beverage of choice is the **2011 Qualia Sauvignon Blanc** from the urban winery I wrote about in my very first [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") - [Qualia Wines](https://twitter.com/qualiawines){:target="_blank"}. I had hoped to visit the tasting room in San Francisco by now. However, my calendar has been a mess these days. So much going on and not enough time!
 
 {:.center}
 ![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-01.jpg)

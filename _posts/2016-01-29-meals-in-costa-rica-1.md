@@ -48,7 +48,7 @@ Seriously felt like we were eating out of someone's kitchen.
 
 ### Meals in Costa Rica: [Soda Sabor Tico](http://www.restaurantesabortico.com/#_=_){:target="_blank"} (Monteverde)
 
-After a morning in the [Santa Elena Cloud Forest Reserve](http://superduperfantastic.com/santa-elena-cloud-forest-reserve-monteverde/15700/){:target="_blank"}, we hopped off the shuttle from the park back into town a little early to eat at Soda Sabor Tico. It was on my list of places to try after doing some preliminary research on TripAdvisor. It appears that they expanded into a restaurant - good for them!
+After a morning in the [Santa Elena Cloud Forest Reserve](/santa-elena-cloud-forest-reserve-monteverde/){:target="_blank"}, we hopped off the shuttle from the park back into town a little early to eat at Soda Sabor Tico. It was on my list of places to try after doing some preliminary research on TripAdvisor. It appears that they expanded into a restaurant - good for them!
 
 {:.center}
 ![Meals in Costa Rica - Soda Sabor Tico - Monteverde](/assets/posts/2016-01-29/meals-in-costa-rica-1-05.jpg)  

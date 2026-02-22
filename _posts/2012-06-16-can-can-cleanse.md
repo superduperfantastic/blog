@@ -18,7 +18,7 @@ tags:
 - cleanse
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} I'm up in the mountains of Colorado for the weekend, watching my alcohol intake because of the altitude. Beer and wine doesn't hit the body in quite the same way when you're up at 8,000+ feet. Mostly I've been consuming a lot of water, a habit that I should have mastered a long time ago.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} I'm up in the mountains of Colorado for the weekend, watching my alcohol intake because of the altitude. Beer and wine doesn't hit the body in quite the same way when you're up at 8,000+ feet. Mostly I've been consuming a lot of water, a habit that I should have mastered a long time ago.
 
 Here's my first non-alcoholic [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"} - the [CAN CAN Cleanse](http://cancancleanse.com/ "CAN CAN Cleanse"){:target="_blank"}! I'd heard about a few different juice cleanses and finally decided to try one of my own. I shopped around for one, rather than tackle the juicer on my own and potentially waste fresh veggies and fruit from the farmers' market.
 

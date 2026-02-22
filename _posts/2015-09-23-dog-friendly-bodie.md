@@ -36,7 +36,7 @@ We picked out <a href="http://paradiseshoresrvpark.com/" target="_blank" rel="no
 
 The elevation must have gotten to Fresca because when we were trying to set up our tent in super windy conditions, she just sat there patiently waiting rather than getting all up in our business. The elevation only bothered me on our second day as we were on our way home.
   
-Once we were all set up and finished with traipsing through <a href="http://superduperfantastic.com/see-bodie-california-ghost-town-at-night/23822/">Bodie at night</a>, she crossed "spend a night in a tent" off her bucket list (because of course she would have one)!
+Once we were all set up and finished with traipsing through <a href="/see-bodie-california-ghost-town-at-night/">Bodie at night</a>, she crossed "spend a night in a tent" off her bucket list (because of course she would have one)!
 
 {:.center}
 ![Dog-friendly Bodie](https://c1.staticflickr.com/5/4195/34859223066_866963dc00_b.jpg)

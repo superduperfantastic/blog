@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Tomorrow is Cinco de Mayo. In celebration, we are having guacamole and drinking beers from Mexican brewer Cuauhtémoc Moctezuma Brewery. Hooray for avocado sales at Costco and beers for sampling! 
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Tomorrow is Cinco de Mayo. In celebration, we are having guacamole and drinking beers from Mexican brewer Cuauhtémoc Moctezuma Brewery. Hooray for avocado sales at Costco and beers for sampling! 
 
 The four Mexican beers we tried were Bohemia, Indio, Tecate and Tecate Light. 
 

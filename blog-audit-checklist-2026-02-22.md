@@ -1,0 +1,102 @@
+# Blog Audit Checklist (2026-02-22)
+
+## Priority 1: Definite Fixes
+- [x] _posts/2011-10-10-five-days-in-boston.md:13 - Fix malformed URL (`ttp://` -> `http://` or local asset).
+- [x] _posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np.md:41 - 'More photos: here' points to Flickr set (verify/update).
+- [x] _posts/2010-06-09-memorial-weekend-recap-zion-national-park.md:58 - 'More photos: here' points to Flickr set (verify/update).
+
+## Priority 2: Likely Broken Internal Legacy Links
+These are old WordPress-style links with numeric IDs (e.g., /slug/12345/).
+Status: completed on February 22, 2026. Equivalent posts were linked where found; unresolved legacy links were converted to plain text.
+- [x] _posts/2012-07-14-klamath-basin-brewing-company.md (3 legacy links)
+- [x] _posts/2015-04-17-currently-v-04-2015.md (2 legacy links)
+- [x] _posts/2010-11-24-oahu-shrimp-trucks-north-shore.md (2 legacy links)
+- [x] _posts/2016-02-02-february-goals-2016.md (1 legacy link)
+- [x] _posts/2016-01-29-meals-in-costa-rica-1.md (1 legacy link)
+- [x] _posts/2016-01-26-2015-edition-where-does-our-money-go.md (1 legacy link)
+- [x] _posts/2015-10-14-fleet-week-2015.md (1 legacy link)
+- [x] _posts/2015-09-23-dog-friendly-bodie.md (1 legacy link)
+- [x] _posts/2015-03-03-february-2015-in-pictures.md (1 legacy link)
+- [x] _posts/2015-02-19-new-mexico-bandelier-national-monument.md (1 legacy link)
+- [x] _posts/2015-02-03-january-2015-pictures.md (1 legacy link)
+- [x] _posts/2013-03-23-blueberry-mint-julep.md (1 legacy link)
+- [x] _posts/2013-01-26-pear-ginger-mule-pear-moscow-mule.md (1 legacy link)
+- [x] _posts/2012-09-22-california-altered-state-fair.md (1 legacy link)
+- [x] _posts/2012-08-11-hotlips-soda.md (1 legacy link)
+- [x] _posts/2012-07-21-summer-of-riesling-at-le-pigeon.md (1 legacy link)
+- [x] _posts/2012-07-09-trail-ridge-road.md (1 legacy link)
+- [x] _posts/2012-06-01-santa-elena-cloud-forest-reserve-monteverde.md (1 legacy link)
+- [x] _posts/2012-04-02-oregon-cheese-festival-2012.md (1 legacy link)
+- [x] _posts/2012-02-26-russian-river-brewing-company-for-pliny-the-younger-2012.md (1 legacy link)
+- [x] _posts/2010-06-06-memorial-weekend-recap-scenic-highway-12.md (1 legacy link)
+
+## Priority 3: Posts Still Using Flickr/StaticFlickr URLs
+These may still work, but are dependency/risk points. Consider migrating to local assets.
+- [ ] `_posts/2007-02-25-final-moment-saying-goodbye.md` - [open](./_posts/2007-02-25-final-moment-saying-goodbye.md)
+- [ ] `_posts/2010-04-09-old-face-new-face.md` - [open](./_posts/2010-04-09-old-face-new-face.md)
+- [ ] `_posts/2010-06-03-memorial-weekend-recap-getting-there.md` - [open](./_posts/2010-06-03-memorial-weekend-recap-getting-there.md)
+- [ ] `_posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np.md` - [open](./_posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np.md)
+- [ ] `_posts/2010-06-06-memorial-weekend-recap-scenic-highway-12.md` - [open](./_posts/2010-06-06-memorial-weekend-recap-scenic-highway-12.md)
+- [ ] `_posts/2010-06-09-memorial-weekend-recap-zion-national-park.md` - [open](./_posts/2010-06-09-memorial-weekend-recap-zion-national-park.md)
+- [ ] `_posts/2011-03-10-story-of-the-shamrock-shake.md` - [open](./_posts/2011-03-10-story-of-the-shamrock-shake.md)
+- [ ] `_posts/2011-10-10-five-days-in-boston.md` - [open](./_posts/2011-10-10-five-days-in-boston.md)
+- [ ] `_posts/2012-04-02-oregon-cheese-festival-2012.md` - [open](./_posts/2012-04-02-oregon-cheese-festival-2012.md)
+- [ ] `_posts/2012-06-02-2009-qualia-syrah-grenache-blend.md` - [open](./_posts/2012-06-02-2009-qualia-syrah-grenache-blend.md)
+- [ ] `_posts/2012-06-09-blt-bloody-mary.md` - [open](./_posts/2012-06-09-blt-bloody-mary.md)
+- [ ] `_posts/2012-06-16-can-can-cleanse.md` - [open](./_posts/2012-06-16-can-can-cleanse.md)
+- [ ] `_posts/2012-06-23-drink-me-annual-ball.md` - [open](./_posts/2012-06-23-drink-me-annual-ball.md)
+- [ ] `_posts/2012-07-07-2011-qualia-sauvignon-blanc.md` - [open](./_posts/2012-07-07-2011-qualia-sauvignon-blanc.md)
+- [ ] `_posts/2012-07-14-klamath-basin-brewing-company.md` - [open](./_posts/2012-07-14-klamath-basin-brewing-company.md)
+- [ ] `_posts/2012-07-21-summer-of-riesling-at-le-pigeon.md` - [open](./_posts/2012-07-21-summer-of-riesling-at-le-pigeon.md)
+- [ ] `_posts/2012-08-11-hotlips-soda.md` - [open](./_posts/2012-08-11-hotlips-soda.md)
+- [ ] `_posts/2012-08-18-sat-swig-ever-in-transit-stout-float.md` - [open](./_posts/2012-08-18-sat-swig-ever-in-transit-stout-float.md)
+- [ ] `_posts/2012-09-02-at-the-flying-saucer.md` - [open](./_posts/2012-09-02-at-the-flying-saucer.md)
+- [ ] `_posts/2012-09-15-root-beer-float-disneyland.md` - [open](./_posts/2012-09-15-root-beer-float-disneyland.md)
+- [ ] `_posts/2012-09-22-california-altered-state-fair.md` - [open](./_posts/2012-09-22-california-altered-state-fair.md)
+- [ ] `_posts/2012-09-29-black-box-california-riesling.md` - [open](./_posts/2012-09-29-black-box-california-riesling.md)
+- [ ] `_posts/2012-10-06-santa-clara-valley-passport-weekend.md` - [open](./_posts/2012-10-06-santa-clara-valley-passport-weekend.md)
+- [ ] `_posts/2012-10-13-ritz-carlton-charlotte.md` - [open](./_posts/2012-10-13-ritz-carlton-charlotte.md)
+- [ ] `_posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur.md` - [open](./_posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur.md)
+- [ ] `_posts/2012-11-03-festive-mimosas-with-katherine.md` - [open](./_posts/2012-11-03-festive-mimosas-with-katherine.md)
+- [ ] `_posts/2013-01-05-wild-hibiscus.md` - [open](./_posts/2013-01-05-wild-hibiscus.md)
+- [ ] `_posts/2013-01-26-pear-ginger-mule-pear-moscow-mule.md` - [open](./_posts/2013-01-26-pear-ginger-mule-pear-moscow-mule.md)
+- [ ] `_posts/2013-02-02-bloody-herbal-sunrise.md` - [open](./_posts/2013-02-02-bloody-herbal-sunrise.md)
+- [ ] `_posts/2013-02-17-sf-beer-week-longer-than-week.md` - [open](./_posts/2013-02-17-sf-beer-week-longer-than-week.md)
+- [ ] `_posts/2013-03-16-st-paddys-ice-cream-bar.md` - [open](./_posts/2013-03-16-st-paddys-ice-cream-bar.md)
+- [ ] `_posts/2013-03-23-blueberry-mint-julep.md` - [open](./_posts/2013-03-23-blueberry-mint-julep.md)
+- [ ] `_posts/2013-05-04-mexican-beers-cinco-de-mayo.md` - [open](./_posts/2013-05-04-mexican-beers-cinco-de-mayo.md)
+- [ ] `_posts/2014-08-14-goodbye-sasha-repost.md` - [open](./_posts/2014-08-14-goodbye-sasha-repost.md)
+- [ ] `_posts/2014-09-16-hallway-closet-cleanup.md` - [open](./_posts/2014-09-16-hallway-closet-cleanup.md)
+- [ ] `_posts/2014-10-01-weekend-hike-lake-lagunitas.md` - [open](./_posts/2014-10-01-weekend-hike-lake-lagunitas.md)
+- [ ] `_posts/2015-01-19-currently-v-01-2015.md` - [open](./_posts/2015-01-19-currently-v-01-2015.md)
+- [ ] `_posts/2015-02-24-currently-v-02-2015.md` - [open](./_posts/2015-02-24-currently-v-02-2015.md)
+- [ ] `_posts/2015-03-11-favorite-ways-relieve-stress.md` - [open](./_posts/2015-03-11-favorite-ways-relieve-stress.md)
+- [ ] `_posts/2015-03-26-currently-v-03-2015.md` - [open](./_posts/2015-03-26-currently-v-03-2015.md)
+- [ ] `_posts/2015-09-23-dog-friendly-bodie.md` - [open](./_posts/2015-09-23-dog-friendly-bodie.md)
+- [ ] `_posts/2015-10-23-currently-v-07-2015.md` - [open](./_posts/2015-10-23-currently-v-07-2015.md)
+- [ ] `_posts/2015-12-10-mexico-city-9-day-itinerary-1.md` - [open](./_posts/2015-12-10-mexico-city-9-day-itinerary-1.md)
+- [ ] `_posts/2015-12-16-mexico-city-9-days-itinerary-2.md` - [open](./_posts/2015-12-16-mexico-city-9-days-itinerary-2.md)
+- [ ] `_posts/2015-12-18-mexico-city-in-9-days-itinerary-3.md` - [open](./_posts/2015-12-18-mexico-city-in-9-days-itinerary-3.md)
+- [ ] `_posts/2016-01-12-january-goals-2016.md` - [open](./_posts/2016-01-12-january-goals-2016.md)
+- [ ] `_posts/2016-01-26-2015-edition-where-does-our-money-go.md` - [open](./_posts/2016-01-26-2015-edition-where-does-our-money-go.md)
+- [ ] `_posts/2016-02-02-february-goals-2016.md` - [open](./_posts/2016-02-02-february-goals-2016.md)
+- [ ] `_posts/2016-02-16-mexico-city-9-day-itinerary-4.md` - [open](./_posts/2016-02-16-mexico-city-9-day-itinerary-4.md)
+- [ ] `_posts/2016-03-01-a2-milk-goodbye-post-dairy-digestive-discomfort.md` - [open](./_posts/2016-03-01-a2-milk-goodbye-post-dairy-digestive-discomfort.md)
+- [ ] `_posts/2016-03-30-bali-at-sunset.md` - [open](./_posts/2016-03-30-bali-at-sunset.md)
+- [ ] `_posts/2016-07-26-three-ways-international-balloon-fiesta.md` - [open](./_posts/2016-07-26-three-ways-international-balloon-fiesta.md)
+- [ ] `_posts/2017-01-04-2016-edition-where-does-our-money-go.md` - [open](./_posts/2017-01-04-2016-edition-where-does-our-money-go.md)
+- [ ] `_posts/2017-05-22-superbloom-carrizo-plain-national-monument.md` - [open](./_posts/2017-05-22-superbloom-carrizo-plain-national-monument.md)
+- [ ] `_posts/2018-01-02-2017-edition-where-does-our-money-go.md` - [open](./_posts/2018-01-02-2017-edition-where-does-our-money-go.md)
+- [ ] `_posts/2018-04-20-2018-freestyle-01.md` - [open](./_posts/2018-04-20-2018-freestyle-01.md)
+- [ ] `_posts/2018-04-23-spending-summary-q1-2018.md` - [open](./_posts/2018-04-23-spending-summary-q1-2018.md)
+- [ ] `_posts/2018-04-27-2018-freestyle-02.md` - [open](./_posts/2018-04-27-2018-freestyle-02.md)
+- [ ] `_posts/2018-05-02-2018-small-goals-may.md` - [open](./_posts/2018-05-02-2018-small-goals-may.md)
+- [ ] `_posts/2018-05-06-valley-fire-state-park.md` - [open](./_posts/2018-05-06-valley-fire-state-park.md)
+- [ ] `_posts/2018-05-18-2018-freestyle-03.md` - [open](./_posts/2018-05-18-2018-freestyle-03.md)
+
+## Good News
+- Local /assets/posts image links in posts: 0 missing files found.
+- No remaining references found to deleted posts:'bestday2017-twitter-project' or 'a2-milk-australia-trip'.
+
+## Optional Cleanup / Update Candidates
+- [x] _posts/2016-05-24-Monteillet-Fromagerie-Love-Cheese-Southeastern-Washington.md (renamed to remove `.1`; redirect paths added).

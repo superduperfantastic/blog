@@ -19,7 +19,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} For my birthday weekend, Ryan and I went down to the Big Sur area. It was more or less a surprise since I'd left the weekend open for him to plan. When he finally broke the news of where we were headed, I immediately brought up [Nepenthe Restaurant](http://nepenthebigsur.com/ "Nepenthe Big Sur"){:target="_blank"}, a spot I'd only seen photos of and one known for its fantastic views.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} For my birthday weekend, Ryan and I went down to the Big Sur area. It was more or less a surprise since I'd left the weekend open for him to plan. When he finally broke the news of where we were headed, I immediately brought up [Nepenthe Restaurant](http://nepenthebigsur.com/ "Nepenthe Big Sur"){:target="_blank"}, a spot I'd only seen photos of and one known for its fantastic views.
 
 We were greeted by clouds when we first arrived at Nepenthe, but we didn't let that sway our mood. I ordered a Mediterranean coffee (made with Tuaca and Kahlua) to keep warm! They sure know how to make their spiked coffees strong!
 

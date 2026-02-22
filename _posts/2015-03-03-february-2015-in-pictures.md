@@ -29,7 +29,7 @@ Lots of Fresca photos. She's somehow managed to injure herself, but we haven't y
 
 Ryan and I enjoyed Valentine's dinner at our [friends' pop-up](http://ssgastrogrub.com/ "s+s gastro grub"){:target="_blank"} in Oakland. We also saw the Keith Haring exhibit at the [de Young](http://deyoung.famsf.org/ "de Young Museum"){:target="_blank"} before it left town.
 
-If you get a chance to see [Batkid Begins](http://batkidbegins.com/), I highly recommend it. It's an uplifting movie that will make your eyes water just a little bit. We were invited to the local screening for participating in a [Clever Girls campaign](http://superduperfantastic.com/relive-batkid-moment/21758/ "Relive the Batkid Moment"){:target="_blank"} awhile back.
+If you get a chance to see [Batkid Begins](http://batkidbegins.com/), I highly recommend it. It's an uplifting movie that will make your eyes water just a little bit. We were invited to the local screening for participating in a Clever Girls campaign awhile back.
 
 I wrapped up the month by attending the informative and inspirational [Women's Travel Fest](http://womenstravelfest.com/){:target="_blank"} over the weekend.
 

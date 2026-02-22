@@ -19,7 +19,7 @@ tags:
 - soda
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} We first heard about [HOTLIPS Soda](http://hotlipssoda.com/ "HotLips Soda"){:target="_blank"} in March at the [Oregon Cheese Festival](http://superduperfantastic.com/oregon-cheese-festival-2012/13926/ "Oregon Cheese Festival 2012"){:target="_blank"} in southern Oregon. It was an instant hit with us. We love fresh fruit, and it seriously tastes like you are drinking fresh pureed fruit soda.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} We first heard about [HOTLIPS Soda](http://hotlipssoda.com/ "HotLips Soda"){:target="_blank"} in March at the [Oregon Cheese Festival](/oregon-cheese-festival-2012/ "Oregon Cheese Festival 2012"){:target="_blank"} in southern Oregon. It was an instant hit with us. We love fresh fruit, and it seriously tastes like you are drinking fresh pureed fruit soda.
 
 From their website:
 

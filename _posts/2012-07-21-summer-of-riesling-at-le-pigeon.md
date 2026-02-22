@@ -18,7 +18,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} In keeping with the discussion of [Le Pigeon](http://www.lepigeon.com/ "Le Pigeon"){:target="_blank"} from yesterday, this weekend's Saturday Swig is the wine flight that I ordered with [the meal](http://superduperfantastic.com/le-pigeon-foie-all-the-courses/17104/ "Le Pigeon - Foie all the courses"){:target="_blank"}. It's a Riesling flight of the same grapes from the same winery in the Umpqua Valley, [Brandborg Winery](http://brandborgwine.com/){:target="_blank"}, only they're from different vintages. From left to right [and from memory, so hopefully I am correct]: 2008, 2003, 2002.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} In keeping with the discussion of [Le Pigeon](http://www.lepigeon.com/ "Le Pigeon"){:target="_blank"} from yesterday, this weekend's Saturday Swig is the wine flight that I ordered with [the meal](/le-pigeon-foie-all-the-courses/ "Le Pigeon - Foie all the courses"){:target="_blank"}. It's a Riesling flight of the same grapes from the same winery in the Umpqua Valley, [Brandborg Winery](http://brandborgwine.com/){:target="_blank"}, only they're from different vintages. From left to right [and from memory, so hopefully I am correct]: 2008, 2003, 2002.
 
 I was quite surprised at how dry they all were. None of them were the usual sweet Riesling that I was accustomed to. I did notice that the three were quite different from each other in both the nose and the taste.
 

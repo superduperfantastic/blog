@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Inspired by [Katelin's](http://prettysandyfeet.com/ "Pretty Sandy Feet") Wino Wednesday series, I decided to start a similar one of my own. The plan is to include talk about all beverages I'm drinking - alcoholic and non! Thanks to Ryan for the perfect logo/graphic to go with it. I'm no expert, but I do love sharing what I enjoy.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Inspired by [Katelin's](http://prettysandyfeet.com/ "Pretty Sandy Feet") Wino Wednesday series, I decided to start a similar one of my own. The plan is to include talk about all beverages I'm drinking - alcoholic and non! Thanks to Ryan for the perfect logo/graphic to go with it. I'm no expert, but I do love sharing what I enjoy.
 
 I'm kicking off the series with the **2009 Syrah Grenache Blend** from [Qualia Wines](https://twitter.com/qualiawines){:target="_blank"}, an urban winery with Sonoma county roots _and_ grapes. My assessment of the wine took the course of two days - first without food [and not nearly enough time out of the bottle] and then with a meal after a day recorked. It's really interesting to me how much a wine changes given the time to breathe or when paired with food.
 

@@ -17,7 +17,7 @@ tags:
 - cocktails
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} While I did not win the [trip to Chile](http://superduperfantastic.com/foods-from-chile-a-delightful-substitute/20023/ "Foods from Chile ~ A Delightful Substitute"), all finalists _did_ receive a bag full of Chilean goodies. One of those items - 100% Pure Blueberry Juice from [Tamaya Gourmet](http://tamayagourmet.com/blueberry_juice.htm "Tamaya Gourmet - Blueberry Juice"){:target="_blank"}. 
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} While I did not win the trip to Chile, all finalists _did_ receive a bag full of Chilean goodies. One of those items - 100% Pure Blueberry Juice from [Tamaya Gourmet](http://tamayagourmet.com/blueberry_juice.htm "Tamaya Gourmet - Blueberry Juice"){:target="_blank"}. 
 
 After a quick search online for ideas on a cocktail to try with blueberries or blueberry juice, I decided on doing my own version of a mint julep. While it is a bit strong for my tastes, I present to you this week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") - a blueberry mint julep!
 

@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} ![Santa Clara Valley Passport Weekend](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-01.jpg){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is actually an event - the Santa Clara Valley Passport Weekend!
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} ![Santa Clara Valley Passport Weekend](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-01.jpg){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is actually an event - the Santa Clara Valley Passport Weekend!
 
 The passport is $30. It includes tastings for two specific weekends during the year, PLUS whatever festivities the participating wineries have planned for passport holders. That's two separate wine tasting weekends and opportunities to try out wineries in a region we hadn't tasted in before.
 

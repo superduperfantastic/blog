@@ -59,7 +59,7 @@ On to the flora!
 
 With the constant cloud covering, moss grows in abundance in the cloud forest.
 
-The walk through the cloud forest was a pretty neat experience, and I'd do it again in hopes of seeing more wildlife! They're quite different from what you see on a [night walk](http://superduperfantastic.com/bajo-del-tigre-night-walk-monteverde/13639/ "Bajo Del Tigre Night Walk - Monteverde"), so it was definitely worth checking out both. The reserve is actually made of several trails, and we wandered a bit on our own for half an hour before boarding the 11:00am bus back to town. There was plenty more to see, but our stomachs were telling us to head back to civilization. With a tour starting at 7:30am and lasting about three hours long, we were glad to have brought a snack or two!
+The walk through the cloud forest was a pretty neat experience, and I'd do it again in hopes of seeing more wildlife! They're quite different from what you see on a [night walk](/bajo-del-tigre-night-walk-monteverde/ "Bajo Del Tigre Night Walk - Monteverde"), so it was definitely worth checking out both. The reserve is actually made of several trails, and we wandered a bit on our own for half an hour before boarding the 11:00am bus back to town. There was plenty more to see, but our stomachs were telling us to head back to civilization. With a tour starting at 7:30am and lasting about three hours long, we were glad to have brought a snack or two!
 
 ![Santa Elena Cloud Forest Reserve - Monteverde](/assets/posts/2012-06-01/santa-elena-cloud-forest-reserve-monteverde-15.jpg)
 

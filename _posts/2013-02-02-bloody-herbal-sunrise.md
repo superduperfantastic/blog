@@ -20,7 +20,7 @@ comments: true
 {:.center}
 ![Saturday Swig](/assets/posts/2013-02-02/bloody-herbal-sunrise-cover.jpg)
 
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Now that it seems pretty obvious to me that I have given up my [Wine and Love](http://superduperfantastic.com/tag/wine-and-love-2/ "Wine and Love"){:target="_blank"} posts, I will be more diligent about the other regular feature on this site - [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"}. This week, I am featuring an adapted version of a recipe from [The Perfect Purée of Napa Valley](http://www.perfectpuree.com/index.php/Products/thyme-a-citrus.html?recipeId=4666 "Perfect Puree"){:target="_blank"} website - the Herbal Sunrise.
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Now that it seems pretty obvious to me that I have given up my [Wine and Love](http://superduperfantastic.com/tag/wine-and-love-2/ "Wine and Love"){:target="_blank"} posts, I will be more diligent about the other regular feature on this site - [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"}. This week, I am featuring an adapted version of a recipe from [The Perfect Purée of Napa Valley](http://www.perfectpuree.com/index.php/Products/thyme-a-citrus.html?recipeId=4666 "Perfect Puree"){:target="_blank"} website - the Herbal Sunrise.
 
 Instead of using Tito's Handmade Vodka per the recipe, I used SKYY Infusions Blood Orange vodka and added "Bloody" to the name. It tastes better than the name sounds, resembling a strawberry lemonade that kicks your socks right off! These days, I need something like this Bloody Herbal Sunrise to kick me in the face in the most tasty way.
 

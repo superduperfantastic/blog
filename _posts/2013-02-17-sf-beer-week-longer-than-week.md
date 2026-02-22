@@ -18,7 +18,7 @@ thumbnail: /assets/posts/2013-02-17/sf-beer-week-longer-than-week-thumb.jpg
 excerpt: <p>This is the first year that I participated in SF Beer Week festivities. Visited Press Club, Noc-Noc, Mad Dog in the Fog, Russian River Brewing Co.</p>
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} Sunday Swig this week! This past week was SF Beer Week. 
+![Saturday Swig](/assets/posts/saturdayswig.png){:.left} Sunday Swig this week! This past week was SF Beer Week. 
 
 Officially it runs from February 8 to 17, which is already more than seven days, but many bars and restaurants around San Francisco (and beyond) grab the opportunity to expand the "week" even further. 
 
