@@ -8,7 +8,7 @@
 # Site settings
 title: '[Super Duper Fantastic]'
 email: hello@superduperfantastic.com
-description: A lifestyle/personal blog exploring food, travel and unique experiences and adventures in San Francisco and around the world.
+description: A lifestyle/personal blog exploring food, travel and unique experiences and adventures in Northern California and around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.superduperfantastic.com" # the base hostname & protocol for your site
 #twitter_username: suki
