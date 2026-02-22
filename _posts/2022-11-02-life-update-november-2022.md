@@ -10,7 +10,6 @@ thumbnail:
 date: 2022-11-02
 categories:
 - Life
-- Homeowners Journal
 tags: update
 comments: true
 ---

@@ -10,7 +10,6 @@ thumbnail: /assets/posts/2026-02-21/life-update-february-2026-thumb.jpg
 date: 2026-02-21
 categories:
 - Life
-- Homeowners Journal
 tags: update
 comments: true
 ---
