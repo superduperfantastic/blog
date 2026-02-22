@@ -43,4 +43,4 @@ Unfortunately, something's been up with Fresca. One of her lymph nodes was swoll
 
 >### Do you have pets, and do you have them insured?  
 
-Curious about pet health insurance? Check out [Embrace Pet Insurance](https://www.embracepetinsurance.com/){:target="_blank"} for a FREE quote and more information.
+_Disclosure: This post does not contain affiliate links. We are not paid by Embrace and simply recommend the service based on our own experience._
