@@ -23,11 +23,6 @@ Here's how we ended up making the trek up to Central Point, Oregon for the Orego
 
 The cheese festival is a one-day event in a tent set up next to Rogue Creamery. This year's event took place a few Saturdays ago on St. Patrick's Day. Included in the admission price of $15 was a marketplace for sampling cheese and other goodies. For $5 more, we received a glass for tastings of beer/wine. I really enjoyed the farmer's market format, which allowed for direct interaction at each of the tables. Even with the crowds, it never got so bad that I didn't feel like I couldn't chat with the vendors.
 
-{:.center}
-![Oregon Cheese Festival](https://farm8.staticflickr.com/7176/6882145980_4e75a8b0d1_c.jpg)
-
-_Left to right: Cheeses of [Rogue Creamery](http://www.roguecreamery.com/ "Rogue Creamery"){:target="_blank"}, [Klamath Basin Brewing](http://kbbrewing.com/ "Klamath Basin Brewing"){:target="_blank"}, [Oakshire Brewing](http://oakbrew.com/ "Oakshire Brewing"){:target="_blank"}, Cheeses of La Mariposa Creamery, Oak Leaf Creamery_
-
 Aside from the array of delicious cheeses we tasted and the libations that paired so nicely with them, the highlight of the festival was really the two classes that we attended - _Elementary Cheesemaking_ with Margo True of Sunset Magazine and _Tasty Beers & Fabulous Cheeses_ with Ginger Johnson of [Women Enjoying Beer](http://womenenjoyingbeer.com/ "Women Enjoying Beer"){:target="_blank"}. Both of the sessions were incredibly interesting and entertaining, _AND_ they were free! It was a good thing we signed up early because the classes were pretty full.
 
 **Elementary Cheesemaking**

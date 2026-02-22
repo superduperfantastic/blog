@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Goodbye, Sasha
+author: ryan
 wordpress_id: 21799
 wordpress_url: http://superduperfantastic.com/?p=21799
 disqus_id: 21799 http://superduperfantastic.com/?p=21799
