@@ -19,7 +19,7 @@
 <!--Disqus-->
       <script id="dsq-count-scr" src="//suki.disqus.com/count.js" async></script>
 <!--Default Javascript File-->
-      <script src="{{ '/js/script.js' | prepend: site.baseurl }}"></script>
+      <script src="{{ '/js/script.js' | prepend: site.baseurl }}?v={{ site.time | date: '%s' }}"></script>
 
       {% if site.google_analytics_id %}
        <!-- Google Analytics -->
