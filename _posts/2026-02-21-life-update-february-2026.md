@@ -17,7 +17,7 @@ Hello! It's been a few years since the last time I tried to revive this blog. A 
 
 {:.center}
 ![Sicily](/assets/posts/2026-02-21-life-update-february-2026/sicily1.jpeg "Sicily")
-<p class="center"><em>Overlooking an olive farm in Sicily</em></p>
+<p class="center"><em>Overlooking the farm we stayed at in Sicily</em></p>
 
 ### Life Status
 The biggest shift in my life happened in the summer of 2024. I became single after 15+ years in a committed relationship. We were essentially married without the paperwork.
