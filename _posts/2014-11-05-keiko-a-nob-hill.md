@@ -24,6 +24,8 @@ tags:
 - French
 comments: true
 ---
+**Update:** KEIKO à Nob Hill has since closed, but this post remains as a memory of our visit.
+
 Ryan did an incredible job by selecting [KEIKO à Nob Hill](http://www.keikoanobhill.com/ "KEIKO à Nob Hill"){:target="_blank"} for my birthday dinner. He'd heard about it from a coworker, and the way she described it to him enticed him enough for him to research further. When he saw that the menu was mostly seafood-oriented, he knew that it would be perfect for me.
 
 And it was! He went straight for the stomach aka the heart! :) Excuse the fuzziness of the photos because the ambiance was definitely on the "romantic" side.
