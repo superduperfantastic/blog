@@ -10,6 +10,7 @@ thumbnail: /assets/posts/2026-02-21/life-update-february-2026-thumb.jpg
 date: 2026-02-21
 categories:
 - Life
+- Homeowners Journal
 tags: update
 comments: true
 ---
@@ -34,6 +35,8 @@ Creativity has been quieter lately. I’ve been in more of a consuming and learn
 
 ### House Stuff
 There’s a bathroom repair in my near future and possibly some appliance replacements coming up. When you’ve lived in the same house for 15+ years, maintenance stops being theoretical and starts becoming a recurring character.
+
+I was reading through old posts and one of the last [Homeowners Journal](/category/homeowners-journal/) posts was about rearranging the living room. Let me tell you - it has been rearranged a few more times since that post. 
 
 ### Money Things
 A single person's budget is substantially different from a partnered budget. With the bathroom repair coming up, I've got to pinch in some areas to pay for others. I'm still tracking my budget consistently. It gives me a sense of control and clarity, especially during another year of big life changes. In the past, I used to post monthly spending overviews. I might bring that back.
