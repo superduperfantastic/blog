@@ -30,7 +30,7 @@ I’m coming up on my 10-year anniversary at the company later this year, which 
 I still have my weekend gig at the farmer's market. It started back up at the end of January, so when I'm not out of town or busy with other shenanigans, I look forward to stocking my fridge with fresh produce each week. 
 
 ### Creative
-Creativity has been quieter lately. I’ve been in more of a consuming and learning phase than a producing one, but I’m starting to feel the itch to make things again. That may be why I've been wanting to start this back up. It was my creative outlet for so long. Relearning how to get this space updated has been a battle, except this time I can get some help from AI. It'll be easier to update once I figure out the workflow that works for me. 
+Creativity has been quieter lately. I’ve been in more of a consuming and learning phase than a producing one, but I’m starting to feel the itch to make things again. That may be why I've been wanting to start this back up. It was my creative outlet for so long. Relearning how to get this space updated has been a struggle. It'll be easier to update once I figure out the workflow that works for me. 
 
 ### House Stuff
 There’s a bathroom repair in my near future and possibly some appliance replacements coming up. When you’ve lived in the same house for 15+ years, maintenance stops being theoretical and starts becoming a recurring character.
