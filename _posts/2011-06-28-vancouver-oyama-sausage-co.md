@@ -19,26 +19,26 @@ When [Linda](http://linda.curious-notions.net) tweeted me about visiting Vancouv
 
 As usual, I was so busy soaking in all the food that I didn't grab a photo of the surroundings.
 
-![Oyama Sausage Co - Pate](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-01.jpg) ![Oyama Sausage Co - Pate](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-02.jpg)  
+![Oyama Sausage Co - Pate](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-01.jpg) ![Oyama Sausage Co - Pate](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-02.jpg)  
 _An entire section dedicated to Pâté._
 
-![Oyama Sausage Co - Cheese](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-03.jpg)  
+![Oyama Sausage Co - Cheese](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-03.jpg)  
 _Cheese._
 
-![Oyama Sausage Co - Salami](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-04.jpg)  
+![Oyama Sausage Co - Salami](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-04.jpg)  
 _Salami._
 
-![Oyama Sausage Co - Bacon](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-05.jpg)  
+![Oyama Sausage Co - Bacon](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-05.jpg)  
 _Cured Meats._
 
-![Oyama Sausage Co - Sausage](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-06.jpg)  
+![Oyama Sausage Co - Sausage](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-06.jpg)  
 _Sausage._
 
 Ryan wanted to pick up some sausages, but since we were in a hotel with just a fridge for the first few nights, we opted for a pate, salami, and cheese picnic that would keep and wouldn't require any prep.
 
 Stephanie, an Oyama trainee, was incredibly patient as we hummed and hawed over our choices. With just two stomachs and only one picnic lunch in mind, we couldn't pick up a little of everything. With the clock ticking [They close at 7, and we were there at half past 6], we finally narrowed it down. She kindly and quickly sliced, wrapped, and labeled our selection.
 
-![Oyama Sausage Co - Our Goods](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-07.jpg)
+![Oyama Sausage Co - Our Goods](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-07.jpg)
 
 > Garlic head cheese  
 > Three Pâtés - Duck Mousse Divine,Terrine Chanterelles, Belgian Truffle  
@@ -49,6 +49,6 @@ All for less than $23!
 
 Paired with some chips, this became our picnic lunch during our Capilano Bridge/Grouse Mountain outing the next day. To be honest, we only got through about 1/3 of our [Oyama](http://www.oyamasausage.ca/) purchase during lunch. The rest, paired with crackers, ended up filling our bellies later in the trip.
 
-![Lunch of Oyama Sausage Co and Daily Catch](/assets/posts/2011-06-28-vancouver-oyama-sausage-co/vancouver-oyama-sausage-co-08.jpg)
+![Lunch of Oyama Sausage Co and Daily Catch](/assets/posts/2011-06-28/vancouver-oyama-sausage-co-08.jpg)
 
 Clearly, our eyes were larger than our stomach!

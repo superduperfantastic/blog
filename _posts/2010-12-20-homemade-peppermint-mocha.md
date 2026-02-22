@@ -8,8 +8,8 @@ disqus_id: 6186 http://superduperfantastic.net/?p=6186
 wordpress_id: 6186
 wordpress_url: http://superduperfantastic.net/?p=6186
 date: '2010-12-20 08:43:56 -0800'
-image: /assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-cover.jpg
-thumbnail: /assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-thumb.jpg
+image: /assets/posts/2010-12-20/homemade-peppermint-mocha-cover.jpg
+thumbnail: /assets/posts/2010-12-20/homemade-peppermint-mocha-thumb.jpg
 excerpt: <p>Homemade peppermint mochas!</p>
 categories:
 - Thirsty
@@ -34,7 +34,7 @@ This year, however, I've yet to visit Starbucks for this minty creation because:
 > - Condensed milk + Whole milk [feel free to substitute w/ non-dairy]  
 > - Whipped cream
 
-![](/assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-01.jpg)
+![](/assets/posts/2010-12-20/homemade-peppermint-mocha-01.jpg)
 
 > **What To Do:**
 > 
@@ -44,16 +44,16 @@ This year, however, I've yet to visit Starbucks for this minty creation because:
 > 
 > 3) Put the peppermint bark and sweetener/creamer into your mug.
 
-![](/assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-02.jpg)
+![](/assets/posts/2010-12-20/homemade-peppermint-mocha-02.jpg)
 
 > 4) Pour hot coffee into the mug, stirring to dissolve everything!
 > 
 > 5) Top with whipped cream and enjoy!
 
-![](/assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-03.jpg)
+![](/assets/posts/2010-12-20/homemade-peppermint-mocha-03.jpg)
 
 Absolutely delicious! :) I purchased the 2-lb. box of peppermint bark from Costco not too long ago. It's $10 and more peppermint bark than we'd ever think we'd need/use! It's a good thing we put them in our coffee now.
 
-![](/assets/posts/2010-12-20-homemade-peppermint-mocha/homemade-peppermint-mocha-04.jpg)
+![](/assets/posts/2010-12-20/homemade-peppermint-mocha-04.jpg)
 
 Aside from our delicious peppermint mochas, **what should we use the peppermint bark for?**

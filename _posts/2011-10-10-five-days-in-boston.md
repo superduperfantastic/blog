@@ -28,20 +28,20 @@ Oh Boston, you've been on my list of places to visit for quite some time, and fi
 - Dinner at [Rino's Place](http://www.rinosplace.com/){:target="_blank"} - YUM.
 
 {:.center}
-![At Rino's Place](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-01.jpg)
+![At Rino's Place](/assets/posts/2011-10-10/five-days-in-boston-01.jpg)
   
 **Saturday  
 - [Boston Local Food Festival](http://bostonlocalfoodfestival.com/ "Boston Local Food Fest"){:target="_blank"} and the Craft Brews Tasting.
 
 {:.center}
-[![Boston Local Food Festival](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-02.jpg)
+[![Boston Local Food Festival](/assets/posts/2011-10-10/five-days-in-boston-02.jpg)
 
 - Lunch at [Taiwan Cafe(http://www.yelp.com/biz/taiwan-cafe-boston "Taiwan Cafe"){:target="_blank"} in Chinatown.  
 - Stroll along the water.  
 - Meeting up with] [Germana](http://btchonheels.com/ "Btch on Heels"){:target="_blank"} and [Ginny](http://www.ginntastic.com/ "Ginntastic"){:target="_blank"}.
 
 {:.center}
-![Ginny and Germana](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-03.jpg)
+![Ginny and Germana](/assets/posts/2011-10-10/five-days-in-boston-03.jpg)
 
 **Sunday**  
 - Bus adventure from Dorchester.  
@@ -49,7 +49,7 @@ Oh Boston, you've been on my list of places to visit for quite some time, and fi
 - Running to catch the [Boston Duck Tour](http://www.bostonducktours.com/ "Boston Duck Tours"){:target="_blank"}.
 
 {:.center}
-![Boston Duck Tours](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-04.jpg)
+![Boston Duck Tours](/assets/posts/2011-10-10/five-days-in-boston-04.jpg)
 
 - Checking out the Liberty Hotel  
 - Exploring Beacon Hill, Boston Public Garden and Copley Square.  
@@ -59,7 +59,7 @@ Oh Boston, you've been on my list of places to visit for quite some time, and fi
 - Standing in a very short line for [Mike's Pastry](http://www.mikespastry.com/ "Mike's Pastry"){:target="_blank"} only to find out that we really aren't fans of cannolis.
 
 {:.center}
-![Cannoli from Mike's Pastry](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-05.jpg)
+![Cannoli from Mike's Pastry](/assets/posts/2011-10-10/five-days-in-boston-05.jpg)
 
 - Checking out the sites in the North End at night, including Paul Revere's house.  
 - Saying "hello" to the harbor seals at the [New England Aquarium](http://www.neaq.org/index.php "New England Aquarium"){:target="_blank"}.  
@@ -72,7 +72,7 @@ Oh Boston, you've been on my list of places to visit for quite some time, and fi
 - Charlestown Navy Yard to see the [USS Constitution](http://www.history.navy.mil/ussconstitution/ "USS Constitution"){:target="_blank"} and then the [USS Cassin Young](http://www.nps.gov/bost/historyculture/usscassinyoung.htm "USS Cassin Young"){:target="_blank"}.
 
 {:.center}
-![USS Cassin Young](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-06.jpg)
+![USS Cassin Young](/assets/posts/2011-10-10/five-days-in-boston-06.jpg)
   
 - Climbing the [Bunker Hill Monument](http://www.nps.gov/bost/historyculture/bhm.htm "Bunker Hill Monument"){:target="_blank"}.  
 - Dinner at[Zenna Noodle Bar](http://www.zennanoodle.com/ "Zenna Noodle Bar"){:target="_blank"} in Coolidge Corner where some lady walks in, spills my Thai Iced Tea on me, and then leaves. What a baffling experience!  
@@ -83,7 +83,7 @@ Oh Boston, you've been on my list of places to visit for quite some time, and fi
 - Cambridge - [Alive & Kicking Lobsters](http://www.yelp.com/biz/alive-and-kicking-lobsters-cambridge "Alive and Kicking Lobsters"){:target="_blank"} - with [Jo](http://www.reelpersona.com/ "Reel Persona"){:target="_blank"} and the Harvard Art Museum.
 
 {:.center}
-![With Jo in Cambridge](/assets/posts/2011-10-10-five-days-in-boston/five-days-in-boston-07.jpg)
+![With Jo in Cambridge](/assets/posts/2011-10-10/five-days-in-boston-07.jpg)
  
 -[Longfellow National Historic Site](http://www.nps.gov/long/index.htm "Longfellow House"){:target="_blank"} - It is closed, but I still manage to get a stamp.  
 - Late lunch at [Henrietta's Table](http://www.henriettastable.com/ "Henrietta's Table"){:target="_blank"}.  

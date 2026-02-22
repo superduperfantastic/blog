@@ -9,8 +9,8 @@ date: '2012-10-27 23:56:57 -0700'
 wordpress_id: 18796
 wordpress_url: http://superduperfantastic.com/?p=18796
 excerpt: <p>Saturday Swig - Enjoying a Mediterranean Coffee at Nepenthe in Big Sur on my birthday weekend. Photos from our drive in the Big Sur area.</p>
-image: /assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-cover.jpg
-thumbnail: /assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-thumb.jpg
+image: /assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-cover.jpg
+thumbnail: /assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-thumb.jpg
 categories:
 - California
 - Thirsty
@@ -24,19 +24,19 @@ comments: true
 We were greeted by clouds when we first arrived at Nepenthe, but we didn't let that sway our mood. I ordered a Mediterranean coffee (made with Tuaca and Kahlua) to keep warm! They sure know how to make their spiked coffees strong!
 
 {:.center}
-![Nepenthe Big Sur](/assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-01.jpg){:width="30%"} ![Nepenthe Big Sur](/assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-02.jpg){:width="68%"}
+![Nepenthe Big Sur](/assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-01.jpg){:width="30%"} ![Nepenthe Big Sur](/assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-02.jpg){:width="68%"}
 
 Since we hadn't made reservations (that seems to be our style), we decided to hang out on the benches at the back of the restaurant while we finished our drinks.
 
 When we were done with our drinks, we headed down to Cafe Kevah located on the outer terrace below Nepenthe for a better view. From the looks of the place, I think we'll be heading here instead of upstairs. Fewer people, more available seating = low-key. We're low-key.
 
 {:.center}
-![Cafe Kevah](/assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-03.jpg)
+![Cafe Kevah](/assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-03.jpg)
 
 We were rewarded for our patience because gradually the sun broke through the clouds, and we could see the glimmer of the water below!
 
 {:.center}
-![View from Cafe Kevah](/assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-04.jpg)
+![View from Cafe Kevah](/assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-04.jpg)
 
 {:.center}
-![Nepenthe Big Sur](/assets/posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur/mediterranean-coffee-nepenthe-big-sur-05.jpg)
+![Nepenthe Big Sur](/assets/posts/2012-10-27/mediterranean-coffee-nepenthe-big-sur-05.jpg)

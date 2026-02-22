@@ -7,8 +7,8 @@ title: 'Saturday Swig #8 - HOTLIPS Soda'
 wordpress_id: 17447
 wordpress_url: http://superduperfantastic.com/?p=17447
 disqus_id: 17447 http://superduperfantastic.com/?p=17447
-image: /assets/posts/2012-08-11-hotlips-soda/hotlips-soda-cover.jpg
-thumbnail: /assets/posts/2012-08-11-hotlips-soda/hotlips-soda-thumb.jpg
+image: /assets/posts/2012-08-11/hotlips-soda-cover.jpg
+thumbnail: /assets/posts/2012-08-11/hotlips-soda-thumb.jpg
 excerpt: <p>Saturday Swig - HOTLIPS soda from Portland's HOTLIPS pizza. Fresh fruit, pulpy goodness - all signs of a fantastic all-natural soda!</p>
 date: '2012-08-11 23:53:25 -0700'
 categories:
@@ -28,7 +28,7 @@ _
 While we were up in Portland this summer, we took advantage of being so close to the source and drank quite a few bottles of HOTLIPS soda. Here I am with the Black Raspberry Soda during a part of our ice cream crawling.
 
 {:.center}
-![Saturday Swig - HotLips Soda](/assets/posts/2012-08-11-hotlips-soda/hotlips-soda-01.jpg)
+![Saturday Swig - HotLips Soda](/assets/posts/2012-08-11/hotlips-soda-01.jpg)
 
 Other flavors that HOTLIPS comes in: Cherry, Cranberry, Blackberry, Pear, Raspberry, Boysenberry, and Marionberry. There are supposedly more that they have on tap in the HOTLIPS pizzerias. Unfortunately, we never got the chance to visit [HOTLIPS Pizza](http://hotlipspizza.com/){:target="_blank"} where the soda was first bottled in 2005\.
 

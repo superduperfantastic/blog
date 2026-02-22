@@ -5,8 +5,8 @@ status: publish
 published: true
 title: Peppermint Bark Chocolate Cookies!
 disqus_id: 6249 http://superduperfantastic.net/?p=6249 
-image: /assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-cover.jpg
-thumbnail: /assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-thumb.jpg
+image: /assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-cover.jpg
+thumbnail: /assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-thumb.jpg
 excerpt: <p>When you've got a whole lot of peppermint bark, baking peppermint bark chocolate cookies is not a bad idea!</p>
 wordpress_id: 6249
 wordpress_url: http://superduperfantastic.net/?p=6249
@@ -23,24 +23,24 @@ Yesterday, I posed the question of what I should do with [the rest](/homemade-pe
 After checking the pantry for all the necessary ingredients, I took the peppermint bark...
 
 {:.center}
-![](/assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-01.jpg)
+![](/assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-01.jpg)
 
 ...and smashed it to smithereens with a mallet!
 
 {:.center}
-![](/assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-02.jpg)
+![](/assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-02.jpg)
 
 From garage to kitchen in just 30 seconds, the mallet is useful all over the house! I covered it with saran wrap and put the peppermint bark into a Ziploc bag to ensure that the peppermint pieces wouldn't go flying. That was most of the work since my Kitchenaid did the rest, and it was the fun part!
 
 The dough smelled [and tasted] incredible! I shaped it into little balls and placed them on a covered baking sheet.
 
 {:.center}
-![](/assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-03.jpg)
+![](/assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-03.jpg)
 
 10-12 minutes in the oven at 350 degrees, and voila!
 
 {:.center}
-![](/assets/posts/2010-12-21-peppermint-bark-chocolate-cookies/peppermint-bark-chocolate-cookies-cover.jpg)
+![](/assets/posts/2010-12-21/peppermint-bark-chocolate-cookies-cover.jpg)
 
 So good! At least Ryan and I think so. He also brought in a few to work today, so I'm waiting to hear the verdict.
 

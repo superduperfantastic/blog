@@ -8,8 +8,8 @@ wordpress_url: http://superduperfantastic.com/?p=23249
 disqus_id: 23249 http://superduperfantastic.com/?p=23249
 excerpt: <p>Daily photo project (#365infocus) in February 2015 - Plenty of Fresca photos, taking the Better Lettering Course, and Valentine's/Galentine's shenanigans.</p>
 date: '2015-03-03 07:12:38 -0800'
-image: /assets/posts/2015-03-03-february-2015-in-pictures/february-2015-in-pictures-cover.jpg
-thumbnail: /assets/posts/2015-03-03-february-2015-in-pictures/february-2015-in-pictures-thumb.jpg
+image: /assets/posts/2015-03-03/february-2015-in-pictures-cover.jpg
+thumbnail: /assets/posts/2015-03-03/february-2015-in-pictures-thumb.jpg
 categories:
 - Creativity Strikes
 tags:
@@ -23,7 +23,7 @@ The format changed a bit because for some bizarre reason, the application I was 
 Without further ado, here's February 2015:
 
 {:.center}
-![February 2015 in Pictures](/assets/posts/2015-03-03-february-2015-in-pictures/february-2015-in-pictures-01.jpg)
+![February 2015 in Pictures](/assets/posts/2015-03-03/february-2015-in-pictures-01.jpg)
 
 Lots of Fresca photos. She's somehow managed to injure herself, but we haven't yet found the cause. The spot right above her nose has gotten scraped up. Any close-ups of her now will reveal a missing patch of fur.
 

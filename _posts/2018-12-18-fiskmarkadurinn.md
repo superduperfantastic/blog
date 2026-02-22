@@ -4,8 +4,8 @@ status: publish
 published: true
 title: 'Eat Iceland : Fiskmarkadurinn - FISH MRKT'
 disqus_id: fiskmarkadurinn
-image: /assets/posts/2018-12-18-fiskmarkadurinn/fiskmarkadurinn-cover.jpg
-thumbnail: /assets/posts/2018-12-18-fiskmarkadurinn/fiskmarkadurinn-thumb.jpg
+image: /assets/posts/2018-12-18/fiskmarkadurinn-cover.jpg
+thumbnail: /assets/posts/2018-12-18/fiskmarkadurinn-thumb.jpg
 excerpt: <p>Dining at the Fish Market on our first night in Iceland - the tasting menu was a great way to experience the offerings of the restaurant. We left stuffed.</p>
 date: 2018-12-18
 categories:

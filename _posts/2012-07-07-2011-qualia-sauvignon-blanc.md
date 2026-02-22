@@ -7,8 +7,8 @@ wordpress_id: 16040
 wordpress_url: http://superduperfantastic.com/?p=16040
 disqus_id: 16040 http://superduperfantastic.com/?p=16040
 date: '2012-07-07 08:17:19 -0700'
-image: /assets/posts/2012-07-07-2011-qualia-sauvignon-blanc/2011-qualia-sauvignon-blanc-cover.jpg
-thumbnail: /assets/posts/2012-07-07-2011-qualia-sauvignon-blanc/2011-qualia-sauvignon-blanc-thumb.jpg
+image: /assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-cover.jpg
+thumbnail: /assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-thumb.jpg
 excerpt: <p>This week's beverage of choice is the <strong>2011 Qualia Sauvignon Blanc</strong> from the urban winery I wrote about in my very first Saturday Swig - Qualia Wines.</p>
 categories:
 - Thirsty
@@ -20,7 +20,7 @@ comments: true
 ![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} We are up in Portland for the long weekend, but instead of beer, let's talk wine! This week's beverage of choice is the **2011 Qualia Sauvignon Blanc** from the urban winery I wrote about in my very first [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") - [Qualia Wines](https://twitter.com/qualiawines){:target="_blank"}. I had hoped to visit the tasting room in San Francisco by now. However, my calendar has been a mess these days. So much going on and not enough time!
 
 {:.center}
-![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07-2011-qualia-sauvignon-blanc/2011-qualia-sauvignon-blanc-01.jpg)
+![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-01.jpg)
 
 Winemaker's notes reveal that the grapes come from 27 year old vines grown in a small triangle at the heart of Indian Springs Ranch in Kenwood. "The entire lot was whole cluster pressed, with 100% in neutral French oak barrels, then left on its lees which increases the complexity, flavor profile and roundness of the mouthfeel."
 
@@ -29,7 +29,7 @@ According to the tasting notes, this is a Sancerre style Sauvignon Blanc and sug
 It was the weekend of Ryan's birthday. Since we both love oysters, I went to the farmers' market and picked up two dozen of the Kumamoto oysters. They're small and packed with flavor, perfect for pairing with this wine. I didn't take good notes this time around and only really remember that it was DELICIOUS.
 
 {:.center}
-![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07-2011-qualia-sauvignon-blanc/2011-qualia-sauvignon-blanc-02.jpg)
+![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-02.jpg)
 
 The tasting notes remind me that the "nose has passion, citrus and tropical fruits with a hint of lychee and starfruit. The palate is round and structured with a core of intensity; showing notes of lemon soufflé, melon and finishes with a wet limestone minerality."
 
@@ -38,7 +38,7 @@ Definitely need to stop by [the tasting room](https://twitter.com/qualiawines "Q
 I drink more red wines than white, so when I _do_ find a white wine that I like, I jump on it. I will have to make the trip soon since **only 87 cases** of the 2011 Qualia Sauvignon Blanc were produced!
 
 {:.center}
-![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07-2011-qualia-sauvignon-blanc/2011-qualia-sauvignon-blanc-03.jpg)
+![2011 Qualia Sauvignon Blanc](/assets/posts/2012-07-07/2011-qualia-sauvignon-blanc-03.jpg)
 
 > Qualia ( /ˈkwɑːliə/): is a Latin philosophy term used to refer to our subjective experiences of the world around us – the unique sensation of sight, smell and taste that each individual perceives. At Qualia Wines, this begins in the vineyards, evolves at our Urban Winery in San Francisco, and ends in the glass – where we each understand our own Qualia.
 

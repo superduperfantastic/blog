@@ -13,8 +13,8 @@ categories:
 tags:
 - Saturday Swig
 - SF Beer Week
-image: /assets/posts/2013-02-17-sf-beer-week-longer-than-week/sf-beer-week-longer-than-week-cover.jpg
-thumbnail: /assets/posts/2013-02-17-sf-beer-week-longer-than-week/sf-beer-week-longer-than-week-thumb.jpg
+image: /assets/posts/2013-02-17/sf-beer-week-longer-than-week-cover.jpg
+thumbnail: /assets/posts/2013-02-17/sf-beer-week-longer-than-week-thumb.jpg
 excerpt: <p>This is the first year that I participated in SF Beer Week festivities. Visited Press Club, Noc-Noc, Mad Dog in the Fog, Russian River Brewing Co.</p>
 comments: true
 ---
@@ -24,7 +24,7 @@ Officially it runs from February 8 to 17, which is already more than seven days,
 
 There are way more [events around town](http://www.sfbeerweek.org/ "SF Beer Week"){:target="_blank"} than you can fill up your calendar with! Most years, SF Beer Week passes me by, and I only find out about it after it's all said and done. This is the first year I have actually participated, and it was only a glimpse into the festivities.
 
-![](/assets/posts/2013-02-17-sf-beer-week-longer-than-week/sf-beer-week-longer-than-week-01.jpg){:.right} On the Wednesday before the official week, some friends joined me at [Press Club](http://www.pressclubsf.com/ "Press Club SF"){:target="_blank"} for their first annual _48 Hours of Sour_ event, and we sampled from their selection of thirty sour beers! While I wanted to try every single one, the three of us who were sampling ordered five samples each, and that was plenty. Some of our favorites:
+![](/assets/posts/2013-02-17/sf-beer-week-longer-than-week-01.jpg){:.right} On the Wednesday before the official week, some friends joined me at [Press Club](http://www.pressclubsf.com/ "Press Club SF"){:target="_blank"} for their first annual _48 Hours of Sour_ event, and we sampled from their selection of thirty sour beers! While I wanted to try every single one, the three of us who were sampling ordered five samples each, and that was plenty. Some of our favorites:
 
 > * Almanac Brewing Co. - Barrel Noir  
 > * Birrificio Del Ducato - My Blueberry Nightmare  
@@ -38,6 +38,6 @@ My next SF Beer Week experience didn't happen until this weekend. I met up with 
 > * Dogfish Head - Olde School
 
 {:.center}
-![Saturday Swig - SF Beer Week](/assets/posts/2013-02-17-sf-beer-week-longer-than-week/sf-beer-week-longer-than-week-cover.jpg)
+![Saturday Swig - SF Beer Week](/assets/posts/2013-02-17/sf-beer-week-longer-than-week-cover.jpg)
 
 On the last official day of SF Beer Week, we met up with Cassie and Kevin of [Ever in Transit](http://everintransit.com/ "Ever in Transit"){:target="_blank"} at Russian River Brewing Company. Even though Pliny the Younger was no longer in stock, there was still quite the crowd. Thankfully Cassie and Kevin had arrived a little bit earlier than us, so they were able to snag a nice spot outside for the group. Since I can never make up my mind on my order, I went with the sampler. Beer and friends - the perfect way to wrap up SF Beer Week 2013!

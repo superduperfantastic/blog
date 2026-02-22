@@ -5,8 +5,8 @@ published: true
 title: Life Update - February 2026
 disqus_id: life-update-february-2026
 excerpt: <p>Bringing this blog back to life with another quick life update.</p>
-image: /assets/posts/2026-02-21-life-update-february-2026/life-update-february-2026-cover.jpg
-thumbnail: /assets/posts/2026-02-21-life-update-february-2026/life-update-february-2026-thumb.jpg
+image: /assets/posts/2026-02-21/life-update-february-2026-cover.jpg
+thumbnail: /assets/posts/2026-02-21/life-update-february-2026-thumb.jpg
 date: 2026-02-21
 categories:
 - Life
@@ -16,7 +16,7 @@ comments: true
 Hello! It's been a few years since the last time I tried to revive this blog. A lot has changed since 2022, the last time I attempted to bring it back to life. So here are the updates:
 
 {:.center}
-![Sicily](/assets/posts/2026-02-21-life-update-february-2026/life-update-february-2026-01.jpeg "Sicily")
+![Sicily](/assets/posts/2026-02-21/life-update-february-2026-01.jpeg "Sicily")
 <p class="center"><em>Overlooking the farm we stayed at in Sicily</em></p>
 
 ### Life Status
@@ -42,7 +42,7 @@ A single person's budget is substantially different from a partnered budget. Wit
 Travel looks a little different these days. I’m learning what I like when I plan trips on my own and what kind of experiences I want more of. Group trips have been my thing. Someone else plans the details, and I show up ready to have a good time. 
 
 {:.center}
-![Sicily](/assets/posts/2026-02-21-life-update-february-2026/life-update-february-2026-02.jpeg "Sicily")
+![Sicily](/assets/posts/2026-02-21/life-update-february-2026-02.jpeg "Sicily")
 <p class="center"><em>Group photo in Sicily</em></p>
 
 Last May, I went to Sicily with my mom on one of [Monet Izabeth's](https://www.monetizabeth.com/grouptrips) trips. I'd traveled with Monet before, usually on more adventurous itineraries, so this one felt more relaxing and slower-paced. It fulfilled my goal of traveling more and spending time with my parents, even though it was just my mom on this one. 

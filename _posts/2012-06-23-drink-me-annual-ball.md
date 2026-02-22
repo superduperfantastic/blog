@@ -7,8 +7,8 @@ excerpt: <p>This week's Saturday Swig - Drink Me - the theme of Spinsters of San
 wordpress_id: 16547
 wordpress_url: http://superduperfantastic.com/?p=16547
 disqus_id: 16547 http://superduperfantastic.com/?p=16547
-image: /assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-cover.jpg
-thumbnail: /assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-thumb.jpg
+image: /assets/posts/2012-06-23/drink-me-annual-ball-cover.jpg
+thumbnail: /assets/posts/2012-06-23/drink-me-annual-ball-thumb.jpg
 date: '2012-06-23 23:45:44 -0700'
 categories:
 - Thirsty
@@ -20,25 +20,25 @@ comments: true
 ![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} An evening of dancing it up in the Fairmont's Swig Suite in fancy gowns marked the 83rd Annual Ball for the [Spinsters of San Francisco](http://sfspinsters.com/ "Spinsters of San Francisco"){:target="_blank"} this past weekend. The theme this year - Through the Looking Glass. Annual Ball is the one night in the year where I put on my fancy pants and get my hair and nails done, so that I can hang out where President John F. Kennedy, Prince Charles, Mikhail Gorbachev, Queen Beatrix of the Netherlands and King Hussein of Jordan [just to name a few!] have stayed.
 
 {:.center}
-![Fairmont SF - Swig Suite](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-01.jpg){:width="49%"} ![Fairmont SF - Swig Suite](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-02.jpg){:width="49%"}
+![Fairmont SF - Swig Suite](/assets/posts/2012-06-23/drink-me-annual-ball-01.jpg){:width="49%"} ![Fairmont SF - Swig Suite](/assets/posts/2012-06-23/drink-me-annual-ball-02.jpg){:width="49%"}
 
 The decor of the Swig Suite is absolutely gorgeous, and the view is stunning! We were lucky enough to have perfect weather for the evening, and I was reminded all night of how much I love this city.
 
 {:.center}
-![Fairmont SF - Swig Suite](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-03.jpg)
+![Fairmont SF - Swig Suite](/assets/posts/2012-06-23/drink-me-annual-ball-03.jpg)
 
 This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig"){:target="_blank"} are these incredibly cute party favors - bottles of absinthe with little hand-stamped "Drink Me" tags.
 
 {:.center}
-![Annual Ball favors](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-04.jpg){:width="49%"} ![Annual Ball](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-05.jpg){:width="49%"}
+![Annual Ball favors](/assets/posts/2012-06-23/drink-me-annual-ball-04.jpg){:width="49%"} ![Annual Ball](/assets/posts/2012-06-23/drink-me-annual-ball-05.jpg){:width="49%"}
 
 So very Alice in Wonderland! Actually all of the party decor fit the theme.
 
 {:.center}
-![Annual Ball - Eat Me](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-06.jpg)
+![Annual Ball - Eat Me](/assets/posts/2012-06-23/drink-me-annual-ball-06.jpg)
 
 {:.center}
-![Annual Ball decor](/assets/posts/2012-06-23-drink-me-annual-ball/drink-me-annual-ball-07.jpg)
+![Annual Ball decor](/assets/posts/2012-06-23/drink-me-annual-ball-07.jpg)
 
 Though I might have posed with these absinthe bottles, I didn't take a sip as the tags instructed. It would've been dangerous! Instead, I took a few bottles home because someone had mentioned to me about making ice cream. Perhaps [this recipe](http://www.davidlebovitz.com/2009/05/absinthe-ice-cream/ "Absinthe Ice Cream"){:target="_blank"} from David Lebovitz?
 

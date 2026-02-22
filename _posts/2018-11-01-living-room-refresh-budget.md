@@ -5,8 +5,8 @@ published: true
 title: Living Room Refresh
 disqus_id: living-room-refresh-budget
 excerpt: <p>What do you do when you want to give your living space a refresh and don't want to spend too much? Here's what we did for under $250.</p>
-image: /assets/posts/2018-11-01-living-room-refresh-budget/living-room-refresh-budget-cover.jpg
-thumbnail: /assets/posts/2018-11-01-living-room-refresh-budget/living-room-refresh-budget-thumb.jpg
+image: /assets/posts/2018-11-01/living-room-refresh-budget-cover.jpg
+thumbnail: /assets/posts/2018-11-01/living-room-refresh-budget-thumb.jpg
 date: 2018-11-01
 categories:
 - Homeowners Journal
@@ -62,7 +62,7 @@ Cost: $185
 Another great idea from the sister's house was this [Sheep Ottoman](https://wikibuy.com/p/brebis-white-velvet-sheep-ottoma/82C9GHR2D2?run=659714a0-ad99-454e-9ed5-ce95c62613d0){:target="_blank"}. 
 
 {:.center}
-![Ikea Planters](/assets/posts/2018-11-01-living-room-refresh-budget/living-room-refresh-budget-01.jpg)
+![Ikea Planters](/assets/posts/2018-11-01/living-room-refresh-budget-01.jpg)
 
 Yes, we now have one of these in our house. Ryan had a great time bringing it home from work on the bus. Fresca was suspicious of it at first, but we think she's now accepted that it's an inanimate object in the house.
 

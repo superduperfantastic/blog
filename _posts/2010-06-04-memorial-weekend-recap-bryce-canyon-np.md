@@ -7,8 +7,8 @@ disqus_id: 3236 http://superduperfantastic.net/?p=3236
 wordpress_id: 3236
 wordpress_url: http://superduperfantastic.net/?p=3236
 date: '2010-06-04 08:35:45 -0700'
-image: /assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-cover.jpg
-thumbnail: /assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-thumb.jpg
+image: /assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-cover.jpg
+thumbnail: /assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-thumb.jpg
 excerpt: <p>No photos can really do such a majestic/magnificent place justice, but I'll try. Some photos from our short jaunt to Bryce Canyon National Park. </p>
 categories:
 - Utah
@@ -23,19 +23,19 @@ No photos can really do such a majestic/magnificent place justice, but I gave it
 We did, however, see ones that resembled sombreros. See 'em?
 
 {:.center}
-![](/assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-01.jpg "Sombrero-shaped rocks")
+![](/assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-01.jpg "Sombrero-shaped rocks")
 
 The [hoodoos](http://en.wikipedia.org/wiki/Hoodoo_%28geology%29) reminded me of the Terra Cotta Warriors in China - so uniform in nature. What a crazy geological phenomenon!
 
 {:.center}
-![](/assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-02.jpg "Hoodoos of Bryce Canyon")
+![](/assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-02.jpg "Hoodoos of Bryce Canyon")
 
 Now imagine the photo above stretched all the way across the screen. Looking down on something like that, knowing that if you were to hike down there, you'd just be a tiny speck in the vast landscape - now **_that's_** something!
 
 {:.center}
-![](/assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-03.jpg "Bryce Canyon")
+![](/assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-03.jpg "Bryce Canyon")
 
 {:.center}
-![](/assets/posts/2010-06-04-memorial-weekend-recap-bryce-canyon-np/memorial-weekend-recap-bryce-canyon-np-04.jpg "Hoodoos of Bryce Canyon")
+![](/assets/posts/2010-06-04/memorial-weekend-recap-bryce-canyon-np-04.jpg "Hoodoos of Bryce Canyon")
 
 More photos of Bryce Canyon National Park: [here](http://www.flickr.com/photos/suki/sets/72157624193218854/)!

@@ -6,7 +6,7 @@ author: ryan
 title: How to Drive Around Iceland in an Electric Vehicle
 disqus_id: how-to-drive-around-iceland-in-ev
 excerpt: <p>We drove the Ring Road around Iceland in an electric vehicle in a week. How did it go? This is what we learned...</p>
-image: '/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/finally-charging.jpg'
+image: '/assets/posts/2018-10-10/finally-charging.jpg'
 thumbnail:
 date: 2018-10-13
 categories:
@@ -27,14 +27,14 @@ That's how it always starts. This time, that conversation led to our decision to
 As we'd find out later, the devil is always in the details. This guide might help you if you're considering the same. It would have helped us!
 
 {:.center}
-![Highway 1 Iceland](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/on-the-road.jpg)  
+![Highway 1 Iceland](/assets/posts/2018-10-10/on-the-road.jpg)  
 
 ## The Route
 
 We planned on taking the Route 1 Highway aka the Ring Road - no surprise here as this is the main highway ringing the country and passes by many sites along the way. You can also see how many charging stations dot the route in the app:
 
 {:.center}
-![ON Power Map of Iceland](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/on-power-map.png)  
+![ON Power Map of Iceland](/assets/posts/2018-10-10/on-power-map.png)  
 
 ## The Tools
 
@@ -43,14 +43,14 @@ The main energy provider in Iceland is [ON Power](http://www.onpower.is/){:targe
 As we found out mid-trip, there's another provider, [Isorka](https://isorka.is/?lang=en){:target="_blank"} with a decent number of stations in the larger cities. They also have an app and mobile website, which takes payments pretty easily.
 
 {:.center}
-![Isorka Charing Station Iceland](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/isorka-power.jpg)  
+![Isorka Charing Station Iceland](/assets/posts/2018-10-10/isorka-power.jpg)  
 
 ## The Car
 
 The rental car company we used, [Geysir](https://www.geysir.is/){:target="_blank"} (A local company) had a [Renault Zoe](https://en.wikipedia.org/wiki/Renault_Zoe){:target="_blank"} available for the week we were in Iceland. We were expecting it to have a 400km range, as stated in the Wikipedia article since 2016 model years, but for some reason it was the (older?) 240km version. _Uh-oh._
 
 {:.center}
-![Renault Zoe in the Rain](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/zoe-rain.jpg)  
+![Renault Zoe in the Rain](/assets/posts/2018-10-10/zoe-rain.jpg)  
 
 ## Gotcha #1 - Your EV might not have as much range as you think
 
@@ -63,12 +63,12 @@ With the charging network sparse enough, and our range limited, we knew that out
 In one case, the station had only been installed days previously (but it showed up in the app!), and it wasn't fully configured to accept all payments. ON charging stations normally allow for paying with a PIN number or with our rental-provided RFID card. This one only allowed PIN payments, which we weren't set up for. Luckily, there was another person with an EV there who told us we can call the number to get it charging remotely. So we did that even though it would cost us roaming - we had no other choice.
 
 {:.center}
-![ON Charging Station with Note](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/station-note.jpg)  
+![ON Charging Station with Note](/assets/posts/2018-10-10/station-note.jpg)  
 
 In another case, the station was undergoing some kind of maintenance, but it was out of action all day. We were forced to use the much slower AC plug next to it (these take about 8-9 hours to fill up our car!), so we got just enough to get us to the next station which wasn't too far away. Which is where things really went wrong...
 
 {:.center}
-![ON Charging Station with Note](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/charging-station-maintenance.jpg) 
+![ON Charging Station with Note](/assets/posts/2018-10-10/charging-station-maintenance.jpg) 
 
 At the next station, it was also out of action but waiting for maintenance. _No problem_ we thought, because they still had an AC plug right next to it which should still be working. 
 
@@ -88,31 +88,31 @@ Frantic phone calls and internet searches ensued. During the course of these few
 >
 
 {:.center}
-![Finally charging with our savior in background](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/finally-charging.jpg) 
+![Finally charging with our savior in background](/assets/posts/2018-10-10/finally-charging.jpg) 
 
 So we were very lucky to get out of that predicament in a somewhat timely manner. We even made it to our glacier tour, albeit at the next time slot.
 
 {:.center}
-![On the Glacier Tour](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/glacier-tour.jpg) 
+![On the Glacier Tour](/assets/posts/2018-10-10/glacier-tour.jpg) 
 
 ## Gotcha #3 - Not all charging stations have the same power connectors
 
 The Renault Zoe has a Type 2 charger, which served us well over the first half of the trip. However, we eventually got to the second largest metro area, Akureyri, and were greeted with this configuration of charging stations.
 
 {:.center}
-![ON Power station in Akureyri with no Type-2 charger](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/on-power-no-type-2.png)  
+![ON Power station in Akureyri with no Type-2 charger](/assets/posts/2018-10-10/on-power-no-type-2.png)  
 
 _No problem_, we thought. This is the most decent-sized city we've seen in a while and there's charging stations everywhere. One by one we drove to find out that there weren't in fact any Type 2 plugs. Some map locations weren't even there. Worse, there weren't even those typical backup AC plugs like in the rest of the country. 
 
 With our range running out and our prospects dimming, we decided to risk visiting this other charging station outside of town. It was only a few kilometers.
 
 {:.center}
-![Isorka Power Station at Ski Resort](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/ski-resort-charing-station-map.png)  
+![Isorka Power Station at Ski Resort](/assets/posts/2018-10-10/ski-resort-charing-station-map.png)  
 
 Little did we know that those few kilometers were straight up a mountain. This charging station was at a ski resort! We watched our range bleed away as we climbed the mountain, desperately hoping this station would work. And against all odds it did (or else I wouldn't be writing this post). Outside of town, at this ski resort which was closed for the season at a random-brand station that we didn't seem to have to pay for. Lucky as well that the maintainance vehicle wasn't permanently parked a few meters over to block it.
 
 {:.center}
-![Isorka Power Station at Ski Resort](/assets/posts/2018-10-10-how-to-drive-around-iceland-in-ev/sky-resort-charging.jpg)
+![Isorka Power Station at Ski Resort](/assets/posts/2018-10-10/sky-resort-charging.jpg)
 
 ## Lessons
 

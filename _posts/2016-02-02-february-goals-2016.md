@@ -6,8 +6,8 @@ title: February Goals {2016}
 wordpress_id: 24251
 wordpress_url: http://superduperfantastic.com/?p=24251
 disqus_id: 24251 http://superduperfantastic.com/?p=24251
-image: /assets/posts/2016-02-02-february-goals-2016/february-goals-2016-cover.jpg
-thumbnail: /assets/posts/2016-02-02-february-goals-2016/february-goals-2016-thumb.jpg
+image: /assets/posts/2016-02-02/february-goals-2016-cover.jpg
+thumbnail: /assets/posts/2016-02-02/february-goals-2016-thumb.jpg
 excerpt: <p>While I succeeded at meeting most of my January goals, there was still one I needed to work on. Find out what worked and what didn't. Also, February goals!</p>
 date: '2016-02-02 16:22:02 -0800'
 categories:
@@ -38,7 +38,7 @@ Some days I would be in bed even before 11. Other days, I'd run into the room at
 This was actually not difficult at all and an easy way to save money. Even though I am not setting it as an official goal for February _and_ there's a bottomless brunch on the horizon, I'm going to try to keep this to a minimum and work through some of the beer and wine we have at home.
 
 {:.center}
-![](/assets/posts/2016-02-02-february-goals-2016/february-goals-2016-01.jpg)  
+![](/assets/posts/2016-02-02/february-goals-2016-01.jpg)  
 _Looking up, then down during a revisit to [Armstrong Redwoods State Natural Reserve](http://superduperfantastic.com/big-red/3512/){:target="_blank"} in January_
 
 ### February Goals

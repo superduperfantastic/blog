@@ -8,8 +8,8 @@ wordpress_id: 23394
 wordpress_url: http://superduperfantastic.com/?p=23394
 disqus_id: 23394 http://superduperfantastic.com/?p=23394
 date: '2015-04-06 17:15:57 -0700'
-image: /assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-cover.jpg
-thumbnail: /assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-thumb.jpg
+image: /assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-cover.jpg
+thumbnail: /assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-thumb.jpg
 excerpt: <p>Taking a tour on the water with Canal Tours Copenhagen - one of many attractions you'll find on the Copenhagen Card.</p>
 categories:
 - Denmark
@@ -23,49 +23,49 @@ We arrived in Copenhagen on a Friday afternoon. It wasn't until the following Mo
 Based on our research of things to do in Copenhagen, we found that Mondays require a bit more planning as a tourist. Plenty of sights are taking the day off, so it's a good time to schedule a canal tour with [Canal Tours Copenhagen](http://www.stromma.dk/en/copenhagen/sightseeing/sightseeing-by-boat/the-grand-tour/ "Canal Tours Copenhagen"){:target="_blank"}. They run daily and frequently enough.
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-01.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-01.jpg)  
 _Danish Parliament at Christiansborg Palace from the canal_
 
 The canal tour takes you from the narrow canal by Christiansborg Palace to the much wider one with other famous sites, like Amalienborg Palace, the Little Mermaid and the Opera House to the canals in Christianshavn and then back again.
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-02.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-02.jpg)  
 _Copenhagen Opera House in the distance_
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-03.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-03.jpg)  
 _Modern Danish architecture from the water_
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-04.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-04.jpg)  
 _The Royal Cast Collection with a copy of Michelangelo's David out front_
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-05.jpg)
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-05.jpg)
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-06.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-06.jpg)  
 _Holmen Naval Station_
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-07.jpg)  
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-07.jpg)  
 _Amalienborg Palace, with the Marble Church (Frederiks Kirke) behind it_
 
 While couldn't have gone on the water without passing by the famous Little Mermaid statue, I didn't include a photo from the canal tour in this recap post. It would only show the statue with the hordes of people crowded around it for photos. Plus, she's facing the shore, so it was really just the back of her that we saw from the boat.
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-08.jpg)
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-08.jpg)
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-09.jpg)
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-09.jpg)
 
 The tour lasts approximately an hour long, and we were back at our starting point in no time. The tour is conducted in Danish and English, with a possible third language in the mix depending on who's on the boat at the time.
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-10.jpg)
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-10.jpg)
 
 {:.center}
-![Canal Tours Copenhagen](/assets/posts/2015-04-06-see-copenhagen-canal-tours-copenhagen/see-copenhagen-canal-tours-copenhagen-cover.jpg)
+![Canal Tours Copenhagen](/assets/posts/2015-04-06/see-copenhagen-canal-tours-copenhagen-cover.jpg)
 
 Canal Tours Copenhagen is one of 72 museums and attractions included on the [Copenhagen Card](http://www.copenhagencard.com/?currency=dkk "Copenhagen Card"){:target="_blank"}. With 24-, 48-, 72-, and 120-hour cards to choose from, the Copenhagen Card also covers all transport by train, bus, harbor bus and metro in the entire Copenhagen region, including from/to the airport.
 

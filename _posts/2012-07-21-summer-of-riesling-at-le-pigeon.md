@@ -8,8 +8,8 @@ wordpress_url: http://superduperfantastic.com/?p=17151
 date: '2012-07-21 16:57:48 -0700'
 disqus_id: 17151 http://superduperfantastic.com/?p=17151
 excerpt: <p>This weekend's Saturday Swig - it's the summer of Riesling at Le Pigeon in Portland. We tried the Riesling flight of three Brandborgs.</p>
-image: /assets/posts/2012-07-21-summer-of-riesling-at-le-pigeon/summer-of-riesling-at-le-pigeon-cover.jpg
-thumbnail: /assets/posts/2012-07-21-summer-of-riesling-at-le-pigeon/summer-of-riesling-at-le-pigeon-thumb.jpg
+image: /assets/posts/2012-07-21/summer-of-riesling-at-le-pigeon-cover.jpg
+thumbnail: /assets/posts/2012-07-21/summer-of-riesling-at-le-pigeon-thumb.jpg
 categories:
 - Oregon
 - Thirsty
@@ -23,6 +23,6 @@ comments: true
 I was quite surprised at how dry they all were. None of them were the usual sweet Riesling that I was accustomed to. I did notice that the three were quite different from each other in both the nose and the taste.
 
 {:.center}
-![Saturday Swig - Brandborg Rieslings](/assets/posts/2012-07-21-summer-of-riesling-at-le-pigeon/summer-of-riesling-at-le-pigeon-cover.jpg)
+![Saturday Swig - Brandborg Rieslings](/assets/posts/2012-07-21/summer-of-riesling-at-le-pigeon-cover.jpg)
 
 All so delicious for different reasons!

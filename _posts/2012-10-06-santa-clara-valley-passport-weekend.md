@@ -7,8 +7,8 @@ wordpress_id: 18460
 wordpress_url: http://superduperfantastic.com/?p=18460
 date: '2012-10-06 23:57:05 -0700'
 disqus_id: 18460 http://superduperfantastic.com/?p=18460
-image: /assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-cover.jpg
-thumbnail: /assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-thumb.jpg
+image: /assets/posts/2012-10-06/santa-clara-valley-passport-weekend-cover.jpg
+thumbnail: /assets/posts/2012-10-06/santa-clara-valley-passport-weekend-thumb.jpg
 excerpt: <p>Saturday Swig - Second weekend in 2012 for the Santa Clara Valley Passport Weekend. We visit J. Lohr, Cinnabar, and Cooper-Garrod Estate Vineyards.</p>
 categories:
 - Thirsty
@@ -17,7 +17,7 @@ tags:
 - Saturday Swig
 comments: true
 ---
-![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} ![Santa Clara Valley Passport Weekend](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-01.jpg){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is actually an event - the Santa Clara Valley Passport Weekend!
+![Saturday Swig](https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png){:.left} ![Santa Clara Valley Passport Weekend](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-01.jpg){:.right} This week's [Saturday Swig](http://superduperfantastic.com/tag/saturday-swig/ "Saturday Swig") is actually an event - the Santa Clara Valley Passport Weekend!
 
 The passport is $30. It includes tastings for two specific weekends during the year, PLUS whatever festivities the participating wineries have planned for passport holders. That's two separate wine tasting weekends and opportunities to try out wineries in a region we hadn't tasted in before.
 
@@ -30,7 +30,7 @@ Since we started a bit later in the day, we only visited three - [J. Lohr](http:
 [J. Lohr](http://www.jlohr.com/ "J. Lohr"){:target="_blank"} was our first official stop during the fall weekend. Earlier in the day, we were at the San Carlos Wine and Art Festival, so it wasn't my first sip for the day.
 
 {:.center}
-![J. Lohr](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-02.jpg){:width="49%"} ![J. Lohr](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-03.jpg){:width="49%"}
+![J. Lohr](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-02.jpg){:width="49%"} ![J. Lohr](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-03.jpg){:width="49%"}
 
 With a plate of cheese and crackers, we tried two whites and several more reds. There was a handy map on the table, showing that many of the vines are located in the valley just south of Monterey. Since we were passport holders, we got discounts on bottles purchased!
 
@@ -39,18 +39,18 @@ With a plate of cheese and crackers, we tried two whites and several more reds. 
 Our second stop was at the tasting room of [Cinnabar Winery](http://cinnabarwine.com/ "Cinnabar"){:target="_blank"} in Saratoga. Again, plenty of wine to try! The passport tasting was done at the counter, rather than a separate table like at J. Lohr, so it was a tasting experience similar to that of just walking in on any other day. The tasting room is quite spacious with a few tables outside if you want to enjoy some fresh air with your wine.
 
 {:.center}
-![Cinnabar](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-04.jpg)
+![Cinnabar](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-04.jpg)
 
 ## Santa Clara Valley Passport Weekend - Stop #3
 
 Our third and final stop was [Cooper-Garrod Vineyards](http://www.cgv.com/ "Cooper-Garrod"){:target="_blank"} up in the hillside of Saratoga. Ryan has to do a better job of holding onto my wallet after I've gone tasting for a few hours because not only did we buy a bottle of wine, but I also joined their wine club. Oops!
 
 {:.center}
-![](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-05.jpg){:width="49%"} ![](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-06.jpg){:width="49%"}
+![](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-05.jpg){:width="49%"} ![](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-06.jpg){:width="49%"}
 
 It's a one-year commitment, so we'll do that and see where it goes from there.
 
 {:.center}
-![](/assets/posts/2012-10-06-santa-clara-valley-passport-weekend/santa-clara-valley-passport-weekend-07.jpg)
+![](/assets/posts/2012-10-06/santa-clara-valley-passport-weekend-07.jpg)
 
 But how can you resist the horses?! I couldn't. If I never take advantage of our horseback riding discount, then I might have to reconsider!

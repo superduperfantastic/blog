@@ -9,8 +9,8 @@ wordpress_id: 16007
 wordpress_url: http://superduperfantastic.com/?p=16007
 disqus_id: 16007 http://superduperfantastic.com/?p=16007
 date: '2012-06-09 23:38:46 -0700'
-image: /assets/posts/2012-06-09-blt-bloody-mary/blt-bloody-mary-cover.jpg
-thumbnail: /assets/posts/2012-06-09-blt-bloody-mary/blt-bloody-mary-thumb.jpg
+image: /assets/posts/2012-06-09/blt-bloody-mary-cover.jpg
+thumbnail: /assets/posts/2012-06-09/blt-bloody-mary-thumb.jpg
 categories:
 - Thirsty
 tags:
@@ -27,7 +27,7 @@ Unfortunately I didn't grab a photo of the spread, but it included cornbread muf
 So this week's photo - a BLT Bloody Mary.
 
 {:.center}
-![BLT Bloody Mary](/assets/posts/2012-06-09-blt-bloody-mary/blt-bloody-mary-cover.jpg)
+![BLT Bloody Mary](/assets/posts/2012-06-09/blt-bloody-mary-cover.jpg)
 
 My gluten-free guest was inspired to recreate the Bloody Mary served at [Thieves Tavern](http://www.yelp.com/biz/thieves-tavern-san-francisco){:target="_blank"}. I've not tried it at the source of inspiration, but it was a delicious combination of tomato, Worcestershire, horseradish, seasoning, a skewer of cherry tomatoes and bacon smeared with cream cheese and a leaf of lettuce. While I'm not a fan of Worcestershire sauce and horseradish, they're acceptable in small quantities in a Bloody Mary. I do love them with a little kick.
 

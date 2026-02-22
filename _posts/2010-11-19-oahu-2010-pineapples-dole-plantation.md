@@ -10,8 +10,8 @@ disqus_id: 5461 http://superduperfantastic.net/?p=5461
 wordpress_id: 5461
 wordpress_url: http://superduperfantastic.net/?p=5461
 date: '2010-11-19 07:05:14 -0800'
-image: /assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-cover.jpg
-thumbnail: /assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-thumb.jpg
+image: /assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-cover.jpg
+thumbnail: /assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-thumb.jpg
 excerpt: <p>Our visit to Oahu was not complete without a stop at the Dole plantation for Dole Whips!</p>
 categories:
 - Hawaii
@@ -20,40 +20,40 @@ tags:
 comments: true
 ---
 {:.center}
-![Ohai!](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-01.jpg)
+![Ohai!](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-01.jpg)
 
 Since we were heading north via Kamehameha Highway, we made a stop at the [Dole Plantation](http://www.dole-plantation.com/){:target="_blank"} for pineapple soft serve and silly cardboard cut-out photo ops.
 
 {:.center}
-![Dole Plantation](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-02.jpg){:width="49%"} ![Dole Plantation](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-03.jpg){:width="49%"}
+![Dole Plantation](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-02.jpg){:width="49%"} ![Dole Plantation](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-03.jpg){:width="49%"}
 
 {:.center}
-![Dole Plantation](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-04.jpg){:width="49%"} ![Dole Plantation](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-05.jpg){:width="49%"}
+![Dole Plantation](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-04.jpg){:width="49%"} ![Dole Plantation](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-05.jpg){:width="49%"}
 
 We also enjoyed our stroll through the pineapple exhibit. It was definitely not as maintained as the pineapple garden maze that we didn't want to pay for, but it still gave me a few lovely photos of different pineapple species.
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-06.jpg "Dole Plantation")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-06.jpg "Dole Plantation")
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-07.jpg "Dole Plantation")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-07.jpg "Dole Plantation")
 
 The koi pond/pool behind the display of pineapples freaked me out a little bit.
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-08.jpg "Dole Plantation")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-08.jpg "Dole Plantation")
 
 Not only were there a LOT of fish, they were also HUGE and RAVENOUS.
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-09.jpg "Dole Plantation")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-09.jpg "Dole Plantation")
 
 You could put in a quarter or two for food to feed the fish, but I was more afraid that they'd get too wild and jump out of the water. They don't mess around. They've all got their eating faces on!
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-10.jpg "Dole Plantation")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-10.jpg "Dole Plantation")
 
 We left the fish frenzy and continued our drive towards Haleiwa. Stay tuned for the rest of our Sunday adventure, which includes a taro festival and shrimp trucks! Here's the route we took that day:
 
 {:.center}
-![](/assets/posts/2010-11-19-oahu-2010-pineapples-dole-plantation/oahu-2010-pineapples-dole-plantation-11.jpg "Oahu - Day Three")
+![](/assets/posts/2010-11-19/oahu-2010-pineapples-dole-plantation-11.jpg "Oahu - Day Three")

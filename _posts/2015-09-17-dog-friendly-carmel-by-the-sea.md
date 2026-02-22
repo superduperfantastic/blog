@@ -6,8 +6,8 @@ title: Dog-friendly Carmel-by-the-Sea
 wordpress_id: 23842
 wordpress_url: http://superduperfantastic.com/?p=23842
 disqus_id: 23842 http://superduperfantastic.com/?p=23842
-thumbnail: /assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-thumb.jpg
-image: /assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-cover.jpg
+thumbnail: /assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-thumb.jpg
+image: /assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-cover.jpg
 date: '2015-09-17 13:43:36 -0700'
 date_gmt: '2015-09-17 20:43:36 -0700'
 categories: 
@@ -27,13 +27,13 @@ We drove down to Carmel for a birthday weekend for Ryan. One of his "wishes" was
 We stayed at the dog-friendly [Hofsas House Hotel](http://hofsashouse.com/ "Hofsas House Hotel in Carmel-by-the-Sea"){:target="_blank"} during our trip to Carmel-by-the-Sea. For more than six decades, the Theis family has treated guests to their Bavarian-inspired rooms and hospitality. Each room is spacious and uniquely decorated. The Hofsas House is so conveniently located - just steps from the main drag of Carmel-by-the-Sea. 
 
 {:.center}
-![Dog-friendly Carmel-by-the-Sea: Hofsas House](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-01.jpg)\\
+![Dog-friendly Carmel-by-the-Sea: Hofsas House](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-01.jpg)\\
 *Outside of the Hofsas House office*
 
 Fresca also appreciated the warm welcome. For those interested in bringing their pups with them to Hofsas House, there is a small pet fee.
 
 {:.center}
-![Dog-friendly Carmel-by-the-Sea: Hofsas House](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-02.jpg)\\
+![Dog-friendly Carmel-by-the-Sea: Hofsas House](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-02.jpg)\\
 *Doggie welcome package!*
 
 ## Where To Eat ##
@@ -41,13 +41,13 @@ Fresca also appreciated the warm welcome. For those interested in bringing their
 Upon check-in, we were provided with a few maps of the area. On both, dog-friendly spots are marked, so you know where you're welcome. While we didn't invite Fresca along for *every* meal over the weekend, she got to tag along when we had dinner at [Tarpy's](http://tarpys.com/ "Tarpy's near Carmel-by-the-Sea"){:target="_blank"} in Monterey. They have a dog menu (printed, laminated, the works!), so we ordered Fresca her very own dinner - a grilled "Doggie Delight Burger."
 
 {:.center}
-![Dog-friendly Carmel-by-the-Sea: Tarpy's](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-03.jpg)\\
+![Dog-friendly Carmel-by-the-Sea: Tarpy's](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-03.jpg)\\
 *Where's my food?*
 
 She was pretty excited about that and beat us in the dinner gobbling race.
 
 {:.center}
-![Dog-friendly Carmel-by-the-Sea: Tarpy's](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-04.jpg)\\
+![Dog-friendly Carmel-by-the-Sea: Tarpy's](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-04.jpg)\\
 *Ready to gobble!*
 
 ## Where To Drink ##
@@ -55,31 +55,31 @@ She was pretty excited about that and beat us in the dinner gobbling race.
 Carmel's tasting rooms are all within a few blocks of each other and are all dog-friendly. Some are right on the street while others are tucked away in hidden courtyards. Many participate in the [Carmel Wine Walk-by-the-Sea Wine Tasting Passport program](http://carmelwinewalk.org){:target="_blank"}, which is a self-paced, self-guided stroll to the tasting rooms. By purchasing the passport, you gain access to nine tastings at the fourteen participating wineries.
 
 {:.center}
-![Wine Tasting in dog-friendly Carmel](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-05.jpg)
+![Wine Tasting in dog-friendly Carmel](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-05.jpg)
 
 During our weekend, we shared tastings and stopped by Alexander-Smith, Dawn's Dream, De Tierra Vineyards, Galante Vineyards, and Scheid Wines. Chardonnay and Pinot is the specialty of the area since the grapes are grown in nearby Santa Lucia Highlands, Carmel Valley, and the Monterey and Santa Cruz Mountains.
 
 {:.center}
-![Dog-friendly Carmel](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-06.jpg)\\
+![Dog-friendly Carmel](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-06.jpg)\\
 *Fresca made herself at home at each of the tasting rooms we visited*
 
 Passports can either be purchased online, at the Carmel Visitor Center, or even through some of the accommodations in the area. Since the passport does not expire, we have a few more tastings to enjoy the next time we are in the area.
 
 ## Where To Explore ##
 {:.center}
-![Dog-friendly Carmel](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-07.jpg)\\
+![Dog-friendly Carmel](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-07.jpg)\\
 *Fresca intrigued by the sights and sounds of Mission Trail Park*
 
 **Mission Trail Nature Preserve and Park** is a fantastic spot for an easy hike. It is Carmel's largest park spanning 35 acres with five miles of trails for exploring. We parked at the Mountain View Avenue entrance and walked all the way to the Carmel Mission on the other side of the park. Fresca enjoyed taking a peek at [Mission San Carlos Borromeo de Carmelo](http://www.carmelmission.org/ "Mission San Carlos Borromeo de Carmelo"){:target="_blank"} from the outside.
 
 {:.center}
-![Dog-friendly Carmel](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-cover.jpg)\\
+![Dog-friendly Carmel](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-cover.jpg)\\
 *Outside of the Carmel Mission*
 
 And as always, <strong>Carmel Beach City Park</strong> is a favorite.
 
 {:.center}
-![Dog-friendly Carmel](/assets/posts/2015-09-17-dog-friendly-carmel-by-the-sea/dog-friendly-carmel-by-the-sea-08.jpg)\\
+![Dog-friendly Carmel](/assets/posts/2015-09-17/dog-friendly-carmel-by-the-sea-08.jpg)\\
 *Fresca exploring the tidepools*
 
 *Disclosure: Thanks to [Hofsas House Hotel](http://hofsashouse.com/ "Hofsas House Hotel in Carmel-by-the-Sea"){:target="_blank"} for hosting our weekend in dog-friendly Carmel-by-the-Sea. All opinions expressed here are my own.*
