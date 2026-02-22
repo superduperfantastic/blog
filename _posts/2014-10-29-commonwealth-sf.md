@@ -88,3 +88,5 @@ After a celery sorbet palate cleanser, we were ready to tackle dessert. Again, o
 Our reservations were at 5:30, and we were out of there with enough time to catch the end of the Giants/Royals game. Parking is available in their small lot for $5 (added to your bill), and thankfully they let us park there when we wandered out after dinner looking for a bar with the game on.
 
 The cherry on top of it all - we won that night!
+
+**Update:** Commonwealth has since closed, but this post remains as a memory of our visit.
