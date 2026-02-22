@@ -9,7 +9,6 @@
 Sorted easiest-first (fewest Flickr links).
 - [ ] `_posts/2012-04-02-oregon-cheese-festival-2012.md` (1 Flickr link) - [open](./_posts/2012-04-02-oregon-cheese-festival-2012.md)
 - [ ] `_posts/2014-08-14-goodbye-sasha-repost.md` (1 Flickr link) - [open](./_posts/2014-08-14-goodbye-sasha-repost.md)
-- [ ] `_posts/2017-05-22-superbloom-carrizo-plain-national-monument.md` (1 Flickr link) - [open](./_posts/2017-05-22-superbloom-carrizo-plain-national-monument.md)
 - [ ] `_posts/2018-04-20-2018-freestyle-01.md` (1 Flickr link) - [open](./_posts/2018-04-20-2018-freestyle-01.md)
 - [ ] `_posts/2012-11-03-festive-mimosas-with-katherine.md` (3 Flickr links) - [open](./_posts/2012-11-03-festive-mimosas-with-katherine.md)
 - [ ] `_posts/2013-01-05-wild-hibiscus.md` (3 Flickr links) - [open](./_posts/2013-01-05-wild-hibiscus.md)
@@ -39,3 +38,4 @@ Sorted easiest-first (fewest Flickr links). These are currently hidden (`publish
 
 ## Notes
 - Checklist regenerated from current repo state and reordered by estimated effort.
+- Excluded: `_posts/2017-05-22-superbloom-carrizo-plain-national-monument.md` (intentional external Flickr reference, not your asset dependency).
