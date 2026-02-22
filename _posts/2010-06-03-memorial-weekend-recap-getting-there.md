@@ -17,7 +17,7 @@ tags:
 - Bryce Canyon National Park
 comments: true
 ---
-On Friday night, Ryan and I began the drive eastward. Our Google Maps-recommended route from San Francisco to [Bryce Canyon National Park](http://www.flickr.com/photos/suki/sets/72157624193218854/) was through Yosemite National Park and would take approximately 12.5 hours without any breaks.
+On Friday night, Ryan and I began the drive eastward. Our Google Maps-recommended route from San Francisco to [Bryce Canyon National Park](/memorial-weekend-recap-bryce-canyon-np/) was through Yosemite National Park and would take approximately 12.5 hours without any breaks.
 
 Little did we know or think to do the research ahead of time, but the road through Yosemite was actually still closed for the winter. So around 2am, I'm driving around Yosemite in the dark, navigating via GPS since there was no cell phone reception where we ended up. I think I drove the same loop 3x before figuring out that we'd have to head south before heading east, aka "the long way."
 
@@ -34,7 +34,7 @@ We continued our drive through the rest of Nevada and through the northwestern p
 
 ![](/assets/posts/2010-06-03/memorial-weekend-recap-getting-there-04.jpg "Entering Utah")
 
-Since we had made this detour, we drove through St. George and [Zion National Park](http://www.flickr.com/photos/suki/sets/72157624193615444/) to get to Hatch, where we were staying. We checked in around 5:30pm, but we didn't realize that there was a one-hour time difference, so we actually lost an hour in transition, so it was really 6:30pm. After dropping off our belongings, we decided to freshen up and head out to Bryce Canyon for sunset. It always amazes me how worn out one can get from just sitting in a car all day. The same thing happens after a long plane ride. We drove out to Sunset Point inside Bryce Canyon National Park, checked out the scenery, and then headed back.
+Since we had made this detour, we drove through St. George and [Zion National Park](/memorial-weekend-recap-zion-national-park/) to get to Hatch, where we were staying. We checked in around 5:30pm, but we didn't realize that there was a one-hour time difference, so we actually lost an hour in transition, so it was really 6:30pm. After dropping off our belongings, we decided to freshen up and head out to Bryce Canyon for sunset. It always amazes me how worn out one can get from just sitting in a car all day. The same thing happens after a long plane ride. We drove out to Sunset Point inside Bryce Canyon National Park, checked out the scenery, and then headed back.
 
 After the long day, we rewarded ourselves with dinner and boots of beer.
 
