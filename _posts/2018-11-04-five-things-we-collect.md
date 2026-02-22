@@ -4,8 +4,8 @@ status: publish
 published: true
 title: Five Things We Collect
 disqus_id: five-things-we-collect
-image: https://c2.staticflickr.com/2/1956/45728252401_a18b78b002.jpg
-thumbnail: https://c2.staticflickr.com/2/1956/45728252401_a18b78b002_q.jpg
+image: /assets/posts/2018-11-04-five-things-we-collect/45728252401_a18b78b002.jpg
+thumbnail: /assets/posts/2018-11-04-five-things-we-collect/45728252401_a18b78b002_q.jpg
 excerpt: <p>Five things we collect - national park passport stamps, fish decor, Disney and other pins, Legos and stickers. </p>
 date: 2018-11-04
 categories:

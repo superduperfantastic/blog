@@ -5,8 +5,8 @@ published: true
 title: Monthly Recap - December
 disqus_id: december-2019
 excerpt: <p>Here's a recap of my December, the last month of the last year of the latest decade. It felt a bit slower paced, even with travel. I even made time to create a vision board for 2020.</p>
-image: https://live.staticflickr.com/65535/49313334577_03d0218d2a.jpg
-thumbnail: https://live.staticflickr.com/65535/49313334577_03d0218d2a_q.jpg
+image: /assets/posts/2020-01-02-monthly-recap-december-2019/49313334577_03d0218d2a.jpg
+thumbnail: /assets/posts/2020-01-02-monthly-recap-december-2019/49313334577_03d0218d2a_q.jpg
 date: 2020-01-01
 categories:
 - Life
@@ -26,7 +26,7 @@ Ryan's and my holiday parties were scheduled for the same day around the same ti
 In the second week of the month, we headed to Orlando for our last trip to Disneyworld for the year. The weather wasn't ideal (read: thunderstorms) this time around, so it wasn't quite as packed with activity as our other trips. Highlights from these five days in the parks:
 
 {:.center}
-![Disneyworld](https://live.staticflickr.com/65535/49313314646_3b04a44830_b.jpg "Disneyworld"){:width="49%"} ![Disneyworld - Takumi-Tei](https://live.staticflickr.com/65535/49313520652_0bd74a2edf_b.jpg "Disneyworld - Takumi-Tei"){:width="49%"}
+![Disneyworld](/assets/posts/2020-01-02-monthly-recap-december-2019/49313314646_3b04a44830_b.jpg "Disneyworld"){:width="49%"} ![Disneyworld - Takumi-Tei](/assets/posts/2020-01-02-monthly-recap-december-2019/49313520652_0bd74a2edf_b.jpg "Disneyworld - Takumi-Tei"){:width="49%"}
 
 >- Mickey's Very Merry Christmas Party became Mickey's Very Rainy Christmas Party because Ryan had convinced me to leave the ponchos that we had brought in our room. Had we not purchased extra tickets for this event, we could've just chilled in our room rather than hang out in the rain. Once we were at the park, it was too far to go get them, and we were not convinced that we should buy new ones. I made sure to give Ryan a hard time about it the whole night since it limited our movement around the park. 
 
@@ -39,7 +39,7 @@ In the second week of the month, we headed to Orlando for our last trip to Disne
 We spent time with Ryan's mom's family in SoCal this year. Instead of flying, we drove down with Fresca in tow. We made a stop along the Central Coast on our way down to visit  friends, zebras and elephant seals. Since I hadn't officially taken any time off from work, I worked remotely on Monday. We had Christmas Eve dinner with the fam, and the rest of the time leading up to this dinner was spent preparing for said dinner. It was a good time, and most of the differing opinions were kept at bay. To avoid traffic and bad weather, we drove back on Christmas day.
 
 {:.center}
-![December 2019](https://live.staticflickr.com/65535/49314509522_5a1dcbd0cc_w.jpg)
+![December 2019](/assets/posts/2020-01-02-monthly-recap-december-2019/49314509522_5a1dcbd0cc_w.jpg)
 
 ### Star Wars 
 
@@ -61,6 +61,6 @@ Bloom with Grace
 Resourced, Intentional, Joyful, Discovery, Savor
 
 {:.center}
-![vision board](https://live.staticflickr.com/65535/49313334577_03d0218d2a_b.jpg)
+![vision board](/assets/posts/2020-01-02-monthly-recap-december-2019/49313334577_03d0218d2a_b.jpg)
 
 >### Do you spend time reflecting on the past and planning for the future? What is in store for your 2020? What are you most looking forward to?

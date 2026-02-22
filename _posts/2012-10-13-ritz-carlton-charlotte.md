@@ -8,8 +8,8 @@ wordpress_url: http://superduperfantastic.com/?p=18590
 disqus_id: 18590 http://superduperfantastic.com/?p=18590
 date: '2012-10-13 23:32:07 -0700'
 excerpt: <p>Saturday Swig - Stopping in at the Ritz Carlton Charlotte for a quick drink (Eco-Centric) during a weekend of NASCAR and Toyota Women's Influencer Network.</p>
-image: https://farm9.staticflickr.com/8190/8089324750_50ec232a28_b.jpg
-thumbnail: https://farm9.staticflickr.com/8190/8089324750_50ec232a28_q.jpg
+image: /assets/posts/2012-10-13-ritz-carlton-charlotte/8089324750_50ec232a28_b.jpg
+thumbnail: /assets/posts/2012-10-13-ritz-carlton-charlotte/8089324750_50ec232a28_q.jpg
 categories:
 - North Carolina
 - Thirsty
@@ -25,7 +25,7 @@ comments: true
 I ordered the drink at the top of the cocktail menu - something they call "Eco-Centric." It's organic vodka with strawberries and grapes topped with bubbles. It wasn't as sweet as I thought it would be, but it was still delicious. The bartender was kind enough to supply some snacks, and I sat down by the fireplace to take it all in.
 
 {:.center}
-![Ritz Carlton Charlotte](https://farm9.staticflickr.com/8190/8089324750_50ec232a28_b.jpg)
+![Ritz Carlton Charlotte](/assets/posts/2012-10-13-ritz-carlton-charlotte/8089324750_50ec232a28_b.jpg)
 
 I'm beginning to embrace my introverted side more and more.
 

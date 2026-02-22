@@ -9,8 +9,8 @@ wordpress_id: 16118
 wordpress_url: http://superduperfantastic.com/?p=16118
 disqus_id: 16118 http://superduperfantastic.com/?p=16118
 date: '2012-06-16 23:46:00 -0700'
-image: https://farm8.staticflickr.com/7235/7360651376_efc3f07966_b.jpg
-thumbnail: https://farm8.staticflickr.com/7235/7360651376_efc3f07966_q.jpg
+image: /assets/posts/2012-06-16-can-can-cleanse/7360651376_efc3f07966_b.jpg
+thumbnail: /assets/posts/2012-06-16-can-can-cleanse/7360651376_efc3f07966_q.jpg
 categories:
 - Thirsty
 tags:
@@ -25,7 +25,7 @@ Here's my first non-alcoholic [Saturday Swig](http://superduperfantastic.com/tag
 ## The Cleanse
 
 {:.center}
-![CAN CAN](https://farm9.staticflickr.com/8004/7360653270_93e8139ded_b.jpg)
+![CAN CAN](/assets/posts/2012-06-16-can-can-cleanse/7360653270_93e8139ded_b.jpg)
 
 I have a few reasons for selecting this particular cleanse. There seem to be more drinks - **eight** each day, and they are made from fresh seasonal ingredients. I had a chance to sample some of the juices when founder Teresa Piro introduced the cleanse at an event. Each serving comes in the cutest of jars, all of which I have subsequently cleaned out for reuse.
 
@@ -42,6 +42,6 @@ SO HUNGRY, but it was nice to treat my body to a detox.
 In the three days of the cleanse, I consumed 24 beverages - two fruit juices, two green juices, two herbal teas, a nut milk and one savory soup. Even with eight tasty drinks each day, my body was always craving more. I definitely cheated the first time I did the cleanse with hard boiled eggs for a bit of extra protein, and the second time I took a bite of steamed chicken! I'm certain that I'll survive the next time around.
 
 {:.center}
-![CAN CAN](https://farm8.staticflickr.com/7235/7360651376_efc3f07966_b.jpg)
+![CAN CAN](/assets/posts/2012-06-16-can-can-cleanse/7360651376_efc3f07966_b.jpg)
 
 **Have you done a cleanse like this? How'd it go? For those who haven't, would you?**

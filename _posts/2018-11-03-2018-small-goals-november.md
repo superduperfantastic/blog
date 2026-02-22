@@ -4,8 +4,8 @@ status: publish
 published: true
 title: Small Goals in November {2018}
 disqus_id: 2018-11-goals
-image: https://c1.staticflickr.com/5/4822/44991148654_9788def360.jpg
-thumbnail: https://c1.staticflickr.com/5/4822/44991148654_9788def360_q.jpg
+image: /assets/posts/2018-11-03-2018-small-goals-november/44991148654_9788def360.jpg
+thumbnail: /assets/posts/2018-11-03-2018-small-goals-november/44991148654_9788def360_q.jpg
 excerpt: <p>Here are the things I'd love to work on in November - blogging every day, voting, a wardrobe overhaul, online ePadi course, and being stinky...</p>
 date: 2018-11-03
 categories:

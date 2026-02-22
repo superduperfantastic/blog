@@ -12,8 +12,8 @@ categories:
 - Thirsty
 tags:
 - Saturday Swig
-image: https://farm9.staticflickr.com/8175/8018730789_35aca5f112_b.jpg
-thumbnail: https://farm9.staticflickr.com/8175/8018730789_35aca5f112_q.jpg
+image: /assets/posts/2012-09-22-california-altered-state-fair/8018730789_35aca5f112_b.jpg
+thumbnail: /assets/posts/2012-09-22-california-altered-state-fair/8018730789_35aca5f112_q.jpg
 excerpt: <p>Saturday Swig - In celebration of San Francisco's 6th Annual Cocktail Week, we attended the California Altered State Fair by Jupiter Olympus.</p>
 comments: true
 ---
@@ -24,7 +24,7 @@ The event page encouraged festive attire, so I took that as an invitation to don
 Cocktail offerings included a Salt-Water Taffy Old Fashioned, a Manhattan Sno-Cone, Watermelon Punch [pictured below], Orange Jerrius [pictured below], and Jupiter Olympus-made vegetable liqueurs in kale, radish/fennel and corn on the cob flavors to be paired with either vodka or gin.
 
 {:.center}
-![California Altered State Fair - Watermelon](https://farm9.staticflickr.com/8175/8018733718_97d4a67c58.jpg){:width="49%"} ![California Altered State Fair - Orange Jerrius](https://farm9.staticflickr.com/8437/8018734774_342d2887fb.jpg){:width="49%"}
+![California Altered State Fair - Watermelon](/assets/posts/2012-09-22-california-altered-state-fair/8018733718_97d4a67c58.jpg){:width="49%"} ![California Altered State Fair - Orange Jerrius](/assets/posts/2012-09-22-california-altered-state-fair/8018734774_342d2887fb.jpg){:width="49%"}
 
 I started off with the **Watermelon Punch**, which had tequila, triple sec, watermelon juice, green tea and lime in it. It was an interesting combination that worked well together. While not as sweet, it reminded me of a watermelon Jolly Rancher with its slight tang.
 
@@ -33,17 +33,17 @@ I tried a few of the other drinks, but ended the night with probably my _third_ 
 Other highlights of the evening: Games and a Petting Zoo!
 
 {:.center}
-![California Altered State Fair - Ring Toss](https://farm9.staticflickr.com/8035/8018733458_3688129a44.jpg){:width="49%"} ![California Altered State Fair - Petting Zoo](https://farm9.staticflickr.com/8175/8018730789_35aca5f112.jpg){:width="49%"}
+![California Altered State Fair - Ring Toss](/assets/posts/2012-09-22-california-altered-state-fair/8018733458_3688129a44.jpg){:width="49%"} ![California Altered State Fair - Petting Zoo](/assets/posts/2012-09-22-california-altered-state-fair/8018730789_35aca5f112.jpg){:width="49%"}
 
 Hello, most adorable alpaca [_I think_] with such a fabulous haircut! There were also rabbits, a pig, a miniature goat, a miniature bull and a small donkey.
 
 {:.center}
-![California Altered State Fair - Petting Zoo](https://farm9.staticflickr.com/8040/8018735238_d340119b01_b.jpg)
+![California Altered State Fair - Petting Zoo](/assets/posts/2012-09-22-california-altered-state-fair/8018735238_d340119b01_b.jpg)
 
 At the end of the evening, the winner of the California State Cocktail was announced at the fair. They'd taken an online poll in the weeks prior. Up for the runnning were the Mai Tai, Martinez, and Pisco Punch. Human representations of each cocktail were invited on stage, and the winner was crowned.
 
 {:.center}
-![California Altered State Fair](https://farm9.staticflickr.com/8301/8018731563_8a6523f082_b.jpg)
+![California Altered State Fair](/assets/posts/2012-09-22-california-altered-state-fair/8018731563_8a6523f082_b.jpg)
 
 In case you can't read her ribbon in my poorly lit photo, Pisco Punch took home the title!
 

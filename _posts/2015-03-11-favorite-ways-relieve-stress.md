@@ -36,7 +36,7 @@ I am a sucker for a good massage, however. Even between these massages, I someti
 Love and animals! They love you no matter what. Somehow, they know when you're down and need a few extra snuggles. Definitely one of my favorite ways to cope with stress. They're particularly helpful for keeping you grounded in the here and now. Their only concerns are of the present, not the past or future.
 
 {:.center}
-![Fresca](https://farm9.staticflickr.com/8648/16008897464_7b2b532983_c.jpg)
+![Fresca](/assets/posts/2015-03-11-favorite-ways-relieve-stress/16008897464_7b2b532983_c.jpg)
 
 ### 4) Sleep
 

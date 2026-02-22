@@ -8,8 +8,8 @@ disqus_id: 18149 http://superduperfantastic.com/?p=18149
 wordpress_id: 18149
 wordpress_url: http://superduperfantastic.com/?p=18149
 date: '2012-09-15 21:24:23 -0700'
-image: https://farm9.staticflickr.com/8450/7984707748_82a280be16_b.jpg
-thumbnail: https://farm9.staticflickr.com/8450/7984707748_82a280be16_q.jpg
+image: /assets/posts/2012-09-15-root-beer-float-disneyland/7984707748_82a280be16_b.jpg
+thumbnail: /assets/posts/2012-09-15-root-beer-float-disneyland/7984707748_82a280be16_q.jpg
 excerpt: <p>Saturday Swig - This week's post is from our recent Disneyland trip. Enjoying a root beer float at Disneyland's Golden Horseshoe Saloon in Frontierland!</p>
 categories:
 - Thirsty
@@ -25,9 +25,9 @@ With the holiday the weekend before, Disneyland was more relaxing than any other
 ### Root Beer Float Time!
 
 {:.center}
-![Disneyland - Golden Horseshoe](https://farm9.staticflickr.com/8450/7984707748_82a280be16.jpg){:width="52%"} ![Disneyland - Root Beer Float](https://farm9.staticflickr.com/8444/7984702209_d131b0e622.jpg){:width="23%"} ![Disneyland - Root Beer Float](https://farm9.staticflickr.com/8305/7984701873_475c073e2a.jpg){:width="23%"} 
+![Disneyland - Golden Horseshoe](/assets/posts/2012-09-15-root-beer-float-disneyland/7984707748_82a280be16.jpg){:width="52%"} ![Disneyland - Root Beer Float](/assets/posts/2012-09-15-root-beer-float-disneyland/7984702209_d131b0e622.jpg){:width="23%"} ![Disneyland - Root Beer Float](/assets/posts/2012-09-15-root-beer-float-disneyland/7984701873_475c073e2a.jpg){:width="23%"} 
 
 {:.center}
-![Disneyland - Golden Horseshoe](https://farm9.staticflickr.com/8459/7984700431_42dcdd55c7_b.jpg)
+![Disneyland - Golden Horseshoe](/assets/posts/2012-09-15-root-beer-float-disneyland/7984700431_42dcdd55c7_b.jpg)
 
 Unfortunately, we made the root beer float break a little on the early side. We missed the shows that you'd normally find at the Golden Horseshoe since we didn't check our schedules until _after_ we'd already devoured the floats and made our way across the park. We'll have to time it better next time!

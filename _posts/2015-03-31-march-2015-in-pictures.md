@@ -6,8 +6,8 @@ title: March 2015 in Pictures
 wordpress_id: 23379
 wordpress_url: http://superduperfantastic.com/?p=23379
 disqus_id: 23379 http://superduperfantastic.com/?p=23379
-image: https://c2.staticflickr.com/8/7797/17964078499_fc3d9c73a6_b.jpg
-thumbnail: https://c2.staticflickr.com/8/7797/17964078499_fc3d9c73a6_q.jpg
+image: /assets/posts/2015-03-31-march-2015-in-pictures/17964078499_fc3d9c73a6_b.jpg
+thumbnail: /assets/posts/2015-03-31-march-2015-in-pictures/17964078499_fc3d9c73a6_q.jpg
 excerpt: <p>Daily photo project (#365infocus) in March 2015 - Plenty of Fresca and Sergio photos, lightning in SF, our short trip to Carmel, and a whole lot of sashimi.</p>
 date: '2015-03-31 12:00:48 -0700'
 categories:
@@ -22,7 +22,7 @@ Happy last day of March! I'm no longer using the [#365infocus project](http://36
 Here's March 2015:
 
 {:.center}
-![March 2015 in Pictures](https://farm8.staticflickr.com/7617/16985015242_af6c9074e4_h.jpg)
+![March 2015 in Pictures](/assets/posts/2015-03-31-march-2015-in-pictures/16985015242_af6c9074e4_h.jpg)
 
 There was a lightning storm at the beginning of the month. Not normal, but when has the weather these days been normal?
 

@@ -7,8 +7,8 @@ excerpt:
 wordpress_id: 25
 wordpress_url: http://superduperfantastic.net/archives/2007/03/31/in-wyoming/
 disqus_id: 25 http://superduperfantastic.net/archives/2007/03/31/in-wyoming/
-image: https://c1.staticflickr.com/1/195/459548886_8654ae2a29_b.jpg
-thumbnail: https://c1.staticflickr.com/1/195/459548886_8654ae2a29_q.jpg
+image: /assets/posts/2007-03-31-in-wyoming/459548886_8654ae2a29_b.jpg
+thumbnail: /assets/posts/2007-03-31-in-wyoming/459548886_8654ae2a29_q.jpg
 excerpt: <p>That time I found myself Couchsurfing in Jackson Hole, Wyoming, and how I ended up in such a beautiful place. It was all thanks to a work trip to Idaho!</p>
 date: '2007-03-31 14:37:39 -0700'
 categories:
@@ -19,7 +19,7 @@ tags:
 comments: true
 ---
 {:.center}
-![Welcome to Wyoming](https://c1.staticflickr.com/1/241/459536490_829cb5940a_o.jpg)
+![Welcome to Wyoming](/assets/posts/2007-03-31-in-wyoming/459536490_829cb5940a_o.jpg)
 
 I'm in Jackson, Wyoming.
 
@@ -32,6 +32,6 @@ I didn't want to go home for the weekend, and there isn't much to do in IF, so I
 I tried to drive to [Yellowstone National Park](http://www.nps.gov/yell/), but it's supposed to be closed until a week or two into May. Slightly bummed out about that. No Old Faithful this time around. But on the drive up and down, I spent a bit of time in [Grand Teton National Park](http://www.nps.gov/grte/), stopping for photos along the road.
 
 {:.center}
-![Grand Tetons Wyoming](https://c1.staticflickr.com/1/195/459548886_8654ae2a29_b.jpg)
+![Grand Tetons Wyoming](/assets/posts/2007-03-31-in-wyoming/459548886_8654ae2a29_b.jpg)
 
 Also, it's gorgeous up here.

@@ -43,7 +43,7 @@ The new year is here, and it has us asking, "Where does our money go?" Also, it'
 
 **Pets** - We went from 6% to 3%. The largest chunk of the costs in this category is pet insurance and doggie daycare expenses. Doggie daycare expenses dropped quite a bit since Fresca now commutes with us to work daily.
 
-![Where Does Out Money Go](https://c2.staticflickr.com/2/1539/26415128520_385f6122d1_b.jpg)
+![Where Does Out Money Go](/assets/posts/2017-01-04-2016-edition-where-does-our-money-go/26415128520_385f6122d1_b.jpg)
 
 **Entertainment** We went from 5% to 3%. I still jump at the chance to get out and do fun things, but I've been more careful on the price tags of those fun things. Reducing here means increasing in areas that we've deemed more important. 
 

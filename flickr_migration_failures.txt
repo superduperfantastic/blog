@@ -1,0 +1,635 @@
+# Flickr Migration Failures
+
+Generated: Sat Feb 21 20:25:55 PST 2026
+
+## Summary (failed downloads per post)
+  29  _posts/2015-08-14-eat-sf-omakase.md
+  19  _posts/2015-07-08-lazy-bear.md
+  14  _posts/2018-08-11-2018-predators-of-the-heart.md
+  13  _posts/2018-05-06-valley-fire-state-park.md
+  12  _posts/2016-01-29-meals-in-costa-rica-1.md
+  11  _posts/2016-01-20-san-francisco-zoo.md
+  10  _posts/2015-12-16-mexico-city-9-days-itinerary-2.md
+  10  _posts/2015-09-17-dog-friendly-carmel-by-the-sea.md
+  10  _posts/2015-06-17-see-new-mexico-snakes-american-international-rattlesnake-museum.md
+   9  _posts/2016-05-24-Monteillet-Fromagerie-Love-Cheese-Southeastern-Washington.1.md
+   9  _posts/2016-02-16-mexico-city-9-day-itinerary-4.md
+   8  _posts/2016-07-26-three-ways-international-balloon-fiesta.md
+   8  _posts/2015-12-18-mexico-city-in-9-days-itinerary-3.md
+   8  _posts/2015-12-10-mexico-city-9-day-itinerary-1.md
+   8  _posts/2015-10-14-fleet-week-2015.md
+   8  _posts/2015-07-14-pan-fried-california-halibut-welcome-home-meal.md
+   7  _posts/2016-03-30-bali-at-sunset.md
+   7  _posts/2015-12-31-stuffed-bell-peppers.md
+   7  _posts/2015-09-23-dog-friendly-bodie.md
+   7  _posts/2015-09-03-see-bodie-california-ghost-town-at-night.md
+   7  _posts/2014-10-01-weekend-hike-lake-lagunitas.md
+   6  _posts/2020-01-02-monthly-recap-december-2019.md
+   5  _posts/2020-05-09-life-update-may-2020.md
+   5  _posts/2018-10-06-2018-spending-summary-q3-2018.md
+   5  _posts/2018-07-01-spending-summary-q2-2018.md
+   5  _posts/2018-04-27-2018-freestyle-02.md
+   5  _posts/2018-01-02-2017-edition-where-does-our-money-go.md
+   5  _posts/2017-01-04-2016-edition-where-does-our-money-go.md
+   5  _posts/2016-05-12-a2-milk-australia-trip.md
+   5  _posts/2016-03-01-a2-milk-goodbye-post-dairy-digestive-discomfort.md
+   5  _posts/2015-03-26-currently-v-03-2015.md
+   5  _posts/2015-03-11-favorite-ways-relieve-stress.md
+   4  _posts/2020-01-13-spending-comparison-2019.md
+   4  _posts/2018-05-18-2018-freestyle-03.md
+   4  _posts/2018-05-02-2018-small-goals-may.md
+   4  _posts/2018-04-23-spending-summary-q1-2018.md
+   4  _posts/2016-02-02-february-goals-2016.md
+   4  _posts/2013-01-05-wild-hibiscus.md
+   4  _posts/2012-11-03-festive-mimosas-with-katherine.md
+   3  _posts/2019-12-04-monthly-recap-november-2019.md
+   3  _posts/2018-11-01-living-room-refresh-budget.md
+   3  _posts/2017-01-14-bestday2017-twitter-project.md
+   3  _posts/2016-01-26-2015-edition-where-does-our-money-go.md
+   3  _posts/2016-01-12-january-goals-2016.md
+   3  _posts/2015-10-23-currently-v-07-2015.md
+   3  _posts/2015-08-18-currently-v-06-2015.md
+   3  _posts/2014-09-16-hallway-closet-cleanup.md
+   2  _posts/2019-02-17-bringing-back-101-in-1001.md
+   2  _posts/2019-02-16-spending-comparison-2018.md
+   2  _posts/2018-12-18-fiskmarkadurinn.md
+   2  _posts/2018-11-04-five-things-we-collect.md
+   2  _posts/2018-11-03-2018-small-goals-november.md
+   2  _posts/2018-11-02-week-in-iceland-budget.md
+   2  _posts/2018-04-20-2018-freestyle-01.md
+   2  _posts/2011-03-10-story-of-the-shamrock-shake.md
+   2  _posts/2010-04-09-old-face-new-face.md
+   2  _posts/2007-02-25-final-moment-saying-goodbye.md
+   1  _posts/2015-02-24-currently-v-02-2015.md
+   1  _posts/2015-01-19-currently-v-01-2015.md
+   1  _posts/2014-08-14-goodbye-sasha-repost.md
+   1  _posts/2013-05-04-mexican-beers-cinco-de-mayo.md
+   1  _posts/2013-03-23-blueberry-mint-julep.md
+   1  _posts/2013-03-16-st-paddys-ice-cream-bar.md
+   1  _posts/2013-02-17-sf-beer-week-longer-than-week.md
+   1  _posts/2013-02-02-bloody-herbal-sunrise.md
+   1  _posts/2013-01-26-pear-ginger-mule-pear-moscow-mule.md
+   1  _posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur.md
+   1  _posts/2012-10-13-ritz-carlton-charlotte.md
+   1  _posts/2012-10-06-santa-clara-valley-passport-weekend.md
+   1  _posts/2012-09-29-black-box-california-riesling.md
+   1  _posts/2012-09-22-california-altered-state-fair.md
+   1  _posts/2012-09-15-root-beer-float-disneyland.md
+   1  _posts/2012-09-02-at-the-flying-saucer.md
+   1  _posts/2012-08-18-sat-swig-ever-in-transit-stout-float.md
+   1  _posts/2012-08-11-hotlips-soda.md
+   1  _posts/2012-07-21-summer-of-riesling-at-le-pigeon.md
+   1  _posts/2012-07-14-klamath-basin-brewing-company.md
+   1  _posts/2012-07-07-2011-qualia-sauvignon-blanc.md
+   1  _posts/2012-06-23-drink-me-annual-ball.md
+   1  _posts/2012-06-16-can-can-cleanse.md
+   1  _posts/2012-06-09-blt-bloody-mary.md
+   1  _posts/2012-06-02-2009-qualia-syrah-grenache-blend.md
+   1  _posts/2012-04-02-oregon-cheese-festival-2012.md
+   1  _posts/2010-06-06-memorial-weekend-recap-scenic-highway-12.md
+
+## Failed URLs by post
+
+_posts/2007-02-25-final-moment-saying-goodbye.md
+- https://farm2.static.flickr.com/1286/1179714209_9e3b0b7fb0_q.jpg
+- https://farm2.static.flickr.com/1286/1179714209_9e3b0b7fb0_z.jpg
+
+_posts/2010-04-09-old-face-new-face.md
+- https://farm4.static.flickr.com/3613/3382081929_fc5c84d2e2_m_d.jpg
+- https://farm6.static.flickr.com/5027/5806202220_c6b3687bf4_m_d.jpg
+
+_posts/2010-06-06-memorial-weekend-recap-scenic-highway-12.md
+- https://farm2.static.flickr.com/1282/4674532285_dd8633177c_b.jpg
+
+_posts/2011-03-10-story-of-the-shamrock-shake.md
+- https://farm6.static.flickr.com/5178/5511131131_430be1332b.jpg
+- https://farm6.static.flickr.com/5215/5511131149_7fe40e1336.jpg
+
+_posts/2012-04-02-oregon-cheese-festival-2012.md
+- https://farm8.staticflickr.com/7176/6882145980_4e75a8b0d1_c.jpg
+
+_posts/2012-06-02-2009-qualia-syrah-grenache-blend.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-06-09-blt-bloody-mary.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-06-16-can-can-cleanse.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-06-23-drink-me-annual-ball.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-07-07-2011-qualia-sauvignon-blanc.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-07-14-klamath-basin-brewing-company.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-07-21-summer-of-riesling-at-le-pigeon.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-08-11-hotlips-soda.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-08-18-sat-swig-ever-in-transit-stout-float.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-09-02-at-the-flying-saucer.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-09-15-root-beer-float-disneyland.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-09-22-california-altered-state-fair.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-09-29-black-box-california-riesling.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-10-06-santa-clara-valley-passport-weekend.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-10-13-ritz-carlton-charlotte.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-10-27-mediterranean-coffee-nepenthe-big-sur.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2012-11-03-festive-mimosas-with-katherine.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+- https://farm9.staticflickr.com/8329/8150737911_8e78b16737_b.jpg
+- https://farm9.staticflickr.com/8329/8150737911_8e78b16737_n.jpg
+- https://farm9.staticflickr.com/8329/8150737911_8e78b16737_q.jpg
+
+_posts/2013-01-05-wild-hibiscus.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+- https://farm9.staticflickr.com/8188/8360738380_2d88c050be_b.jpg
+- https://farm9.staticflickr.com/8188/8360738380_2d88c050be_n.jpg
+- https://farm9.staticflickr.com/8188/8360738380_2d88c050be_q.jpg
+
+_posts/2013-01-26-pear-ginger-mule-pear-moscow-mule.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2013-02-02-bloody-herbal-sunrise.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2013-02-17-sf-beer-week-longer-than-week.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2013-03-16-st-paddys-ice-cream-bar.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2013-03-23-blueberry-mint-julep.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2013-05-04-mexican-beers-cinco-de-mayo.md
+- https://farm8.staticflickr.com/7240/7322171030_0166725d1c_o.png
+
+_posts/2014-08-14-goodbye-sasha-repost.md
+- https://farm3.staticflickr.com/2927/14714993135_1674c0a6d4_n.jpg
+
+_posts/2014-09-16-hallway-closet-cleanup.md
+- https://farm4.staticflickr.com/3863/15064710210_ee59a6326a_n.jpg
+- https://farm4.staticflickr.com/3906/15064839008_8b5ed08b59.jpg
+- https://farm4.staticflickr.com/3906/15064839008_8b5ed08b59_q.jpg
+
+_posts/2014-10-01-weekend-hike-lake-lagunitas.md
+- https://farm4.staticflickr.com/3854/15262033781_8d2f2543ea_b.jpg
+- https://farm4.staticflickr.com/3872/15242120016_a4f3478f63_b.jpg
+- https://farm4.staticflickr.com/3884/15174848507_ce316725d4_n.jpg
+- https://farm4.staticflickr.com/3912/15262027741_5e9570d624_b.jpg
+- https://farm4.staticflickr.com/3912/15262027741_5e9570d624_q.jpg
+- https://farm4.staticflickr.com/3922/15078374059_b17c32bc44_n.jpg
+- https://farm6.staticflickr.com/5582/15264751432_5776abbf41_b.jpg
+
+_posts/2015-01-19-currently-v-01-2015.md
+- https://farm8.staticflickr.com/7503/16129196679_4cd5dafde0_b.jpg
+
+_posts/2015-02-24-currently-v-02-2015.md
+- https://farm9.staticflickr.com/8622/16452006119_2d1ab3a78b_b.jpg
+
+_posts/2015-03-11-favorite-ways-relieve-stress.md
+- https://farm8.staticflickr.com/7605/16756465056_8e6d02060d_m.jpg
+- https://farm9.staticflickr.com/8636/16575056429_5c4c2b5545.jpg
+- https://farm9.staticflickr.com/8636/16575056429_5c4c2b5545_b.jpg
+- https://farm9.staticflickr.com/8636/16575056429_5c4c2b5545_q.jpg
+- https://farm9.staticflickr.com/8657/16735315606_c5ab072a38.jpg
+
+_posts/2015-03-26-currently-v-03-2015.md
+- https://farm8.staticflickr.com/7603/16732418207_996053850a_b.jpg
+- https://farm8.staticflickr.com/7638/16938424642_4f61092126.jpg
+- https://farm8.staticflickr.com/7638/16938424642_4f61092126_b.jpg
+- https://farm8.staticflickr.com/7638/16938424642_4f61092126_q.jpg
+- https://farm9.staticflickr.com/8684/16938778021_84f2aa4be0.jpg
+
+_posts/2015-06-17-see-new-mexico-snakes-american-international-rattlesnake-museum.md
+- https://farm4.staticflickr.com/3934/15427105569_5dc75ab8bf_b.jpg
+- https://farm4.staticflickr.com/3944/15613779925_62874ff532_b.jpg
+- https://farm4.staticflickr.com/3944/15613779925_62874ff532_q.jpg
+- https://farm4.staticflickr.com/3945/14992984804_7e70861fef_b.jpg
+- https://farm4.staticflickr.com/3952/15428164090_bd5917bb79_b.jpg
+- https://farm4.staticflickr.com/3955/15428170590_726a01630a_b.jpg
+- https://farm6.staticflickr.com/5609/15427121059_52bc7ef124_b.jpg
+- https://farm6.staticflickr.com/5611/15611093891_c0aa718b67_b.jpg
+- https://farm6.staticflickr.com/5615/15427124829_1793328ebc_b.jpg
+- https://farm6.staticflickr.com/5616/15614596232_0e1d872f90_b.jpg
+
+_posts/2015-07-08-lazy-bear.md
+- https://farm1.staticflickr.com/276/18823695209_6fd861a3ef.jpg
+- https://farm1.staticflickr.com/313/18389136113_06d357e829.jpg
+- https://farm1.staticflickr.com/329/18389202363_c0b8a1f7c3.jpg
+- https://farm1.staticflickr.com/374/18389103443_b571e6312c_b.jpg
+- https://farm1.staticflickr.com/397/18823689279_307f9b27e5.jpg
+- https://farm1.staticflickr.com/428/18822120268_fc1eb5afe3.jpg
+- https://farm1.staticflickr.com/428/18822120268_fc1eb5afe3_q.jpg
+- https://farm1.staticflickr.com/430/18387219454_00c6977eb2.jpg
+- https://farm1.staticflickr.com/449/18822218630_feb21f8a45.jpg
+- https://farm1.staticflickr.com/460/19012875381_4671231367.jpg
+- https://farm1.staticflickr.com/479/18822179678_6bc1b72152_b.jpg
+- https://farm1.staticflickr.com/486/18983643416_8c371b3b77_b.jpg
+- https://farm1.staticflickr.com/492/18983623026_80b97c75f9_b.jpg
+- https://farm1.staticflickr.com/492/19012862481_77b797244e_b.jpg
+- https://farm1.staticflickr.com/527/19490850256_f58459fd8f.jpg
+- https://farm1.staticflickr.com/545/19004247162_f9714d9b83.jpg
+- https://farm4.staticflickr.com/3748/18894448314_3bac73d423.jpg
+- https://farm4.staticflickr.com/3761/19009789835_4e28d42137_b.jpg
+- https://farm4.staticflickr.com/3771/18387363804_8709e32f16.jpg
+
+_posts/2015-07-14-pan-fried-california-halibut-welcome-home-meal.md
+- https://farm1.staticflickr.com/354/19059470113_be9ce19018_z.jpg
+- https://farm1.staticflickr.com/396/19493775418_f4d4b49fbd_n.jpg
+- https://farm1.staticflickr.com/429/19684906681_dca8bd7c70_z.jpg
+- https://farm1.staticflickr.com/468/19492363588_556fca728a_c.jpg
+- https://farm1.staticflickr.com/518/19493714249_2bb9f14001_c.jpg
+- https://farm1.staticflickr.com/518/19493714249_2bb9f14001_n.jpg
+- https://farm1.staticflickr.com/518/19493714249_2bb9f14001_q.jpg
+- https://farm1.staticflickr.com/554/19059113654_bf4fe7a62d_c.jpg
+
+_posts/2015-08-14-eat-sf-omakase.md
+- https://farm1.staticflickr.com/258/19575731521_8082b4d084.jpg
+- https://farm1.staticflickr.com/262/19383440398_05515b76af_b.jpg
+- https://farm1.staticflickr.com/266/19571418475_f2bb805e53.jpg
+- https://farm1.staticflickr.com/299/19385002699_f5fbee385f.jpg
+- https://farm1.staticflickr.com/303/19571480025_314a02e68a.jpg
+- https://farm1.staticflickr.com/308/19384969429_8d64fba40b_n.jpg
+- https://farm1.staticflickr.com/311/19545308436_c9748f34e0.jpg
+- https://farm1.staticflickr.com/319/19384849599_a63ced4815_b.jpg
+- https://farm1.staticflickr.com/320/18948931614_0a60ba579d.jpg
+- https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f.jpg
+- https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_b.jpg
+- https://farm1.staticflickr.com/350/19564663372_1e7c0b9e5f_q.jpg
+- https://farm1.staticflickr.com/351/19571370955_257ba7ec07_b.jpg
+- https://farm1.staticflickr.com/375/18950590643_55be591883_b.jpg
+- https://farm1.staticflickr.com/384/19383526298_8a109eba07.jpg
+- https://farm1.staticflickr.com/401/18948846024_be866d1497.jpg
+- https://farm1.staticflickr.com/451/19575838611_1a28553ca6_b.jpg
+- https://farm1.staticflickr.com/495/19564613682_9b6ab8633c.jpg
+- https://farm1.staticflickr.com/496/19384832739_11b045c3f3_b.jpg
+- https://farm1.staticflickr.com/512/18950457923_c3edf83aee.jpg
+- https://farm1.staticflickr.com/525/19564590332_28f4a01bfb.jpg
+- https://farm1.staticflickr.com/532/18948895064_98723bf1a8.jpg
+- https://farm1.staticflickr.com/551/19383452368_4e0b5e5008.jpg
+- https://farm4.staticflickr.com/3706/18950511313_04443192cd_b.jpg
+- https://farm4.staticflickr.com/3712/19571483945_432d916c3b.jpg
+- https://farm4.staticflickr.com/3727/19384979309_1ca1553d78_n.jpg
+- https://farm4.staticflickr.com/3756/19571365465_4fdaea069a_b.jpg
+- https://farm4.staticflickr.com/3764/18950495063_2b69b340fa.jpg
+- https://farm4.staticflickr.com/3784/18950610103_65dddbec8c_n.jpg
+
+_posts/2015-08-18-currently-v-06-2015.md
+- https://farm1.staticflickr.com/634/20068772624_3ca5df66eb_b.jpg
+- https://farm1.staticflickr.com/645/20503028188_6d0599c032_b.jpg
+- https://farm1.staticflickr.com/645/20503028188_6d0599c032_q.jpg
+
+_posts/2015-09-03-see-bodie-california-ghost-town-at-night.md
+- https://farm1.staticflickr.com/577/21104466705_9e13359b0b_b.jpg
+- https://farm1.staticflickr.com/597/20916573728_7cb0bb5dce_b.jpg
+- https://farm1.staticflickr.com/644/20916314250_6a975d20ae_b.jpg
+- https://farm1.staticflickr.com/644/20916314250_6a975d20ae_q.jpg
+- https://farm6.staticflickr.com/5649/20917675769_e46fa15fdb_b.jpg
+- https://farm6.staticflickr.com/5782/20481865464_a863cece6b_b.jpg
+- https://farm6.staticflickr.com/5815/20916366880_d13803ec86_b.jpg
+
+_posts/2015-09-17-dog-friendly-carmel-by-the-sea.md
+- https://farm1.staticflickr.com/509/18076260063_9b3d732a71_b.jpg
+- https://farm1.staticflickr.com/516/18508828668_049f8a80aa_b.jpg
+- https://farm1.staticflickr.com/656/21503177421_325e47fdf4_b.jpg
+- https://farm4.staticflickr.com/3818/18856384026_46f5181b90_b.jpg
+- https://farm4.staticflickr.com/3829/18695857319_f95353d506_b.jpg
+- https://farm4.staticflickr.com/3891/18881798155_3b4535dd5f_b.jpg
+- https://farm4.staticflickr.com/3956/18885442141_ef1df922a6_b.jpg
+- https://farm6.staticflickr.com/5345/18884650671_73e29a63da_b.jpg
+- https://farm6.staticflickr.com/5514/18259331264_93a3b6f8f5_b.jpg
+- https://farm6.staticflickr.com/5514/18259331264_93a3b6f8f5_n.jpg
+
+_posts/2015-09-23-dog-friendly-bodie.md
+- https://c1.staticflickr.com/1/699/21036298164_3789ac7d06_b.jpg
+- https://c1.staticflickr.com/5/4195/34859223066_866963dc00_b.jpg
+- https://c1.staticflickr.com/5/4248/34512306730_3f15dd6e3a_b.jpg
+- https://c1.staticflickr.com/5/4248/34512306730_3f15dd6e3a_q.jpg
+- https://c1.staticflickr.com/5/4271/34088685733_501908556d_b.jpg
+- https://c1.staticflickr.com/5/4275/34512305620_0604011c30_b.jpg
+- https://c1.staticflickr.com/5/4276/34512368600_b88e198047_b.jpg
+
+_posts/2015-10-14-fleet-week-2015.md
+- https://c1.staticflickr.com/1/574/22156783955_ca21656d5d_b.jpg
+- https://c1.staticflickr.com/1/612/21969807829_bc7ffc6ea5_b.jpg
+- https://c1.staticflickr.com/1/612/21969807829_bc7ffc6ea5_q.jpg
+- https://c1.staticflickr.com/1/674/22166964451_b2af0df7c0_b.jpg
+- https://c1.staticflickr.com/1/704/21969080448_f5c785819e_b.jpg
+- https://c1.staticflickr.com/1/736/22130722116_7523a2448c_b.jpg
+- https://c2.staticflickr.com/6/5735/21535595253_c06886322f_b.jpg
+- https://c2.staticflickr.com/6/5765/21969924129_166fd0bf43_b.jpg
+
+_posts/2015-10-23-currently-v-07-2015.md
+- https://c1.staticflickr.com/1/564/22416392875_389c1c4ef5.jpg
+- https://c1.staticflickr.com/1/564/22416392875_389c1c4ef5_b.jpg
+- https://c1.staticflickr.com/1/564/22416392875_389c1c4ef5_q.jpg
+
+_posts/2015-12-10-mexico-city-9-day-itinerary-1.md
+- https://c1.staticflickr.com/1/577/23030067343_406d36fc5f_b.jpg
+- https://c2.staticflickr.com/6/5647/23631292646_e13dc1eb96.jpg
+- https://c2.staticflickr.com/6/5658/23374950341_8875294f8f_b.jpg
+- https://c2.staticflickr.com/6/5715/23170407199_50d1049a1f_n.jpg
+- https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7.jpg
+- https://c2.staticflickr.com/6/5723/23375003281_9e31b3f4c7_b.jpg
+- https://c2.staticflickr.com/6/5802/23430232582_a413969592_b.jpg
+- https://c2.staticflickr.com/6/5802/23430232582_a413969592_q.jpg
+
+_posts/2015-12-16-mexico-city-9-days-itinerary-2.md
+- https://c1.staticflickr.com/1/632/23435812899_9559fecaf9_b.jpg
+- https://c1.staticflickr.com/1/682/23429685886_10db084dcd_b.jpg
+- https://c2.staticflickr.com/6/5624/23667520692_3d56848f81.jpg
+- https://c2.staticflickr.com/6/5624/23667520692_3d56848f81_b.jpg
+- https://c2.staticflickr.com/6/5668/23436024069_7209a76d6f_b.jpg
+- https://c2.staticflickr.com/6/5724/23736333806_a0db20a381_b.jpg
+- https://c2.staticflickr.com/6/5763/23428607622_bd389e41fb_b.jpg
+- https://c2.staticflickr.com/6/5801/23135084203_c60e30957b_b.jpg
+- https://c2.staticflickr.com/6/5808/23348897852_c5f12d319c_b.jpg
+- https://c2.staticflickr.com/6/5808/23348897852_c5f12d319c_q.jpg
+
+_posts/2015-12-18-mexico-city-in-9-days-itinerary-3.md
+- https://c1.staticflickr.com/1/582/23509525496_3901059689_b.jpg
+- https://c1.staticflickr.com/1/678/23207376123_7e22a604f1_b.jpg
+- https://c1.staticflickr.com/1/739/23724247352_69613eeba1_b.jpg
+- https://c2.staticflickr.com/6/5625/23806382116_a770f22a37.jpg
+- https://c2.staticflickr.com/6/5625/23806382116_a770f22a37_b.jpg
+- https://c2.staticflickr.com/6/5625/23806382116_a770f22a37_q.jpg
+- https://c2.staticflickr.com/6/5643/23536547660_f2ddc8eb0d_b.jpg
+- https://c2.staticflickr.com/6/5806/23466253429_1345bd6fe0_b.jpg
+
+_posts/2015-12-31-stuffed-bell-peppers.md
+- https://c2.staticflickr.com/2/1459/24037726645_3aacea6b87_c.jpg
+- https://c2.staticflickr.com/2/1644/23409501004_6ebe55bbec_c.jpg
+- https://c2.staticflickr.com/2/1683/23955193091_df739a9216_c.jpg
+- https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d.jpg
+- https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_c.jpg
+- https://c2.staticflickr.com/6/5798/23955201491_eaa57a939d_q.jpg
+- https://c2.staticflickr.com/6/5813/23670693949_b52812b8e0_b.jpg
+
+_posts/2016-01-12-january-goals-2016.md
+- https://c2.staticflickr.com/2/1720/24222680812_073319b1e2.jpg
+- https://c2.staticflickr.com/2/1720/24222680812_073319b1e2_b.jpg
+- https://c2.staticflickr.com/2/1720/24222680812_073319b1e2_q.jpg
+
+_posts/2016-01-20-san-francisco-zoo.md
+- https://c2.staticflickr.com/2/1470/23752891479_97c668371c_b.jpg
+- https://c2.staticflickr.com/2/1482/23492435574_f26b5c7fcc_b.jpg
+- https://c2.staticflickr.com/2/1554/23493946053_b92e7cb4b9_b.jpg
+- https://c2.staticflickr.com/2/1588/24094593566_26d51d160e_b.jpg
+- https://c2.staticflickr.com/6/5649/23752889619_ee1a2d3b6c_b.jpg
+- https://c2.staticflickr.com/6/5674/24094650306_7a066899ab.jpg
+- https://c2.staticflickr.com/6/5674/24094650306_7a066899ab_b.jpg
+- https://c2.staticflickr.com/6/5674/24094650306_7a066899ab_q.jpg
+- https://c2.staticflickr.com/6/5694/23752878279_8a3b593736_b.jpg
+- https://c2.staticflickr.com/6/5764/23752854449_e68ee30125_b.jpg
+- https://c2.staticflickr.com/6/5819/24012581682_03b7148a2e_b.jpg
+
+_posts/2016-01-26-2015-edition-where-does-our-money-go.md
+- https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7.jpg
+- https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_b.jpg
+- https://c2.staticflickr.com/2/1720/24006704464_eb8a8b4dc7_q.jpg
+
+_posts/2016-01-29-meals-in-costa-rica-1.md
+- https://farm8.staticflickr.com/7039/6904563697_b22dc3f6ab_c.jpg
+- https://farm8.staticflickr.com/7045/6908393733_77a80efd00_c.jpg
+- https://farm8.staticflickr.com/7069/6904534519_698c2ec3e3_c.jpg
+- https://farm8.staticflickr.com/7180/6904529991_79aa9e3d91.jpg
+- https://farm8.staticflickr.com/7180/6904529991_79aa9e3d91_c.jpg
+- https://farm8.staticflickr.com/7180/6904529991_79aa9e3d91_q.jpg
+- https://farm8.staticflickr.com/7184/6908391993_11b89a449b_c.jpg
+- https://farm8.staticflickr.com/7189/6908124845_aa67bcc19b_c.jpg
+- https://farm8.staticflickr.com/7196/6908122791_b0564200b3_c.jpg
+- https://farm8.staticflickr.com/7198/6904566889_556bc0099c_c.jpg
+- https://farm8.staticflickr.com/7199/6908319337_afe60a27e2_c.jpg
+- https://farm8.staticflickr.com/7202/6908316481_af377ecac2_c.jpg
+
+_posts/2016-02-02-february-goals-2016.md
+- https://c2.staticflickr.com/2/1556/24155411543_fd264162bc.jpg
+- https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_b.jpg
+- https://c2.staticflickr.com/2/1556/24155411543_fd264162bc_q.jpg
+- https://c2.staticflickr.com/2/1713/24414664469_625abecf31_b.jpg
+
+_posts/2016-02-16-mexico-city-9-day-itinerary-4.md
+- https://c2.staticflickr.com/2/1445/23612030674_0ff2038a27_b.jpg
+- https://c2.staticflickr.com/2/1525/24132390672_c3f7220af0_b.jpg
+- https://c2.staticflickr.com/2/1530/24433980813_416d728444_b.jpg
+- https://c2.staticflickr.com/2/1576/23945027100_b1ef70da34_b.jpg
+- https://c2.staticflickr.com/2/1703/24765220720_a49ab03196_b.jpg
+- https://c2.staticflickr.com/2/1720/24765543260_65a72ee769.jpg
+- https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_b.jpg
+- https://c2.staticflickr.com/2/1720/24765543260_65a72ee769_q.jpg
+- https://c2.staticflickr.com/6/5791/23160149480_36c1fe0365_b.jpg
+
+_posts/2016-03-01-a2-milk-goodbye-post-dairy-digestive-discomfort.md
+- https://c2.staticflickr.com/2/1545/25136315839_587cc20656_b.jpg
+- https://c2.staticflickr.com/2/1572/24873883514_830ea69c85.jpg
+- https://c2.staticflickr.com/2/1572/24873883514_830ea69c85_b.jpg
+- https://c2.staticflickr.com/2/1572/24873883514_830ea69c85_q.jpg
+- https://c2.staticflickr.com/2/1578/24873685424_17e86b63a9.jpg
+
+_posts/2016-03-30-bali-at-sunset.md
+- https://c2.staticflickr.com/2/1534/25476678825_e55c852596_b.jpg
+- https://c2.staticflickr.com/2/1543/25180770930_c613415e2f_b.jpg
+- https://c2.staticflickr.com/2/1601/25108845989_69a40c4f0a_b.jpg
+- https://c2.staticflickr.com/2/1643/24850047213_0a1ed1b078_b.jpg
+- https://c2.staticflickr.com/2/1662/25476455055_2b10606a07.jpg
+- https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_b.jpg
+- https://c2.staticflickr.com/2/1662/25476455055_2b10606a07_q.jpg
+
+_posts/2016-05-12-a2-milk-australia-trip.md
+- https://c2.staticflickr.com/8/7062/27163724151_a01673b72d.jpg
+- https://c2.staticflickr.com/8/7434/27163734291_4ab10eba4c_b.jpg
+- https://c2.staticflickr.com/8/7656/27163730351_60e464502b.jpg
+- https://c2.staticflickr.com/8/7656/27163730351_60e464502b_b.jpg
+- https://c2.staticflickr.com/8/7656/27163730351_60e464502b_q.jpg
+
+_posts/2016-05-24-Monteillet-Fromagerie-Love-Cheese-Southeastern-Washington.1.md
+- https://c2.staticflickr.com/2/1453/26084551713_f66f180f13_b.jpg
+- https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45.jpg
+- https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45_b.jpg
+- https://c2.staticflickr.com/2/1470/26661567256_aa02cebe45_q.jpg
+- https://c2.staticflickr.com/2/1498/26084559433_6f0666dca7_b.jpg
+- https://c2.staticflickr.com/2/1522/26082698544_a12d155325_b.jpg
+- https://c2.staticflickr.com/2/1593/26084549733_8e4a31fe13_b.jpg
+- https://c2.staticflickr.com/2/1663/26661553076_1bc9ddb5e5_b.jpg
+- https://c2.staticflickr.com/2/1681/26084544973_93e781ab7d_b.jpg
+
+_posts/2016-07-26-three-ways-international-balloon-fiesta.md
+- https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20.jpg
+- https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20_b.jpg
+- https://c1.staticflickr.com/9/8347/27954494333_1946e7cb20_q.jpg
+- https://c1.staticflickr.com/9/8700/16384995634_9ecaa8fc9e_b.jpg
+- https://c1.staticflickr.com/9/8725/17007411295_68e0a85d79_b.jpg
+- https://c1.staticflickr.com/9/8733/16820990599_43c6d9b60b_b.jpg
+- https://c1.staticflickr.com/9/8800/28569470765_c77bb740cf_b.jpg
+- https://c2.staticflickr.com/8/7638/16385008034_484d33e5a1_b.jpg
+
+_posts/2017-01-04-2016-edition-where-does-our-money-go.md
+- https://c1.staticflickr.com/1/510/31304678513_00c082ce56.jpg
+- https://c1.staticflickr.com/1/510/31304678513_00c082ce56_q.jpg
+- https://c1.staticflickr.com/1/746/23161416140_8645e09f90_b.jpg
+- https://c2.staticflickr.com/2/1443/26114394283_2011f73c99_b.jpg
+- https://c2.staticflickr.com/2/1539/26415128520_385f6122d1_b.jpg
+
+_posts/2017-01-14-bestday2017-twitter-project.md
+- https://c2.staticflickr.com/6/5809/23456138551_a7b5629222.jpg
+- https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_b.jpg
+- https://c2.staticflickr.com/6/5809/23456138551_a7b5629222_q.jpg
+
+_posts/2018-01-02-2017-edition-where-does-our-money-go.md
+- https://c1.staticflickr.com/5/4638/27688829979_8bc782738a_c.jpg
+- https://c1.staticflickr.com/5/4687/24599384537_d579998e0a_c.jpg
+- https://c1.staticflickr.com/5/4687/38757907234_440b58377d_c.jpg
+- https://c1.staticflickr.com/5/4729/38757289534_a8129019f2.jpg
+- https://c1.staticflickr.com/5/4729/38757289534_a8129019f2_t.jpg
+
+_posts/2018-04-20-2018-freestyle-01.md
+- https://c1.staticflickr.com/1/791/27725073968_1d40572c4e_c.jpg
+- https://c1.staticflickr.com/1/839/26725550507_1142600fcd_c.jpg
+
+_posts/2018-04-23-spending-summary-q1-2018.md
+- https://c1.staticflickr.com/1/843/40953398214_0e0178de4a_c.jpg
+- https://c1.staticflickr.com/1/901/40773293215_0d718425aa_c.jpg
+- https://c1.staticflickr.com/1/967/26794693327_787ba3d73d.jpg
+- https://c1.staticflickr.com/1/967/26794693327_787ba3d73d_q.jpg
+
+_posts/2018-04-27-2018-freestyle-02.md
+- https://c1.staticflickr.com/1/946/39944075580_54ff43a119.jpg
+- https://c1.staticflickr.com/1/946/39944075580_54ff43a119_q.jpg
+- https://c1.staticflickr.com/1/973/41710094182_006dac43af_c.jpg
+- https://c1.staticflickr.com/1/978/26882716887_2f80209332_c.jpg
+- https://c1.staticflickr.com/1/980/41709960322_4168f8179c_c.jpg
+
+_posts/2018-05-02-2018-small-goals-may.md
+- https://c1.staticflickr.com/1/948/26992877437_240fae8fe5_b.jpg
+- https://c1.staticflickr.com/1/969/26992789497_da89e0b423.jpg
+- https://c1.staticflickr.com/1/969/26992789497_da89e0b423_b.jpg
+- https://c1.staticflickr.com/1/969/26992789497_da89e0b423_q.jpg
+
+_posts/2018-05-06-valley-fire-state-park.md
+- https://c1.staticflickr.com/1/826/40159708870_e1acc9431b_b.jpg
+- https://c1.staticflickr.com/1/829/40114657800_a7aa3d142b_b.jpg
+- https://c1.staticflickr.com/1/829/41922179911_0d053718cc_h.jpg
+- https://c1.staticflickr.com/1/872/41922176921_b097af144a_c.jpg
+- https://c1.staticflickr.com/1/872/41922176921_b097af144a_h.jpg
+- https://c1.staticflickr.com/1/872/41922176921_b097af144a_q.jpg
+- https://c1.staticflickr.com/1/909/40114661760_0498555649_b.jpg
+- https://c1.staticflickr.com/1/945/40159713220_2158437064_b.jpg
+- https://c1.staticflickr.com/1/958/41877822502_37907bc321_h.jpg
+- https://c1.staticflickr.com/1/966/28051082348_c32172439b_b.jpg
+- https://c1.staticflickr.com/1/967/40114659870_b020456cdd_b.jpg
+- https://c1.staticflickr.com/1/981/41204099574_13f06a0fcc_b.jpg
+- https://c1.staticflickr.com/5/4247/34798273126_93d91d2d13_b.jpg
+
+_posts/2018-05-18-2018-freestyle-03.md
+- https://c1.staticflickr.com/1/949/42158150982_dfb7f881e2_c.jpg
+- https://c1.staticflickr.com/1/965/40413780540_2707132723_c.jpg
+- https://c1.staticflickr.com/1/966/42204720011_844ffe5b5e.jpg
+- https://c1.staticflickr.com/1/966/42204720011_844ffe5b5e_q.jpg
+
+_posts/2018-07-01-spending-summary-q2-2018.md
+- https://c1.staticflickr.com/1/922/41310051600_c3e826c70d_b.jpg
+- https://c1.staticflickr.com/1/927/41310098470_ce8683e7ce_b.jpg
+- https://c2.staticflickr.com/2/1809/43119738061_ea4489daaa.jpg
+- https://c2.staticflickr.com/2/1809/43119738061_ea4489daaa_q.jpg
+- https://c2.staticflickr.com/2/1809/43119738061_ea4489daaa_z.jpg
+
+_posts/2018-08-11-2018-predators-of-the-heart.md
+- https://c1.staticflickr.com/1/932/43956268652_982a04e768_b.jpg
+- https://c1.staticflickr.com/1/937/43101800615_3de7c91587_b.jpg
+- https://c1.staticflickr.com/1/937/44007982721_7eb31edbfd_c.jpg
+- https://c1.staticflickr.com/1/942/44007983521_dbf865aa05_c.jpg
+- https://c2.staticflickr.com/2/1775/29067498327_a0188dbe49_b.jpg
+- https://c2.staticflickr.com/2/1796/44007985301_7d5ef4ef1c_c.jpg
+- https://c2.staticflickr.com/2/1800/43956269472_56f13fb883.jpg
+- https://c2.staticflickr.com/2/1800/43956269472_56f13fb883_b.jpg
+- https://c2.staticflickr.com/2/1800/43956269472_56f13fb883_q.jpg
+- https://c2.staticflickr.com/2/1816/43956271082_c5b06fbfd5_b.jpg
+- https://c2.staticflickr.com/2/1818/44007984251_7f44ff9c84_c.jpg
+- https://c2.staticflickr.com/2/1832/42198108610_397ccd0a02_b.jpg
+- https://c2.staticflickr.com/2/1833/43956270352_29ca98e8d0_b.jpg
+- https://c2.staticflickr.com/2/1839/43101799085_800889ac9d_b.jpg
+
+_posts/2018-10-06-2018-spending-summary-q3-2018.md
+- https://c2.staticflickr.com/2/1932/45093188712_6aed764c49_b.jpg
+- https://c2.staticflickr.com/2/1947/45092797582_190755dcb0.jpg
+- https://c2.staticflickr.com/2/1947/45092797582_190755dcb0_q.jpg
+- https://c2.staticflickr.com/2/1947/45092797582_190755dcb0_z.jpg
+- https://c2.staticflickr.com/2/1980/44420818684_842ae1f209_b.jpg
+
+_posts/2018-11-01-living-room-refresh-budget.md
+- https://c2.staticflickr.com/2/1962/45675865751_f6a14eb000.jpg
+- https://c2.staticflickr.com/2/1962/45675865751_f6a14eb000_c.jpg
+- https://c2.staticflickr.com/2/1962/45675865751_f6a14eb000_q.jpg
+
+_posts/2018-11-02-week-in-iceland-budget.md
+- https://c1.staticflickr.com/5/4862/43873582160_66a6628eaf.jpg
+- https://c1.staticflickr.com/5/4862/43873582160_66a6628eaf_q.jpg
+
+_posts/2018-11-03-2018-small-goals-november.md
+- https://c1.staticflickr.com/5/4822/44991148654_9788def360.jpg
+- https://c1.staticflickr.com/5/4822/44991148654_9788def360_q.jpg
+
+_posts/2018-11-04-five-things-we-collect.md
+- https://c2.staticflickr.com/2/1956/45728252401_a18b78b002.jpg
+- https://c2.staticflickr.com/2/1956/45728252401_a18b78b002_q.jpg
+
+_posts/2018-12-18-fiskmarkadurinn.md
+- https://c1.staticflickr.com/5/4918/44585767510_3eb7311f5e.jpg
+- https://c1.staticflickr.com/5/4918/44585767510_3eb7311f5e_q.jpg
+
+_posts/2019-02-16-spending-comparison-2018.md
+- https://c2.staticflickr.com/8/7834/46203556075_ac373129dc.jpg
+- https://c2.staticflickr.com/8/7834/46203556075_ac373129dc_q.jpg
+
+_posts/2019-02-17-bringing-back-101-in-1001.md
+- https://c2.staticflickr.com/8/7903/46207099245_4f808ce8e0.jpg
+- https://c2.staticflickr.com/8/7903/46207099245_4f808ce8e0_q.jpg
+
+_posts/2019-12-04-monthly-recap-november-2019.md
+- https://live.staticflickr.com/65535/49167296676_9fac9db5fb.jpg
+- https://live.staticflickr.com/65535/49167296676_9fac9db5fb_q.jpg
+- https://live.staticflickr.com/65535/49167311466_813286f504_b.jpg
+
+_posts/2020-01-02-monthly-recap-december-2019.md
+- https://live.staticflickr.com/65535/49313314646_3b04a44830_b.jpg
+- https://live.staticflickr.com/65535/49313334577_03d0218d2a.jpg
+- https://live.staticflickr.com/65535/49313334577_03d0218d2a_b.jpg
+- https://live.staticflickr.com/65535/49313334577_03d0218d2a_q.jpg
+- https://live.staticflickr.com/65535/49313520652_0bd74a2edf_b.jpg
+- https://live.staticflickr.com/65535/49314509522_5a1dcbd0cc_w.jpg
+
+_posts/2020-01-13-spending-comparison-2019.md
+- https://live.staticflickr.com/65535/49383328862_6be64d543f_z.jpg
+- https://live.staticflickr.com/65535/49383424642_f1948ac339.jpg
+- https://live.staticflickr.com/65535/49383424642_f1948ac339_q.jpg
+- https://live.staticflickr.com/65535/49383424642_f1948ac339_z.jpg
+
+_posts/2020-05-09-life-update-may-2020.md
+- https://live.staticflickr.com/65535/49877174046_e52302b8d8.jpg
+- https://live.staticflickr.com/65535/49877174046_e52302b8d8_q.jpg
+- https://live.staticflickr.com/65535/49877174046_e52302b8d8_z.jpg
+- https://live.staticflickr.com/65535/49881243873_6b75afaa4c_c.jpg
+- https://live.staticflickr.com/65535/49882027392_719e02d6f4_z.jpg
