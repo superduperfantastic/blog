@@ -5,7 +5,7 @@ published: true
 title: Spending Summary - Q1 {2018}
 disqus_id: spending-summary-Q1-2018
 excerpt: <p>Taking a look at where we did most of our spending in the first quarter of the year.</p>
-image: https://c1.staticflickr.com/1/967/26794693327_787ba3d73d.jpg
+image: /assets/posts/2018-04-23/q1-2018-spending.png
 thumbnail: https://c1.staticflickr.com/1/967/26794693327_787ba3d73d_q.jpg
 date: 2018-04-23
 categories:
@@ -18,7 +18,7 @@ comments: true
 In the past, I've only posted spending summaries at the end of each year. I think it would be a better way to stay accountable on "saving more" throughout the year by looking at it quarter by quarter and making adjustments as I go. Here's what the first quarter of the year looked like as a percentage of overall spending:
 
 {:.center}
-![Q1-2018 Spending](https://c1.staticflickr.com/1/967/26794693327_787ba3d73d.jpg)
+![Q1-2018 Spending](/assets/posts/2018-04-23/q1-2018-spending.png)
 
 
 **Home/Utilities (26%)** - I've lumped mortgage, utilities and home improvement into one category. Since interest is greater on the loans than what a savings account would earn, I'm committing to paying more on them this year. My tenant moved out in mid-February, so there were some additional expenses related to getting the rental property up and on the market again.

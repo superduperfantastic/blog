@@ -5,7 +5,7 @@ published: true
 title: '2017 Edition: Where Our Money Goes'
 disqus_id: 2017-spending
 thumbnail: https://c1.staticflickr.com/5/4729/38757289534_a8129019f2_t.jpg
-image: '/assets/posts/2017-spending.jpg'
+image: '/assets/posts/2018-01-02/2017-spending.jpg'
 excerpt: <p>Examining where our money goes - taking a look at 2017 spending and comparing to 2016.</p>
 date: 2018-01-02
 categories:
