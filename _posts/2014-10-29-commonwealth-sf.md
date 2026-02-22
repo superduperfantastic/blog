@@ -21,6 +21,8 @@ tags:
 - restaurant
 comments: true
 ---
+**Update:** Commonwealth has since closed, but this post remains as a memory of our visit.
+
 This year, I maximized celebrating my birthday by taking advantage of the entire month. With the expenses of a sick pup and then a new pup the last several months, we hadn't gone out for a fancy meal in awhile. Using my birthday month as an excuse, we went to not just one, but two, in the week following my birthday. The sister, her boyfriend, and our cousin joined us at [Commonwealth](http://www.commonwealthsf.com/ "Commonwealth SF"){:target="_blank} in The Mission. A friend had started her externship there after finishing cooking school, so I wanted to show support and swing by.
 
 Since we opted out of the tasting menu, it was recommended that each person select three dishes each. There were five of us and 11 dishes on the regular menu, so we basically went with one of each and doubled up on a few of the smaller items.
@@ -88,5 +90,3 @@ After a celery sorbet palate cleanser, we were ready to tackle dessert. Again, o
 Our reservations were at 5:30, and we were out of there with enough time to catch the end of the Giants/Royals game. Parking is available in their small lot for $5 (added to your bill), and thankfully they let us park there when we wandered out after dinner looking for a bar with the game on.
 
 The cherry on top of it all - we won that night!
-
-**Update:** Commonwealth has since closed, but this post remains as a memory of our visit.
