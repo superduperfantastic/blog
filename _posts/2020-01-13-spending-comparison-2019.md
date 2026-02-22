@@ -5,8 +5,8 @@ published: true
 title: Spending Comparison - 2018 vs 2019
 disqus_id: spending-comparison-2019
 excerpt: <p>Similar to last year, I'm comparing our spending between two years - 2019 and 2018. The shifts in categories reflected the changes in our lives.</p>
-image: /assets/posts/2020-01-13-spending-comparison-2019/49383424642_f1948ac339.jpg
-thumbnail: /assets/posts/2020-01-13-spending-comparison-2019/49383424642_f1948ac339_q.jpg
+image: /assets/posts/2020-01-13-spending-comparison-2019/spending-comparison-2019-cover.jpg
+thumbnail: /assets/posts/2020-01-13-spending-comparison-2019/spending-comparison-2019-thumb.jpg
 date: 2020-01-13
 categories:
 - Life
@@ -18,10 +18,10 @@ comments: true
 My blogging tapered off in 2019, but since I'm trying to do more in 2020, I'm back on writing about my spending. This is what 2019 (top in red orange) looked like compared to the year before (bottom in blue). All information is tracked in [YNAB](https://ynab.com/referral/?ref=BWZcB3gkMhf1SYyg&utm_source=customer_referral){:target="_blank"} (link is a referral) and then the charts were thrown together in Excel. I think it's pretty interesting the shifts in spending categories because it represents where we spent more time in the year. As always, the disclaimer is that these percentages are based on total expenses and do not include any savings, which for the record, I increased in 2019!
 
 {:.center}
-![2019 Spending](/assets/posts/2020-01-13-spending-comparison-2019/49383328862_6be64d543f_z.jpg)
+![2019 Spending](/assets/posts/2020-01-13-spending-comparison-2019/spending-comparison-2019-01.jpg)
 
 {:.center}
-![Spending Comparison - 2018 vs 2019](/assets/posts/2020-01-13-spending-comparison-2019/49383424642_f1948ac339_z.jpg)
+![Spending Comparison - 2018 vs 2019](/assets/posts/2020-01-13-spending-comparison-2019/spending-comparison-2019-02.jpg)
 
 In 2019, we spent "more" on Home & Utilities, Travel and Charity, while we spent noticeably "less" on Health/Fitness and Adulting/Taxes. 
 

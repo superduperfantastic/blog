@@ -8,8 +8,8 @@ wordpress_id: 20434
 wordpress_url: http://superduperfantastic.com/?p=20434
 disqus_id: 20434 http://superduperfantastic.com/?p=20434
 date: '2013-04-25 00:50:19 -0700'
-image: /assets/posts/2013-04-25-state-bird-provisions/8688446928_8095984a5b_c.jpg
-thumbnail: /assets/posts/2013-04-25-state-bird-provisions/8688446928_8095984a5b_q.jpg
+image: /assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-cover.jpg
+thumbnail: /assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-thumb.jpg
 excerpt: <p>Dining at State Bird Provisions in San Francisco's Western Addition neighborhood. Named by Bon Appetit as 2012 Best New Restaurant in America.</p>
 categories:
 - San Francisco
@@ -26,29 +26,29 @@ As much as we'd love to, Ryan and I are hardly the type to jump on the latest re
 In addition to the menu, there are a wide variety of dishes that are presented dim sum-style on carts and trays. We ordered two items [uni pancake and quail eggs] off the menu and waited for the rest to surprise us.
 
 {:.center}
-![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8688448226_9c1497132c_c.jpg)  
+![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-01.jpg)  
 _1/2 dozen cast iron quail eggs, sunchoke & ravigote_
 
 {:.center}
-![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8688446928_8095984a5b_c.jpg)  
+![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-cover.jpg)  
 _mendocino sea urchin, ginger/scallion pancake, soy-lime glaze_
 
 Before those two even arrived, we'd already started off our meal with an array of dishes.
 
 {:.center}
-![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8687327477_e68d4760b8.jpg){:width="49%"} ![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8688445886_ef9d1a7e65.jpg){:width="49%"}  
+![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-02.jpg){:width="49%"} ![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-03.jpg){:width="49%"}  
 _duck liver mousse with almond biscuits_ and _fried green garlic bread with burrata_
 
 It was difficult at first saying "no" to items being presented practically **on** our table. Descriptions were elaborate and enticing, but we quickly developed a system for keeping our orders in check. If anything piqued my interest, I would order it. If I wasn't so sure, I'd check in with Ryan to "confirm." If he _really_ wanted an item, he'd order it, and if he also wasn't so sure about it, he'd be the one denying the dish. With only two stomachs, this system worked for us. With a larger group, we might have tried one of everything and then revisited the ones that everyone liked...
 
 {:.center}
-![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8687329547_266e736763.jpg){:width="60%"} ![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8687328137_d54fe025a8.jpg){:width="34%"}  
+![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-04.jpg){:width="60%"} ![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-05.jpg){:width="34%"}  
 _charred Spanish octopus in tomato salsa_ and _steak tartare with pickled ramps_
 
 And our favorite for the evening:
 
 {:.center}
-![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/8687328485_4c57117a6f_c.jpg)  
+![State Bird Provisions](/assets/posts/2013-04-25-state-bird-provisions/state-bird-provisions-06.jpg)  
 _scallop sashimi with avocado & satsuma_
 
 Not pictured: our beverages (a housemade root beer and a Saison), _guinea hen dumplings with aromatic broth_, _raw oysters with spicy kohlrabi kraut & sesame_, and a wild rice dish.

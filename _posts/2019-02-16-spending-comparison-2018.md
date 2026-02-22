@@ -5,8 +5,8 @@ published: true
 title: Spending Comparison - 2017 vs 2018
 disqus_id: spending-comparison-2018
 excerpt: <p>In the new year, I'm comparing our spending in 2017 and 2018. There were shifts in some categories, such as education, health/fitness, adulting.</p>
-image: /assets/posts/2019-02-16-spending-comparison-2018/46203556075_ac373129dc.jpg
-thumbnail: /assets/posts/2019-02-16-spending-comparison-2018/46203556075_ac373129dc_q.jpg
+image: /assets/posts/2019-02-16-spending-comparison-2018/spending-comparison-2018-cover.jpg
+thumbnail: /assets/posts/2019-02-16-spending-comparison-2018/spending-comparison-2018-thumb.jpg
 date: 2019-02-16
 categories:
 - Life

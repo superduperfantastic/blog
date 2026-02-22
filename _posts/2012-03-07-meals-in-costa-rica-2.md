@@ -9,8 +9,8 @@ wordpress_id: 13690
 wordpress_url: http://superduperfantastic.com/?p=13690
 disqus_id: 13690 http://superduperfantastic.com/?p=13690
 date: '2012-03-07 00:30:53 -0800'
-image: /assets/posts/2012-03-07-meals-in-costa-rica-2/6908438089_996c55c6ef_c.jpg
-thumbnail: /assets/posts/2012-03-07-meals-in-costa-rica-2/6908438089_996c55c6ef_q.jpg
+image: /assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-cover.jpg
+thumbnail: /assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-thumb.jpg
 categories:
 - Costa Rica
 - Costa Rica Eats
@@ -20,40 +20,40 @@ tags:
 comments: true
 ---
 {:.center}
-![Meals in Costa Rica - Los Borregos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6908438089_996c55c6ef_c.jpg)
+![Meals in Costa Rica - Los Borregos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-cover.jpg)
 
 {:.center}
-![Meals in Costa Rica - Soda Mima - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6908470321_be609a50c6_c.jpg)
+![Meals in Costa Rica - Soda Mima - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-01.jpg)
 
 {:.center}
-![Meals in Costa Rica - Los Brasitos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6908585915_c91bfb7272_c.jpg)
+![Meals in Costa Rica - Los Brasitos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-02.jpg)
 
 {:.center}
-![Meals in Costa Rica - Los Brasitos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6908583641_f0d2920a58_c.jpg)
+![Meals in Costa Rica - Los Brasitos - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-03.jpg)
 
 {:.center}
-![Meals in Costa Rica - Restaurante Nene - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912193857_231dd7a93e_c.jpg)
+![Meals in Costa Rica - Restaurante Nene - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-04.jpg)
 
 {:.center}
-![Soda La Viquez - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912196821_5955ed758d_c.jpg)
+![Soda La Viquez - La Fortuna/Arenal](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-05.jpg)
 
 {:.center}
-![Nogui's Sunset Cafe - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912662173_1dafda64b4_c.jpg)
+![Nogui's Sunset Cafe - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-06.jpg)
 
 {:.center}
-![Nogui's Sunset Cafe - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912665331_50aa7edd18_c.jpg)
+![Nogui's Sunset Cafe - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-07.jpg)
 
 {:.center}
-![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912677993_55368faa3b_c.jpg)
+![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-08.jpg)
 
 {:.center}
-![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6912683411_f25eb85d2e_c.jpg)
+![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-09.jpg)
 
 {:.center}
-![Soda Sabor De La Vida - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6913100479_929195a973_c.jpg)
+![Soda Sabor De La Vida - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-10.jpg)
 
 {:.center}
-![Soda Sabor De La Vida - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6913097831_36bcac2703_c.jpg)
+![Soda Sabor De La Vida - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-11.jpg)
 
 {:.center}
-![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/6913708805_63ec620b78_c.jpg)
+![Soda El Buen Comer - Tamarindo](/assets/posts/2012-03-07-meals-in-costa-rica-2/meals-in-costa-rica-2-12.jpg)

@@ -7,8 +7,8 @@ excerpt: <p>Where I talk about how small Costa Rica is, but that there is way mo
 wordpress_id: 13605
 wordpress_url: http://superduperfantastic.com/?p=13605
 disqus_id: 13605 http://superduperfantastic.com/?p=13605
-image: /assets/posts/2012-02-23-costa-rica-tips-tricks/6913215629_c7f3376a03_c.jpg
-thumbnail: /assets/posts/2012-02-23-costa-rica-tips-tricks/6913215629_c7f3376a03_q.jpg
+image: /assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-cover.jpg
+thumbnail: /assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-thumb.jpg
 date: '2012-02-23 16:09:45 -0800'
 categories:
 - Costa Rica
@@ -31,7 +31,7 @@ The animals were in hiding during our visit. Can't really blame any of the tours
 Except this guy...
 
 {:.center}
-![](/assets/posts/2012-02-23-costa-rica-tips-tricks/6913020227_489a3ef02c_b.jpg)
+![](/assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-01.jpg)
 
 ### Don't Clog the Toilets!
 
@@ -52,14 +52,14 @@ Most of our plans were booked in advance because one week is much too short to w
 The ridiculously gorgeous views throughout the trip are so memorable. Here is the one while we're on the boat from Monteverde to Arenal. While we were in Arenal/La Fortuna area, there were quite a few moments that the top of the volcano were in plain sight. From one side, you can see that it's still smoking at the top. From what I hear, it's usually clouded over.
 
 {:.center}
-![](/assets/posts/2012-02-23-costa-rica-tips-tricks/6908412653_6fbc152e02_b.jpg)
+![](/assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-02.jpg)
 
 ### Try Something Different
 
 Even though I normally wouldn't have booked this, our host talked us into doing the sunset sailing cruise. Worth it. It was a great way to spend our last full day in Costa Rica.
 
 {:.center}
-![](/assets/posts/2012-02-23-costa-rica-tips-tricks/6913176137_f5df90b674_b.jpg)
+![](/assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-03.jpg)
 
 {:.center}
-![](/assets/posts/2012-02-23-costa-rica-tips-tricks/6913215629_c7f3376a03_b.jpg)
+![](/assets/posts/2012-02-23-costa-rica-tips-tricks/costa-rica-tips-tricks-04.jpg)

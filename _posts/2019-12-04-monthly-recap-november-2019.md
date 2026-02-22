@@ -5,8 +5,8 @@ published: true
 title: Monthly Recap - November
 disqus_id: november-2019
 excerpt: <p>Here's a recap of my November - for being only 30 days, it felt like we did so much. Must have been the FIVE weekends!</p>
-image: /assets/posts/2019-12-04-monthly-recap-november-2019/49167296676_9fac9db5fb.jpg
-thumbnail: /assets/posts/2019-12-04-monthly-recap-november-2019/49167296676_9fac9db5fb_q.jpg
+image: /assets/posts/2019-12-04-monthly-recap-november-2019/monthly-recap-november-2019-cover.jpg
+thumbnail: /assets/posts/2019-12-04-monthly-recap-november-2019/monthly-recap-november-2019-thumb.jpg
 date: 2019-12-04
 categories:
 - Life
@@ -24,7 +24,7 @@ The most memorable part of November 2019 would have to be my sister's wedding. I
 When the big day came, surprisingly, I didn't mess up too terribly! While getting emotional was inevitable, it didn't stop me. *Thank goodness!* An Alexa mishap at the very beginning also helped break the ice and dam up the barrage of tears that were sure to flow. We made it through the ceremony, and all was good. It was *SO* fun, and the whole wedding was *SO* them. Their pup Muffin was the flower dog!
 
 {:.center}
-![wedding photo booth](/assets/posts/2019-12-04-monthly-recap-november-2019/49167311466_813286f504_b.jpg) 
+![wedding photo booth](/assets/posts/2019-12-04-monthly-recap-november-2019/monthly-recap-november-2019-01.jpg) 
 _Photo booth fun!_
 
 ### Friendsgiving in Central California

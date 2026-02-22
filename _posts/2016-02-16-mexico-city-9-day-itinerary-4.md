@@ -39,7 +39,7 @@ _Drinks at Restaurante Tamayo_
 Before heading to dinner at [Pujol](http://www.pujol.com.mx/){:target="_blank"}, one of [The World's 50 Best Restaurants](http://www.theworlds50best.com/list/1-50-winners/Pujol){:target="_blank"}, we went home for a quick refresh. While it's a prix fixe menu at Pujol, you do have to choose between a few items in several categories. Ryan and I split up our choices, so we could get a taste of as many items as possible.
 
 {:.center}
-![Mexico City - Pujol](/assets/posts/2016-02-16-mexico-city-9-day-itinerary-4/24132390672_c3f7220af0_b.jpg)  
+![Mexico City - Pujol](/assets/posts/2016-02-16-mexico-city-9-day-itinerary-4/mexico-city-9-day-itinerary-4-01.jpg)  
 _Our fancy meal at Pujol_
 
 Since we had said "Yes" to your Airbnb's host's invitation to see Lo Fang at [Luciferina](https://www.facebook.com/tabernalucerna34/){:target="_blank"} after dinner, we put our full and happy bellies in an Uber to the venue. The show was more expensive than many things we'd paid for in Mexico City, so that was a bit of a surprise. The show was on a rooftop, so we spent the evening dodging cigarette smoke. After the show, we grabbed tacos with our Airbnb hosts at [El Farolito in Polanco](http://www.taqueriaselfarolito.com.mx/){:target="_blank"}.
@@ -61,7 +61,7 @@ _Xochimilco_
 Once we'd spent some time in Xochimilco, we took an Uber to the Universidad Nacional Aut&oacute;noma de M&eacute;xico ("UNAM") for dinner and to check out the [Museo Universitario Arte Contemporaneo](http://muac.unam.mx/){:target="_blank"} ("MUAC"). The interactive exhibits at MUAC were another part of the trip that was unexpected, but fondly remembered.  
 
 {:.center}
-![Mexico City - MUAC](/assets/posts/2016-02-16-mexico-city-9-day-itinerary-4/23945027100_b1ef70da34_b.jpg)
+![Mexico City - MUAC](/assets/posts/2016-02-16-mexico-city-9-day-itinerary-4/mexico-city-9-day-itinerary-4-02.jpg)
 
 > ### Mexico City - Real Talk ###
 > - Visit [Museo Tamayo](http://museotamayo.org/restaurante){:target="_blank"} for contemporary and modern art. We didn't get a chance to this time, but we definitely will if we're in Mexico City again.

@@ -6,8 +6,8 @@ author: tinna
 title: One Week in Iceland (Our Budget)
 disqus_id: week-iceland-budget
 excerpt: <p>We spent one week in Iceland and here is how we combined a little bit of splurging with a little bit of frugality - Airbnb, a few fancy meals, some instant noodles, and a cheap flight.</p>
-image: /assets/posts/2018-11-02-week-in-iceland-budget/43873582160_66a6628eaf.jpg
-thumbnail: /assets/posts/2018-11-02-week-in-iceland-budget/43873582160_66a6628eaf_q.jpg
+image: /assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-cover.jpg
+thumbnail: /assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-thumb.jpg
 date: 2018-11-02
 categories:
 - Iceland
@@ -24,7 +24,7 @@ WOW Airlines is a well-known budget airline with direct flights between San Fran
 Cost: $660
 
 {:.center}
-![Black Sand Beach in Vik](/assets/posts/2018-11-02-week-in-iceland-budget/black-sand-beach.jpg)  
+![Black Sand Beach in Vik](/assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-01.jpg)  
 
 ### Accommodations
 Rather than camping in a tent or renting a campervan, we stayed in [Airbnbs](https://www.airbnb.com/c/th3?currency=USD){:.target="_blank"} around the country. Some of them were in people's homes, while others were bed and breakfasts or hostels that used the site for their listings. They averaged about $140/night, with the most expensive accommodations in the more remote parts of Iceland. Some of them included breakfast, while others charged a fee if you wanted to add breakfast to your stay. Since we were driving around the country rather quickly, we packed up everything and moved along every morning.
@@ -50,7 +50,7 @@ If we had gone with a regular car, we would have spent a lot less for the car re
 Cost: $720
 
 {:.center}
-![Iceland Budget](/assets/posts/2018-11-02-week-in-iceland-budget/random-spot.jpg)  
+![Iceland Budget](/assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-02.jpg)  
 
 ## Food & Drinks
 About half of our food cost came from dinner on the first night and dinner on the fourth night. While Iceland isn't known as a foodie destination, we enjoyed some really nice meals that were comparable to fancy meals in the States. The first was at [Fiskmarkadurinn](http://www.fiskmarkadurinn.is/){:.target="_blank"} in Reyjkavik, and the second was at [Norð Austur](https://nordaustur.is/){:.target="_blank"} in Seyðisfjörður. I'll cover those in two separate posts later, so that I still have content for writing one blog post a day this month! 
@@ -60,7 +60,7 @@ The rest of our meals consisted of breakfasts included with our stays, snacks an
 Cost: $900  
 
 {:.center}
-![Kerid Crater](/assets/posts/2018-11-02-week-in-iceland-budget/kerid-crater.jpg)    
+![Kerid Crater](/assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-03.jpg)    
 
 ## Fun
 The scenery of Iceland is absolutely _everything_ to write home about. Luckily, you can enjoy a lot of it for little or no additional cost. What we did pay for was the Zodiac Boat Tour at [Jökulsárlón Glacier Lagoon](http://icelagoon.is){:.target="_blank"}, the entrance fee to [Petra's Stone & Mineral Collection](https://www.steinapetra.is/){:.target="_blank"}, and an internet connection for the duration of the week. The mobile hotspot is super handy, and I don't think I would travel anywhere without it. 
@@ -79,7 +79,7 @@ Cost: $275
 >   
 
 {:.center}
-![Stodvarfjordur](/assets/posts/2018-11-02-week-in-iceland-budget/stodvarfjordur.jpg)    
+![Stodvarfjordur](/assets/posts/2018-11-02-week-in-iceland-budget/week-in-iceland-budget-04.jpg)    
 
 >### What type of traveler are you? 
 >Would you rough it, take an in-between approach like we did (stay cheaply, but not too cheaply, and eat a fancy meal here and there), or go all out (YOLO!)?
