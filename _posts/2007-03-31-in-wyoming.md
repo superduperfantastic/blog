@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: In Wyoming
-excerpt: 
 wordpress_id: 25
 wordpress_url: http://superduperfantastic.net/archives/2007/03/31/in-wyoming/
 disqus_id: 25 http://superduperfantastic.net/archives/2007/03/31/in-wyoming/
