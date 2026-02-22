@@ -20,6 +20,8 @@ tags:
 - restaurant
 comments: true
 ---
+**Update:** Commonwealth has since closed, but this post remains as a memory of our visit.
+
 {:.center}
 ![Copenhagen](/assets/posts/2013-06-20/restaurant-bror-01.jpg)
 
