@@ -31,6 +31,7 @@ $(document).ready(function () {
     var highlightedColor = '#826d97';
     var unvisitedColor = '#fff';
     var visitedCountries = {
+        AU: '1',
         BE: '1',
         CA: '1',
         CN: '1',
