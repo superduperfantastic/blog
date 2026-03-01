@@ -2,10 +2,12 @@
 layout: default
 ---
 <h2 class="tag">{{page.title}}</h2>
+{% assign nowTimestamp = site.time | date: "%s" %}
 <ul class="posts">
   {% for post in site.posts %}
+  {% assign postTimestamp = post.date | date: "%s" %}
   {% for tag in post.tags %}
-  {% if tag == page.tag %}
+  {% if tag == page.tag and post.published != false and postTimestamp <= nowTimestamp %}
     {% for tagdata in site.data.tags %}
             {% if tagdata.tag_name == tag %}
         <div> {{ tagdata.tag_description }}</div>

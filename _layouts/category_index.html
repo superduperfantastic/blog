@@ -7,8 +7,11 @@ layout: default
         <div> {{ catdata.cat_description }}</div>
         {% endif %}
         {% endfor %}
+{% assign nowTimestamp = site.time | date: "%s" %}
 <ul class="posts">
 {% for post in site.categories[page.category] %}
+{% assign postTimestamp = post.date | date: "%s" %}
+{% if post.published != false and postTimestamp <= nowTimestamp %}
 <li>
           <a href="{{ post.url | prepend: site.baseurl}}" class="image-box"><div class="excerpt-image" style="background-image: url({% if post.image %}{{ post.image }}{% else %}{{ "/assets/sdfplaceholder.png" | prepend: site.url }}{% endif %});"></div></a>
           <div class="excerpt-text post-header-index">
@@ -36,19 +39,9 @@ layout: default
 
           </div>
         </li>
+{% endif %}
 {% endfor %}
     {% if page.nextUrl %}
     <a class="page-next" href="{{ page.nextUrl | prepend: site.baseurl }}">next</a>
     {% endif %}
-</ul>
-<ul>
-{% for page in pages %}
-{% if page.title %}
-{% if page.number == nil or page.number == 1 %}
-<li>
-<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-</li>
-{% endif %}
-{% endif %}
-{% endfor %}
 </ul>
