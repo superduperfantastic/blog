@@ -5,8 +5,8 @@ published: true
 title: My Almost 24-Hour Layover in Lisbon
 disqus_id: my-almost-24-hour-layover-in-lisbon
 excerpt: <p>A layover in Lisbon stretched almost 24 hours, so instead of waiting it out at the airport, I booked a hotel, hopped on an e-bike, and saw seven hills of the city in one afternoon.</p>
-image: /assets/posts/2026-07-07/lisbon-layover-cover.jpeg
-thumbnail: /assets/posts/2026-07-07/lisbon-layover-thumb.jpeg
+image: /assets/posts/2026-07-07/layover-lisbon-cover.jpeg
+thumbnail: /assets/posts/2026-07-07/layover-lisbon-thumb.jpeg
 date: 2026-07-07
 categories:
 - Portugal
