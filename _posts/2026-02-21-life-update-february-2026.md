@@ -47,7 +47,7 @@ Travel looks a little different these days. I’m learning what I like when I pl
 ![Sicily](/assets/posts/2026-02-21/life-update-february-2026-02.jpeg "Sicily")
 <p class="center"><em>Group photo in Sicily</em></p>
 
-Last May, I went to Sicily with my mom on one of [Monet Izabeth's](https://www.monetizabeth.com/grouptrips) trips. I'd traveled with Monet before, usually on more adventurous itineraries, so this one felt more relaxing and slower-paced. It fulfilled my goal of traveling more and spending time with my parents, even though it was just my mom on this one. 
+Last May, I went to Sicily with my mom on one of [Monet Izabeth's](https://www.adventurebetter.club/) trips. I'd traveled with Monet before, usually on more adventurous itineraries, so this one felt more relaxing and slower-paced. It fulfilled my goal of traveling more and spending time with my parents, even though it was just my mom on this one. 
 
 In November, I went to Spain on a trip planned by a local bar. Over two weeks, we covered various parts of the Catalonia region. Mornings were free to explore, and from lunch onward, we had group meals and activities. Such a fun time!
 
